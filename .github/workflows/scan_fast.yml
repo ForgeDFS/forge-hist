@@ -1,0 +1,26 @@
+name: scan-fast
+on: { workflow_dispatch: {} }
+permissions: { contents: write }
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        chunk: [{"name": "c00", "r": "72000:75256"}, {"name": "c01", "r": "75256:78512"}, {"name": "c02", "r": "78512:81768"}, {"name": "c03", "r": "81768:85024"}, {"name": "c04", "r": "85024:86500 91000:92780"}, {"name": "c05", "r": "92780:96036"}, {"name": "c06", "r": "96036:99292"}, {"name": "c07", "r": "99292:102548"}, {"name": "c08", "r": "102548:105804"}, {"name": "c09", "r": "105804:108500 113000:113560"}, {"name": "c10", "r": "113560:116816"}, {"name": "c11", "r": "116816:120072"}, {"name": "c12", "r": "120072:123328"}, {"name": "c13", "r": "123328:126584"}, {"name": "c14", "r": "126584:128500 133000:134340"}, {"name": "c15", "r": "134340:137596"}, {"name": "c16", "r": "137596:140852"}, {"name": "c17", "r": "140852:144108"}, {"name": "c18", "r": "144108:147000 153000:153364"}, {"name": "c19", "r": "153364:156600"}]
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 1 }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -q requests
+      - run: |
+          for r in ${{ matrix.chunk.r }}; do MAX_SECONDS=6000 python tools/scan.py ${r%%:*} ${r##*:} 1 || true; done
+      - if: always()
+        run: |
+          git config user.name "FORGE"; git config user.email "noreply@anthropic.com"
+          git add data; git diff --cached --quiet && exit 0
+          git commit -qm "scan ${{ matrix.chunk.name }}"
+          for i in $(seq 1 15); do git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0; sleep $((RANDOM%20+5)); done; exit 1

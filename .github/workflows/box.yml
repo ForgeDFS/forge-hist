@@ -1,0 +1,42 @@
+name: box
+on: { workflow_dispatch: {} }
+permissions: { contents: write }
+jobs:
+  nba:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      matrix:
+        s: ["2022-10-18 2022-12-31","2023-01-01 2023-06-30","2023-10-24 2023-12-31","2024-01-01 2024-06-30","2024-10-22 2024-12-31","2025-01-01 2025-06-30","2025-10-21 2025-12-31","2026-01-01 2026-06-30","2026-10-20 2026-12-31"]
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 1 }
+      - run: pip install -q requests
+      - run: python tools/nba_box.py ${{ matrix.s }}
+      - if: always()
+        run: |
+          git config user.name "FORGE"; git config user.email "noreply@anthropic.com"
+          git add data; git diff --cached --quiet && exit 0
+          git commit -qm "nba box ${{ matrix.s }}"
+          for i in $(seq 1 15); do git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0; sleep $((RANDOM%20+5)); done; exit 1
+  nfl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 1 }
+      - run: |
+          mkdir -p data/nflv
+          for y in 2022 2023 2024 2025 2026; do
+            curl -sfL -o data/nflv/stats_player_week_$y.csv.gz https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_$y.csv.gz || echo "no stats $y"
+            curl -sfL -o data/nflv/stats_team_week_$y.csv.gz https://github.com/nflverse/nflverse-data/releases/download/stats_team/stats_team_week_$y.csv.gz || echo "no team $y"
+            curl -sfL -o data/nflv/roster_weekly_$y.csv.gz https://github.com/nflverse/nflverse-data/releases/download/weekly_rosters/roster_weekly_$y.csv.gz || echo "no roster $y"
+          done
+          curl -sfL -o data/nflv/games.csv https://github.com/nflverse/nfldata/raw/master/data/games.csv || echo "no games"
+          ls -la data/nflv
+      - run: |
+          git config user.name "FORGE"; git config user.email "noreply@anthropic.com"
+          git add data; git diff --cached --quiet && exit 0
+          git commit -qm "nflverse 2022-2026"
+          for i in $(seq 1 15); do git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0; sleep $((RANDOM%20+5)); done; exit 1
