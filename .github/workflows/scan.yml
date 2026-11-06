@@ -1,0 +1,26 @@
+name: scan
+on:
+  workflow_dispatch:
+    inputs:
+      start: { description: "first draft-group ID", default: "70000" }
+      end: { description: "last draft-group ID", default: "157000" }
+      step: { description: "every Nth ID (500 = map pass)", default: "500" }
+permissions: { contents: write }
+concurrency: { group: scan, cancel-in-progress: false }
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 345
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 1 }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -q requests
+      - run: MAX_SECONDS=19800 python tools/scan.py ${{ github.event.inputs.start }} ${{ github.event.inputs.end }} ${{ github.event.inputs.step }}
+      - if: always()
+        run: |
+          git config user.name "FORGE"; git config user.email "noreply@anthropic.com"
+          git add data; git diff --cached --quiet && exit 0
+          git commit -qm "scan ${{ github.event.inputs.start }}-${{ github.event.inputs.end }} step ${{ github.event.inputs.step }}"
+          for i in 1 2 3 4; do git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0; sleep 7; done; exit 1
