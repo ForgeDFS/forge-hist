@@ -8,12 +8,12 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        s: ["2022-10-18 2022-12-31","2023-01-01 2023-06-30","2023-10-24 2023-12-31","2024-01-01 2024-06-30","2024-10-22 2024-12-31","2025-01-01 2025-06-30","2025-10-21 2025-12-31","2026-01-01 2026-06-30","2026-10-20 2026-12-31"]
+        s: ["20221001 20221231","20230101 20230320","20230321 20230630","20231001 20231231","20240101 20240320","20240321 20240630","20241001 20241231","20250101 20250320","20250321 20250630"]
     steps:
       - uses: actions/checkout@v4
         with: { fetch-depth: 1 }
       - run: pip install -q requests
-      - run: python tools/nba_box.py ${{ matrix.s }}
+      - run: pip install -q pandas pyarrow && python tools/nba_logs_hist.py ${{ matrix.s }}
       - if: always()
         run: |
           git config user.name "FORGE"; git config user.email "noreply@anthropic.com"
