@@ -1,4 +1,4 @@
-# NCAAB ([None]) Pinnacle no-vig, read 2026-11-07 09:03 UTC: 28 games, 0 props
+# NCAAB ([None]) Pinnacle no-vig, read 2026-11-07 10:57 UTC: 27 games, 0 props
 
 ## Morehead State @ Louisville  2026-11-07T17:00:00Z
 - spread home -37.0: -110 (fair -102)
@@ -12,13 +12,6 @@
 - spread away 12.0: -103 (fair 105)
 - total over 161.0: -109 (fair 101)
 - total under 161.0: -111 (fair -101)
-## NC Wilmington @ East Carolina  2026-11-07T19:00:00Z
-- moneyline home : 142 (fair 151)
-- moneyline away : -167 (fair -151)
-- spread home 3.5: -107 (fair 101)
-- spread away -3.5: -109 (fair -101)
-- total over 149.5: -110 (fair 100)
-- total under 149.5: -110 (fair 100)
 ## CS Fullerton @ South Dakota  2026-11-07T19:00:00Z
 - moneyline home : -116 (fair -107)
 - moneyline away : -101 (fair 107)
@@ -33,6 +26,13 @@
 - spread away 2.5: -106 (fair 102)
 - total over 158.0: -113 (fair -103)
 - total under 158.0: -107 (fair 103)
+## NC Wilmington @ East Carolina  2026-11-07T19:00:00Z
+- moneyline home : 142 (fair 151)
+- moneyline away : -167 (fair -151)
+- spread home 3.5: -107 (fair 101)
+- spread away -3.5: -109 (fair -101)
+- total over 149.5: -110 (fair 100)
+- total under 149.5: -110 (fair 100)
 ## Long Beach State @ Montana State  2026-11-07T20:00:00Z
 - moneyline home : -567 (fair -451)
 - moneyline away : 431 (fair 451)
@@ -47,6 +47,11 @@
 - spread away 2.5: -107 (fair 101)
 - total over 154.5: -113 (fair -103)
 - total under 154.5: -107 (fair 103)
+## Nebraska Omaha @ Utah State  2026-11-07T21:00:00Z
+- spread home -27.0: -110 (fair -102)
+- spread away 27.0: -106 (fair 102)
+- total over 152.5: -111 (fair -101)
+- total under 152.5: -109 (fair 101)
 ## Samford @ UNLV  2026-11-07T21:00:00Z
 - moneyline home : -653 (fair -506)
 - moneyline away : 484 (fair 506)
@@ -54,11 +59,6 @@
 - spread away 11.0: -109 (fair -101)
 - total over 156.5: -113 (fair -103)
 - total under 156.5: -107 (fair 103)
-## Nebraska Omaha @ Utah State  2026-11-07T21:00:00Z
-- spread home -27.0: -110 (fair -102)
-- spread away 27.0: -106 (fair 102)
-- total over 152.5: -111 (fair -101)
-- total under 152.5: -109 (fair 101)
 ## Monmouth @ Rhode Island  2026-11-07T21:00:00Z
 - moneyline home : -276 (fair -241)
 - moneyline away : 228 (fair 241)
@@ -66,18 +66,6 @@
 - spread away 6.5: -111 (fair -103)
 - total over 146.0: -106 (fair 104)
 - total under 146.0: -115 (fair -104)
-## New Mexico State @ Gonzaga  2026-11-07T22:00:00Z
-- spread home -28.0: -110 (fair -102)
-- spread away 28.0: -106 (fair 102)
-- total over 151.0: -114 (fair -104)
-- total under 151.0: -106 (fair 104)
-## VMI @ Texas San Antonio  2026-11-07T22:00:00Z
-- moneyline home : -186 (fair -168)
-- moneyline away : 158 (fair 168)
-- spread home -4.5: -108 (fair 100)
-- spread away 4.5: -108 (fair 100)
-- total over 163.5: -102 (fair 107)
-- total under 163.5: -118 (fair -107)
 ## Northern Iowa @ Furman  2026-11-07T22:00:00Z
 - moneyline home : -171 (fair -155)
 - moneyline away : 145 (fair 155)
@@ -85,16 +73,28 @@
 - spread away 4.5: -119 (fair -110)
 - total over 149.5: -104 (fair 105)
 - total under 149.5: -116 (fair -105)
+## VMI @ Texas San Antonio  2026-11-07T22:00:00Z
+- moneyline home : -186 (fair -168)
+- moneyline away : 158 (fair 168)
+- spread home -4.5: -108 (fair 100)
+- spread away 4.5: -108 (fair 100)
+- total over 163.5: -102 (fair 107)
+- total under 163.5: -118 (fair -107)
+## New Mexico State @ Gonzaga  2026-11-07T22:00:00Z
+- spread home -28.0: -108 (fair 100)
+- spread away 28.0: -108 (fair 100)
+- total over 151.0: -114 (fair -104)
+- total under 151.0: -106 (fair 104)
 ## Hampton @ George Washington  2026-11-07T23:00:00Z
 - spread home -18.5: -114 (fair -105)
 - spread away 18.5: -102 (fair 105)
 - total over 146.5: -116 (fair -105)
 - total under 146.5: -104 (fair 105)
 ## Northern Arizona @ New Mexico  2026-11-07T23:00:00Z
-- spread home -26.0: -111 (fair -103)
-- spread away 26.0: -105 (fair 103)
-- total over 155.5: -112 (fair -102)
-- total under 155.5: -108 (fair 102)
+- spread home -26.0: -119 (fair -110)
+- spread away 26.0: 102 (fair 110)
+- total over 155.5: -114 (fair -104)
+- total under 155.5: -106 (fair 104)
 ## Mercer @ Davidson  2026-11-08T00:00:00Z
 - moneyline home : -736 (fair -557)
 - moneyline away : 533 (fair 557)
@@ -102,11 +102,18 @@
 - spread away 11.5: -108 (fair 100)
 - total over 149.0: -114 (fair -104)
 - total under 149.0: -106 (fair 104)
+## Providence @ Nebraska  2026-11-08T00:00:00Z
+- moneyline home : -151 (fair -138)
+- moneyline away : 129 (fair 138)
+- spread home -2.5: -114 (fair -105)
+- spread away 2.5: -102 (fair 105)
+- total over 156.5: -110 (fair 100)
+- total under 156.5: -110 (fair 100)
 ## Northern Illinois @ Dayton  2026-11-08T00:00:00Z
-- spread home -19.5: -102 (fair 106)
-- spread away 19.5: -115 (fair -106)
-- total over 147.0: -112 (fair -102)
-- total under 147.0: -108 (fair 102)
+- spread home -19.5: -107 (fair 101)
+- spread away 19.5: -109 (fair -101)
+- total over 147.0: -113 (fair -103)
+- total under 147.0: -107 (fair 103)
 ## St. Bonaventure @ Canisius  2026-11-08T00:00:00Z
 - moneyline home : 321 (fair 337)
 - moneyline away : -402 (fair -337)
@@ -114,20 +121,6 @@
 - spread away -8.5: -111 (fair -103)
 - total over 148.0: -107 (fair 103)
 - total under 148.0: -113 (fair -103)
-## Providence @ Nebraska  2026-11-08T00:00:00Z
-- moneyline home : -149 (fair -136)
-- moneyline away : 127 (fair 136)
-- spread home -2.5: -113 (fair -105)
-- spread away 2.5: -103 (fair 105)
-- total over 156.5: -110 (fair 100)
-- total under 156.5: -110 (fair 100)
-## Maryland @ Georgetown  2026-11-08T00:30:00Z
-- moneyline home : 127 (fair 136)
-- moneyline away : -149 (fair -136)
-- spread home 3.0: -112 (fair -104)
-- spread away -3.0: -104 (fair 104)
-- total over 146.5: -111 (fair -101)
-- total under 146.5: -109 (fair 101)
 ## Denver @ Cal Riverside  2026-11-08T00:30:00Z
 - moneyline home : -131 (fair -120)
 - moneyline away : 112 (fair 120)
@@ -135,11 +128,11 @@
 - spread away 2.0: -108 (fair 100)
 - total over 154.0: -110 (fair 100)
 - total under 154.0: -110 (fair 100)
-## Evansville @ Southern Indiana  2026-11-08T01:00:00Z
-- moneyline home : 393 (fair 412)
-- moneyline away : -509 (fair -412)
-- spread home 10.0: -116 (fair -107)
-- spread away -10.0: -101 (fair 107)
+## Maryland @ Georgetown  2026-11-08T00:30:00Z
+- moneyline home : 127 (fair 136)
+- moneyline away : -149 (fair -136)
+- spread home 3.0: -112 (fair -104)
+- spread away -3.0: -104 (fair 104)
 - total over 146.5: -111 (fair -101)
 - total under 146.5: -109 (fair 101)
 ## Pacific @ Bradley  2026-11-08T01:00:00Z
@@ -156,13 +149,6 @@
 - spread away -7.5: -104 (fair 104)
 - total over 155.5: -104 (fair 105)
 - total under 155.5: -116 (fair -105)
-## Fresno State @ UC San Diego  2026-11-08T03:00:00Z
-- moneyline home : -473 (fair -388)
-- moneyline away : 370 (fair 388)
-- spread home -9.5: -104 (fair 104)
-- spread away 9.5: -113 (fair -104)
-- total over 152.0: -103 (fair 106)
-- total under 152.0: -117 (fair -106)
 ## Portland State @ Seattle U  2026-11-08T03:00:00Z
 - moneyline home : -572 (fair -455)
 - moneyline away : 434 (fair 455)
@@ -177,8 +163,15 @@
 - spread away 8.0: -107 (fair 101)
 - total over 146.0: -117 (fair -106)
 - total under 146.0: -103 (fair 106)
+## Fresno State @ UC San Diego  2026-11-08T03:00:00Z
+- moneyline home : -473 (fair -388)
+- moneyline away : 370 (fair 388)
+- spread home -9.5: -104 (fair 104)
+- spread away 9.5: -113 (fair -104)
+- total over 152.0: -103 (fair 106)
+- total under 152.0: -117 (fair -106)
 ## Sacramento State @ Santa Clara  2026-11-08T03:00:00Z
-- spread home -19.5: -114 (fair -105)
-- spread away 19.5: -102 (fair 105)
+- spread home -19.5: -112 (fair -104)
+- spread away 19.5: -104 (fair 104)
 - total over 167.0: -112 (fair -102)
 - total under 167.0: -108 (fair 102)
