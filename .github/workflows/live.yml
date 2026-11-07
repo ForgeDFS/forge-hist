@@ -1,0 +1,26 @@
+name: live
+# Public market data for NHL, college football, college basketball: DraftKings lobby/salaries/payout tables + Pinnacle lines & props.
+# Public repo = free unlimited Actions minutes. Every 2 hours + on demand.
+on:
+  schedule: [{ cron: "17 */2 * * *" }]
+  workflow_dispatch: {}
+permissions: { contents: write }
+concurrency: { group: live, cancel-in-progress: false }
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 1 }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -q requests
+      - run: for s in NHL CFB CBB; do SPORT=$s timeout 600 python tools/dk_capture.py scheduled 2>&1 | tail -5 || true; done
+      - run: timeout 300 python tools/pin_odds.py NHL NCAAF NCAAB || true
+      - if: always()
+        run: |
+          git config user.name "FORGE"; git config user.email "noreply@anthropic.com"
+          git add data/live; git diff --cached --quiet && exit 0
+          git commit -qm "live $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in $(seq 1 8); do git pull -q --rebase -X theirs origin main && git push -q origin HEAD:main && exit 0; sleep $((RANDOM%15+5)); done; exit 1
