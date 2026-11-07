@@ -1,24 +1,10 @@
-# NHL ([None]) Pinnacle no-vig, read 2026-11-07 00:15 UTC: 13 games, 220 props
+# NHL ([None]) Pinnacle no-vig, read 2026-11-07 01:23 UTC: 11 games, 0 props
 
 ## Away Goals (3 Games) @ Home Goals (3 Games)  2026-11-07T00:06:00Z
 - moneyline home : -251 (fair -222)
 - moneyline away : 210 (fair 222)
 - total over 19.0: -109 (fair -101)
 - total under 19.0: -107 (fair 101)
-## San Jose Sharks @ Minnesota Wild  2026-11-07T01:07:00Z
-- moneyline home : -280 (fair -253)
-- moneyline away : 243 (fair 253)
-- spread home -1.5: -110 (fair -104)
-- spread away 1.5: -102 (fair 104)
-- total over 6.5: -106 (fair 100)
-- total under 6.5: -106 (fair 100)
-## Anaheim Ducks @ Calgary Flames  2026-11-07T01:07:00Z
-- moneyline home : -142 (fair -134)
-- moneyline away : 128 (fair 134)
-- spread home -1.5: 178 (fair 187)
-- spread away 1.5: -204 (fair -187)
-- total over 6.5: -116 (fair -109)
-- total under 6.5: 103 (fair 109)
 ## Florida Panthers @ Washington Capitals  2026-11-07T17:37:00Z
 - moneyline home : -115 (fair -109)
 - moneyline away : 103 (fair 109)
@@ -68,13 +54,6 @@
 - spread away 2.5: -134 (fair -124)
 - total over 6.5: 106 (fair 113)
 - total under 6.5: -121 (fair -113)
-## Detroit Red Wings @ Colorado Avalanche  2026-11-08T02:07:00Z
-- moneyline home : -220 (fair -200)
-- moneyline away : 191 (fair 200)
-- spread home -1.5: 116 (fair 123)
-- spread away 1.5: -133 (fair -123)
-- total over 6.5: -106 (fair 101)
-- total under 6.5: -108 (fair -101)
 ## Pittsburgh Penguins @ Los Angeles Kings  2026-11-08T02:07:00Z
 - moneyline home : -122 (fair -115)
 - moneyline away : 109 (fair 115)
@@ -82,6 +61,13 @@
 - spread away 1.5: -237 (fair -210)
 - total over 6.5: 104 (fair 110)
 - total under 6.5: -118 (fair -110)
+## Detroit Red Wings @ Colorado Avalanche  2026-11-08T02:07:00Z
+- moneyline home : -220 (fair -200)
+- moneyline away : 191 (fair 200)
+- spread home -1.5: 116 (fair 123)
+- spread away 1.5: -133 (fair -123)
+- total over 6.5: -106 (fair 101)
+- total under 6.5: -108 (fair -101)
 ## Vancouver Canucks @ Edmonton Oilers  2026-11-08T03:07:00Z
 - moneyline home : -340 (fair -296)
 - moneyline away : 283 (fair 296)
