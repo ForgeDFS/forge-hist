@@ -1,4 +1,4 @@
-# NHL ([None]) Pinnacle no-vig, read 2026-11-07 01:23 UTC: 11 games, 0 props
+# NHL ([None]) Pinnacle no-vig, read 2026-11-07 03:04 UTC: 11 games, 0 props
 
 ## Away Goals (3 Games) @ Home Goals (3 Games)  2026-11-07T00:06:00Z
 - moneyline home : -251 (fair -222)
@@ -33,13 +33,6 @@
 - spread away -1.5: 212 (fair 224)
 - total over 6.5: -112 (fair -105)
 - total under 6.5: -102 (fair 105)
-## New Jersey Devils @ New York Islanders  2026-11-08T00:07:00Z
-- moneyline home : 128 (fair 135)
-- moneyline away : -144 (fair -135)
-- spread home 1.5: -207 (fair -186)
-- spread away -1.5: 176 (fair 186)
-- total over 6.0: -102 (fair 105)
-- total under 6.0: -112 (fair -105)
 ## Utah Mammoth @ Ottawa Senators  2026-11-08T00:07:00Z
 - moneyline home : 105 (fair 111)
 - moneyline away : -118 (fair -111)
@@ -47,20 +40,20 @@
 - spread away -1.5: 207 (fair 219)
 - total over 6.5: -101 (fair 106)
 - total under 6.5: -113 (fair -106)
+## New Jersey Devils @ New York Islanders  2026-11-08T00:07:00Z
+- moneyline home : 128 (fair 135)
+- moneyline away : -144 (fair -135)
+- spread home 1.5: -207 (fair -186)
+- spread away -1.5: 176 (fair 186)
+- total over 6.0: -102 (fair 105)
+- total under 6.0: -112 (fair -105)
 ## Chicago Blackhawks @ Carolina Hurricanes  2026-11-08T01:07:00Z
-- moneyline home : -426 (fair -360)
-- moneyline away : 345 (fair 360)
-- spread home -2.5: 117 (fair 124)
-- spread away 2.5: -134 (fair -124)
-- total over 6.5: 106 (fair 113)
-- total under 6.5: -121 (fair -113)
-## Pittsburgh Penguins @ Los Angeles Kings  2026-11-08T02:07:00Z
-- moneyline home : -122 (fair -115)
-- moneyline away : 109 (fair 115)
-- spread home -1.5: 199 (fair 210)
-- spread away 1.5: -237 (fair -210)
-- total over 6.5: 104 (fair 110)
-- total under 6.5: -118 (fair -110)
+- moneyline home : -467 (fair -390)
+- moneyline away : 374 (fair 390)
+- spread home -2.5: 101 (fair 108)
+- spread away 2.5: -116 (fair -108)
+- total over 6.5: 104 (fair 111)
+- total under 6.5: -119 (fair -111)
 ## Detroit Red Wings @ Colorado Avalanche  2026-11-08T02:07:00Z
 - moneyline home : -220 (fair -200)
 - moneyline away : 191 (fair 200)
@@ -68,10 +61,17 @@
 - spread away 1.5: -133 (fair -123)
 - total over 6.5: -106 (fair 101)
 - total under 6.5: -108 (fair -101)
+## Pittsburgh Penguins @ Los Angeles Kings  2026-11-08T02:07:00Z
+- moneyline home : -122 (fair -115)
+- moneyline away : 109 (fair 115)
+- spread home -1.5: 199 (fair 210)
+- spread away 1.5: -237 (fair -210)
+- total over 6.5: 104 (fair 110)
+- total under 6.5: -118 (fair -110)
 ## Vancouver Canucks @ Edmonton Oilers  2026-11-08T03:07:00Z
-- moneyline home : -340 (fair -296)
-- moneyline away : 283 (fair 296)
-- spread home -1.5: -136 (fair -126)
-- spread away 1.5: 118 (fair 126)
-- total over 7.0: 108 (fair 115)
-- total under 7.0: -124 (fair -115)
+- moneyline home : -344 (fair -299)
+- moneyline away : 286 (fair 299)
+- spread home -1.5: -138 (fair -128)
+- spread away 1.5: 120 (fair 128)
+- total over 7.0: 106 (fair 113)
+- total under 7.0: -122 (fair -113)
