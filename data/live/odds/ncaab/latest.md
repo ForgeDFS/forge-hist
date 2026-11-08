@@ -1,22 +1,17 @@
-# NCAAB ([None]) Pinnacle no-vig, read 2026-11-08 07:22 UTC: 16 games, 0 props
+# NCAAB ([None]) Pinnacle no-vig, read 2026-11-08 09:04 UTC: 16 games, 0 props
 
 ## Iona @ St. John's  2026-11-08T17:00:00Z
 - spread home -28.5: -110 (fair 100)
 - spread away 28.5: -110 (fair 100)
 - total over 151.5: -100 (fair 110)
 - total under 151.5: -121 (fair -110)
-## SE Missouri State @ South Carolina  2026-11-08T18:00:00Z
-- spread home -17.5: -102 (fair 106)
-- spread away 17.5: -115 (fair -106)
-- total over 145.0: -109 (fair 101)
-- total under 145.0: -111 (fair -101)
 ## Princeton @ Siena  2026-11-08T18:00:00Z
-- moneyline home : -112 (fair -104)
-- moneyline away : -104 (fair 104)
-- spread home -1.0: -107 (fair 101)
-- spread away 1.0: -109 (fair -101)
-- total over 154.5: -114 (fair -104)
-- total under 154.5: -106 (fair 104)
+- moneyline home : -115 (fair -106)
+- moneyline away : -101 (fair 106)
+- spread home -1.0: -110 (fair -102)
+- spread away 1.0: -106 (fair 102)
+- total over 154.5: -113 (fair -103)
+- total under 154.5: -107 (fair 103)
 ## Arkansas @ Virginia  2026-11-08T18:00:00Z
 - moneyline home : -151 (fair -138)
 - moneyline away : 129 (fair 138)
@@ -24,6 +19,18 @@
 - spread away 3.0: -112 (fair -104)
 - total over 162.0: -107 (fair 103)
 - total under 162.0: -113 (fair -103)
+## SE Missouri State @ South Carolina  2026-11-08T18:00:00Z
+- spread home -17.5: 101 (fair 109)
+- spread away 17.5: -118 (fair -109)
+- total over 145.0: -109 (fair 101)
+- total under 145.0: -111 (fair -101)
+## Wisc Green Bay @ St. Thomas  2026-11-08T19:00:00Z
+- moneyline home : -397 (fair -333)
+- moneyline away : 317 (fair 333)
+- spread home -8.5: -110 (fair -102)
+- spread away 8.5: -106 (fair 102)
+- total over 149.0: -109 (fair 101)
+- total under 149.0: -111 (fair -101)
 ## Campbell @ Western Michigan  2026-11-08T19:00:00Z
 - moneyline home : -234 (fair -207)
 - moneyline away : 196 (fair 207)
@@ -32,19 +39,19 @@
 - total over 148.5: -117 (fair -106)
 - total under 148.5: -104 (fair 106)
 ## Butler @ Boise State  2026-11-08T19:00:00Z
-- moneyline home : -147 (fair -135)
-- moneyline away : 126 (fair 135)
-- spread home -2.5: -109 (fair -101)
-- spread away 2.5: -107 (fair 101)
+- moneyline home : -150 (fair -137)
+- moneyline away : 128 (fair 137)
+- spread home -2.5: -111 (fair -103)
+- spread away 2.5: -105 (fair 103)
 - total over 157.0: -107 (fair 103)
 - total under 157.0: -113 (fair -103)
-## Wisc Green Bay @ St. Thomas  2026-11-08T19:00:00Z
-- moneyline home : -397 (fair -333)
-- moneyline away : 317 (fair 333)
-- spread home -8.5: -110 (fair -102)
-- spread away 8.5: -106 (fair 102)
-- total over 149.0: -109 (fair 101)
-- total under 149.0: -111 (fair -101)
+## Idaho State @ Air Force  2026-11-08T20:00:00Z
+- moneyline home : -251 (fair -222)
+- moneyline away : 210 (fair 222)
+- spread home -6.0: -107 (fair 101)
+- spread away 6.0: -109 (fair -101)
+- total over 160.5: -112 (fair -102)
+- total under 160.5: -108 (fair 102)
 ## Western Kentucky @ Tennessee Tech  2026-11-08T20:00:00Z
 - moneyline home : 140 (fair 149)
 - moneyline away : -165 (fair -149)
@@ -52,13 +59,6 @@
 - spread away -3.0: -116 (fair -107)
 - total over 162.0: -105 (fair 104)
 - total under 162.0: -115 (fair -104)
-## Idaho State @ Air Force  2026-11-08T20:00:00Z
-- moneyline home : -251 (fair -222)
-- moneyline away : 210 (fair 222)
-- spread home -6.0: -107 (fair 101)
-- spread away 6.0: -109 (fair -101)
-- total over 160.5: -114 (fair -104)
-- total under 160.5: -106 (fair 104)
 ## Saint Marys CA @ Nevada  2026-11-08T21:30:00Z
 - moneyline home : -123 (fair -113)
 - moneyline away : 105 (fair 113)
