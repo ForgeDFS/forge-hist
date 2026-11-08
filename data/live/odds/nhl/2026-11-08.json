@@ -1,247 +1,139 @@
 {
- "read_utc": "2026-11-08 10:58",
+ "read_utc": "2026-11-08 13:10",
  "league": [
   null
  ],
  "games": [
   {
-   "away": "Pittsburgh Penguins",
-   "home": "Anaheim Ducks",
-   "start": "2026-11-09T01:07:00Z",
+   "away": "New Jersey Devils",
+   "home": "Toronto Maple Leafs",
+   "start": "2026-11-09T00:07:00Z",
    "lines": [
     {
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": -116,
-     "fair_prob": 0.5216,
-     "fair_american": -109
+     "american": 137,
+     "fair_prob": 0.4116,
+     "fair_american": 143
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": 103,
-     "fair_prob": 0.4784,
-     "fair_american": 109
+     "american": -152,
+     "fair_prob": 0.5884,
+     "fair_american": -143
     },
     {
      "type": "spread",
      "side": "home",
-     "points": -1.5,
-     "american": 199,
-     "fair_prob": 0.3223,
-     "fair_american": 210
+     "points": 1.5,
+     "american": -192,
+     "fair_prob": 0.638,
+     "fair_american": -176
     },
     {
      "type": "spread",
      "side": "away",
-     "points": 1.5,
-     "american": -237,
-     "fair_prob": 0.6777,
-     "fair_american": -210
+     "points": -1.5,
+     "american": 168,
+     "fair_prob": 0.362,
+     "fair_american": 176
     },
     {
      "type": "total",
      "side": "over",
-     "points": 7.0,
-     "american": 106,
-     "fair_prob": 0.47,
-     "fair_american": 113
+     "points": 6.0,
+     "american": -118,
+     "fair_prob": 0.526,
+     "fair_american": -111
     },
     {
      "type": "total",
      "side": "under",
-     "points": 7.0,
-     "american": -121,
-     "fair_prob": 0.53,
-     "fair_american": -113
+     "points": 6.0,
+     "american": 105,
+     "fair_prob": 0.474,
+     "fair_american": 111
     }
    ],
    "props": [
     {
-     "desc": "Leo Carlsson Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": -120,
-     "fair_prob": 0.5101,
-     "fair_american": -104
-    },
-    {
-     "desc": "Leo Carlsson Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -110,
-     "fair_prob": 0.4899,
-     "fair_american": 104
-    },
-    {
-     "desc": "Mikael Granlund Total Goals",
+     "desc": "Timo Meier Total Goals",
      "units": "Goals",
      "outcome": "Over",
      "points": 0.5,
-     "american": 230,
-     "fair_prob": 0.2832,
-     "fair_american": 253
+     "american": 280,
+     "fair_prob": 0.246,
+     "fair_american": 306
     },
     {
-     "desc": "Mikael Granlund Total Goals",
+     "desc": "Timo Meier Total Goals",
      "units": "Goals",
      "outcome": "Under",
      "points": 0.5,
-     "american": -329,
-     "fair_prob": 0.7168,
-     "fair_american": -253
+     "american": -417,
+     "fair_prob": 0.754,
+     "fair_american": -306
     },
     {
-     "desc": "Evgeni Malkin Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -329,
-     "fair_prob": 0.7168,
-     "fair_american": -253
-    },
-    {
-     "desc": "Evgeni Malkin Total Goals",
+     "desc": "Gavin McKenna Total Goals",
      "units": "Goals",
      "outcome": "Over",
      "points": 0.5,
-     "american": 230,
-     "fair_prob": 0.2832,
-     "fair_american": 253
+     "american": 360,
+     "fair_prob": 0.2023,
+     "fair_american": 394
     },
     {
-     "desc": "Erik Karlsson Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": -116,
-     "fair_prob": 0.502,
-     "fair_american": -101
-    },
-    {
-     "desc": "Erik Karlsson Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -114,
-     "fair_prob": 0.498,
-     "fair_american": 101
-    },
-    {
-     "desc": "Sidney Crosby Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 104,
-     "fair_prob": 0.4589,
-     "fair_american": 118
-    },
-    {
-     "desc": "Sidney Crosby Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -137,
-     "fair_prob": 0.5411,
-     "fair_american": -118
-    },
-    {
-     "desc": "Cutter Gauthier Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Over",
-     "points": 4.5,
-     "american": 101,
-     "fair_prob": 0.4657,
-     "fair_american": 115
-    },
-    {
-     "desc": "Cutter Gauthier Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Under",
-     "points": 4.5,
-     "american": -133,
-     "fair_prob": 0.5343,
-     "fair_american": -115
-    },
-    {
-     "desc": "Rickard Rakell Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 158,
-     "fair_prob": 0.3622,
-     "fair_american": 176
-    },
-    {
-     "desc": "Rickard Rakell Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -215,
-     "fair_prob": 0.6378,
-     "fair_american": -176
-    },
-    {
-     "desc": "Beckett Sennecke Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": -107,
-     "fair_prob": 0.4838,
-     "fair_american": 107
-    },
-    {
-     "desc": "Beckett Sennecke Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -123,
-     "fair_prob": 0.5162,
-     "fair_american": -107
-    },
-    {
-     "desc": "Egor Chinakhov Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 290,
-     "fair_prob": 0.2397,
-     "fair_american": 317
-    },
-    {
-     "desc": "Egor Chinakhov Total Goals",
+     "desc": "Gavin McKenna Total Goals",
      "units": "Goals",
      "outcome": "Under",
      "points": 0.5,
-     "american": -436,
-     "fair_prob": 0.7603,
-     "fair_american": -317
+     "american": -600,
+     "fair_prob": 0.7977,
+     "fair_american": -394
     },
     {
-     "desc": "Ben Kindel Total Goals",
+     "desc": "Auston Matthews Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 128,
+     "fair_prob": 0.4101,
+     "fair_american": 144
+    },
+    {
+     "desc": "Auston Matthews Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -171,
+     "fair_prob": 0.5899,
+     "fair_american": -144
+    },
+    {
+     "desc": "Anthony Mantha Total Goals",
      "units": "Goals",
      "outcome": "Over",
      "points": 0.5,
-     "american": 240,
-     "fair_prob": 0.2749,
-     "fair_american": 264
+     "american": 300,
+     "fair_prob": 0.2337,
+     "fair_american": 328
     },
     {
-     "desc": "Ben Kindel Total Goals",
+     "desc": "Anthony Mantha Total Goals",
      "units": "Goals",
      "outcome": "Under",
      "points": 0.5,
-     "american": -346,
-     "fair_prob": 0.7251,
-     "fair_american": -264
+     "american": -455,
+     "fair_prob": 0.7663,
+     "fair_american": -328
     },
     {
-     "desc": "Beckett Sennecke Total Goals",
-     "units": "Goals",
+     "desc": "John Tavares Total Assists",
+     "units": "Assists",
      "outcome": "Over",
      "points": 0.5,
      "american": 150,
@@ -249,8 +141,8 @@
      "fair_american": 167
     },
     {
-     "desc": "Beckett Sennecke Total Goals",
-     "units": "Goals",
+     "desc": "John Tavares Total Assists",
+     "units": "Assists",
      "outcome": "Under",
      "points": 0.5,
      "american": -203,
@@ -258,151 +150,25 @@
      "fair_american": -167
     },
     {
-     "desc": "Beckett Sennecke Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Over",
-     "points": 2.5,
-     "american": -153,
-     "fair_prob": 0.5653,
-     "fair_american": -130
-    },
-    {
-     "desc": "Beckett Sennecke Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Under",
-     "points": 2.5,
-     "american": 115,
-     "fair_prob": 0.4347,
-     "fair_american": 130
-    },
-    {
-     "desc": "Leo Carlsson Total Goals",
+     "desc": "Auston Matthews Total Goals",
      "units": "Goals",
      "outcome": "Over",
      "points": 0.5,
-     "american": 165,
-     "fair_prob": 0.3528,
-     "fair_american": 183
+     "american": 143,
+     "fair_prob": 0.3837,
+     "fair_american": 161
     },
     {
-     "desc": "Leo Carlsson Total Goals",
+     "desc": "Auston Matthews Total Goals",
      "units": "Goals",
      "outcome": "Under",
      "points": 0.5,
-     "american": -225,
-     "fair_prob": 0.6472,
-     "fair_american": -183
+     "american": -195,
+     "fair_prob": 0.6163,
+     "fair_american": -161
     },
     {
-     "desc": "Jackson LaCombe Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": -136,
-     "fair_prob": 0.5391,
-     "fair_american": -117
-    },
-    {
-     "desc": "Jackson LaCombe Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": 103,
-     "fair_prob": 0.4609,
-     "fair_american": 117
-    },
-    {
-     "desc": "Mikael Granlund Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": -107,
-     "fair_prob": 0.4829,
-     "fair_american": 107
-    },
-    {
-     "desc": "Mikael Granlund Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -124,
-     "fair_prob": 0.5171,
-     "fair_american": -107
-    },
-    {
-     "desc": "Evgeni Malkin Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 149,
-     "fair_prob": 0.3756,
-     "fair_american": 166
-    },
-    {
-     "desc": "Evgeni Malkin Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -201,
-     "fair_prob": 0.6244,
-     "fair_american": -166
-    },
-    {
-     "desc": "Cutter Gauthier Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 100,
-     "fair_prob": 0.4677,
-     "fair_american": 114
-    },
-    {
-     "desc": "Cutter Gauthier Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -132,
-     "fair_prob": 0.5323,
-     "fair_american": -114
-    },
-    {
-     "desc": "Cutter Gauthier Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 145,
-     "fair_prob": 0.3813,
-     "fair_american": 162
-    },
-    {
-     "desc": "Cutter Gauthier Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -196,
-     "fair_prob": 0.6187,
-     "fair_american": -162
-    },
-    {
-     "desc": "Leo Carlsson Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Over",
-     "points": 2.5,
-     "american": -110,
-     "fair_prob": 0.4899,
-     "fair_american": 104
-    },
-    {
-     "desc": "Leo Carlsson Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Under",
-     "points": 2.5,
-     "american": -120,
-     "fair_prob": 0.5101,
-     "fair_american": -104
-    },
-    {
-     "desc": "Rickard Rakell Total Goals",
+     "desc": "Nico Hischier Total Goals",
      "units": "Goals",
      "outcome": "Over",
      "points": 0.5,
@@ -411,7 +177,7 @@
      "fair_american": 210
     },
     {
-     "desc": "Rickard Rakell Total Goals",
+     "desc": "Nico Hischier Total Goals",
      "units": "Goals",
      "outcome": "Under",
      "points": 0.5,
@@ -420,76 +186,274 @@
      "fair_american": -210
     },
     {
-     "desc": "Tommy Novak Total Goals",
+     "desc": "William Nylander Total Goals",
      "units": "Goals",
      "outcome": "Over",
      "points": 0.5,
-     "american": 220,
-     "fair_prob": 0.2921,
-     "fair_american": 242
+     "american": 180,
+     "fair_prob": 0.3309,
+     "fair_american": 202
     },
     {
-     "desc": "Tommy Novak Total Goals",
+     "desc": "William Nylander Total Goals",
      "units": "Goals",
      "outcome": "Under",
      "points": 0.5,
-     "american": -312,
-     "fair_prob": 0.7079,
-     "fair_american": -242
+     "american": -260,
+     "fair_prob": 0.6691,
+     "fair_american": -202
     },
     {
-     "desc": "Mikael Granlund Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Over",
-     "points": 2.5,
-     "american": 147,
-     "fair_prob": 0.3786,
-     "fair_american": 164
-    },
-    {
-     "desc": "Mikael Granlund Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Under",
-     "points": 2.5,
-     "american": -198,
-     "fair_prob": 0.6214,
-     "fair_american": -164
-    },
-    {
-     "desc": "Judd Caulfield Total Goals",
+     "desc": "Jesper Bratt Total Goals",
      "units": "Goals",
      "outcome": "Over",
      "points": 0.5,
-     "american": 320,
-     "fair_prob": 0.2208,
-     "fair_american": 353
+     "american": 270,
+     "fair_prob": 0.2526,
+     "fair_american": 296
     },
     {
-     "desc": "Judd Caulfield Total Goals",
+     "desc": "Jesper Bratt Total Goals",
      "units": "Goals",
      "outcome": "Under",
      "points": 0.5,
-     "american": -525,
-     "fair_prob": 0.7792,
-     "fair_american": -353
+     "american": -399,
+     "fair_prob": 0.7474,
+     "fair_american": -296
     },
     {
-     "desc": "Sidney Crosby Total Goals",
+     "desc": "Connor Brown Total Goals",
      "units": "Goals",
      "outcome": "Over",
      "points": 0.5,
-     "american": 200,
-     "fair_prob": 0.3117,
-     "fair_american": 221
+     "american": 350,
+     "fair_prob": 0.2069,
+     "fair_american": 383
     },
     {
-     "desc": "Sidney Crosby Total Goals",
+     "desc": "Connor Brown Total Goals",
      "units": "Goals",
      "outcome": "Under",
      "points": 0.5,
-     "american": -279,
-     "fair_prob": 0.6883,
-     "fair_american": -221
+     "american": -575,
+     "fair_prob": 0.7931,
+     "fair_american": -383
+    },
+    {
+     "desc": "Timo Meier Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 215,
+     "fair_prob": 0.2967,
+     "fair_american": 237
+    },
+    {
+     "desc": "Timo Meier Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -304,
+     "fair_prob": 0.7033,
+     "fair_american": -237
+    },
+    {
+     "desc": "Jack Hughes Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 140,
+     "fair_prob": 0.3896,
+     "fair_american": 157
+    },
+    {
+     "desc": "Jack Hughes Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -188,
+     "fair_prob": 0.6104,
+     "fair_american": -157
+    },
+    {
+     "desc": "Jack Hughes Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": -132,
+     "fair_prob": 0.5323,
+     "fair_american": -114
+    },
+    {
+     "desc": "Jack Hughes Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -100,
+     "fair_prob": 0.4677,
+     "fair_american": 114
+    },
+    {
+     "desc": "Jack Roslovic Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 240,
+     "fair_prob": 0.2732,
+     "fair_american": 266
+    },
+    {
+     "desc": "Jack Roslovic Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -360,
+     "fair_prob": 0.7268,
+     "fair_american": -266
+    },
+    {
+     "desc": "John Tavares Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 240,
+     "fair_prob": 0.2732,
+     "fair_american": 266
+    },
+    {
+     "desc": "John Tavares Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -360,
+     "fair_prob": 0.7268,
+     "fair_american": -266
+    },
+    {
+     "desc": "Arseny Gritsyuk Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 270,
+     "fair_prob": 0.2526,
+     "fair_american": 296
+    },
+    {
+     "desc": "Arseny Gritsyuk Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -399,
+     "fair_prob": 0.7474,
+     "fair_american": -296
+    },
+    {
+     "desc": "William Nylander Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 115,
+     "fair_prob": 0.4354,
+     "fair_american": 130
+    },
+    {
+     "desc": "William Nylander Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -152,
+     "fair_prob": 0.5646,
+     "fair_american": -130
+    },
+    {
+     "desc": "Arseny Gritsyuk Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 196,
+     "fair_prob": 0.3158,
+     "fair_american": 217
+    },
+    {
+     "desc": "Arseny Gritsyuk Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -273,
+     "fair_prob": 0.6842,
+     "fair_american": -217
+    },
+    {
+     "desc": "Dougie Hamilton Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 180,
+     "fair_prob": 0.3338,
+     "fair_american": 200
+    },
+    {
+     "desc": "Dougie Hamilton Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -248,
+     "fair_prob": 0.6662,
+     "fair_american": -200
+    },
+    {
+     "desc": "Darren Raddysh Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 128,
+     "fair_prob": 0.4101,
+     "fair_american": 144
+    },
+    {
+     "desc": "Darren Raddysh Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -171,
+     "fair_prob": 0.5899,
+     "fair_american": -144
+    },
+    {
+     "desc": "Luke Hughes Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 124,
+     "fair_prob": 0.4176,
+     "fair_american": 139
+    },
+    {
+     "desc": "Luke Hughes Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -165,
+     "fair_prob": 0.5824,
+     "fair_american": -139
+    },
+    {
+     "desc": "Nico Hischier Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 152,
+     "fair_prob": 0.3709,
+     "fair_american": 170
+    },
+    {
+     "desc": "Nico Hischier Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -206,
+     "fair_prob": 0.6291,
+     "fair_american": -170
     }
    ]
   },
@@ -503,48 +467,48 @@
      "side": "home",
      "points": null,
      "american": -109,
-     "fair_prob": 0.5057,
-     "fair_american": -102
+     "fair_prob": 0.5093,
+     "fair_american": -104
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": -104,
-     "fair_prob": 0.4943,
-     "fair_american": 102
+     "american": -101,
+     "fair_prob": 0.4907,
+     "fair_american": 104
     },
     {
      "type": "spread",
      "side": "home",
-     "points": 1.5,
-     "american": -273,
-     "fair_prob": 0.7053,
-     "fair_american": -239
+     "points": -1.5,
+     "american": 225,
+     "fair_prob": 0.2981,
+     "fair_american": 235
     },
     {
      "type": "spread",
      "side": "away",
-     "points": -1.5,
-     "american": 227,
-     "fair_prob": 0.2947,
-     "fair_american": 239
+     "points": 1.5,
+     "american": -263,
+     "fair_prob": 0.7019,
+     "fair_american": -235
     },
     {
      "type": "total",
      "side": "over",
      "points": 6.5,
-     "american": -100,
-     "fair_prob": 0.4842,
-     "fair_american": 107
+     "american": 100,
+     "fair_prob": 0.4852,
+     "fair_american": 106
     },
     {
      "type": "total",
      "side": "under",
      "points": 6.5,
-     "american": -114,
-     "fair_prob": 0.5158,
-     "fair_american": -107
+     "american": -113,
+     "fair_prob": 0.5148,
+     "fair_american": -106
     }
    ],
    "props": [
@@ -605,20 +569,20 @@
     {
      "desc": "Zach Benson Total Assists",
      "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -154,
-     "fair_prob": 0.567,
-     "fair_american": -131
-    },
-    {
-     "desc": "Zach Benson Total Assists",
-     "units": "Assists",
      "outcome": "Over",
      "points": 0.5,
      "american": 116,
      "fair_prob": 0.433,
      "fair_american": 131
+    },
+    {
+     "desc": "Zach Benson Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -154,
+     "fair_prob": 0.567,
+     "fair_american": -131
     },
     {
      "desc": "Zach Benson Total Shots On Goal",
@@ -661,8 +625,8 @@
      "units": "Shots On Goal",
      "outcome": "Over",
      "points": 3.5,
-     "american": 112,
-     "fair_prob": 0.4428,
+     "american": 111,
+     "fair_prob": 0.4433,
      "fair_american": 126
     },
     {
@@ -670,8 +634,8 @@
      "units": "Shots On Goal",
      "outcome": "Under",
      "points": 3.5,
-     "american": -146,
-     "fair_prob": 0.5572,
+     "american": -147,
+     "fair_prob": 0.5567,
      "fair_american": -126
     },
     {
@@ -932,7 +896,7 @@
      "outcome": "Over",
      "points": 0.5,
      "american": -104,
-     "fair_prob": 0.4768,
+     "fair_prob": 0.4759,
      "fair_american": 110
     },
     {
@@ -940,8 +904,8 @@
      "units": "Assists",
      "outcome": "Under",
      "points": 0.5,
-     "american": -127,
-     "fair_prob": 0.5232,
+     "american": -128,
+     "fair_prob": 0.5241,
      "fair_american": -110
     },
     {
@@ -1021,54 +985,54 @@
      "units": "Assists",
      "outcome": "Over",
      "points": 0.5,
-     "american": -113,
-     "fair_prob": 0.496,
-     "fair_american": 102
+     "american": -134,
+     "fair_prob": 0.5351,
+     "fair_american": -115
     },
     {
      "desc": "Mitchell Marner Total Assists",
      "units": "Assists",
      "outcome": "Under",
      "points": 0.5,
-     "american": -117,
-     "fair_prob": 0.504,
-     "fair_american": -102
+     "american": 101,
+     "fair_prob": 0.4649,
+     "fair_american": 115
     },
     {
      "desc": "Jack Quinn Total Assists",
      "units": "Assists",
      "outcome": "Over",
      "points": 0.5,
-     "american": 172,
-     "fair_prob": 0.3436,
-     "fair_american": 191
+     "american": 162,
+     "fair_prob": 0.3567,
+     "fair_american": 180
     },
     {
      "desc": "Jack Quinn Total Assists",
      "units": "Assists",
      "outcome": "Under",
      "points": 0.5,
-     "american": -236,
-     "fair_prob": 0.6564,
-     "fair_american": -191
+     "american": -221,
+     "fair_prob": 0.6433,
+     "fair_american": -180
     },
     {
      "desc": "Victor Olofsson Total Goals",
      "units": "Goals",
      "outcome": "Over",
      "points": 0.5,
-     "american": 310,
-     "fair_prob": 0.228,
-     "fair_american": 339
+     "american": 270,
+     "fair_prob": 0.2503,
+     "fair_american": 300
     },
     {
      "desc": "Victor Olofsson Total Goals",
      "units": "Goals",
      "outcome": "Under",
      "points": 0.5,
-     "american": -474,
-     "fair_prob": 0.772,
-     "fair_american": -339
+     "american": -425,
+     "fair_prob": 0.7497,
+     "fair_american": -300
     },
     {
      "desc": "Rasmus Dahlin Total Assists",
@@ -1117,49 +1081,49 @@
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": 127,
-     "fair_prob": 0.4281,
+     "american": 128,
+     "fair_prob": 0.4277,
      "fair_american": 134
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": -143,
-     "fair_prob": 0.5719,
+     "american": -142,
+     "fair_prob": 0.5723,
      "fair_american": -134
     },
     {
      "type": "spread",
      "side": "home",
      "points": 1.5,
-     "american": -206,
-     "fair_prob": 0.6493,
-     "fair_american": -185
+     "american": -199,
+     "fair_prob": 0.6458,
+     "fair_american": -182
     },
     {
      "type": "spread",
      "side": "away",
      "points": -1.5,
-     "american": 175,
-     "fair_prob": 0.3507,
-     "fair_american": 185
+     "american": 174,
+     "fair_prob": 0.3542,
+     "fair_american": 182
     },
     {
      "type": "total",
      "side": "over",
      "points": 6.5,
      "american": 104,
-     "fair_prob": 0.4743,
-     "fair_american": 111
+     "fair_prob": 0.4762,
+     "fair_american": 110
     },
     {
      "type": "total",
      "side": "under",
      "points": 6.5,
-     "american": -119,
-     "fair_prob": 0.5257,
-     "fair_american": -111
+     "american": -117,
+     "fair_prob": 0.5238,
+     "fair_american": -110
     }
    ],
    "props": [
@@ -1258,8 +1222,8 @@
      "units": "Shots On Goal",
      "outcome": "Over",
      "points": 2.5,
-     "american": -104,
-     "fair_prob": 0.4785,
+     "american": -105,
+     "fair_prob": 0.4788,
      "fair_american": 109
     },
     {
@@ -1267,8 +1231,8 @@
      "units": "Shots On Goal",
      "outcome": "Under",
      "points": 2.5,
-     "american": -125,
-     "fair_prob": 0.5215,
+     "american": -126,
+     "fair_prob": 0.5212,
      "fair_american": -109
     },
     {
@@ -1420,18 +1384,18 @@
      "units": "Shots On Goal",
      "outcome": "Over",
      "points": 2.5,
-     "american": -135,
-     "fair_prob": 0.5396,
-     "fair_american": -117
+     "american": -144,
+     "fair_prob": 0.5523,
+     "fair_american": -123
     },
     {
      "desc": "Nikita Kucherov Total Shots On Goal",
      "units": "Shots On Goal",
      "outcome": "Under",
      "points": 2.5,
-     "american": 104,
-     "fair_prob": 0.4604,
-     "fair_american": 117
+     "american": 109,
+     "fair_prob": 0.4477,
+     "fair_american": 123
     },
     {
      "desc": "Jake Guentzel Total Goals",
@@ -1474,18 +1438,18 @@
      "units": "Assists",
      "outcome": "Over",
      "points": 0.5,
-     "american": 133,
-     "fair_prob": 0.4008,
-     "fair_american": 149
+     "american": 134,
+     "fair_prob": 0.3993,
+     "fair_american": 150
     },
     {
      "desc": "Gabriel Vilardi Total Assists",
      "units": "Assists",
      "outcome": "Under",
      "points": 0.5,
-     "american": -179,
-     "fair_prob": 0.5992,
-     "fair_american": -149
+     "american": -180,
+     "fair_prob": 0.6007,
+     "fair_american": -150
     },
     {
      "desc": "Nikita Kucherov Total Assists",
@@ -1624,70 +1588,52 @@
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": 102,
-     "fair_prob": 0.4817,
-     "fair_american": 108
+     "american": 106,
+     "fair_prob": 0.4738,
+     "fair_american": 111
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": -114,
-     "fair_prob": 0.5183,
-     "fair_american": -108
+     "american": -117,
+     "fair_prob": 0.5262,
+     "fair_american": -111
     },
     {
      "type": "spread",
      "side": "home",
      "points": 1.5,
-     "american": -262,
-     "fair_prob": 0.6971,
-     "fair_american": -230
+     "american": -246,
+     "fair_prob": 0.6886,
+     "fair_american": -221
     },
     {
      "type": "spread",
      "side": "away",
      "points": -1.5,
-     "american": 218,
-     "fair_prob": 0.3029,
-     "fair_american": 230
+     "american": 211,
+     "fair_prob": 0.3114,
+     "fair_american": 221
     },
     {
      "type": "total",
      "side": "over",
      "points": 5.5,
      "american": -114,
-     "fair_prob": 0.5158,
+     "fair_prob": 0.5171,
      "fair_american": -107
     },
     {
      "type": "total",
      "side": "under",
      "points": 5.5,
-     "american": -100,
-     "fair_prob": 0.4842,
+     "american": 101,
+     "fair_prob": 0.4829,
      "fair_american": 107
     }
    ],
    "props": [
-    {
-     "desc": "Zayne Parekh Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 180,
-     "fair_prob": 0.3338,
-     "fair_american": 200
-    },
-    {
-     "desc": "Zayne Parekh Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -248,
-     "fair_prob": 0.6662,
-     "fair_american": -200
-    },
     {
      "desc": "Tyson Foerster Total Goals",
      "units": "Goals",
@@ -1705,6 +1651,24 @@
      "american": -417,
      "fair_prob": 0.754,
      "fair_american": -306
+    },
+    {
+     "desc": "Zayne Parekh Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 180,
+     "fair_prob": 0.3338,
+     "fair_american": 200
+    },
+    {
+     "desc": "Zayne Parekh Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -248,
+     "fair_prob": 0.6662,
+     "fair_american": -200
     },
     {
      "desc": "Jamie Drysdale Total Assists",
@@ -1729,54 +1693,54 @@
      "units": "Shots On Goal",
      "outcome": "Over",
      "points": 2.5,
-     "american": -115,
-     "fair_prob": 0.5,
-     "fair_american": 100
+     "american": -114,
+     "fair_prob": 0.498,
+     "fair_american": 101
     },
     {
      "desc": "Matt Coronato Total Shots On Goal",
      "units": "Shots On Goal",
      "outcome": "Under",
      "points": 2.5,
-     "american": -115,
-     "fair_prob": 0.5,
-     "fair_american": 100
+     "american": -116,
+     "fair_prob": 0.502,
+     "fair_american": -101
     },
     {
      "desc": "Morgan Frost Total Shots On Goal",
      "units": "Shots On Goal",
      "outcome": "Over",
      "points": 1.5,
-     "american": -156,
-     "fair_prob": 0.5705,
-     "fair_american": -133
+     "american": -146,
+     "fair_prob": 0.5548,
+     "fair_american": -125
     },
     {
      "desc": "Morgan Frost Total Shots On Goal",
      "units": "Shots On Goal",
      "outcome": "Under",
      "points": 1.5,
-     "american": 118,
-     "fair_prob": 0.4295,
-     "fair_american": 133
+     "american": 110,
+     "fair_prob": 0.4452,
+     "fair_american": 125
     },
     {
      "desc": "Yegor Sharangovich Total Shots On Goal",
      "units": "Shots On Goal",
      "outcome": "Over",
      "points": 1.5,
-     "american": -149,
-     "fair_prob": 0.5592,
-     "fair_american": -127
+     "american": -148,
+     "fair_prob": 0.5574,
+     "fair_american": -126
     },
     {
      "desc": "Yegor Sharangovich Total Shots On Goal",
      "units": "Shots On Goal",
      "outcome": "Under",
      "points": 1.5,
-     "american": 112,
-     "fair_prob": 0.4408,
-     "fair_american": 127
+     "american": 111,
+     "fair_prob": 0.4426,
+     "fair_american": 126
     },
     {
      "desc": "Matvei Gridin Total Goals",
@@ -2107,18 +2071,18 @@
      "units": "Shots On Goal",
      "outcome": "Over",
      "points": 2.5,
-     "american": 130,
-     "fair_prob": 0.4085,
-     "fair_american": 145
+     "american": 128,
+     "fair_prob": 0.4101,
+     "fair_american": 144
     },
     {
      "desc": "Matvei Gridin Total Shots On Goal",
      "units": "Shots On Goal",
      "outcome": "Under",
      "points": 2.5,
-     "american": -170,
-     "fair_prob": 0.5915,
-     "fair_american": -145
+     "american": -171,
+     "fair_prob": 0.5899,
+     "fair_american": -144
     },
     {
      "desc": "Travis Sanheim Total Assists",
@@ -2267,6 +2231,495 @@
    ]
   },
   {
+   "away": "Pittsburgh Penguins",
+   "home": "Anaheim Ducks",
+   "start": "2026-11-09T01:07:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -116,
+     "fair_prob": 0.524,
+     "fair_american": -110
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 105,
+     "fair_prob": 0.476,
+     "fair_american": 110
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -1.5,
+     "american": 200,
+     "fair_prob": 0.323,
+     "fair_american": 210
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 1.5,
+     "american": -232,
+     "fair_prob": 0.677,
+     "fair_american": -210
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 7.0,
+     "american": 105,
+     "fair_prob": 0.474,
+     "fair_american": 111
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 7.0,
+     "american": -118,
+     "fair_prob": 0.526,
+     "fair_american": -111
+    }
+   ],
+   "props": [
+    {
+     "desc": "Leo Carlsson Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": -120,
+     "fair_prob": 0.5101,
+     "fair_american": -104
+    },
+    {
+     "desc": "Leo Carlsson Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -110,
+     "fair_prob": 0.4899,
+     "fair_american": 104
+    },
+    {
+     "desc": "Mikael Granlund Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 230,
+     "fair_prob": 0.2832,
+     "fair_american": 253
+    },
+    {
+     "desc": "Mikael Granlund Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -329,
+     "fair_prob": 0.7168,
+     "fair_american": -253
+    },
+    {
+     "desc": "Evgeni Malkin Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -329,
+     "fair_prob": 0.7168,
+     "fair_american": -253
+    },
+    {
+     "desc": "Evgeni Malkin Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 230,
+     "fair_prob": 0.2832,
+     "fair_american": 253
+    },
+    {
+     "desc": "Erik Karlsson Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": -116,
+     "fair_prob": 0.502,
+     "fair_american": -101
+    },
+    {
+     "desc": "Erik Karlsson Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -114,
+     "fair_prob": 0.498,
+     "fair_american": 101
+    },
+    {
+     "desc": "Cutter Gauthier Total Shots On Goal",
+     "units": "Shots On Goal",
+     "outcome": "Over",
+     "points": 4.5,
+     "american": 101,
+     "fair_prob": 0.4657,
+     "fair_american": 115
+    },
+    {
+     "desc": "Cutter Gauthier Total Shots On Goal",
+     "units": "Shots On Goal",
+     "outcome": "Under",
+     "points": 4.5,
+     "american": -133,
+     "fair_prob": 0.5343,
+     "fair_american": -115
+    },
+    {
+     "desc": "Sidney Crosby Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 104,
+     "fair_prob": 0.4589,
+     "fair_american": 118
+    },
+    {
+     "desc": "Sidney Crosby Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -137,
+     "fair_prob": 0.5411,
+     "fair_american": -118
+    },
+    {
+     "desc": "Rickard Rakell Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 158,
+     "fair_prob": 0.3622,
+     "fair_american": 176
+    },
+    {
+     "desc": "Rickard Rakell Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -215,
+     "fair_prob": 0.6378,
+     "fair_american": -176
+    },
+    {
+     "desc": "Beckett Sennecke Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": -107,
+     "fair_prob": 0.4838,
+     "fair_american": 107
+    },
+    {
+     "desc": "Beckett Sennecke Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -123,
+     "fair_prob": 0.5162,
+     "fair_american": -107
+    },
+    {
+     "desc": "Egor Chinakhov Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 290,
+     "fair_prob": 0.2397,
+     "fair_american": 317
+    },
+    {
+     "desc": "Egor Chinakhov Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -436,
+     "fair_prob": 0.7603,
+     "fair_american": -317
+    },
+    {
+     "desc": "Ben Kindel Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 240,
+     "fair_prob": 0.2749,
+     "fair_american": 264
+    },
+    {
+     "desc": "Ben Kindel Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -346,
+     "fair_prob": 0.7251,
+     "fair_american": -264
+    },
+    {
+     "desc": "Beckett Sennecke Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 150,
+     "fair_prob": 0.3738,
+     "fair_american": 167
+    },
+    {
+     "desc": "Beckett Sennecke Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -203,
+     "fair_prob": 0.6262,
+     "fair_american": -167
+    },
+    {
+     "desc": "Beckett Sennecke Total Shots On Goal",
+     "units": "Shots On Goal",
+     "outcome": "Over",
+     "points": 2.5,
+     "american": -150,
+     "fair_prob": 0.561,
+     "fair_american": -128
+    },
+    {
+     "desc": "Beckett Sennecke Total Shots On Goal",
+     "units": "Shots On Goal",
+     "outcome": "Under",
+     "points": 2.5,
+     "american": 113,
+     "fair_prob": 0.439,
+     "fair_american": 128
+    },
+    {
+     "desc": "Leo Carlsson Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 165,
+     "fair_prob": 0.3528,
+     "fair_american": 183
+    },
+    {
+     "desc": "Leo Carlsson Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -225,
+     "fair_prob": 0.6472,
+     "fair_american": -183
+    },
+    {
+     "desc": "Jackson LaCombe Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": -136,
+     "fair_prob": 0.5391,
+     "fair_american": -117
+    },
+    {
+     "desc": "Jackson LaCombe Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": 103,
+     "fair_prob": 0.4609,
+     "fair_american": 117
+    },
+    {
+     "desc": "Mikael Granlund Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": -107,
+     "fair_prob": 0.4838,
+     "fair_american": 107
+    },
+    {
+     "desc": "Mikael Granlund Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -123,
+     "fair_prob": 0.5162,
+     "fair_american": -107
+    },
+    {
+     "desc": "Evgeni Malkin Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 149,
+     "fair_prob": 0.3756,
+     "fair_american": 166
+    },
+    {
+     "desc": "Evgeni Malkin Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -201,
+     "fair_prob": 0.6244,
+     "fair_american": -166
+    },
+    {
+     "desc": "Cutter Gauthier Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 100,
+     "fair_prob": 0.4677,
+     "fair_american": 114
+    },
+    {
+     "desc": "Cutter Gauthier Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -132,
+     "fair_prob": 0.5323,
+     "fair_american": -114
+    },
+    {
+     "desc": "Cutter Gauthier Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 145,
+     "fair_prob": 0.3813,
+     "fair_american": 162
+    },
+    {
+     "desc": "Cutter Gauthier Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -196,
+     "fair_prob": 0.6187,
+     "fair_american": -162
+    },
+    {
+     "desc": "Leo Carlsson Total Shots On Goal",
+     "units": "Shots On Goal",
+     "outcome": "Over",
+     "points": 2.5,
+     "american": -103,
+     "fair_prob": 0.4739,
+     "fair_american": 111
+    },
+    {
+     "desc": "Leo Carlsson Total Shots On Goal",
+     "units": "Shots On Goal",
+     "outcome": "Under",
+     "points": 2.5,
+     "american": -129,
+     "fair_prob": 0.5261,
+     "fair_american": -111
+    },
+    {
+     "desc": "Rickard Rakell Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 190,
+     "fair_prob": 0.3222,
+     "fair_american": 210
+    },
+    {
+     "desc": "Rickard Rakell Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -264,
+     "fair_prob": 0.6778,
+     "fair_american": -210
+    },
+    {
+     "desc": "Tommy Novak Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 220,
+     "fair_prob": 0.2921,
+     "fair_american": 242
+    },
+    {
+     "desc": "Tommy Novak Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -312,
+     "fair_prob": 0.7079,
+     "fair_american": -242
+    },
+    {
+     "desc": "Mikael Granlund Total Shots On Goal",
+     "units": "Shots On Goal",
+     "outcome": "Over",
+     "points": 2.5,
+     "american": 158,
+     "fair_prob": 0.3622,
+     "fair_american": 176
+    },
+    {
+     "desc": "Mikael Granlund Total Shots On Goal",
+     "units": "Shots On Goal",
+     "outcome": "Under",
+     "points": 2.5,
+     "american": -215,
+     "fair_prob": 0.6378,
+     "fair_american": -176
+    },
+    {
+     "desc": "Judd Caulfield Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 320,
+     "fair_prob": 0.2208,
+     "fair_american": 353
+    },
+    {
+     "desc": "Judd Caulfield Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -525,
+     "fair_prob": 0.7792,
+     "fair_american": -353
+    },
+    {
+     "desc": "Sidney Crosby Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 200,
+     "fair_prob": 0.3117,
+     "fair_american": 221
+    },
+    {
+     "desc": "Sidney Crosby Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -279,
+     "fair_prob": 0.6883,
+     "fair_american": -221
+    }
+   ]
+  },
+  {
    "away": "Florida Panthers",
    "home": "Boston Bruins",
    "start": "2026-11-08T18:07:00Z",
@@ -2275,49 +2728,49 @@
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": -137,
-     "fair_prob": 0.5609,
-     "fair_american": -128
+     "american": -138,
+     "fair_prob": 0.5661,
+     "fair_american": -130
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": 121,
-     "fair_prob": 0.4391,
-     "fair_american": 128
+     "american": 125,
+     "fair_prob": 0.4339,
+     "fair_american": 130
     },
     {
      "type": "spread",
      "side": "home",
      "points": -1.5,
-     "american": 180,
-     "fair_prob": 0.3449,
-     "fair_american": 190
+     "american": 179,
+     "fair_prob": 0.3474,
+     "fair_american": 188
     },
     {
      "type": "spread",
      "side": "away",
      "points": 1.5,
-     "american": -211,
-     "fair_prob": 0.6551,
-     "fair_american": -190
+     "american": -206,
+     "fair_prob": 0.6526,
+     "fair_american": -188
     },
     {
      "type": "total",
      "side": "over",
      "points": 6.0,
      "american": -118,
-     "fair_prob": 0.5235,
-     "fair_american": -110
+     "fair_prob": 0.526,
+     "fair_american": -111
     },
     {
      "type": "total",
      "side": "under",
      "points": 6.0,
-     "american": 103,
-     "fair_prob": 0.4765,
-     "fair_american": 110
+     "american": 105,
+     "fair_prob": 0.474,
+     "fair_american": 111
     }
    ],
    "props": [
@@ -2430,24 +2883,6 @@
      "fair_american": 157
     },
     {
-     "desc": "JJ Peterka Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Over",
-     "points": 1.5,
-     "american": -206,
-     "fair_prob": 0.6291,
-     "fair_american": -170
-    },
-    {
-     "desc": "JJ Peterka Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Under",
-     "points": 1.5,
-     "american": 152,
-     "fair_prob": 0.3709,
-     "fair_american": 170
-    },
-    {
      "desc": "Charlie McAvoy Total Assists",
      "units": "Assists",
      "outcome": "Over",
@@ -2464,6 +2899,24 @@
      "american": -158,
      "fair_prob": 0.5729,
      "fair_american": -134
+    },
+    {
+     "desc": "JJ Peterka Total Shots On Goal",
+     "units": "Shots On Goal",
+     "outcome": "Over",
+     "points": 1.5,
+     "american": -204,
+     "fair_prob": 0.6275,
+     "fair_american": -168
+    },
+    {
+     "desc": "JJ Peterka Total Shots On Goal",
+     "units": "Shots On Goal",
+     "outcome": "Under",
+     "points": 1.5,
+     "american": 151,
+     "fair_prob": 0.3725,
+     "fair_american": 168
     },
     {
      "desc": "Charlie McAvoy Total Shots On Goal",
@@ -2524,18 +2977,18 @@
      "units": "Assists",
      "outcome": "Over",
      "points": 0.5,
-     "american": 107,
-     "fair_prob": 0.4515,
-     "fair_american": 121
+     "american": 106,
+     "fair_prob": 0.4542,
+     "fair_american": 120
     },
     {
      "desc": "Seth Jones Total Assists",
      "units": "Assists",
      "outcome": "Under",
      "points": 0.5,
-     "american": -142,
-     "fair_prob": 0.5485,
-     "fair_american": -121
+     "american": -140,
+     "fair_prob": 0.5458,
+     "fair_american": -120
     },
     {
      "desc": "Sam Reinhart Total Assists",
@@ -2596,18 +3049,18 @@
      "units": "Goals",
      "outcome": "Over",
      "points": 0.5,
-     "american": 138,
-     "fair_prob": 0.3907,
-     "fair_american": 156
+     "american": 137,
+     "fair_prob": 0.3939,
+     "fair_american": 154
     },
     {
      "desc": "Brady Tkachuk Total Goals",
      "units": "Goals",
      "outcome": "Under",
      "points": 0.5,
-     "american": -190,
-     "fair_prob": 0.6093,
-     "fair_american": -156
+     "american": -185,
+     "fair_prob": 0.6061,
+     "fair_american": -154
     },
     {
      "desc": "Morgan Geekie Total Shots On Goal",
@@ -2632,36 +3085,36 @@
      "units": "Assists",
      "outcome": "Over",
      "points": 0.5,
-     "american": 134,
-     "fair_prob": 0.3998,
-     "fair_american": 150
+     "american": 141,
+     "fair_prob": 0.3878,
+     "fair_american": 158
     },
     {
      "desc": "Morgan Geekie Total Assists",
      "units": "Assists",
      "outcome": "Under",
      "points": 0.5,
-     "american": -179,
-     "fair_prob": 0.6002,
-     "fair_american": -150
+     "american": -190,
+     "fair_prob": 0.6122,
+     "fair_american": -158
     },
     {
-     "desc": "Pavel Zacha Total Goals",
-     "units": "Goals",
+     "desc": "Pavel Zacha Total Assists",
+     "units": "Assists",
      "outcome": "Over",
      "points": 0.5,
-     "american": 220,
-     "fair_prob": 0.2921,
-     "fair_american": 242
+     "american": 138,
+     "fair_prob": 0.3929,
+     "fair_american": 154
     },
     {
-     "desc": "Pavel Zacha Total Goals",
-     "units": "Goals",
+     "desc": "Pavel Zacha Total Assists",
+     "units": "Assists",
      "outcome": "Under",
      "points": 0.5,
-     "american": -312,
-     "fair_prob": 0.7079,
-     "fair_american": -242
+     "american": -185,
+     "fair_prob": 0.6071,
+     "fair_american": -154
     },
     {
      "desc": "Morgan Geekie Total Goals",
@@ -2682,22 +3135,22 @@
      "fair_american": -223
     },
     {
-     "desc": "Pavel Zacha Total Assists",
-     "units": "Assists",
+     "desc": "Pavel Zacha Total Goals",
+     "units": "Goals",
      "outcome": "Over",
      "points": 0.5,
-     "american": 138,
-     "fair_prob": 0.3929,
-     "fair_american": 154
+     "american": 220,
+     "fair_prob": 0.2921,
+     "fair_american": 242
     },
     {
-     "desc": "Pavel Zacha Total Assists",
-     "units": "Assists",
+     "desc": "Pavel Zacha Total Goals",
+     "units": "Goals",
      "outcome": "Under",
      "points": 0.5,
-     "american": -185,
-     "fair_prob": 0.6071,
-     "fair_american": -154
+     "american": -312,
+     "fair_prob": 0.7079,
+     "fair_american": -242
     },
     {
      "desc": "David Pastrnak Total Shots On Goal",
@@ -2734,459 +3187,6 @@
      "american": -250,
      "fair_prob": 0.6667,
      "fair_american": -200
-    }
-   ]
-  },
-  {
-   "away": "New Jersey Devils",
-   "home": "Toronto Maple Leafs",
-   "start": "2026-11-09T00:07:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": 140,
-     "fair_prob": 0.4043,
-     "fair_american": 147
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": -159,
-     "fair_prob": 0.5957,
-     "fair_american": -147
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": 1.5,
-     "american": -189,
-     "fair_prob": 0.6315,
-     "fair_american": -171
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": -1.5,
-     "american": 162,
-     "fair_prob": 0.3685,
-     "fair_american": 171
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 6.0,
-     "american": -118,
-     "fair_prob": 0.5235,
-     "fair_american": -110
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 6.0,
-     "american": 103,
-     "fair_prob": 0.4765,
-     "fair_american": 110
-    }
-   ],
-   "props": [
-    {
-     "desc": "Timo Meier Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 280,
-     "fair_prob": 0.246,
-     "fair_american": 306
-    },
-    {
-     "desc": "Timo Meier Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -417,
-     "fair_prob": 0.754,
-     "fair_american": -306
-    },
-    {
-     "desc": "Gavin McKenna Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 360,
-     "fair_prob": 0.2023,
-     "fair_american": 394
-    },
-    {
-     "desc": "Gavin McKenna Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -600,
-     "fair_prob": 0.7977,
-     "fair_american": -394
-    },
-    {
-     "desc": "Auston Matthews Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 128,
-     "fair_prob": 0.4101,
-     "fair_american": 144
-    },
-    {
-     "desc": "Auston Matthews Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -171,
-     "fair_prob": 0.5899,
-     "fair_american": -144
-    },
-    {
-     "desc": "Anthony Mantha Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 300,
-     "fair_prob": 0.2337,
-     "fair_american": 328
-    },
-    {
-     "desc": "Anthony Mantha Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -455,
-     "fair_prob": 0.7663,
-     "fair_american": -328
-    },
-    {
-     "desc": "John Tavares Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 152,
-     "fair_prob": 0.3709,
-     "fair_american": 170
-    },
-    {
-     "desc": "John Tavares Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -206,
-     "fair_prob": 0.6291,
-     "fair_american": -170
-    },
-    {
-     "desc": "Auston Matthews Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 143,
-     "fair_prob": 0.3837,
-     "fair_american": 161
-    },
-    {
-     "desc": "Auston Matthews Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -195,
-     "fair_prob": 0.6163,
-     "fair_american": -161
-    },
-    {
-     "desc": "Nico Hischier Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 190,
-     "fair_prob": 0.3222,
-     "fair_american": 210
-    },
-    {
-     "desc": "Nico Hischier Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -264,
-     "fair_prob": 0.6778,
-     "fair_american": -210
-    },
-    {
-     "desc": "William Nylander Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 180,
-     "fair_prob": 0.3309,
-     "fair_american": 202
-    },
-    {
-     "desc": "William Nylander Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -260,
-     "fair_prob": 0.6691,
-     "fair_american": -202
-    },
-    {
-     "desc": "Jesper Bratt Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 270,
-     "fair_prob": 0.2526,
-     "fair_american": 296
-    },
-    {
-     "desc": "Jesper Bratt Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -399,
-     "fair_prob": 0.7474,
-     "fair_american": -296
-    },
-    {
-     "desc": "Connor Brown Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 350,
-     "fair_prob": 0.2069,
-     "fair_american": 383
-    },
-    {
-     "desc": "Connor Brown Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -575,
-     "fair_prob": 0.7931,
-     "fair_american": -383
-    },
-    {
-     "desc": "Timo Meier Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 215,
-     "fair_prob": 0.2967,
-     "fair_american": 237
-    },
-    {
-     "desc": "Timo Meier Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -304,
-     "fair_prob": 0.7033,
-     "fair_american": -237
-    },
-    {
-     "desc": "Jack Hughes Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 140,
-     "fair_prob": 0.3896,
-     "fair_american": 157
-    },
-    {
-     "desc": "Jack Hughes Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -188,
-     "fair_prob": 0.6104,
-     "fair_american": -157
-    },
-    {
-     "desc": "Jack Hughes Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": -132,
-     "fair_prob": 0.5323,
-     "fair_american": -114
-    },
-    {
-     "desc": "Jack Hughes Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -100,
-     "fair_prob": 0.4677,
-     "fair_american": 114
-    },
-    {
-     "desc": "Jack Roslovic Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 240,
-     "fair_prob": 0.2732,
-     "fair_american": 266
-    },
-    {
-     "desc": "Jack Roslovic Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -360,
-     "fair_prob": 0.7268,
-     "fair_american": -266
-    },
-    {
-     "desc": "John Tavares Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 250,
-     "fair_prob": 0.2671,
-     "fair_american": 274
-    },
-    {
-     "desc": "John Tavares Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -363,
-     "fair_prob": 0.7329,
-     "fair_american": -274
-    },
-    {
-     "desc": "Arseny Gritsyuk Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 270,
-     "fair_prob": 0.2526,
-     "fair_american": 296
-    },
-    {
-     "desc": "Arseny Gritsyuk Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -399,
-     "fair_prob": 0.7474,
-     "fair_american": -296
-    },
-    {
-     "desc": "William Nylander Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 115,
-     "fair_prob": 0.4354,
-     "fair_american": 130
-    },
-    {
-     "desc": "William Nylander Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -152,
-     "fair_prob": 0.5646,
-     "fair_american": -130
-    },
-    {
-     "desc": "Arseny Gritsyuk Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 196,
-     "fair_prob": 0.3158,
-     "fair_american": 217
-    },
-    {
-     "desc": "Arseny Gritsyuk Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -273,
-     "fair_prob": 0.6842,
-     "fair_american": -217
-    },
-    {
-     "desc": "Dougie Hamilton Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 180,
-     "fair_prob": 0.3338,
-     "fair_american": 200
-    },
-    {
-     "desc": "Dougie Hamilton Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -248,
-     "fair_prob": 0.6662,
-     "fair_american": -200
-    },
-    {
-     "desc": "Darren Raddysh Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 128,
-     "fair_prob": 0.4101,
-     "fair_american": 144
-    },
-    {
-     "desc": "Darren Raddysh Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -171,
-     "fair_prob": 0.5899,
-     "fair_american": -144
-    },
-    {
-     "desc": "Luke Hughes Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 124,
-     "fair_prob": 0.4176,
-     "fair_american": 139
-    },
-    {
-     "desc": "Luke Hughes Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -165,
-     "fair_prob": 0.5824,
-     "fair_american": -139
-    },
-    {
-     "desc": "Nico Hischier Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 152,
-     "fair_prob": 0.3709,
-     "fair_american": 170
-    },
-    {
-     "desc": "Nico Hischier Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -206,
-     "fair_prob": 0.6291,
-     "fair_american": -170
     }
    ]
   }
