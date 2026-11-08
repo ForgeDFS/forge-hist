@@ -1,31 +1,31 @@
-# NHL ([None]) Pinnacle no-vig, read 2026-11-08 20:53 UTC: 6 games, 460 props
+# NHL ([None]) Pinnacle no-vig, read 2026-11-08 22:52 UTC: 6 games, 462 props
 
 ## Tampa Bay Lightning @ Winnipeg Jets  2026-11-08T23:07:00Z
-- moneyline home : 135 (fair 141)
-- moneyline away : -150 (fair -141)
-- spread home 1.5: -191 (fair -175)
-- spread away -1.5: 167 (fair 175)
+- moneyline home : 141 (fair 147)
+- moneyline away : -156 (fair -147)
+- spread home 1.5: -185 (fair -170)
+- spread away -1.5: 162 (fair 170)
+- total over 6.0: -119 (fair -112)
+- total under 6.0: 106 (fair 112)
+## New Jersey Devils @ Toronto Maple Leafs  2026-11-09T00:07:00Z
+- moneyline home : 142 (fair 148)
+- moneyline away : -158 (fair -148)
+- spread home 1.5: -186 (fair -171)
+- spread away -1.5: 163 (fair 171)
 - total over 6.5: 105 (fair 111)
 - total under 6.5: -118 (fair -111)
-## New Jersey Devils @ Toronto Maple Leafs  2026-11-09T00:07:00Z
-- moneyline home : 137 (fair 143)
-- moneyline away : -152 (fair -143)
-- spread home 1.5: -192 (fair -176)
-- spread away -1.5: 168 (fair 176)
-- total over 6.5: 104 (fair 110)
-- total under 6.5: -117 (fair -110)
 ## Philadelphia Flyers @ Calgary Flames  2026-11-09T00:07:00Z
-- moneyline home : 105 (fair 110)
-- moneyline away : -115 (fair -110)
-- spread home 1.5: -249 (fair -224)
-- spread away -1.5: 214 (fair 224)
-- total over 5.5: -112 (fair -105)
-- total under 5.5: -101 (fair 105)
+- moneyline home : 107 (fair 112)
+- moneyline away : -118 (fair -112)
+- spread home 1.5: -245 (fair -220)
+- spread away -1.5: 210 (fair 220)
+- total over 5.5: -112 (fair -106)
+- total under 5.5: -100 (fair 106)
 ## Pittsburgh Penguins @ Anaheim Ducks  2026-11-09T01:07:00Z
-- moneyline home : -115 (fair -109)
-- moneyline away : 104 (fair 109)
-- spread home -1.5: 201 (fair 211)
-- spread away 1.5: -233 (fair -211)
+- moneyline home : -117 (fair -111)
+- moneyline away : 106 (fair 111)
+- spread home -1.5: 198 (fair 207)
+- spread away 1.5: -229 (fair -207)
 - total over 7.0: 104 (fair 110)
 - total under 7.0: -117 (fair -110)
 ## New York Rangers @ Edmonton Oilers  2026-11-10T01:07:00Z
