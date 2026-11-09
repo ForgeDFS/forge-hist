@@ -1,9 +1,65 @@
 {
- "read_utc": "2026-11-09 11:13",
+ "read_utc": "2026-11-09 13:31",
  "league": [
   null
  ],
  "games": [
+  {
+   "away": "Philadelphia Flyers",
+   "home": "Vancouver Canucks",
+   "start": "2026-11-10T02:37:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 122,
+     "fair_prob": 0.4395,
+     "fair_american": 128
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -135,
+     "fair_prob": 0.5605,
+     "fair_american": -128
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 1.5,
+     "american": -209,
+     "fair_prob": 0.656,
+     "fair_american": -191
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -1.5,
+     "american": 182,
+     "fair_prob": 0.344,
+     "fair_american": 191
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 6.0,
+     "american": -116,
+     "fair_prob": 0.5228,
+     "fair_american": -110
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 6.0,
+     "american": 104,
+     "fair_prob": 0.4772,
+     "fair_american": 110
+    }
+   ],
+   "props": []
+  },
   {
    "away": "New York Rangers",
    "home": "Edmonton Oilers",
@@ -13,32 +69,32 @@
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": -154,
-     "fair_prob": 0.5886,
+     "american": -152,
+     "fair_prob": 0.5884,
      "fair_american": -143
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": 136,
-     "fair_prob": 0.4114,
+     "american": 137,
+     "fair_prob": 0.4116,
      "fair_american": 143
     },
     {
      "type": "spread",
      "side": "home",
      "points": -1.5,
-     "american": 161,
-     "fair_prob": 0.3699,
+     "american": 162,
+     "fair_prob": 0.3698,
      "fair_american": 170
     },
     {
      "type": "spread",
      "side": "away",
      "points": 1.5,
-     "american": -188,
-     "fair_prob": 0.6301,
+     "american": -186,
+     "fair_prob": 0.6302,
      "fair_american": -170
     },
     {
@@ -46,36 +102,180 @@
      "side": "over",
      "points": 6.5,
      "american": -110,
-     "fair_prob": 0.5068,
-     "fair_american": -103
+     "fair_prob": 0.5092,
+     "fair_american": -104
     },
     {
      "type": "total",
      "side": "under",
      "points": 6.5,
-     "american": -104,
-     "fair_prob": 0.4932,
-     "fair_american": 103
+     "american": -102,
+     "fair_prob": 0.4908,
+     "fair_american": 104
     }
    ],
    "props": [
     {
-     "desc": "Leon Draisaitl Total Goals",
+     "desc": "Zach Hyman Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 215,
+     "fair_prob": 0.2967,
+     "fair_american": 237
+    },
+    {
+     "desc": "Zach Hyman Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -304,
+     "fair_prob": 0.7033,
+     "fair_american": -237
+    },
+    {
+     "desc": "Zach Hyman Total Goals",
      "units": "Goals",
      "outcome": "Over",
      "points": 0.5,
-     "american": 109,
-     "fair_prob": 0.4463,
-     "fair_american": 124
+     "american": 175,
+     "fair_prob": 0.3373,
+     "fair_american": 196
     },
     {
-     "desc": "Leon Draisaitl Total Goals",
+     "desc": "Zach Hyman Total Goals",
      "units": "Goals",
      "outcome": "Under",
      "points": 0.5,
-     "american": -146,
-     "fair_prob": 0.5537,
-     "fair_american": -124
+     "american": -250,
+     "fair_prob": 0.6627,
+     "fair_american": -196
+    },
+    {
+     "desc": "Pavel Dorofeyev Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 180,
+     "fair_prob": 0.3338,
+     "fair_american": 200
+    },
+    {
+     "desc": "Pavel Dorofeyev Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -248,
+     "fair_prob": 0.6662,
+     "fair_american": -200
+    },
+    {
+     "desc": "Evan Bouchard Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": -171,
+     "fair_prob": 0.5899,
+     "fair_american": -144
+    },
+    {
+     "desc": "Evan Bouchard Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": 128,
+     "fair_prob": 0.4101,
+     "fair_american": 144
+    },
+    {
+     "desc": "Gabe Perreault Total Shots On Goal",
+     "units": "Shots On Goal",
+     "outcome": "Over",
+     "points": 1.5,
+     "american": -152,
+     "fair_prob": 0.5658,
+     "fair_american": -130
+    },
+    {
+     "desc": "Gabe Perreault Total Shots On Goal",
+     "units": "Shots On Goal",
+     "outcome": "Under",
+     "points": 1.5,
+     "american": 116,
+     "fair_prob": 0.4342,
+     "fair_american": 130
+    },
+    {
+     "desc": "Connor McDavid Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": -330,
+     "fair_prob": 0.7175,
+     "fair_american": -254
+    },
+    {
+     "desc": "Connor McDavid Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": 231,
+     "fair_prob": 0.2825,
+     "fair_american": 254
+    },
+    {
+     "desc": "Leon Draisaitl Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": -170,
+     "fair_prob": 0.5884,
+     "fair_american": -143
+    },
+    {
+     "desc": "Leon Draisaitl Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": 127,
+     "fair_prob": 0.4116,
+     "fair_american": 143
+    },
+    {
+     "desc": "Mika Zibanejad Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 220,
+     "fair_prob": 0.2921,
+     "fair_american": 242
+    },
+    {
+     "desc": "Mika Zibanejad Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -312,
+     "fair_prob": 0.7079,
+     "fair_american": -242
+    },
+    {
+     "desc": "Kasperi Kapanen Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 340,
+     "fair_prob": 0.2117,
+     "fair_american": 372
+    },
+    {
+     "desc": "Kasperi Kapanen Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -550,
+     "fair_prob": 0.7883,
+     "fair_american": -372
     },
     {
      "desc": "J.T. Miller Total Goals",
@@ -96,6 +296,276 @@
      "fair_american": -328
     },
     {
+     "desc": "Connor McDavid Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 115,
+     "fair_prob": 0.4347,
+     "fair_american": 130
+    },
+    {
+     "desc": "Connor McDavid Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -153,
+     "fair_prob": 0.5653,
+     "fair_american": -130
+    },
+    {
+     "desc": "Pavel Dorofeyev Total Shots On Goal",
+     "units": "Shots On Goal",
+     "outcome": "Over",
+     "points": 2.5,
+     "american": -110,
+     "fair_prob": 0.4918,
+     "fair_american": 103
+    },
+    {
+     "desc": "Pavel Dorofeyev Total Shots On Goal",
+     "units": "Shots On Goal",
+     "outcome": "Under",
+     "points": 2.5,
+     "american": -118,
+     "fair_prob": 0.5082,
+     "fair_american": -103
+    },
+    {
+     "desc": "Gabe Perreault Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 215,
+     "fair_prob": 0.2967,
+     "fair_american": 237
+    },
+    {
+     "desc": "Gabe Perreault Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -304,
+     "fair_prob": 0.7033,
+     "fair_american": -237
+    },
+    {
+     "desc": "Mika Zibanejad Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 136,
+     "fair_prob": 0.3959,
+     "fair_american": 153
+    },
+    {
+     "desc": "Mika Zibanejad Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -183,
+     "fair_prob": 0.6041,
+     "fair_american": -153
+    },
+    {
+     "desc": "Mattias Ekholm Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -248,
+     "fair_prob": 0.6662,
+     "fair_american": -200
+    },
+    {
+     "desc": "Mattias Ekholm Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 180,
+     "fair_prob": 0.3338,
+     "fair_american": 200
+    },
+    {
+     "desc": "Evan Bouchard Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 250,
+     "fair_prob": 0.2652,
+     "fair_american": 277
+    },
+    {
+     "desc": "Evan Bouchard Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -380,
+     "fair_prob": 0.7348,
+     "fair_american": -277
+    },
+    {
+     "desc": "Gabe Perreault Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 275,
+     "fair_prob": 0.2493,
+     "fair_american": 301
+    },
+    {
+     "desc": "Gabe Perreault Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -408,
+     "fair_prob": 0.7507,
+     "fair_american": -301
+    },
+    {
+     "desc": "J.T. Miller Total Shots On Goal",
+     "units": "Shots On Goal",
+     "outcome": "Over",
+     "points": 1.5,
+     "american": -150,
+     "fair_prob": 0.561,
+     "fair_american": -128
+    },
+    {
+     "desc": "J.T. Miller Total Shots On Goal",
+     "units": "Shots On Goal",
+     "outcome": "Under",
+     "points": 1.5,
+     "american": 113,
+     "fair_prob": 0.439,
+     "fair_american": 128
+    },
+    {
+     "desc": "Pavel Dorofeyev Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 175,
+     "fair_prob": 0.3397,
+     "fair_american": 194
+    },
+    {
+     "desc": "Pavel Dorofeyev Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -241,
+     "fair_prob": 0.6603,
+     "fair_american": -194
+    },
+    {
+     "desc": "Alexis Lafreniere Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 142,
+     "fair_prob": 0.3863,
+     "fair_american": 159
+    },
+    {
+     "desc": "Alexis Lafreniere Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -191,
+     "fair_prob": 0.6137,
+     "fair_american": -159
+    },
+    {
+     "desc": "Leon Draisaitl Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": -111,
+     "fair_prob": 0.49,
+     "fair_american": 104
+    },
+    {
+     "desc": "Leon Draisaitl Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -121,
+     "fair_prob": 0.51,
+     "fair_american": -104
+    },
+    {
+     "desc": "Alexis Lafreniere Total Shots On Goal",
+     "units": "Shots On Goal",
+     "outcome": "Over",
+     "points": 1.5,
+     "american": -182,
+     "fair_prob": 0.6037,
+     "fair_american": -152
+    },
+    {
+     "desc": "Alexis Lafreniere Total Shots On Goal",
+     "units": "Shots On Goal",
+     "outcome": "Under",
+     "points": 1.5,
+     "american": 136,
+     "fair_prob": 0.3963,
+     "fair_american": 152
+    },
+    {
+     "desc": "Vasily Podkolzin Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 275,
+     "fair_prob": 0.2493,
+     "fair_american": 301
+    },
+    {
+     "desc": "Vasily Podkolzin Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -408,
+     "fair_prob": 0.7507,
+     "fair_american": -301
+    },
+    {
+     "desc": "Ryan Nugent-Hopkins Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 148,
+     "fair_prob": 0.3769,
+     "fair_american": 165
+    },
+    {
+     "desc": "Ryan Nugent-Hopkins Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -200,
+     "fair_prob": 0.6231,
+     "fair_american": -165
+    },
+    {
+     "desc": "J.T. Miller Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 152,
+     "fair_prob": 0.3709,
+     "fair_american": 170
+    },
+    {
+     "desc": "J.T. Miller Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -206,
+     "fair_prob": 0.6291,
+     "fair_american": -170
+    },
+    {
      "desc": "Ryan Nugent-Hopkins Total Goals",
      "units": "Goals",
      "outcome": "Over",
@@ -114,22 +584,22 @@
      "fair_american": -274
     },
     {
-     "desc": "Kasperi Kapanen Total Goals",
-     "units": "Goals",
+     "desc": "Mika Zibanejad Total Shots On Goal",
+     "units": "Shots On Goal",
      "outcome": "Over",
-     "points": 0.5,
-     "american": 350,
-     "fair_prob": 0.2069,
-     "fair_american": 383
+     "points": 2.5,
+     "american": 142,
+     "fair_prob": 0.3876,
+     "fair_american": 158
     },
     {
-     "desc": "Kasperi Kapanen Total Goals",
-     "units": "Goals",
+     "desc": "Mika Zibanejad Total Shots On Goal",
+     "units": "Shots On Goal",
      "outcome": "Under",
-     "points": 0.5,
-     "american": -575,
-     "fair_prob": 0.7931,
-     "fair_american": -383
+     "points": 2.5,
+     "american": -188,
+     "fair_prob": 0.6124,
+     "fair_american": -158
     },
     {
      "desc": "Alexis Lafreniere Total Goals",
@@ -166,420 +636,6 @@
      "american": -109,
      "fair_prob": 0.4869,
      "fair_american": 105
-    },
-    {
-     "desc": "Evan Bouchard Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 260,
-     "fair_prob": 0.2596,
-     "fair_american": 285
-    },
-    {
-     "desc": "Evan Bouchard Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -381,
-     "fair_prob": 0.7404,
-     "fair_american": -285
-    },
-    {
-     "desc": "Gabe Perreault Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 275,
-     "fair_prob": 0.2493,
-     "fair_american": 301
-    },
-    {
-     "desc": "Gabe Perreault Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -408,
-     "fair_prob": 0.7507,
-     "fair_american": -301
-    },
-    {
-     "desc": "Connor McDavid Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": -330,
-     "fair_prob": 0.7175,
-     "fair_american": -254
-    },
-    {
-     "desc": "Connor McDavid Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": 231,
-     "fair_prob": 0.2825,
-     "fair_american": 254
-    },
-    {
-     "desc": "Vasily Podkolzin Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 275,
-     "fair_prob": 0.2493,
-     "fair_american": 301
-    },
-    {
-     "desc": "Vasily Podkolzin Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -408,
-     "fair_prob": 0.7507,
-     "fair_american": -301
-    },
-    {
-     "desc": "J.T. Miller Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Over",
-     "points": 1.5,
-     "american": -161,
-     "fair_prob": 0.5757,
-     "fair_american": -136
-    },
-    {
-     "desc": "J.T. Miller Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Under",
-     "points": 1.5,
-     "american": 120,
-     "fair_prob": 0.4243,
-     "fair_american": 136
-    },
-    {
-     "desc": "Pavel Dorofeyev Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 172,
-     "fair_prob": 0.3436,
-     "fair_american": 191
-    },
-    {
-     "desc": "Pavel Dorofeyev Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -236,
-     "fair_prob": 0.6564,
-     "fair_american": -191
-    },
-    {
-     "desc": "Mattias Ekholm Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -248,
-     "fair_prob": 0.6662,
-     "fair_american": -200
-    },
-    {
-     "desc": "Mattias Ekholm Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 180,
-     "fair_prob": 0.3338,
-     "fair_american": 200
-    },
-    {
-     "desc": "Gabe Perreault Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 215,
-     "fair_prob": 0.2967,
-     "fair_american": 237
-    },
-    {
-     "desc": "Gabe Perreault Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -304,
-     "fair_prob": 0.7033,
-     "fair_american": -237
-    },
-    {
-     "desc": "Alexis Lafreniere Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 142,
-     "fair_prob": 0.3863,
-     "fair_american": 159
-    },
-    {
-     "desc": "Alexis Lafreniere Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -191,
-     "fair_prob": 0.6137,
-     "fair_american": -159
-    },
-    {
-     "desc": "Leon Draisaitl Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": -170,
-     "fair_prob": 0.5884,
-     "fair_american": -143
-    },
-    {
-     "desc": "Leon Draisaitl Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": 127,
-     "fair_prob": 0.4116,
-     "fair_american": 143
-    },
-    {
-     "desc": "Zach Hyman Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 215,
-     "fair_prob": 0.2967,
-     "fair_american": 237
-    },
-    {
-     "desc": "Zach Hyman Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -304,
-     "fair_prob": 0.7033,
-     "fair_american": -237
-    },
-    {
-     "desc": "Ryan Nugent-Hopkins Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 148,
-     "fair_prob": 0.3769,
-     "fair_american": 165
-    },
-    {
-     "desc": "Ryan Nugent-Hopkins Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -200,
-     "fair_prob": 0.6231,
-     "fair_american": -165
-    },
-    {
-     "desc": "Mika Zibanejad Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 136,
-     "fair_prob": 0.3959,
-     "fair_american": 153
-    },
-    {
-     "desc": "Mika Zibanejad Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -183,
-     "fair_prob": 0.6041,
-     "fair_american": -153
-    },
-    {
-     "desc": "Pavel Dorofeyev Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Over",
-     "points": 2.5,
-     "american": -110,
-     "fair_prob": 0.4918,
-     "fair_american": 103
-    },
-    {
-     "desc": "Pavel Dorofeyev Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Under",
-     "points": 2.5,
-     "american": -118,
-     "fair_prob": 0.5082,
-     "fair_american": -103
-    },
-    {
-     "desc": "Gabe Perreault Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Over",
-     "points": 1.5,
-     "american": -152,
-     "fair_prob": 0.5658,
-     "fair_american": -130
-    },
-    {
-     "desc": "Gabe Perreault Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Under",
-     "points": 1.5,
-     "american": 116,
-     "fair_prob": 0.4342,
-     "fair_american": 130
-    },
-    {
-     "desc": "Zach Hyman Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 180,
-     "fair_prob": 0.3333,
-     "fair_american": 200
-    },
-    {
-     "desc": "Zach Hyman Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -250,
-     "fair_prob": 0.6667,
-     "fair_american": -200
-    },
-    {
-     "desc": "Pavel Dorofeyev Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 180,
-     "fair_prob": 0.3338,
-     "fair_american": 200
-    },
-    {
-     "desc": "Pavel Dorofeyev Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -248,
-     "fair_prob": 0.6662,
-     "fair_american": -200
-    },
-    {
-     "desc": "Alexis Lafreniere Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Over",
-     "points": 1.5,
-     "american": -182,
-     "fair_prob": 0.6037,
-     "fair_american": -152
-    },
-    {
-     "desc": "Alexis Lafreniere Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Under",
-     "points": 1.5,
-     "american": 136,
-     "fair_prob": 0.3963,
-     "fair_american": 152
-    },
-    {
-     "desc": "J.T. Miller Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 152,
-     "fair_prob": 0.3709,
-     "fair_american": 170
-    },
-    {
-     "desc": "J.T. Miller Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -206,
-     "fair_prob": 0.6291,
-     "fair_american": -170
-    },
-    {
-     "desc": "Connor McDavid Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 115,
-     "fair_prob": 0.4347,
-     "fair_american": 130
-    },
-    {
-     "desc": "Connor McDavid Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -153,
-     "fair_prob": 0.5653,
-     "fair_american": -130
-    },
-    {
-     "desc": "Mika Zibanejad Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 220,
-     "fair_prob": 0.2921,
-     "fair_american": 242
-    },
-    {
-     "desc": "Mika Zibanejad Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -312,
-     "fair_prob": 0.7079,
-     "fair_american": -242
-    },
-    {
-     "desc": "Mika Zibanejad Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Over",
-     "points": 2.5,
-     "american": 142,
-     "fair_prob": 0.3876,
-     "fair_american": 158
-    },
-    {
-     "desc": "Mika Zibanejad Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Under",
-     "points": 2.5,
-     "american": -188,
-     "fair_prob": 0.6124,
-     "fair_american": -158
-    },
-    {
-     "desc": "Evan Bouchard Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": -171,
-     "fair_prob": 0.5899,
-     "fair_american": -144
-    },
-    {
-     "desc": "Evan Bouchard Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": 128,
-     "fair_prob": 0.4101,
-     "fair_american": 144
     }
    ]
   },
@@ -592,213 +648,87 @@
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": 119,
-     "fair_prob": 0.4429,
-     "fair_american": 126
+     "american": 121,
+     "fair_prob": 0.4414,
+     "fair_american": 127
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": -135,
-     "fair_prob": 0.5571,
-     "fair_american": -126
+     "american": -134,
+     "fair_prob": 0.5586,
+     "fair_american": -127
     },
     {
      "type": "spread",
      "side": "home",
      "points": 1.5,
-     "american": -220,
-     "fair_prob": 0.6629,
-     "fair_american": -197
+     "american": -215,
+     "fair_prob": 0.662,
+     "fair_american": -196
     },
     {
      "type": "spread",
      "side": "away",
      "points": -1.5,
-     "american": 186,
-     "fair_prob": 0.3371,
-     "fair_american": 197
+     "american": 187,
+     "fair_prob": 0.338,
+     "fair_american": 196
     },
     {
      "type": "total",
      "side": "over",
-     "points": 6.0,
-     "american": -119,
-     "fair_prob": 0.5257,
-     "fair_american": -111
+     "points": 6.5,
+     "american": 101,
+     "fair_prob": 0.4839,
+     "fair_american": 107
     },
     {
      "type": "total",
      "side": "under",
-     "points": 6.0,
-     "american": 104,
-     "fair_prob": 0.4743,
-     "fair_american": 111
+     "points": 6.5,
+     "american": -113,
+     "fair_prob": 0.5161,
+     "fair_american": -107
     }
    ],
    "props": [
     {
-     "desc": "Matthew Schaefer Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": -128,
-     "fair_prob": 0.5253,
-     "fair_american": -111
-    },
-    {
-     "desc": "Matthew Schaefer Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -103,
-     "fair_prob": 0.4747,
-     "fair_american": 111
-    },
-    {
-     "desc": "Kyle Palmieri Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 151,
-     "fair_prob": 0.3725,
-     "fair_american": 168
-    },
-    {
-     "desc": "Kyle Palmieri Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -204,
-     "fair_prob": 0.6275,
-     "fair_american": -168
-    },
-    {
-     "desc": "Anthony Duclair Total Goals",
+     "desc": "Mason Marchment Total Goals",
      "units": "Goals",
      "outcome": "Over",
      "points": 0.5,
-     "american": 360,
-     "fair_prob": 0.2032,
-     "fair_american": 392
+     "american": 300,
+     "fair_prob": 0.2337,
+     "fair_american": 328
     },
     {
-     "desc": "Anthony Duclair Total Goals",
+     "desc": "Mason Marchment Total Goals",
      "units": "Goals",
      "outcome": "Under",
      "points": 0.5,
-     "american": -577,
-     "fair_prob": 0.7968,
-     "fair_american": -392
+     "american": -455,
+     "fair_prob": 0.7663,
+     "fair_american": -328
     },
     {
-     "desc": "Will Smith Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 132,
-     "fair_prob": 0.4028,
-     "fair_american": 148
-    },
-    {
-     "desc": "Will Smith Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -177,
-     "fair_prob": 0.5972,
-     "fair_american": -148
-    },
-    {
-     "desc": "Michael Misa Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 164,
-     "fair_prob": 0.354,
-     "fair_american": 183
-    },
-    {
-     "desc": "Michael Misa Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -224,
-     "fair_prob": 0.646,
-     "fair_american": -183
-    },
-    {
-     "desc": "Macklin Celebrini Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": -146,
-     "fair_prob": 0.5548,
-     "fair_american": -125
-    },
-    {
-     "desc": "Macklin Celebrini Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": 110,
-     "fair_prob": 0.4452,
-     "fair_american": 125
-    },
-    {
-     "desc": "Macklin Celebrini Total Goals",
+     "desc": "Matthew Schaefer Total Goals",
      "units": "Goals",
      "outcome": "Over",
      "points": 0.5,
-     "american": 130,
-     "fair_prob": 0.4064,
-     "fair_american": 146
+     "american": 250,
+     "fair_prob": 0.2671,
+     "fair_american": 274
     },
     {
-     "desc": "Macklin Celebrini Total Goals",
+     "desc": "Matthew Schaefer Total Goals",
      "units": "Goals",
      "outcome": "Under",
      "points": 0.5,
-     "american": -174,
-     "fair_prob": 0.5936,
-     "fair_american": -146
-    },
-    {
-     "desc": "Tyler Toffoli Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 200,
-     "fair_prob": 0.3117,
-     "fair_american": 221
-    },
-    {
-     "desc": "Tyler Toffoli Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -279,
-     "fair_prob": 0.6883,
-     "fair_american": -221
-    },
-    {
-     "desc": "Simon Holmstrom Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 230,
-     "fair_prob": 0.2832,
-     "fair_american": 253
-    },
-    {
-     "desc": "Simon Holmstrom Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -329,
-     "fair_prob": 0.7168,
-     "fair_american": -253
+     "american": -363,
+     "fair_prob": 0.7329,
+     "fair_american": -274
     },
     {
      "desc": "Bo Horvat Total Assists",
@@ -819,40 +749,22 @@
      "fair_american": -142
     },
     {
-     "desc": "Will Smith Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Over",
-     "points": 2.5,
-     "american": 106,
-     "fair_prob": 0.4557,
-     "fair_american": 119
-    },
-    {
-     "desc": "Will Smith Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Under",
-     "points": 2.5,
-     "american": -138,
-     "fair_prob": 0.5443,
-     "fair_american": -119
-    },
-    {
      "desc": "Ivar Stenberg Total Assists",
      "units": "Assists",
      "outcome": "Over",
      "points": 0.5,
-     "american": 152,
-     "fair_prob": 0.3709,
-     "fair_american": 170
+     "american": 190,
+     "fair_prob": 0.3225,
+     "fair_american": 210
     },
     {
      "desc": "Ivar Stenberg Total Assists",
      "units": "Assists",
      "outcome": "Under",
      "points": 0.5,
-     "american": -206,
-     "fair_prob": 0.6291,
-     "fair_american": -170
+     "american": -263,
+     "fair_prob": 0.6775,
+     "fair_american": -210
     },
     {
      "desc": "Brayden Schenn Total Assists",
@@ -873,40 +785,58 @@
      "fair_american": -152
     },
     {
-     "desc": "Ivar Stenberg Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -417,
-     "fair_prob": 0.754,
-     "fair_american": -306
-    },
-    {
-     "desc": "Ivar Stenberg Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 280,
-     "fair_prob": 0.246,
-     "fair_american": 306
-    },
-    {
-     "desc": "Tyler Toffoli Total Shots On Goal",
+     "desc": "Macklin Celebrini Total Shots On Goal",
      "units": "Shots On Goal",
      "outcome": "Over",
-     "points": 1.5,
-     "american": -198,
-     "fair_prob": 0.6242,
-     "fair_american": -166
+     "points": 3.5,
+     "american": -120,
+     "fair_prob": 0.5101,
+     "fair_american": -104
     },
     {
-     "desc": "Tyler Toffoli Total Shots On Goal",
+     "desc": "Macklin Celebrini Total Shots On Goal",
      "units": "Shots On Goal",
      "outcome": "Under",
-     "points": 1.5,
-     "american": 150,
-     "fair_prob": 0.3758,
-     "fair_american": 166
+     "points": 3.5,
+     "american": -110,
+     "fair_prob": 0.4899,
+     "fair_american": 104
+    },
+    {
+     "desc": "Victor Eklund Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 190,
+     "fair_prob": 0.3222,
+     "fair_american": 210
+    },
+    {
+     "desc": "Victor Eklund Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -264,
+     "fair_prob": 0.6778,
+     "fair_american": -210
+    },
+    {
+     "desc": "Simon Holmstrom Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 190,
+     "fair_prob": 0.3222,
+     "fair_american": 210
+    },
+    {
+     "desc": "Simon Holmstrom Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -264,
+     "fair_prob": 0.6778,
+     "fair_american": -210
     },
     {
      "desc": "Bo Horvat Total Goals",
@@ -927,76 +857,40 @@
      "fair_american": -151
     },
     {
-     "desc": "Matthew Schaefer Total Goals",
+     "desc": "Macklin Celebrini Total Goals",
      "units": "Goals",
      "outcome": "Over",
      "points": 0.5,
-     "american": 250,
-     "fair_prob": 0.2671,
-     "fair_american": 274
+     "american": 130,
+     "fair_prob": 0.4064,
+     "fair_american": 146
     },
     {
-     "desc": "Matthew Schaefer Total Goals",
+     "desc": "Macklin Celebrini Total Goals",
      "units": "Goals",
      "outcome": "Under",
      "points": 0.5,
-     "american": -363,
-     "fair_prob": 0.7329,
-     "fair_american": -274
+     "american": -174,
+     "fair_prob": 0.5936,
+     "fair_american": -146
     },
     {
-     "desc": "Mason Marchment Total Goals",
+     "desc": "Simon Holmstrom Total Goals",
      "units": "Goals",
      "outcome": "Over",
      "points": 0.5,
-     "american": 300,
-     "fair_prob": 0.2337,
-     "fair_american": 328
+     "american": 230,
+     "fair_prob": 0.2832,
+     "fair_american": 253
     },
     {
-     "desc": "Mason Marchment Total Goals",
+     "desc": "Simon Holmstrom Total Goals",
      "units": "Goals",
      "outcome": "Under",
      "points": 0.5,
-     "american": -455,
-     "fair_prob": 0.7663,
-     "fair_american": -328
-    },
-    {
-     "desc": "Simon Holmstrom Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 190,
-     "fair_prob": 0.3222,
-     "fair_american": 210
-    },
-    {
-     "desc": "Simon Holmstrom Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -264,
-     "fair_prob": 0.6778,
-     "fair_american": -210
-    },
-    {
-     "desc": "Macklin Celebrini Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Over",
-     "points": 3.5,
-     "american": -120,
-     "fair_prob": 0.5101,
-     "fair_american": -104
-    },
-    {
-     "desc": "Macklin Celebrini Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Under",
-     "points": 3.5,
-     "american": -110,
-     "fair_prob": 0.4899,
-     "fair_american": 104
+     "american": -329,
+     "fair_prob": 0.7168,
+     "fair_american": -253
     },
     {
      "desc": "Will Smith Total Goals",
@@ -1017,22 +911,112 @@
      "fair_american": -200
     },
     {
-     "desc": "Michael Misa Total Goals",
+     "desc": "Kyle Palmieri Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 151,
+     "fair_prob": 0.3725,
+     "fair_american": 168
+    },
+    {
+     "desc": "Kyle Palmieri Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -204,
+     "fair_prob": 0.6275,
+     "fair_american": -168
+    },
+    {
+     "desc": "Will Smith Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 132,
+     "fair_prob": 0.4028,
+     "fair_american": 148
+    },
+    {
+     "desc": "Will Smith Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -177,
+     "fair_prob": 0.5972,
+     "fair_american": -148
+    },
+    {
+     "desc": "Macklin Celebrini Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": -146,
+     "fair_prob": 0.5548,
+     "fair_american": -125
+    },
+    {
+     "desc": "Macklin Celebrini Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": 110,
+     "fair_prob": 0.4452,
+     "fair_american": 125
+    },
+    {
+     "desc": "Kyle Palmieri Total Goals",
      "units": "Goals",
      "outcome": "Over",
      "points": 0.5,
-     "american": 340,
-     "fair_prob": 0.2124,
-     "fair_american": 371
+     "american": 240,
+     "fair_prob": 0.2732,
+     "fair_american": 266
     },
     {
-     "desc": "Michael Misa Total Goals",
+     "desc": "Kyle Palmieri Total Goals",
      "units": "Goals",
      "outcome": "Under",
      "points": 0.5,
-     "american": -535,
-     "fair_prob": 0.7876,
-     "fair_american": -371
+     "american": -360,
+     "fair_prob": 0.7268,
+     "fair_american": -266
+    },
+    {
+     "desc": "Tony DeAngelo Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 156,
+     "fair_prob": 0.365,
+     "fair_american": 174
+    },
+    {
+     "desc": "Tony DeAngelo Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -212,
+     "fair_prob": 0.635,
+     "fair_american": -174
+    },
+    {
+     "desc": "Will Smith Total Shots On Goal",
+     "units": "Shots On Goal",
+     "outcome": "Over",
+     "points": 2.5,
+     "american": 106,
+     "fair_prob": 0.4557,
+     "fair_american": 119
+    },
+    {
+     "desc": "Will Smith Total Shots On Goal",
+     "units": "Shots On Goal",
+     "outcome": "Under",
+     "points": 2.5,
+     "american": -138,
+     "fair_prob": 0.5443,
+     "fair_american": -119
     },
     {
      "desc": "Victor Eklund Total Goals",
@@ -1053,22 +1037,76 @@
      "fair_american": -349
     },
     {
-     "desc": "Mason Marchment Total Shots On Goal",
+     "desc": "Ivar Stenberg Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -417,
+     "fair_prob": 0.754,
+     "fair_american": -306
+    },
+    {
+     "desc": "Ivar Stenberg Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 280,
+     "fair_prob": 0.246,
+     "fair_american": 306
+    },
+    {
+     "desc": "Anthony Duclair Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 360,
+     "fair_prob": 0.2032,
+     "fair_american": 392
+    },
+    {
+     "desc": "Anthony Duclair Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -577,
+     "fair_prob": 0.7968,
+     "fair_american": -392
+    },
+    {
+     "desc": "Tyler Toffoli Total Shots On Goal",
      "units": "Shots On Goal",
      "outcome": "Over",
      "points": 1.5,
-     "american": -126,
-     "fair_prob": 0.5212,
-     "fair_american": -109
+     "american": -198,
+     "fair_prob": 0.6242,
+     "fair_american": -166
     },
     {
-     "desc": "Mason Marchment Total Shots On Goal",
+     "desc": "Tyler Toffoli Total Shots On Goal",
      "units": "Shots On Goal",
      "outcome": "Under",
      "points": 1.5,
-     "american": -105,
-     "fair_prob": 0.4788,
-     "fair_american": 109
+     "american": 150,
+     "fair_prob": 0.3758,
+     "fair_american": 166
+    },
+    {
+     "desc": "Michael Misa Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 330,
+     "fair_prob": 0.2168,
+     "fair_american": 361
+    },
+    {
+     "desc": "Michael Misa Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -525,
+     "fair_prob": 0.7832,
+     "fair_american": -361
     },
     {
      "desc": "Brayden Schenn Total Goals",
@@ -1089,116 +1127,78 @@
      "fair_american": -274
     },
     {
-     "desc": "Kyle Palmieri Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 250,
-     "fair_prob": 0.2671,
-     "fair_american": 274
-    },
-    {
-     "desc": "Kyle Palmieri Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -363,
-     "fair_prob": 0.7329,
-     "fair_american": -274
-    },
-    {
-     "desc": "Victor Eklund Total Assists",
+     "desc": "Tyler Toffoli Total Assists",
      "units": "Assists",
      "outcome": "Over",
      "points": 0.5,
-     "american": 190,
-     "fair_prob": 0.3222,
-     "fair_american": 210
+     "american": 200,
+     "fair_prob": 0.3117,
+     "fair_american": 221
     },
     {
-     "desc": "Victor Eklund Total Assists",
+     "desc": "Tyler Toffoli Total Assists",
      "units": "Assists",
      "outcome": "Under",
      "points": 0.5,
-     "american": -264,
-     "fair_prob": 0.6778,
-     "fair_american": -210
+     "american": -279,
+     "fair_prob": 0.6883,
+     "fair_american": -221
     },
     {
-     "desc": "Tony DeAngelo Total Assists",
+     "desc": "Mason Marchment Total Shots On Goal",
+     "units": "Shots On Goal",
+     "outcome": "Over",
+     "points": 1.5,
+     "american": -128,
+     "fair_prob": 0.5253,
+     "fair_american": -111
+    },
+    {
+     "desc": "Mason Marchment Total Shots On Goal",
+     "units": "Shots On Goal",
+     "outcome": "Under",
+     "points": 1.5,
+     "american": -103,
+     "fair_prob": 0.4747,
+     "fair_american": 111
+    },
+    {
+     "desc": "Matthew Schaefer Total Assists",
      "units": "Assists",
      "outcome": "Over",
      "points": 0.5,
-     "american": 156,
-     "fair_prob": 0.365,
-     "fair_american": 174
+     "american": -128,
+     "fair_prob": 0.5253,
+     "fair_american": -111
     },
     {
-     "desc": "Tony DeAngelo Total Assists",
+     "desc": "Matthew Schaefer Total Assists",
      "units": "Assists",
      "outcome": "Under",
      "points": 0.5,
-     "american": -212,
-     "fair_prob": 0.635,
-     "fair_american": -174
+     "american": -103,
+     "fair_prob": 0.4747,
+     "fair_american": 111
+    },
+    {
+     "desc": "Michael Misa Total Assists",
+     "units": "Assists",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 164,
+     "fair_prob": 0.354,
+     "fair_american": 183
+    },
+    {
+     "desc": "Michael Misa Total Assists",
+     "units": "Assists",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -224,
+     "fair_prob": 0.646,
+     "fair_american": -183
     }
    ]
-  },
-  {
-   "away": "Philadelphia Flyers",
-   "home": "Vancouver Canucks",
-   "start": "2026-11-10T02:37:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": 116,
-     "fair_prob": 0.4495,
-     "fair_american": 122
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": -131,
-     "fair_prob": 0.5505,
-     "fair_american": -122
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": 1.5,
-     "american": -220,
-     "fair_prob": 0.6629,
-     "fair_american": -197
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": -1.5,
-     "american": 186,
-     "fair_prob": 0.3371,
-     "fair_american": 197
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 6.0,
-     "american": -116,
-     "fair_prob": 0.5191,
-     "fair_american": -108
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 6.0,
-     "american": 101,
-     "fair_prob": 0.4809,
-     "fair_american": 108
-    }
-   ],
-   "props": []
   }
  ]
 }
