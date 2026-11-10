@@ -1,4 +1,4 @@
-# NCAAF ([None]) Pinnacle no-vig, read 2026-11-10 03:03 UTC: 67 games, 0 props
+# NCAAF ([None]) Pinnacle no-vig, read 2026-11-10 05:09 UTC: 67 games, 0 props
 
 ## Kent State @ Bowling Green  2026-11-11T00:00:00Z
 - moneyline home : -210 (fair -188)
@@ -9,11 +9,11 @@
 - total under 44.0: -110 (fair -101)
 ## Western Michigan @ Akron  2026-11-11T00:00:00Z
 - moneyline home : 465 (fair 490)
-- moneyline away : -656 (fair -490)
+- moneyline away : -657 (fair -490)
 - spread home 14.0: -102 (fair 106)
 - spread away -14.0: -115 (fair -106)
-- total over 48.0: -115 (fair -105)
-- total under 48.0: -103 (fair 105)
+- total over 48.0: -117 (fair -107)
+- total under 48.0: -102 (fair 107)
 ## Ohio @ Miami Ohio  2026-11-11T01:00:00Z
 - moneyline home : -100 (fair 107)
 - moneyline away : -114 (fair -107)
@@ -21,13 +21,6 @@
 - spread away -1.0: -109 (fair -101)
 - total over 47.5: 100 (fair 109)
 - total under 47.5: -119 (fair -109)
-## Sacramento State @ Central Michigan  2026-11-12T00:30:00Z
-- moneyline home : -1042 (fair -693)
-- moneyline away : 659 (fair 693)
-- spread home -18.0: -111 (fair -103)
-- spread away 18.0: -105 (fair 103)
-- total over 44.0: -110 (fair -101)
-- total under 44.0: -108 (fair 101)
 ## Buffalo @ Ball State  2026-11-12T00:30:00Z
 - moneyline home : 118 (fair 126)
 - moneyline away : -136 (fair -126)
@@ -42,6 +35,13 @@
 - spread away 14.5: -114 (fair -105)
 - total over 52.0: -106 (fair 103)
 - total under 52.0: -113 (fair -103)
+## Sacramento State @ Central Michigan  2026-11-12T00:30:00Z
+- moneyline home : -1042 (fair -693)
+- moneyline away : 659 (fair 693)
+- spread home -18.0: -111 (fair -103)
+- spread away 18.0: -105 (fair 103)
+- total over 44.0: -110 (fair -101)
+- total under 44.0: -108 (fair 101)
 ## Memphis @ South Florida  2026-11-13T01:00:00Z
 - moneyline home : 157 (fair 166)
 - moneyline away : -183 (fair -166)
@@ -84,34 +84,6 @@
 - spread away -2.5: -113 (fair -105)
 - total over 50.0: -109 (fair 100)
 - total under 50.0: -109 (fair 100)
-## Wake Forest @ SMU  2026-11-14T17:00:00Z
-- moneyline home : -107 (fair 100)
-- moneyline away : -107 (fair 100)
-- spread home -1.0: -104 (fair 104)
-- spread away 1.0: -112 (fair -104)
-- total over 61.0: -103 (fair 105)
-- total under 61.0: -115 (fair -105)
-## Northwestern @ Ohio State  2026-11-14T17:00:00Z
-- moneyline home : -493 (fair -392)
-- moneyline away : 371 (fair 392)
-- spread home -12.5: -110 (fair -102)
-- spread away 12.5: -106 (fair 102)
-- total over 46.5: -110 (fair -101)
-- total under 46.5: -108 (fair 101)
-## Purdue @ Iowa  2026-11-14T17:00:00Z
-- moneyline home : -962 (fair -653)
-- moneyline away : 621 (fair 653)
-- spread home -17.5: -108 (fair 100)
-- spread away 17.5: -108 (fair 100)
-- total over 48.0: -106 (fair 103)
-- total under 48.0: -112 (fair -103)
-## James Madison @ Connecticut  2026-11-14T17:00:00Z
-- moneyline home : 157 (fair 166)
-- moneyline away : -183 (fair -166)
-- spread home 3.5: -104 (fair 104)
-- spread away -3.5: -112 (fair -104)
-- total over 57.5: -109 (fair 100)
-- total under 57.5: -109 (fair 100)
 ## Duke @ Miami Florida  2026-11-14T17:00:00Z
 - moneyline home : -560 (fair -433)
 - moneyline away : 410 (fair 433)
@@ -119,20 +91,6 @@
 - spread away 13.5: -108 (fair 100)
 - total over 54.0: -109 (fair 100)
 - total under 54.0: -109 (fair 100)
-## Kansas @ West Virginia  2026-11-14T17:00:00Z
-- moneyline home : -143 (fair -132)
-- moneyline away : 124 (fair 132)
-- spread home -3.0: -100 (fair 107)
-- spread away 3.0: -116 (fair -107)
-- total over 67.5: -107 (fair 102)
-- total under 67.5: -111 (fair -102)
-## Cincinnati @ Iowa State  2026-11-14T17:00:00Z
-- moneyline home : -155 (fair -143)
-- moneyline away : 135 (fair 143)
-- spread home -3.0: -115 (fair -106)
-- spread away 3.0: -102 (fair 106)
-- total over 60.5: -106 (fair 103)
-- total under 60.5: -112 (fair -103)
 ## Louisville @ North Carolina  2026-11-14T17:00:00Z
 - moneyline home : 147 (fair 156)
 - moneyline away : -171 (fair -156)
@@ -140,6 +98,48 @@
 - spread away -3.5: -103 (fair 105)
 - total over 60.0: -113 (fair -104)
 - total under 60.0: -105 (fair 104)
+## Cincinnati @ Iowa State  2026-11-14T17:00:00Z
+- moneyline home : -155 (fair -143)
+- moneyline away : 135 (fair 143)
+- spread home -3.0: -115 (fair -106)
+- spread away 3.0: -102 (fair 106)
+- total over 60.5: -106 (fair 103)
+- total under 60.5: -112 (fair -103)
+## Northwestern @ Ohio State  2026-11-14T17:00:00Z
+- moneyline home : -493 (fair -392)
+- moneyline away : 371 (fair 392)
+- spread home -12.5: -110 (fair -102)
+- spread away 12.5: -106 (fair 102)
+- total over 46.5: -110 (fair -101)
+- total under 46.5: -108 (fair 101)
+## Kansas @ West Virginia  2026-11-14T17:00:00Z
+- moneyline home : -143 (fair -132)
+- moneyline away : 124 (fair 132)
+- spread home -3.0: -100 (fair 107)
+- spread away 3.0: -116 (fair -107)
+- total over 67.5: -107 (fair 102)
+- total under 67.5: -111 (fair -102)
+## James Madison @ Connecticut  2026-11-14T17:00:00Z
+- moneyline home : 157 (fair 166)
+- moneyline away : -183 (fair -166)
+- spread home 3.5: -104 (fair 104)
+- spread away -3.5: -112 (fair -104)
+- total over 57.5: -109 (fair 100)
+- total under 57.5: -109 (fair 100)
+## Wake Forest @ SMU  2026-11-14T17:00:00Z
+- moneyline home : -107 (fair 100)
+- moneyline away : -107 (fair 100)
+- spread home -1.0: -104 (fair 104)
+- spread away 1.0: -112 (fair -104)
+- total over 61.0: -103 (fair 105)
+- total under 61.0: -115 (fair -105)
+## Purdue @ Iowa  2026-11-14T17:00:00Z
+- moneyline home : -962 (fair -653)
+- moneyline away : 621 (fair 653)
+- spread home -17.5: -108 (fair 100)
+- spread away 17.5: -108 (fair 100)
+- total over 48.0: -106 (fair 103)
+- total under 48.0: -112 (fair -103)
 ## Wisconsin @ Maryland  2026-11-14T17:00:00Z
 - moneyline home : 267 (fair 282)
 - moneyline away : -332 (fair -282)
@@ -154,13 +154,6 @@
 - spread away -2.5: -118 (fair -109)
 - total over 54.0: -102 (fair 106)
 - total under 54.0: -116 (fair -106)
-## Nebraska @ Rutgers  2026-11-14T17:30:00Z
-- moneyline home : 407 (fair 429)
-- moneyline away : -554 (fair -429)
-- spread home 13.5: -109 (fair -101)
-- spread away -13.5: -107 (fair 101)
-- total over 52.0: -108 (fair 101)
-- total under 52.0: -110 (fair -101)
 ## Georgia Tech @ Clemson  2026-11-14T17:30:00Z
 - moneyline home : -554 (fair -429)
 - moneyline away : 407 (fair 429)
@@ -168,6 +161,13 @@
 - spread away 13.5: -109 (fair -101)
 - total over 48.0: -109 (fair 100)
 - total under 48.0: -109 (fair 100)
+## Nebraska @ Rutgers  2026-11-14T17:30:00Z
+- moneyline home : 407 (fair 429)
+- moneyline away : -554 (fair -429)
+- spread home 13.5: -109 (fair -101)
+- spread away -13.5: -107 (fair 101)
+- total over 52.0: -108 (fair 101)
+- total under 52.0: -110 (fair -101)
 ## Alabama @ Vanderbilt  2026-11-14T17:45:00Z
 - moneyline home : 601 (fair 632)
 - moneyline away : -920 (fair -632)
@@ -175,6 +175,13 @@
 - spread away -16.5: -104 (fair 104)
 - total over 51.0: 100 (fair 109)
 - total under 51.0: -119 (fair -109)
+## UAB @ Temple  2026-11-14T18:00:00Z
+- moneyline home : -129 (fair -119)
+- moneyline away : 112 (fair 119)
+- spread home -2.5: -107 (fair 101)
+- spread away 2.5: -109 (fair -101)
+- total over 49.0: -109 (fair 100)
+- total under 49.0: -109 (fair 100)
 ## East Carolina @ Charlotte  2026-11-14T18:00:00Z
 - moneyline home : 366 (fair 386)
 - moneyline away : -485 (fair -386)
@@ -189,13 +196,6 @@
 - spread away 1.5: -108 (fair 100)
 - total over 51.0: -109 (fair 100)
 - total under 51.0: -109 (fair 100)
-## UAB @ Temple  2026-11-14T18:00:00Z
-- moneyline home : -129 (fair -119)
-- moneyline away : 112 (fair 119)
-- spread home -2.5: -107 (fair 101)
-- spread away 2.5: -109 (fair -101)
-- total over 49.0: -109 (fair 100)
-- total under 49.0: -109 (fair 100)
 ## Baylor @ BYU  2026-11-14T19:00:00Z
 - moneyline home : -299 (fair -258)
 - moneyline away : 244 (fair 258)
@@ -203,13 +203,6 @@
 - spread away 7.0: -101 (fair 107)
 - total over 48.5: -112 (fair -103)
 - total under 48.5: -106 (fair 103)
-## Utah @ Arizona  2026-11-14T19:00:00Z
-- moneyline home : 122 (fair 129)
-- moneyline away : -140 (fair -129)
-- spread home 2.5: 100 (fair 108)
-- spread away -2.5: -117 (fair -108)
-- total over 55.0: -106 (fair 103)
-- total under 55.0: -112 (fair -103)
 ## Kansas State @ TCU  2026-11-14T19:00:00Z
 - moneyline home : -387 (fair -321)
 - moneyline away : 304 (fair 321)
@@ -217,6 +210,13 @@
 - spread away 10.0: -108 (fair 100)
 - total over 45.5: -120 (fair -110)
 - total under 45.5: 101 (fair 110)
+## Utah @ Arizona  2026-11-14T19:00:00Z
+- moneyline home : 122 (fair 129)
+- moneyline away : -140 (fair -129)
+- spread home 2.5: 100 (fair 108)
+- spread away -2.5: -117 (fair -108)
+- total over 55.0: -106 (fair 103)
+- total under 55.0: -112 (fair -103)
 ## Tulane @ Rice  2026-11-14T19:00:00Z
 - moneyline home : -131 (fair -121)
 - moneyline away : 114 (fair 121)
@@ -259,20 +259,6 @@
 - spread away 5.0: -108 (fair 100)
 - total over 54.5: -106 (fair 103)
 - total under 54.5: -112 (fair -103)
-## Arizona State @ Central Florida  2026-11-14T20:30:00Z
-- moneyline home : -156 (fair -143)
-- moneyline away : 135 (fair 143)
-- spread home -3.0: -109 (fair -101)
-- spread away 3.0: -107 (fair 101)
-- total over 49.0: -109 (fair 100)
-- total under 49.0: -109 (fair 100)
-## Texas Tech @ Oklahoma State  2026-11-14T20:30:00Z
-- moneyline home : -171 (fair -156)
-- moneyline away : 147 (fair 156)
-- spread home -3.5: -103 (fair 105)
-- spread away 3.5: -113 (fair -105)
-- total over 72.5: -114 (fair -104)
-- total under 72.5: -104 (fair 104)
 ## USC @ Indiana  2026-11-14T20:30:00Z
 - moneyline home : -296 (fair -255)
 - moneyline away : 241 (fair 255)
@@ -280,11 +266,34 @@
 - spread away 7.5: -114 (fair -105)
 - total over 49.5: -109 (fair 100)
 - total under 49.5: -109 (fair 100)
-## Boston College @ Notre Dame  2026-11-14T20:30:00Z
-- spread home -29.0: -107 (fair 101)
-- spread away 29.0: -109 (fair -101)
-- total over 52.5: -108 (fair 101)
-- total under 52.5: -110 (fair -101)
+## Arizona State @ Central Florida  2026-11-14T20:30:00Z
+- moneyline home : -156 (fair -143)
+- moneyline away : 135 (fair 143)
+- spread home -3.0: -109 (fair -101)
+- spread away 3.0: -107 (fair 101)
+- total over 49.0: -109 (fair 100)
+- total under 49.0: -109 (fair 100)
+## Nevada @ Northern Illinois  2026-11-14T20:30:00Z
+- moneyline home : 230 (fair 243)
+- moneyline away : -280 (fair -243)
+- spread home 7.0: -106 (fair 102)
+- spread away -7.0: -110 (fair -102)
+- total over 47.5: -105 (fair 104)
+- total under 47.5: -113 (fair -104)
+## Missouri @ Georgia  2026-11-14T20:30:00Z
+- moneyline home : -713 (fair -522)
+- moneyline away : 495 (fair 522)
+- spread home -14.5: -114 (fair -105)
+- spread away 14.5: -102 (fair 105)
+- total over 47.0: -110 (fair -101)
+- total under 47.0: -108 (fair 101)
+## Jacksonville State @ Western Kentucky  2026-11-14T20:30:00Z
+- moneyline home : 239 (fair 253)
+- moneyline away : -293 (fair -253)
+- spread home 7.5: -117 (fair -108)
+- spread away -7.5: 101 (fair 108)
+- total over 53.5: -109 (fair 100)
+- total under 53.5: -109 (fair 100)
 ## Stanford @ Virginia Tech  2026-11-14T20:30:00Z
 - moneyline home : -698 (fair -514)
 - moneyline away : 488 (fair 514)
@@ -299,13 +308,6 @@
 - spread away -5.5: -105 (fair 103)
 - total over 56.5: -109 (fair 100)
 - total under 56.5: -109 (fair 100)
-## California @ Virginia  2026-11-14T20:30:00Z
-- moneyline home : -443 (fair -358)
-- moneyline away : 339 (fair 358)
-- spread home -10.0: -111 (fair -103)
-- spread away 10.0: -105 (fair 103)
-- total over 47.5: -105 (fair 104)
-- total under 47.5: -113 (fair -104)
 ## Texas @ LSU  2026-11-14T20:30:00Z
 - moneyline home : -183 (fair -166)
 - moneyline away : 157 (fair 166)
@@ -313,27 +315,13 @@
 - spread away 3.5: -105 (fair 103)
 - total over 46.0: -108 (fair 101)
 - total under 46.0: -110 (fair -101)
-## Jacksonville State @ Western Kentucky  2026-11-14T20:30:00Z
-- moneyline home : 239 (fair 253)
-- moneyline away : -293 (fair -253)
-- spread home 7.5: -117 (fair -108)
-- spread away -7.5: 101 (fair 108)
-- total over 53.5: -109 (fair 100)
-- total under 53.5: -109 (fair 100)
-## Florida Atlantic @ Tulsa  2026-11-14T20:30:00Z
-- moneyline home : -218 (fair -195)
-- moneyline away : 184 (fair 195)
-- spread home -6.0: -101 (fair 106)
-- spread away 6.0: -115 (fair -106)
-- total over 74.0: -113 (fair -104)
-- total under 74.0: -105 (fair 104)
-## Nevada @ Northern Illinois  2026-11-14T20:30:00Z
-- moneyline home : 230 (fair 243)
-- moneyline away : -280 (fair -243)
-- spread home 7.0: -106 (fair 102)
-- spread away -7.0: -110 (fair -102)
-- total over 47.5: -105 (fair 104)
-- total under 47.5: -113 (fair -104)
+## Texas Tech @ Oklahoma State  2026-11-14T20:30:00Z
+- moneyline home : -171 (fair -156)
+- moneyline away : 147 (fair 156)
+- spread home -3.5: -103 (fair 105)
+- spread away 3.5: -113 (fair -105)
+- total over 72.5: -114 (fair -104)
+- total under 72.5: -104 (fair 104)
 ## Middle Tennessee State @ Liberty  2026-11-14T20:30:00Z
 - moneyline home : -1537 (fair -910)
 - moneyline away : 869 (fair 910)
@@ -341,13 +329,25 @@
 - spread away 20.5: -102 (fair 105)
 - total over 53.5: -106 (fair 103)
 - total under 53.5: -112 (fair -103)
-## Missouri @ Georgia  2026-11-14T20:30:00Z
-- moneyline home : -713 (fair -522)
-- moneyline away : 495 (fair 522)
-- spread home -14.5: -114 (fair -105)
-- spread away 14.5: -102 (fair 105)
-- total over 47.0: -110 (fair -101)
-- total under 47.0: -108 (fair 101)
+## California @ Virginia  2026-11-14T20:30:00Z
+- moneyline home : -443 (fair -358)
+- moneyline away : 339 (fair 358)
+- spread home -10.0: -111 (fair -103)
+- spread away 10.0: -105 (fair 103)
+- total over 47.5: -105 (fair 104)
+- total under 47.5: -113 (fair -104)
+## Florida Atlantic @ Tulsa  2026-11-14T20:30:00Z
+- moneyline home : -218 (fair -195)
+- moneyline away : 184 (fair 195)
+- spread home -6.0: -101 (fair 106)
+- spread away 6.0: -115 (fair -106)
+- total over 74.0: -113 (fair -104)
+- total under 74.0: -105 (fair 104)
+## Boston College @ Notre Dame  2026-11-14T20:30:00Z
+- spread home -29.0: -107 (fair 101)
+- spread away 29.0: -109 (fair -101)
+- total over 52.5: -108 (fair 101)
+- total under 52.5: -110 (fair -101)
 ## Fresno State @ Texas State  2026-11-14T21:00:00Z
 - moneyline home : -371 (fair -310)
 - moneyline away : 293 (fair 310)
@@ -355,13 +355,6 @@
 - spread away 10.0: -115 (fair -106)
 - total over 60.5: -101 (fair 108)
 - total under 60.5: -118 (fair -108)
-## Mississippi @ Oklahoma  2026-11-14T21:15:00Z
-- moneyline home : -105 (fair 102)
-- moneyline away : -109 (fair -102)
-- spread home 1.0: -112 (fair -104)
-- spread away -1.0: -104 (fair 104)
-- total over 49.5: -105 (fair 104)
-- total under 49.5: -113 (fair -104)
 ## Washington @ Michigan State  2026-11-14T21:15:00Z
 - moneyline home : 149 (fair 158)
 - moneyline away : -173 (fair -158)
@@ -369,6 +362,13 @@
 - spread away -3.5: -107 (fair 101)
 - total over 43.0: -109 (fair 100)
 - total under 43.0: -109 (fair 100)
+## Mississippi @ Oklahoma  2026-11-14T21:15:00Z
+- moneyline home : -105 (fair 102)
+- moneyline away : -109 (fair -102)
+- spread home 1.0: -112 (fair -104)
+- spread away -1.0: -104 (fair 104)
+- total over 49.5: -105 (fair 104)
+- total under 49.5: -113 (fair -104)
 ## Southern Miss @ Louisiana Tech  2026-11-14T22:00:00Z
 - moneyline home : -959 (fair -652)
 - moneyline away : 620 (fair 652)
@@ -397,13 +397,6 @@
 - spread away 3.5: -114 (fair -105)
 - total over 53.0: -106 (fair 103)
 - total under 53.0: -112 (fair -103)
-## Troy @ South Alabama  2026-11-15T00:00:00Z
-- moneyline home : -151 (fair -138)
-- moneyline away : 130 (fair 138)
-- spread home -3.0: -109 (fair -101)
-- spread away 3.0: -107 (fair 101)
-- total over 56.0: -109 (fair 100)
-- total under 56.0: -109 (fair 100)
 ## Minnesota @ Penn State  2026-11-15T00:00:00Z
 - moneyline home : -353 (fair -297)
 - moneyline away : 281 (fair 297)
@@ -411,6 +404,13 @@
 - spread away 9.0: -106 (fair 102)
 - total over 42.0: -110 (fair -101)
 - total under 42.0: -108 (fair 101)
+## Troy @ South Alabama  2026-11-15T00:00:00Z
+- moneyline home : -151 (fair -138)
+- moneyline away : 130 (fair 138)
+- spread home -3.0: -109 (fair -101)
+- spread away 3.0: -107 (fair 101)
+- total over 56.0: -109 (fair 100)
+- total under 56.0: -109 (fair 100)
 ## San Jose State @ Air Force  2026-11-15T00:00:00Z
 - moneyline home : -489 (fair -389)
 - moneyline away : 368 (fair 389)
