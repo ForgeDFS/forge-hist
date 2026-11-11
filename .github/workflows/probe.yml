@@ -1,0 +1,13 @@
+name: probe
+on: { workflow_dispatch: {} }
+permissions: { contents: write }
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -q requests && python tools/book_probe.py
+      - run: |
+          git config user.name "FORGE"; git config user.email "noreply@anthropic.com"; git add data/live/probe; git commit -qm "book probe" || exit 0
+          for i in 1 2 3 4; do git pull -q --rebase -X theirs origin main && git push -q origin HEAD:main && exit 0; sleep 5; done
