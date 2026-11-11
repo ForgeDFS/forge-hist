@@ -1,5 +1,5 @@
 name: live
-# Public market data for NHL, college football, college basketball: DraftKings lobby/salaries/payout tables + Pinnacle lines & props.
+# Public market data for NHL, college football, college basketball, NBA: DraftKings lobby/salaries/payout tables + Pinnacle lines & props.
 # Public repo = free unlimited Actions minutes. Every 2 hours + on demand.
 on:
   schedule: [{ cron: "17 */2 * * *" }]
@@ -16,8 +16,9 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: pip install -q requests
-      - run: for s in NHL CFB CBB; do SPORT=$s timeout 600 python tools/dk_capture.py scheduled 2>&1 | tail -5 || true; done
+      - run: for s in NHL CFB CBB NBA; do SPORT=$s timeout 600 python tools/dk_capture.py scheduled 2>&1 | tail -5 || true; done
       - run: timeout 300 python tools/pin_odds.py NHL NCAAF NCAAB || true
+      - run: timeout 300 python tools/nba_props.py 2>&1 | tail -3 || true   # (2026-11-11) NBA props snapshot (public odds), raw
       - if: always()
         run: |
           git config user.name "FORGE"; git config user.email "noreply@anthropic.com"
