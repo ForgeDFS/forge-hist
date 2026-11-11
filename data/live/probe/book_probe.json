@@ -1,0 +1,48 @@
+{
+ "at": "2026-11-11T21:31:04.408845+00:00",
+ "results": {
+  "betrivers_kambi": {
+   "status": 200,
+   "bytes": 24516,
+   "json": true
+  },
+  "unibet_kambi": {
+   "status": 400,
+   "bytes": 89,
+   "json": true
+  },
+  "betmgm": {
+   "status": 403,
+   "bytes": 9884,
+   "json": false
+  },
+  "caesars": {
+   "status": 403,
+   "bytes": 919,
+   "json": false
+  },
+  "draftkings_sb": {
+   "status": 403,
+   "bytes": 449,
+   "json": false
+  },
+  "espnbet": {
+   "error": "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'sportsbook.espnbet.com\\', port=443): Max retries exceeded with"
+  },
+  "bovada": {
+   "status": 200,
+   "bytes": 2,
+   "json": true
+  },
+  "prizepicks": {
+   "status": 403,
+   "bytes": 474,
+   "json": true
+  },
+  "underdog": {
+   "status": 426,
+   "bytes": 222,
+   "json": true
+  }
+ }
+}
