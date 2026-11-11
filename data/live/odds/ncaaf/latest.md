@@ -1,4 +1,4 @@
-# NCAAF ([None]) Pinnacle no-vig, read 2026-11-11 23:03 UTC: 64 games, 0 props
+# NCAAF ([None]) Pinnacle no-vig, read 2026-11-11 23:07 UTC: 64 games, 0 props
 
 ## Buffalo @ Ball State  2026-11-12T00:30:00Z
 - moneyline home : 102 (fair 107)

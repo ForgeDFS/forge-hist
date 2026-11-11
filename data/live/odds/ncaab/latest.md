@@ -1,4 +1,4 @@
-# NCAAB ([None]) Pinnacle no-vig, read 2026-11-11 23:03 UTC: 40 games, 0 props
+# NCAAB ([None]) Pinnacle no-vig, read 2026-11-11 23:07 UTC: 40 games, 0 props
 
 ## Bethune Cookman @ San Diego State  2026-11-11T22:00:00Z
 - spread home -19.0: -116 (fair -107)
