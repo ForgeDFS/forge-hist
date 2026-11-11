@@ -18,6 +18,7 @@ jobs:
       - run: pip install -q requests
       - run: for s in NHL CFB CBB NBA; do SPORT=$s timeout 600 python tools/dk_capture.py scheduled 2>&1 | tail -5 || true; done
       - run: timeout 300 python tools/pin_odds.py NHL NCAAF NCAAB || true
+      - run: timeout 300 python tools/kambi_nba.py 2>&1 | tail -2 || true   # (2026-11-11 BOOKS-1) BetRivers NBA raw
       - run: timeout 300 python tools/nba_props.py 2>&1 | tail -3 || true   # (2026-11-11) NBA props snapshot (public odds), raw
       - if: always()
         run: |
