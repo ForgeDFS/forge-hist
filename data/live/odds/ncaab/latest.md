@@ -1,4 +1,4 @@
-# NCAAB ([None]) Pinnacle no-vig, read 2026-11-12 17:17 UTC: 24 games, 0 props
+# NCAAB ([None]) Pinnacle no-vig, read 2026-11-12 17:28 UTC: 24 games, 0 props
 
 ## UMKC @ George Mason  2026-11-12T20:00:00Z
 - moneyline home : -1749 (fair -1023)
