@@ -1,4 +1,4 @@
-# NCAAB ([None]) Pinnacle no-vig, read 2026-11-12 17:15 UTC: 24 games, 0 props
+# NCAAB ([None]) Pinnacle no-vig, read 2026-11-12 17:17 UTC: 24 games, 0 props
 
 ## UMKC @ George Mason  2026-11-12T20:00:00Z
 - moneyline home : -1749 (fair -1023)
@@ -32,10 +32,10 @@
 - total over 169.0: -115 (fair -104)
 - total under 169.0: -105 (fair 104)
 ## Western Michigan @ IPFW  2026-11-13T00:00:00Z
-- moneyline home : 134 (fair 143)
-- moneyline away : -158 (fair -143)
-- spread home 3.5: -112 (fair -104)
-- spread away -3.5: -104 (fair 104)
+- moneyline home : 133 (fair 142)
+- moneyline away : -156 (fair -142)
+- spread home 3.5: -113 (fair -105)
+- spread away -3.5: -103 (fair 105)
 - total over 153.5: -105 (fair 104)
 - total under 153.5: -115 (fair -104)
 ## Monmouth @ Quinnipiac  2026-11-13T00:00:00Z
@@ -88,20 +88,20 @@
 ## MD Eastern Shore @ Rhode Island  2026-11-13T00:00:00Z
 - spread home -24.5: -100 (fair 107)
 - spread away 24.5: -116 (fair -107)
-- total over 137.5: -107 (fair 103)
-- total under 137.5: -113 (fair -103)
+- total over 137.5: -109 (fair 101)
+- total under 137.5: -111 (fair -101)
 ## Southern Utah @ High Point  2026-11-13T00:00:00Z
-- spread home -23.0: -106 (fair 102)
-- spread away 23.0: -110 (fair -102)
-- total over 158.5: -105 (fair 104)
-- total under 158.5: -115 (fair -104)
+- spread home -23.0: -102 (fair 106)
+- spread away 23.0: -115 (fair -106)
+- total over 158.5: -104 (fair 105)
+- total under 158.5: -116 (fair -105)
 ## Cal State Bakersfield @ Western Illinois  2026-11-13T00:00:00Z
-- moneyline home : 347 (fair 364)
-- moneyline away : -439 (fair -364)
-- spread home 9.5: -117 (fair -108)
-- spread away -9.5: -100 (fair 108)
-- total over 146.5: -109 (fair 101)
-- total under 146.5: -111 (fair -101)
+- moneyline home : 342 (fair 359)
+- moneyline away : -432 (fair -359)
+- spread home 9.0: -109 (fair -101)
+- spread away -9.0: -107 (fair 101)
+- total over 146.5: -111 (fair -101)
+- total under 146.5: -109 (fair 101)
 ## Loyola Marymount @ South Alabama  2026-11-13T01:00:00Z
 - moneyline home : -106 (fair 102)
 - moneyline away : -110 (fair -102)
@@ -122,17 +122,17 @@
 - total over 141.5: -114 (fair -104)
 - total under 141.5: -106 (fair 104)
 ## Oklahoma State @ Texas A&M  2026-11-13T01:00:00Z
-- moneyline home : -375 (fair -317)
-- moneyline away : 302 (fair 317)
-- spread home -8.5: -108 (fair 100)
-- spread away 8.5: -108 (fair 100)
+- moneyline home : -370 (fair -313)
+- moneyline away : 298 (fair 313)
+- spread home -8.5: -106 (fair 102)
+- spread away 8.5: -111 (fair -102)
 - total over 178.5: -115 (fair -104)
 - total under 178.5: -105 (fair 104)
 ## West Florida @ Alabama A&M  2026-11-13T01:00:00Z
-- moneyline home : -268 (fair -235)
-- moneyline away : 223 (fair 235)
-- spread home -5.5: -119 (fair -110)
-- spread away 5.5: 102 (fair 110)
+- moneyline home : -258 (fair -227)
+- moneyline away : 215 (fair 227)
+- spread home -5.5: -113 (fair -105)
+- spread away 5.5: -103 (fair 105)
 - total over 148.0: -109 (fair 101)
 - total under 148.0: -111 (fair -101)
 ## New Mexico State @ UTEP  2026-11-13T02:00:00Z
