@@ -1,4 +1,4 @@
-# NCAAB ([None]) Pinnacle no-vig, read 2026-11-12 23:06 UTC: 21 games, 0 props
+# NCAAB ([None]) Pinnacle no-vig, read 2026-11-12 23:15 UTC: 21 games, 0 props
 
 ## Tennessee Tech @ Indiana  2026-11-12T23:30:00Z
 - spread home -25.0: -103 (fair 105)

@@ -1,4 +1,4 @@
-# NCAAF ([None]) Pinnacle no-vig, read 2026-11-12 23:06 UTC: 61 games, 0 props
+# NCAAF ([None]) Pinnacle no-vig, read 2026-11-12 23:15 UTC: 61 games, 0 props
 
 ## Memphis @ South Florida  2026-11-13T01:00:00Z
 - moneyline home : 170 (fair 177)
