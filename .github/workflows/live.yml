@@ -16,8 +16,9 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: pip install -q requests
-      - run: for s in NHL CFB CBB NBA; do SPORT=$s timeout 600 python tools/dk_capture.py scheduled 2>&1 | tail -5 || true; done
+      - run: for s in NHL CFB CBB NBA NFL; do SPORT=$s timeout 600 python tools/dk_capture.py scheduled 2>&1 | tail -5 || true; done
       - run: timeout 300 python tools/pin_odds.py NHL NCAAF NCAAB || true
+      - run: timeout 300 python tools/free_odds.py capture $(cat data/live/nfl_games.txt) 2>&1 | tail -3 || true   # (2026-11-12) NFL props FanDuel + Pinnacle (public), games in data/live/nfl_games.txt
       - run: timeout 300 python tools/kambi_nba.py 2>&1 | tail -2 || true   # (2026-11-11 BOOKS-1) BetRivers NBA raw
       - run: timeout 300 python tools/nba_props.py 2>&1 | tail -3 || true   # (2026-11-11) NBA props snapshot (public odds), raw
       - if: always()
