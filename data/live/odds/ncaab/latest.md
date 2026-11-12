@@ -1,4 +1,4 @@
-# NCAAB ([None]) Pinnacle no-vig, read 2026-11-12 07:38 UTC: 14 games, 0 props
+# NCAAB ([None]) Pinnacle no-vig, read 2026-11-12 09:17 UTC: 14 games, 0 props
 
 ## UMKC @ George Mason  2026-11-12T20:00:00Z
 - moneyline home : -1492 (fair -925)
@@ -19,6 +19,25 @@
 - spread away -3.0: -110 (fair -102)
 - total over 151.0: -114 (fair -104)
 - total under 151.0: -106 (fair 104)
+## Niagara @ Bowling Green  2026-11-13T00:00:00Z
+- moneyline home : -1546 (fair -947)
+- moneyline away : 908 (fair 947)
+- spread home -15.0: -103 (fair 105)
+- spread away 15.0: -113 (fair -105)
+- total over 146.0: -106 (fair 104)
+- total under 146.0: -114 (fair -104)
+## Monmouth @ Quinnipiac  2026-11-13T00:00:00Z
+- moneyline home : -109 (fair -101)
+- moneyline away : -107 (fair 101)
+- spread home -1.0: -104 (fair 104)
+- spread away 1.0: -112 (fair -104)
+- total over 144.0: -114 (fair -104)
+- total under 144.0: -106 (fair 104)
+## Mercer @ West Virginia  2026-11-13T00:00:00Z
+- spread home -26.5: -109 (fair -101)
+- spread away 26.5: -107 (fair 101)
+- total over 151.0: -111 (fair -101)
+- total under 151.0: -109 (fair 101)
 ## Canisius @ Brown  2026-11-13T00:00:00Z
 - moneyline home : -942 (fair -673)
 - moneyline away : 644 (fair 673)
@@ -33,25 +52,13 @@
 - spread away -9.5: -107 (fair 101)
 - total over 151.0: -102 (fair 108)
 - total under 151.0: -119 (fair -108)
-## Monmouth @ Quinnipiac  2026-11-13T00:00:00Z
-- moneyline home : -109 (fair -101)
-- moneyline away : -107 (fair 101)
-- spread home -1.0: -104 (fair 104)
-- spread away 1.0: -112 (fair -104)
-- total over 144.0: -114 (fair -104)
-- total under 144.0: -106 (fair 104)
-## Mercer @ West Virginia  2026-11-13T00:00:00Z
-- spread home -26.5: -109 (fair -101)
-- spread away 26.5: -107 (fair 101)
-- total over 151.0: -111 (fair -101)
-- total under 151.0: -109 (fair 101)
-## Niagara @ Bowling Green  2026-11-13T00:00:00Z
-- moneyline home : -1546 (fair -947)
-- moneyline away : 908 (fair 947)
-- spread home -15.0: -103 (fair 105)
-- spread away 15.0: -113 (fair -105)
-- total over 146.0: -106 (fair 104)
-- total under 146.0: -114 (fair -104)
+## Oklahoma State @ Texas A&M  2026-11-13T01:00:00Z
+- moneyline home : -326 (fair -280)
+- moneyline away : 266 (fair 280)
+- spread home -7.5: -107 (fair 101)
+- spread away 7.5: -109 (fair -101)
+- total over 178.5: -108 (fair 102)
+- total under 178.5: -112 (fair -102)
 ## Richmond @ Southern Illinois  2026-11-13T01:00:00Z
 - moneyline home : 140 (fair 149)
 - moneyline away : -164 (fair -149)
@@ -66,18 +73,6 @@
 - spread away 1.0: -110 (fair -102)
 - total over 142.0: -112 (fair -102)
 - total under 142.0: -108 (fair 102)
-## Oklahoma State @ Texas A&M  2026-11-13T01:00:00Z
-- moneyline home : -326 (fair -280)
-- moneyline away : 266 (fair 280)
-- spread home -7.5: -107 (fair 101)
-- spread away 7.5: -109 (fair -101)
-- total over 178.5: -108 (fair 102)
-- total under 178.5: -112 (fair -102)
-## Montana State @ BYU  2026-11-13T02:00:00Z
-- spread home -23.5: -104 (fair 104)
-- spread away 23.5: -112 (fair -104)
-- total over 164.5: -109 (fair 101)
-- total under 164.5: -111 (fair -101)
 ## New Mexico State @ UTEP  2026-11-13T02:00:00Z
 - moneyline home : -198 (fair -177)
 - moneyline away : 167 (fair 177)
@@ -85,6 +80,11 @@
 - spread away 5.0: -115 (fair -106)
 - total over 143.0: -106 (fair 104)
 - total under 143.0: -114 (fair -104)
+## Montana State @ BYU  2026-11-13T02:00:00Z
+- spread home -23.5: -104 (fair 104)
+- spread away 23.5: -112 (fair -104)
+- total over 164.5: -109 (fair 101)
+- total under 164.5: -111 (fair -101)
 ## Cal Riverside @ San Jose State  2026-11-13T03:00:00Z
 - moneyline home : -355 (fair -302)
 - moneyline away : 287 (fair 302)
