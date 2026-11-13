@@ -1,4 +1,4 @@
-# NCAAF ([None]) Pinnacle no-vig, read 2026-11-13 13:30 UTC: 59 games, 0 props
+# NCAAF ([None]) Pinnacle no-vig, read 2026-11-13 15:07 UTC: 59 games, 0 props
 
 ## Florida State @ Pittsburgh  2026-11-14T00:00:00Z
 - moneyline home : -163 (fair -153)
@@ -8,12 +8,12 @@
 - total over 52.0: -110 (fair -102)
 - total under 52.0: -106 (fair 102)
 ## Illinois @ UCLA  2026-11-14T02:00:00Z
-- moneyline home : -382 (fair -333)
-- moneyline away : 320 (fair 333)
-- spread home -10.0: -103 (fair 103)
-- spread away 10.0: -109 (fair -103)
-- total over 47.5: -115 (fair -106)
-- total under 47.5: -101 (fair 106)
+- moneyline home : -390 (fair -339)
+- moneyline away : 326 (fair 339)
+- spread home -10.0: -106 (fair 100)
+- spread away 10.0: -106 (fair 100)
+- total over 47.5: -116 (fair -107)
+- total under 47.5: -101 (fair 107)
 ## Houston @ Colorado  2026-11-14T03:15:00Z
 - moneyline home : 286 (fair 298)
 - moneyline away : -337 (fair -298)
@@ -120,12 +120,12 @@
 - total over 48.0: -102 (fair 106)
 - total under 48.0: -115 (fair -106)
 ## Kansas State @ TCU  2026-11-14T19:00:00Z
-- moneyline home : -407 (fair -343)
-- moneyline away : 327 (fair 343)
-- spread home -10.5: -107 (fair 100)
-- spread away 10.5: -107 (fair 100)
-- total over 44.5: -107 (fair 101)
-- total under 44.5: -109 (fair -101)
+- moneyline home : -441 (fair -367)
+- moneyline away : 350 (fair 367)
+- spread home -11.5: -107 (fair 100)
+- spread away 11.5: -107 (fair 100)
+- total over 44.5: -108 (fair 100)
+- total under 44.5: -108 (fair 100)
 ## Kennesaw State @ Sam Houston State  2026-11-14T19:00:00Z
 - moneyline home : 228 (fair 239)
 - moneyline away : -270 (fair -239)
@@ -230,13 +230,19 @@
 - total over 54.5: -105 (fair 103)
 - total under 54.5: -111 (fair -103)
 ## Nevada @ Northern Illinois  2026-11-14T20:30:00Z
+- moneyline home : 204 (fair 214)
+- moneyline away : -238 (fair -214)
+- spread home 6.5: -111 (fair -104)
+- spread away -6.5: -103 (fair 104)
+- total over 47.5: -103 (fair 105)
+- total under 47.5: -113 (fair -105)
 ## USC @ Indiana  2026-11-14T20:30:00Z
 - moneyline home : -304 (fair -266)
 - moneyline away : 254 (fair 266)
-- spread home -9.0: -100 (fair 107)
-- spread away 9.0: -114 (fair -107)
-- total over 50.5: -108 (fair 100)
-- total under 50.5: -108 (fair 100)
+- spread home -9.0: -101 (fair 106)
+- spread away 9.0: -114 (fair -106)
+- total over 50.5: -100 (fair 107)
+- total under 50.5: -116 (fair -107)
 ## Fresno State @ Texas State  2026-11-14T21:00:00Z
 - moneyline home : -366 (fair -313)
 - moneyline away : 298 (fair 313)
@@ -287,10 +293,10 @@
 - total over 54.0: -108 (fair 100)
 - total under 54.0: -108 (fair 100)
 ## Florida @ Kentucky  2026-11-14T23:15:00Z
-- moneyline home : -164 (fair -152)
-- moneyline away : 144 (fair 152)
-- spread home -3.5: 101 (fair 108)
-- spread away 3.5: -115 (fair -108)
+- moneyline home : -153 (fair -142)
+- moneyline away : 135 (fair 142)
+- spread home -3.0: -108 (fair -101)
+- spread away 3.0: -106 (fair 101)
 - total over 53.0: -105 (fair 103)
 - total under 53.0: -111 (fair -103)
 ## Troy @ South Alabama  2026-11-15T00:00:00Z
@@ -385,12 +391,12 @@
 - total over 43.0: -108 (fair 100)
 - total under 43.0: -108 (fair 100)
 ## Wyoming @ UTEP  2026-11-15T03:00:00Z
-- moneyline home : 264 (fair 277)
-- moneyline away : -318 (fair -277)
-- spread home 8.5: -106 (fair 101)
-- spread away -8.5: -108 (fair -101)
-- total over 40.5: -109 (fair -101)
-- total under 40.5: -107 (fair 101)
+- moneyline home : 245 (fair 257)
+- moneyline away : -292 (fair -257)
+- spread home 7.5: -113 (fair -106)
+- spread away -7.5: -101 (fair 106)
+- total over 40.5: -107 (fair 101)
+- total under 40.5: -109 (fair -101)
 ## Colorado State @ Washington State  2026-11-15T03:30:00Z
 - moneyline home : -339 (fair -293)
 - moneyline away : 280 (fair 293)
