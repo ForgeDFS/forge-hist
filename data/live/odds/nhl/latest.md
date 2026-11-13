@@ -1,4 +1,4 @@
-# NHL ([None]) Pinnacle no-vig, read 2026-11-13 22:32 UTC: 16 games, 238 props
+# NHL ([None]) Pinnacle no-vig, read 2026-11-13 23:24 UTC: 16 games, 238 props
 
 ## Away Goals (2 Games) @ Home Goals (2 Games)  2026-11-14T02:06:00Z
 - moneyline home : 109 (fair 117)
@@ -13,12 +13,12 @@
 - total over 6.5: 102 (fair 108)
 - total under 6.5: -114 (fair -108)
 ## Nashville Predators @ Vegas Golden Knights  2026-11-14T03:07:00Z
-- moneyline home : -153 (fair -144)
-- moneyline away : 138 (fair 144)
-- spread home -1.5: 156 (fair 164)
-- spread away 1.5: -178 (fair -164)
-- total over 6.0: -108 (fair -102)
-- total under 6.0: -104 (fair 102)
+- moneyline home : -154 (fair -145)
+- moneyline away : 139 (fair 145)
+- spread home -1.5: 155 (fair 163)
+- spread away 1.5: -177 (fair -163)
+- total over 6.0: -110 (fair -104)
+- total under 6.0: -102 (fair 104)
 ## Seattle Kraken @ Carolina Hurricanes  2026-11-14T18:07:00Z
 - moneyline home : -370 (fair -319)
 - moneyline away : 305 (fair 319)
@@ -47,20 +47,6 @@
 - spread away -1.5: 215 (fair 227)
 - total over 6.5: 102 (fair 109)
 - total under 6.5: -117 (fair -109)
-## Minnesota Wild @ Boston Bruins  2026-11-15T00:07:00Z
-- moneyline home : 106 (fair 112)
-- moneyline away : -119 (fair -112)
-- spread home 1.5: -251 (fair -222)
-- spread away -1.5: 210 (fair 222)
-- total over 6.0: -106 (fair 101)
-- total under 6.0: -108 (fair -101)
-## Detroit Red Wings @ Tampa Bay Lightning  2026-11-15T00:07:00Z
-- moneyline home : -220 (fair -199)
-- moneyline away : 190 (fair 199)
-- spread home -1.5: 119 (fair 126)
-- spread away 1.5: -136 (fair -126)
-- total over 6.0: -108 (fair -101)
-- total under 6.0: -106 (fair 101)
 ## Florida Panthers @ St. Louis Blues  2026-11-15T00:07:00Z
 - moneyline home : -105 (fair 101)
 - moneyline away : -107 (fair -101)
@@ -68,6 +54,13 @@
 - spread away -1.5: 232 (fair 245)
 - total over 6.0: 101 (fair 108)
 - total under 6.0: -116 (fair -108)
+## Detroit Red Wings @ Tampa Bay Lightning  2026-11-15T00:07:00Z
+- moneyline home : -220 (fair -199)
+- moneyline away : 190 (fair 199)
+- spread home -1.5: 119 (fair 126)
+- spread away 1.5: -136 (fair -126)
+- total over 6.0: -108 (fair -101)
+- total under 6.0: -106 (fair 101)
 ## Ottawa Senators @ Pittsburgh Penguins  2026-11-15T00:07:00Z
 - moneyline home : 117 (fair 123)
 - moneyline away : -131 (fair -123)
@@ -82,6 +75,13 @@
 - spread away 1.5: -223 (fair -200)
 - total over 5.5: -118 (fair -110)
 - total under 5.5: 103 (fair 110)
+## Minnesota Wild @ Boston Bruins  2026-11-15T00:07:00Z
+- moneyline home : 106 (fair 112)
+- moneyline away : -119 (fair -112)
+- spread home 1.5: -251 (fair -222)
+- spread away -1.5: 210 (fair 222)
+- total over 6.0: -106 (fair 101)
+- total under 6.0: -108 (fair -101)
 ## Buffalo Sabres @ Dallas Stars  2026-11-15T01:07:00Z
 - moneyline home : -132 (fair -123)
 - moneyline away : 117 (fair 123)
