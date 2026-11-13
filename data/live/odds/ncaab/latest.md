@@ -1,99 +1,24 @@
-# NCAAB ([None]) Pinnacle no-vig, read 2026-11-13 00:08 UTC: 18 games, 0 props
+# NCAAB ([None]) Pinnacle no-vig, read 2026-11-13 01:30 UTC: 5 games, 0 props
 
-## Mercyhurst @ Penn State  2026-11-12T23:30:00Z
-- spread home -20.0: -110 (fair -102)
-- spread away 20.0: -106 (fair 102)
-- total over 145.5: -104 (fair 106)
-- total under 145.5: -117 (fair -106)
-## Tennessee Tech @ Indiana  2026-11-12T23:30:00Z
-- spread home -24.0: -116 (fair -107)
-- spread away 24.0: -101 (fair 107)
-- total over 167.0: -120 (fair -109)
-- total under 167.0: -101 (fair 109)
-## Southern Utah @ High Point  2026-11-13T00:00:00Z
-- spread home -22.0: -110 (fair -102)
-- spread away 22.0: -106 (fair 102)
-- total over 158.5: -112 (fair -102)
-- total under 158.5: -108 (fair 102)
-## Canisius @ Brown  2026-11-13T00:00:00Z
-- moneyline home : -920 (fair -661)
-- moneyline away : 633 (fair 661)
-- spread home -13.0: -103 (fair 105)
-- spread away 13.0: -114 (fair -105)
-- total over 135.5: -111 (fair -101)
-- total under 135.5: -109 (fair 101)
-## Cal State Bakersfield @ Western Illinois  2026-11-13T00:00:00Z
-## MD Eastern Shore @ Rhode Island  2026-11-13T00:00:00Z
-- spread home -23.0: -105 (fair 103)
-- spread away 23.0: -111 (fair -103)
-- total over 136.5: -111 (fair -101)
-- total under 136.5: -109 (fair 101)
-## Mercer @ West Virginia  2026-11-13T00:00:00Z
-- spread home -24.5: -105 (fair 103)
-- spread away 24.5: -111 (fair -103)
-- total over 151.0: -113 (fair -103)
-- total under 151.0: -107 (fair 103)
-## Niagara @ Bowling Green  2026-11-13T00:00:00Z
-- moneyline home : -1630 (fair -979)
-- moneyline away : 939 (fair 979)
-- spread home -15.0: -110 (fair -102)
-- spread away 15.0: -106 (fair 102)
-- total over 146.0: -103 (fair 106)
-- total under 146.0: -117 (fair -106)
-## Stetson @ Howard  2026-11-13T00:00:00Z
-- moneyline home : -473 (fair -387)
-- moneyline away : 369 (fair 387)
-- spread home -8.5: -114 (fair -105)
-- spread away 8.5: -103 (fair 105)
-- total over 148.5: -116 (fair -105)
-- total under 148.5: -104 (fair 105)
-## Central Connecticut @ Sacred Heart  2026-11-13T00:00:00Z
-- moneyline home : -251 (fair -221)
-- moneyline away : 209 (fair 221)
-- spread home -6.0: -114 (fair -105)
-- spread away 6.0: -103 (fair 105)
-- total over 145.0: -109 (fair 101)
-- total under 145.0: -111 (fair -101)
+## Southern @ Minnesota  2026-11-13T01:00:00Z
+- spread home -26.5: -105 (fair 103)
+- spread away 26.5: -111 (fair -103)
+- total over 141.5: -117 (fair -106)
+- total under 141.5: -103 (fair 106)
 ## West Florida @ Alabama A&M  2026-11-13T01:00:00Z
-- moneyline home : -209 (fair -187)
-- moneyline away : 176 (fair 187)
-- spread home -4.5: -107 (fair 101)
-- spread away 4.5: -109 (fair -101)
+- moneyline home : -200 (fair -179)
+- moneyline away : 169 (fair 179)
+- spread home -4.5: -104 (fair 104)
+- spread away 4.5: -112 (fair -104)
 - total over 146.0: -120 (fair -109)
 - total under 146.0: -101 (fair 109)
-## Southern @ Minnesota  2026-11-13T01:00:00Z
-- spread home -26.5: -104 (fair 104)
-- spread away 26.5: -113 (fair -104)
-- total over 141.5: -115 (fair -104)
-- total under 141.5: -105 (fair 104)
-## Richmond @ Southern Illinois  2026-11-13T01:00:00Z
-- moneyline home : 123 (fair 132)
-- moneyline away : -144 (fair -132)
-- spread home 2.5: -105 (fair 103)
-- spread away -2.5: -111 (fair -103)
-- total over 150.5: -121 (fair -110)
-- total under 150.5: -100 (fair 110)
-## Loyola Marymount @ South Alabama  2026-11-13T01:00:00Z
-- moneyline home : -106 (fair 102)
-- moneyline away : -110 (fair -102)
-- spread home -1.0: -101 (fair 106)
-- spread away 1.0: -115 (fair -106)
-- total over 141.0: -108 (fair 102)
-- total under 141.0: -112 (fair -102)
-## Oklahoma State @ Texas A&M  2026-11-13T01:00:00Z
-- moneyline home : -350 (fair -298)
-- moneyline away : 283 (fair 298)
-- spread home -8.0: -107 (fair 101)
-- spread away 8.0: -110 (fair -101)
-- total over 178.0: -117 (fair -106)
-- total under 178.0: -103 (fair 106)
 ## New Mexico State @ UTEP  2026-11-13T02:00:00Z
-- moneyline home : -208 (fair -186)
-- moneyline away : 175 (fair 186)
+- moneyline home : -207 (fair -185)
+- moneyline away : 175 (fair 185)
 - spread home -5.0: -109 (fair -101)
 - spread away 5.0: -107 (fair 101)
-- total over 144.0: -118 (fair -107)
-- total under 144.0: -103 (fair 107)
+- total over 145.0: -109 (fair 101)
+- total under 145.0: -111 (fair -101)
 ## Montana State @ BYU  2026-11-13T02:00:00Z
 - spread home -21.5: -110 (fair -102)
 - spread away 21.5: -106 (fair 102)
