@@ -1,4 +1,4 @@
-# NHL ([None]) Pinnacle no-vig, read 2026-11-13 23:41 UTC: 16 games, 238 props
+# NHL ([None]) Pinnacle no-vig, read 2026-11-13 23:55 UTC: 16 games, 238 props
 
 ## Away Goals (2 Games) @ Home Goals (2 Games)  2026-11-14T02:06:00Z
 - moneyline home : 109 (fair 117)
@@ -20,10 +20,10 @@
 - total over 6.0: -110 (fair -104)
 - total under 6.0: -102 (fair 104)
 ## Seattle Kraken @ Carolina Hurricanes  2026-11-14T18:07:00Z
-- moneyline home : -370 (fair -319)
-- moneyline away : 305 (fair 319)
-- spread home -1.5: -140 (fair -129)
-- spread away 1.5: 122 (fair 129)
+- moneyline home : -374 (fair -322)
+- moneyline away : 308 (fair 322)
+- spread home -2.5: 122 (fair 130)
+- spread away 2.5: -141 (fair -130)
 - total over 6.5: 103 (fair 110)
 - total under 6.5: -118 (fair -110)
 ## Winnipeg Jets @ Chicago Blackhawks  2026-11-14T20:37:00Z
@@ -54,6 +54,13 @@
 - spread away -1.5: 232 (fair 245)
 - total over 6.0: 101 (fair 108)
 - total under 6.0: -116 (fair -108)
+## Philadelphia Flyers @ Columbus Blue Jackets  2026-11-15T00:07:00Z
+- moneyline home : -133 (fair -124)
+- moneyline away : 118 (fair 124)
+- spread home -1.5: 189 (fair 200)
+- spread away 1.5: -223 (fair -200)
+- total over 5.5: -118 (fair -110)
+- total under 5.5: 103 (fair 110)
 ## Ottawa Senators @ Pittsburgh Penguins  2026-11-15T00:07:00Z
 - moneyline home : 117 (fair 123)
 - moneyline away : -131 (fair -123)
@@ -75,13 +82,6 @@
 - spread away -1.5: 210 (fair 222)
 - total over 6.0: -106 (fair 101)
 - total under 6.0: -108 (fair -101)
-## Philadelphia Flyers @ Columbus Blue Jackets  2026-11-15T00:07:00Z
-- moneyline home : -133 (fair -124)
-- moneyline away : 118 (fair 124)
-- spread home -1.5: 189 (fair 200)
-- spread away 1.5: -223 (fair -200)
-- total over 5.5: -118 (fair -110)
-- total under 5.5: 103 (fair 110)
 ## Buffalo Sabres @ Dallas Stars  2026-11-15T01:07:00Z
 - moneyline home : -132 (fair -123)
 - moneyline away : 117 (fair 123)
