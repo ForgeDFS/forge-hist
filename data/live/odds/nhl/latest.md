@@ -1,4 +1,4 @@
-# NHL ([None]) Pinnacle no-vig, read 2026-11-13 23:55 UTC: 16 games, 238 props
+# NHL ([None]) Pinnacle no-vig, read 2026-11-14 00:12 UTC: 16 games, 238 props
 
 ## Away Goals (2 Games) @ Home Goals (2 Games)  2026-11-14T02:06:00Z
 - moneyline home : 109 (fair 117)
@@ -6,10 +6,10 @@
 - total over 12.5: -110 (fair -102)
 - total under 12.5: -106 (fair 102)
 ## New York Rangers @ Vancouver Canucks  2026-11-14T02:07:00Z
-- moneyline home : 182 (fair 189)
-- moneyline away : -204 (fair -189)
-- spread home 1.5: -133 (fair -124)
-- spread away -1.5: 118 (fair 124)
+- moneyline home : 184 (fair 191)
+- moneyline away : -207 (fair -191)
+- spread home 1.5: -132 (fair -123)
+- spread away -1.5: 117 (fair 123)
 - total over 6.5: 102 (fair 108)
 - total under 6.5: -114 (fair -108)
 ## Nashville Predators @ Vegas Golden Knights  2026-11-14T03:07:00Z
@@ -54,13 +54,6 @@
 - spread away -1.5: 232 (fair 245)
 - total over 6.0: 101 (fair 108)
 - total under 6.0: -116 (fair -108)
-## Philadelphia Flyers @ Columbus Blue Jackets  2026-11-15T00:07:00Z
-- moneyline home : -133 (fair -124)
-- moneyline away : 118 (fair 124)
-- spread home -1.5: 189 (fair 200)
-- spread away 1.5: -223 (fair -200)
-- total over 5.5: -118 (fair -110)
-- total under 5.5: 103 (fair 110)
 ## Ottawa Senators @ Pittsburgh Penguins  2026-11-15T00:07:00Z
 - moneyline home : 117 (fair 123)
 - moneyline away : -131 (fair -123)
@@ -82,6 +75,13 @@
 - spread away -1.5: 210 (fair 222)
 - total over 6.0: -106 (fair 101)
 - total under 6.0: -108 (fair -101)
+## Philadelphia Flyers @ Columbus Blue Jackets  2026-11-15T00:07:00Z
+- moneyline home : -133 (fair -124)
+- moneyline away : 118 (fair 124)
+- spread home -1.5: 189 (fair 200)
+- spread away 1.5: -223 (fair -200)
+- total over 5.5: -118 (fair -110)
+- total under 5.5: 103 (fair 110)
 ## Buffalo Sabres @ Dallas Stars  2026-11-15T01:07:00Z
 - moneyline home : -132 (fair -123)
 - moneyline away : 117 (fair 123)
@@ -90,19 +90,12 @@
 - total over 6.0: -115 (fair -108)
 - total under 6.0: 101 (fair 108)
 ## San Jose Sharks @ Utah Mammoth  2026-11-15T02:07:00Z
-- moneyline home : -203 (fair -186)
-- moneyline away : 177 (fair 186)
+- moneyline home : -203 (fair -185)
+- moneyline away : 176 (fair 185)
 - spread home -1.5: 124 (fair 132)
 - spread away 1.5: -143 (fair -132)
-- total over 6.5: -100 (fair 107)
-- total under 6.5: -114 (fair -107)
-## New York Islanders @ Anaheim Ducks  2026-11-15T03:07:00Z
-- moneyline home : -111 (fair -104)
-- moneyline away : -102 (fair 104)
-- spread home -1.5: 212 (fair 224)
-- spread away 1.5: -254 (fair -224)
-- total over 6.5: -121 (fair -112)
-- total under 6.5: 105 (fair 112)
+- total over 6.5: 103 (fair 110)
+- total under 6.5: -118 (fair -110)
 ## Calgary Flames @ Los Angeles Kings  2026-11-15T03:07:00Z
 - moneyline home : -171 (fair -158)
 - moneyline away : 150 (fair 158)
@@ -110,3 +103,10 @@
 - spread away 1.5: -174 (fair -158)
 - total over 6.0: 102 (fair 109)
 - total under 6.0: -117 (fair -109)
+## New York Islanders @ Anaheim Ducks  2026-11-15T03:07:00Z
+- moneyline home : -111 (fair -104)
+- moneyline away : -102 (fair 104)
+- spread home -1.5: 212 (fair 224)
+- spread away 1.5: -254 (fair -224)
+- total over 6.5: -124 (fair -116)
+- total under 6.5: 109 (fair 116)
