@@ -14,6 +14,6 @@ jobs:
       - run: pip install -q pandas pyarrow && python tools/nba_logs_hist.py 20261101
       - run: |
           git config user.name "FORGE"; git config user.email "noreply@anthropic.com"
-          git add data/live; git diff --cached --quiet && exit 0
+          git add data/live data/box; git diff --cached --quiet && exit 0
           git commit -qm "box $(date -u +%Y-%m-%dT%H:%MZ)"
           for i in $(seq 1 8); do git pull -q --rebase -X theirs origin main && git push -q origin HEAD:main && exit 0; sleep 7; done; exit 1
