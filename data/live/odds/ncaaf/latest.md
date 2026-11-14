@@ -1,4 +1,4 @@
-# NCAAF ([None]) Pinnacle no-vig, read 2026-11-14 23:39 UTC: 19 games, 210 props
+# NCAAF ([None]) Pinnacle no-vig, read 2026-11-14 23:51 UTC: 19 games, 210 props
 
 ## Baylor @ BYU  2026-11-15T00:00:00Z
 - moneyline home : -307 (fair -275)
