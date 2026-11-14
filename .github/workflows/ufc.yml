@@ -1,0 +1,19 @@
+name: ufc
+# Public UFC odds (Pinnacle guest API) on demand.
+on: { workflow_dispatch: {} }
+permissions: { contents: write }
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 1 }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -q requests && python tools/ufc_odds.py
+      - run: |
+          git config user.name "FORGE"; git config user.email "noreply@anthropic.com"
+          git add data/live; git diff --cached --quiet && exit 0
+          git commit -qm "ufc $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in $(seq 1 8); do git pull -q --rebase -X theirs origin main && git push -q origin HEAD:main && exit 0; sleep 7; done; exit 1
