@@ -1,9 +1,466 @@
 {
- "read_utc": "2026-11-14 23:32",
+ "read_utc": "2026-11-14 23:39",
  "league": [
   null
  ],
  "games": [
+  {
+   "away": "Baylor",
+   "home": "BYU",
+   "start": "2026-11-15T00:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -307,
+     "fair_prob": 0.733,
+     "fair_american": -275
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 264,
+     "fair_prob": 0.267,
+     "fair_american": 275
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -8.5,
+     "american": -106,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 8.5,
+     "american": -106,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 49.5,
+     "american": -107,
+     "fair_prob": 0.4978,
+     "fair_american": 101
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 49.5,
+     "american": -109,
+     "fair_prob": 0.5022,
+     "fair_american": -101
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Utah",
+   "home": "Arizona",
+   "start": "2026-11-15T03:30:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -103,
+     "fair_prob": 0.4954,
+     "fair_american": 102
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -107,
+     "fair_prob": 0.5046,
+     "fair_american": -102
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 1.0,
+     "american": -110,
+     "fair_prob": 0.5092,
+     "fair_american": -104
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -1.0,
+     "american": -102,
+     "fair_prob": 0.4908,
+     "fair_american": 104
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 55.5,
+     "american": -111,
+     "fair_prob": 0.5067,
+     "fair_american": -103
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 55.5,
+     "american": -105,
+     "fair_prob": 0.4933,
+     "fair_american": 103
+    }
+   ],
+   "props": [
+    {
+     "desc": "Noah Fifita Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Over",
+     "points": 275.5,
+     "american": -100,
+     "fair_prob": 0.4737,
+     "fair_american": 111
+    },
+    {
+     "desc": "Noah Fifita Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Under",
+     "points": 275.5,
+     "american": -125,
+     "fair_prob": 0.5263,
+     "fair_american": -111
+    },
+    {
+     "desc": "Giovanni Richardson Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 74.5,
+     "american": -128,
+     "fair_prob": 0.5314,
+     "fair_american": -113
+    },
+    {
+     "desc": "Giovanni Richardson Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 74.5,
+     "american": 102,
+     "fair_prob": 0.4686,
+     "fair_american": 113
+    },
+    {
+     "desc": "Devon Dampier Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Over",
+     "points": 228.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Devon Dampier Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Under",
+     "points": 228.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Devon Dampier Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Over",
+     "points": 1.5,
+     "american": 105,
+     "fair_prob": 0.4616,
+     "fair_american": 117
+    },
+    {
+     "desc": "Devon Dampier Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Under",
+     "points": 1.5,
+     "american": -132,
+     "fair_prob": 0.5384,
+     "fair_american": -117
+    },
+    {
+     "desc": "Isaiah Mizell Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 72.5,
+     "american": 100,
+     "fair_prob": 0.4728,
+     "fair_american": 112
+    },
+    {
+     "desc": "Isaiah Mizell Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 72.5,
+     "american": -126,
+     "fair_prob": 0.5272,
+     "fair_american": -112
+    },
+    {
+     "desc": "Devon Dampier Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 51.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Devon Dampier Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 51.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Wayshawn Parker Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 60.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Wayshawn Parker Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 60.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Chris Hunter Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 22.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Chris Hunter Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 22.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Wayshawn Parker Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 19.5,
+     "american": -105,
+     "fair_prob": 0.4852,
+     "fair_american": 106
+    },
+    {
+     "desc": "Wayshawn Parker Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 19.5,
+     "american": -119,
+     "fair_prob": 0.5148,
+     "fair_american": -106
+    },
+    {
+     "desc": "Noah Bennee Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 21.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Noah Bennee Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 21.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Noah Fifita Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Over",
+     "points": 1.5,
+     "american": -127,
+     "fair_prob": 0.5293,
+     "fair_american": -112
+    },
+    {
+     "desc": "Noah Fifita Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Under",
+     "points": 1.5,
+     "american": 101,
+     "fair_prob": 0.4707,
+     "fair_american": 112
+    },
+    {
+     "desc": "Kedrick Reescano Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 35.5,
+     "american": -130,
+     "fair_prob": 0.5343,
+     "fair_american": -115
+    },
+    {
+     "desc": "Kedrick Reescano Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 35.5,
+     "american": 103,
+     "fair_prob": 0.4657,
+     "fair_american": 115
+    },
+    {
+     "desc": "Creed Whittemore Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 25.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Creed Whittemore Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 25.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Noah Fifita Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 13.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Noah Fifita Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 13.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Braden Pegan Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 64.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Braden Pegan Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 64.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Brandon Phelps Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 23.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Brandon Phelps Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 23.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    }
+   ]
+  },
+  {
+   "away": "Wyoming",
+   "home": "UTEP",
+   "start": "2026-11-15T03:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 231,
+     "fair_prob": 0.2938,
+     "fair_american": 240
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -265,
+     "fair_prob": 0.7062,
+     "fair_american": -240
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 7.0,
+     "american": -109,
+     "fair_prob": 0.5057,
+     "fair_american": -102
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -7.0,
+     "american": -104,
+     "fair_prob": 0.4943,
+     "fair_american": 102
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 40.5,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 40.5,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    }
+   ],
+   "props": []
+  },
   {
    "away": "Colorado State",
    "home": "Washington State",
@@ -61,57 +518,57 @@
    "props": []
   },
   {
-   "away": "San Jose State",
-   "home": "Air Force",
-   "start": "2026-11-15T00:00:00Z",
+   "away": "Purdue",
+   "home": "Iowa",
+   "start": "2026-11-15T00:30:00Z",
    "lines": [
     {
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": -566,
-     "fair_prob": 0.8235,
-     "fair_american": -467
+     "american": -985,
+     "fair_prob": 0.8803,
+     "fair_american": -735
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": 449,
-     "fair_prob": 0.1765,
-     "fair_american": 467
+     "american": 710,
+     "fair_prob": 0.1197,
+     "fair_american": 735
     },
     {
      "type": "spread",
      "side": "home",
-     "points": -14.0,
-     "american": -108,
-     "fair_prob": 0.5046,
-     "fair_american": -102
+     "points": -18.5,
+     "american": -105,
+     "fair_prob": 0.4977,
+     "fair_american": 101
     },
     {
      "type": "spread",
      "side": "away",
-     "points": 14.0,
-     "american": -104,
-     "fair_prob": 0.4954,
-     "fair_american": 102
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 50.5,
-     "american": -109,
-     "fair_prob": 0.5022,
+     "points": 18.5,
+     "american": -107,
+     "fair_prob": 0.5023,
      "fair_american": -101
     },
     {
      "type": "total",
-     "side": "under",
-     "points": 50.5,
+     "side": "over",
+     "points": 48.0,
      "american": -107,
      "fair_prob": 0.4978,
      "fair_american": 101
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 48.0,
+     "american": -109,
+     "fair_prob": 0.5022,
+     "fair_american": -101
     }
    ],
    "props": []
@@ -173,46 +630,102 @@
    "props": []
   },
   {
-   "away": "North Texas",
-   "home": "UTSA",
-   "start": "2026-11-15T02:00:00Z",
+   "away": "North Dakota State",
+   "home": "Hawaii",
+   "start": "2026-11-15T04:00:00Z",
    "lines": [
     {
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": 110,
-     "fair_prob": 0.4652,
-     "fair_american": 115
+     "american": 231,
+     "fair_prob": 0.2938,
+     "fair_american": 240
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": -121,
-     "fair_prob": 0.5348,
-     "fair_american": -115
+     "american": -265,
+     "fair_prob": 0.7062,
+     "fair_american": -240
     },
     {
      "type": "spread",
      "side": "home",
-     "points": 2.0,
-     "american": -104,
-     "fair_prob": 0.4954,
-     "fair_american": 102
+     "points": 7.0,
+     "american": -110,
+     "fair_prob": 0.5092,
+     "fair_american": -104
     },
     {
      "type": "spread",
      "side": "away",
-     "points": -2.0,
-     "american": -108,
-     "fair_prob": 0.5046,
-     "fair_american": -102
+     "points": -7.0,
+     "american": -102,
+     "fair_prob": 0.4908,
+     "fair_american": 104
     },
     {
      "type": "total",
      "side": "over",
-     "points": 76.0,
+     "points": 39.5,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 39.5,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Texas Tech",
+   "home": "Oklahoma State",
+   "start": "2026-11-15T02:30:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -175,
+     "fair_prob": 0.6206,
+     "fair_american": -164
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 157,
+     "fair_prob": 0.3794,
+     "fair_american": 164
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -3.5,
+     "american": -105,
+     "fair_prob": 0.4977,
+     "fair_american": 101
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 3.5,
+     "american": -107,
+     "fair_prob": 0.5023,
+     "fair_american": -101
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 73.5,
      "american": -111,
      "fair_prob": 0.5067,
      "fair_american": -103
@@ -220,13 +733,759 @@
     {
      "type": "total",
      "side": "under",
-     "points": 76.0,
+     "points": 73.5,
      "american": -105,
      "fair_prob": 0.4933,
      "fair_american": 103
     }
    ],
+   "props": [
+    {
+     "desc": "Caleb Hawkins Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 114.5,
+     "american": -106,
+     "fair_prob": 0.4873,
+     "fair_american": 105
+    },
+    {
+     "desc": "Caleb Hawkins Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 114.5,
+     "american": -118,
+     "fair_prob": 0.5127,
+     "fair_american": -105
+    },
+    {
+     "desc": "Thomas Castellanos Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Over",
+     "points": 227.5,
+     "american": -113,
+     "fair_prob": 0.5021,
+     "fair_american": -101
+    },
+    {
+     "desc": "Thomas Castellanos Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Under",
+     "points": 227.5,
+     "american": -111,
+     "fair_prob": 0.4979,
+     "fair_american": 101
+    },
+    {
+     "desc": "Kenny Johnson Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 65.5,
+     "american": -122,
+     "fair_prob": 0.5199,
+     "fair_american": -108
+    },
+    {
+     "desc": "Kenny Johnson Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 65.5,
+     "american": -103,
+     "fair_prob": 0.4801,
+     "fair_american": 108
+    },
+    {
+     "desc": "Drew Mestemaker Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Over",
+     "points": 327.5,
+     "american": -105,
+     "fair_prob": 0.4843,
+     "fair_american": 106
+    },
+    {
+     "desc": "Drew Mestemaker Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Under",
+     "points": 327.5,
+     "american": -120,
+     "fair_prob": 0.5157,
+     "fair_american": -106
+    },
+    {
+     "desc": "Wyatt Young Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 79.5,
+     "american": -105,
+     "fair_prob": 0.4843,
+     "fair_american": 106
+    },
+    {
+     "desc": "Wyatt Young Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 79.5,
+     "american": -120,
+     "fair_prob": 0.5157,
+     "fair_american": -106
+    },
+    {
+     "desc": "Micah Hudson Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 27.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Micah Hudson Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 27.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Thomas Castellanos Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 68.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Thomas Castellanos Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 68.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Drew Mestemaker Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Over",
+     "points": 2.5,
+     "american": -179,
+     "fair_prob": 0.6073,
+     "fair_american": -155
+    },
+    {
+     "desc": "Drew Mestemaker Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Under",
+     "points": 2.5,
+     "american": 141,
+     "fair_prob": 0.3927,
+     "fair_american": 155
+    },
+    {
+     "desc": "Caleb Hawkins Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 42.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Caleb Hawkins Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 42.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Miles Coleman Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 44.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Miles Coleman Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 44.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "J'Koby Williams Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 107.5,
+     "american": 103,
+     "fair_prob": 0.4665,
+     "fair_american": 114
+    },
+    {
+     "desc": "J'Koby Williams Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 107.5,
+     "american": -129,
+     "fair_prob": 0.5335,
+     "fair_american": -114
+    },
+    {
+     "desc": "Thomas Castellanos Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Under",
+     "points": 1.5,
+     "american": 157,
+     "fair_prob": 0.3682,
+     "fair_american": 172
+    },
+    {
+     "desc": "Thomas Castellanos Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Over",
+     "points": 1.5,
+     "american": -201,
+     "fair_prob": 0.6318,
+     "fair_american": -172
+    },
+    {
+     "desc": "J'Koby Williams Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 19.5,
+     "american": -106,
+     "fair_prob": 0.4873,
+     "fair_american": 105
+    },
+    {
+     "desc": "J'Koby Williams Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 19.5,
+     "american": -118,
+     "fair_prob": 0.5127,
+     "fair_american": -105
+    },
+    {
+     "desc": "Terrance Carter Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 47.5,
+     "american": -115,
+     "fair_prob": 0.5063,
+     "fair_american": -103
+    },
+    {
+     "desc": "Terrance Carter Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 47.5,
+     "american": -109,
+     "fair_prob": 0.4937,
+     "fair_american": 103
+    },
+    {
+     "desc": "Justin Bowick Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 84.5,
+     "american": -105,
+     "fair_prob": 0.4843,
+     "fair_american": 106
+    },
+    {
+     "desc": "Justin Bowick Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 84.5,
+     "american": -120,
+     "fair_prob": 0.5157,
+     "fair_american": -106
+    }
+   ]
+  },
+  {
+   "away": "Troy",
+   "home": "South Alabama",
+   "start": "2026-11-15T00:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -146,
+     "fair_prob": 0.5782,
+     "fair_american": -137
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 131,
+     "fair_prob": 0.4218,
+     "fair_american": 137
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -3.0,
+     "american": -106,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 3.0,
+     "american": -106,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 56.0,
+     "american": -101,
+     "fair_prob": 0.4834,
+     "fair_american": 107
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 56.0,
+     "american": -116,
+     "fair_prob": 0.5166,
+     "fair_american": -107
+    }
+   ],
    "props": []
+  },
+  {
+   "away": "Utah State",
+   "home": "San Diego State",
+   "start": "2026-11-15T02:30:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 134,
+     "fair_prob": 0.4173,
+     "fair_american": 140
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -148,
+     "fair_prob": 0.5827,
+     "fair_american": -140
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 3.0,
+     "american": -109,
+     "fair_prob": 0.5057,
+     "fair_american": -102
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -3.0,
+     "american": -104,
+     "fair_prob": 0.4943,
+     "fair_american": 102
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 44.0,
+     "american": 100,
+     "fair_prob": 0.4812,
+     "fair_american": 108
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 44.0,
+     "american": -117,
+     "fair_prob": 0.5188,
+     "fair_american": -108
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Louisville",
+   "home": "North Carolina",
+   "start": "2026-11-15T00:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 154,
+     "fair_prob": 0.3837,
+     "fair_american": 161
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -172,
+     "fair_prob": 0.6163,
+     "fair_american": -161
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 3.5,
+     "american": -107,
+     "fair_prob": 0.5023,
+     "fair_american": -101
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -3.5,
+     "american": -105,
+     "fair_prob": 0.4977,
+     "fair_american": 101
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 58.0,
+     "american": -101,
+     "fair_prob": 0.4834,
+     "fair_american": 107
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 58.0,
+     "american": -116,
+     "fair_prob": 0.5166,
+     "fair_american": -107
+    }
+   ],
+   "props": [
+    {
+     "desc": "Jaleel Skinner Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 21.5,
+     "american": -115,
+     "fair_prob": 0.5063,
+     "fair_american": -103
+    },
+    {
+     "desc": "Jaleel Skinner Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 21.5,
+     "american": -109,
+     "fair_prob": 0.4937,
+     "fair_american": 103
+    },
+    {
+     "desc": "Jordan Shipp Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 76.5,
+     "american": -105,
+     "fair_prob": 0.4843,
+     "fair_american": 106
+    },
+    {
+     "desc": "Jordan Shipp Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 76.5,
+     "american": -120,
+     "fair_prob": 0.5157,
+     "fair_american": -106
+    },
+    {
+     "desc": "Isaac Brown Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 62.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Isaac Brown Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 62.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Demon June Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 49.5,
+     "american": -105,
+     "fair_prob": 0.4852,
+     "fair_american": 106
+    },
+    {
+     "desc": "Demon June Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 49.5,
+     "american": -119,
+     "fair_prob": 0.5148,
+     "fair_american": -106
+    },
+    {
+     "desc": "Jelani Thurman Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 62.5,
+     "american": 137,
+     "fair_prob": 0.3992,
+     "fair_american": 151
+    },
+    {
+     "desc": "Jelani Thurman Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 62.5,
+     "american": -174,
+     "fair_prob": 0.6008,
+     "fair_american": -151
+    },
+    {
+     "desc": "Benjamin Hall Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 26.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Benjamin Hall Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 26.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Keyjuan Brown Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 53.5,
+     "american": -105,
+     "fair_prob": 0.4852,
+     "fair_american": 106
+    },
+    {
+     "desc": "Keyjuan Brown Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 53.5,
+     "american": -119,
+     "fair_prob": 0.5148,
+     "fair_american": -106
+    },
+    {
+     "desc": "TreyShun Hurry Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 38.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "TreyShun Hurry Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 38.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Billy Edwards Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Over",
+     "points": 255.5,
+     "american": -105,
+     "fair_prob": 0.4852,
+     "fair_american": 106
+    },
+    {
+     "desc": "Billy Edwards Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Under",
+     "points": 255.5,
+     "american": -119,
+     "fair_prob": 0.5148,
+     "fair_american": -106
+    },
+    {
+     "desc": "Isaac Brown Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 12.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Isaac Brown Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 12.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Lincoln Kienholz Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Over",
+     "points": 234.5,
+     "american": -130,
+     "fair_prob": 0.5355,
+     "fair_american": -115
+    },
+    {
+     "desc": "Lincoln Kienholz Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Under",
+     "points": 234.5,
+     "american": 104,
+     "fair_prob": 0.4645,
+     "fair_american": 115
+    },
+    {
+     "desc": "Lawayne McCoy Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 51.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Lawayne McCoy Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 51.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Billy Edwards Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Over",
+     "points": 1.5,
+     "american": -111,
+     "fair_prob": 0.4979,
+     "fair_american": 101
+    },
+    {
+     "desc": "Billy Edwards Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Under",
+     "points": 1.5,
+     "american": -113,
+     "fair_prob": 0.5021,
+     "fair_american": -101
+    },
+    {
+     "desc": "Lincoln Kienholz Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Over",
+     "points": 1.5,
+     "american": 111,
+     "fair_prob": 0.449,
+     "fair_american": 123
+    },
+    {
+     "desc": "Lincoln Kienholz Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Under",
+     "points": 1.5,
+     "american": -139,
+     "fair_prob": 0.551,
+     "fair_american": -123
+    },
+    {
+     "desc": "Lincoln Kienholz Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 31.5,
+     "american": -116,
+     "fair_prob": 0.5084,
+     "fair_american": -103
+    },
+    {
+     "desc": "Lincoln Kienholz Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 31.5,
+     "american": -108,
+     "fair_prob": 0.4916,
+     "fair_american": 103
+    },
+    {
+     "desc": "Tre Richardson Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 64.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Tre Richardson Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 64.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Trech Kekahuna Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 30.5,
+     "american": -115,
+     "fair_prob": 0.5063,
+     "fair_american": -103
+    },
+    {
+     "desc": "Trech Kekahuna Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 30.5,
+     "american": -109,
+     "fair_prob": 0.4937,
+     "fair_american": 103
+    }
+   ]
   },
   {
    "away": "Stanford",
@@ -865,465 +2124,102 @@
    ]
   },
   {
-   "away": "Purdue",
-   "home": "Iowa",
+   "away": "UNLV",
+   "home": "New Mexico",
    "start": "2026-11-15T00:30:00Z",
    "lines": [
     {
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": -985,
-     "fair_prob": 0.8803,
-     "fair_american": -735
+     "american": -865,
+     "fair_prob": 0.8688,
+     "fair_american": -662
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": 710,
-     "fair_prob": 0.1197,
-     "fair_american": 735
+     "american": 639,
+     "fair_prob": 0.1312,
+     "fair_american": 662
     },
     {
      "type": "spread",
      "side": "home",
-     "points": -18.5,
-     "american": -105,
-     "fair_prob": 0.4977,
-     "fair_american": 101
+     "points": -17.5,
+     "american": -106,
+     "fair_prob": 0.5,
+     "fair_american": 100
     },
     {
      "type": "spread",
      "side": "away",
-     "points": 18.5,
-     "american": -107,
-     "fair_prob": 0.5023,
-     "fair_american": -101
+     "points": 17.5,
+     "american": -106,
+     "fair_prob": 0.5,
+     "fair_american": 100
     },
     {
      "type": "total",
      "side": "over",
-     "points": 48.0,
-     "american": -107,
-     "fair_prob": 0.4978,
-     "fair_american": 101
+     "points": 46.5,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
     },
     {
      "type": "total",
      "side": "under",
-     "points": 48.0,
-     "american": -109,
-     "fair_prob": 0.5022,
-     "fair_american": -101
+     "points": 46.5,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
     }
    ],
    "props": []
   },
   {
-   "away": "Texas",
-   "home": "LSU",
-   "start": "2026-11-15T00:30:00Z",
+   "away": "North Texas",
+   "home": "UTSA",
+   "start": "2026-11-15T02:00:00Z",
    "lines": [
     {
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": -193,
-     "fair_prob": 0.6418,
-     "fair_american": -179
+     "american": 110,
+     "fair_prob": 0.4652,
+     "fair_american": 115
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": 172,
-     "fair_prob": 0.3582,
-     "fair_american": 179
+     "american": -121,
+     "fair_prob": 0.5348,
+     "fair_american": -115
     },
     {
      "type": "spread",
      "side": "home",
-     "points": -4.5,
-     "american": -108,
-     "fair_prob": 0.5046,
-     "fair_american": -102
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 4.5,
+     "points": 2.0,
      "american": -104,
      "fair_prob": 0.4954,
      "fair_american": 102
     },
     {
-     "type": "total",
-     "side": "over",
-     "points": 47.5,
-     "american": -109,
-     "fair_prob": 0.5022,
-     "fair_american": -101
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 47.5,
-     "american": -107,
-     "fair_prob": 0.4978,
-     "fair_american": 101
-    }
-   ],
-   "props": [
-    {
-     "desc": "Arch Manning Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 14.5,
-     "american": -102,
-     "fair_prob": 0.477,
-     "fair_american": 110
-    },
-    {
-     "desc": "Arch Manning Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 14.5,
-     "american": -124,
-     "fair_prob": 0.523,
-     "fair_american": -110
-    },
-    {
-     "desc": "Emmett Mosley Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 42.5,
-     "american": -109,
-     "fair_prob": 0.4937,
-     "fair_american": 103
-    },
-    {
-     "desc": "Emmett Mosley Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 42.5,
-     "american": -115,
-     "fair_prob": 0.5063,
-     "fair_american": -103
-    },
-    {
-     "desc": "Dilin Jones Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 21.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Dilin Jones Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 21.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Sam Leavitt Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Over",
-     "points": 1.5,
-     "american": 121,
-     "fair_prob": 0.4286,
-     "fair_american": 133
-    },
-    {
-     "desc": "Sam Leavitt Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Under",
-     "points": 1.5,
-     "american": -152,
-     "fair_prob": 0.5714,
-     "fair_american": -133
-    },
-    {
-     "desc": "Jackson Harris Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 78.5,
-     "american": -109,
-     "fair_prob": 0.4937,
-     "fair_american": 103
-    },
-    {
-     "desc": "Jackson Harris Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 78.5,
-     "american": -115,
-     "fair_prob": 0.5063,
-     "fair_american": -103
-    },
-    {
-     "desc": "Cam Coleman Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 47.5,
-     "american": -114,
-     "fair_prob": 0.5042,
-     "fair_american": -102
-    },
-    {
-     "desc": "Cam Coleman Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 47.5,
-     "american": -110,
-     "fair_prob": 0.4958,
-     "fair_american": 102
-    },
-    {
-     "desc": "Raleek Brown Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 61.5,
-     "american": -109,
-     "fair_prob": 0.4937,
-     "fair_american": 103
-    },
-    {
-     "desc": "Raleek Brown Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 61.5,
-     "american": -115,
-     "fair_prob": 0.5063,
-     "fair_american": -103
-    },
-    {
-     "desc": "Ryan Wingo Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 48.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Ryan Wingo Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 48.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Arch Manning Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Over",
-     "points": 217.5,
-     "american": 110,
-     "fair_prob": 0.4502,
-     "fair_american": 122
-    },
-    {
-     "desc": "Arch Manning Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Under",
-     "points": 217.5,
-     "american": -139,
-     "fair_prob": 0.5498,
-     "fair_american": -122
-    },
-    {
-     "desc": "Trey'Dez Green Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 57.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Trey'Dez Green Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 57.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Winston Watkins Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 35.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Winston Watkins Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 35.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Eugene Wilson Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 30.5,
-     "american": -109,
-     "fair_prob": 0.4937,
-     "fair_american": 103
-    },
-    {
-     "desc": "Eugene Wilson Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 30.5,
-     "american": -115,
-     "fair_prob": 0.5063,
-     "fair_american": -103
-    },
-    {
-     "desc": "Sam Leavitt Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Over",
-     "points": 254.5,
-     "american": -107,
-     "fair_prob": 0.4895,
-     "fair_american": 104
-    },
-    {
-     "desc": "Sam Leavitt Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Under",
-     "points": 254.5,
-     "american": -117,
-     "fair_prob": 0.5105,
-     "fair_american": -104
-    },
-    {
-     "desc": "Sam Leavitt Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 27.5,
-     "american": -128,
-     "fair_prob": 0.5314,
-     "fair_american": -113
-    },
-    {
-     "desc": "Sam Leavitt Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 27.5,
-     "american": 102,
-     "fair_prob": 0.4686,
-     "fair_american": 113
-    },
-    {
-     "desc": "Raleek Brown Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 13.5,
-     "american": -102,
-     "fair_prob": 0.477,
-     "fair_american": 110
-    },
-    {
-     "desc": "Raleek Brown Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 13.5,
-     "american": -124,
-     "fair_prob": 0.523,
-     "fair_american": -110
-    },
-    {
-     "desc": "Dilin Jones Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 67.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Dilin Jones Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 67.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Arch Manning Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Over",
-     "points": 1.5,
-     "american": 165,
-     "fair_prob": 0.3571,
-     "fair_american": 180
-    },
-    {
-     "desc": "Arch Manning Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Under",
-     "points": 1.5,
-     "american": -212,
-     "fair_prob": 0.6429,
-     "fair_american": -180
-    }
-   ]
-  },
-  {
-   "away": "Utah",
-   "home": "Arizona",
-   "start": "2026-11-15T03:30:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -103,
-     "fair_prob": 0.4954,
-     "fair_american": 102
-    },
-    {
-     "type": "moneyline",
+     "type": "spread",
      "side": "away",
-     "points": null,
-     "american": -107,
+     "points": -2.0,
+     "american": -108,
      "fair_prob": 0.5046,
      "fair_american": -102
     },
     {
-     "type": "spread",
-     "side": "home",
-     "points": 1.0,
-     "american": -110,
-     "fair_prob": 0.5092,
-     "fair_american": -104
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": -1.0,
-     "american": -102,
-     "fair_prob": 0.4908,
-     "fair_american": 104
-    },
-    {
      "type": "total",
      "side": "over",
-     "points": 55.5,
+     "points": 76.0,
      "american": -111,
      "fair_prob": 0.5067,
      "fair_american": -103
@@ -1331,355 +2227,66 @@
     {
      "type": "total",
      "side": "under",
-     "points": 55.5,
+     "points": 76.0,
      "american": -105,
      "fair_prob": 0.4933,
      "fair_american": 103
     }
    ],
-   "props": [
-    {
-     "desc": "Noah Fifita Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Over",
-     "points": 275.5,
-     "american": -100,
-     "fair_prob": 0.4737,
-     "fair_american": 111
-    },
-    {
-     "desc": "Noah Fifita Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Under",
-     "points": 275.5,
-     "american": -125,
-     "fair_prob": 0.5263,
-     "fair_american": -111
-    },
-    {
-     "desc": "Giovanni Richardson Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 74.5,
-     "american": -128,
-     "fair_prob": 0.5314,
-     "fair_american": -113
-    },
-    {
-     "desc": "Giovanni Richardson Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 74.5,
-     "american": 102,
-     "fair_prob": 0.4686,
-     "fair_american": 113
-    },
-    {
-     "desc": "Devon Dampier Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Over",
-     "points": 228.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Devon Dampier Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Under",
-     "points": 228.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Devon Dampier Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Over",
-     "points": 1.5,
-     "american": 105,
-     "fair_prob": 0.4616,
-     "fair_american": 117
-    },
-    {
-     "desc": "Devon Dampier Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Under",
-     "points": 1.5,
-     "american": -132,
-     "fair_prob": 0.5384,
-     "fair_american": -117
-    },
-    {
-     "desc": "Devon Dampier Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 51.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Devon Dampier Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 51.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Isaiah Mizell Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 72.5,
-     "american": 100,
-     "fair_prob": 0.4728,
-     "fair_american": 112
-    },
-    {
-     "desc": "Isaiah Mizell Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 72.5,
-     "american": -126,
-     "fair_prob": 0.5272,
-     "fair_american": -112
-    },
-    {
-     "desc": "Wayshawn Parker Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 60.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Wayshawn Parker Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 60.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Chris Hunter Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 22.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Chris Hunter Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 22.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Wayshawn Parker Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 19.5,
-     "american": -105,
-     "fair_prob": 0.4852,
-     "fair_american": 106
-    },
-    {
-     "desc": "Wayshawn Parker Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 19.5,
-     "american": -119,
-     "fair_prob": 0.5148,
-     "fair_american": -106
-    },
-    {
-     "desc": "Noah Bennee Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 21.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Noah Bennee Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 21.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Noah Fifita Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Over",
-     "points": 1.5,
-     "american": -127,
-     "fair_prob": 0.5293,
-     "fair_american": -112
-    },
-    {
-     "desc": "Noah Fifita Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Under",
-     "points": 1.5,
-     "american": 101,
-     "fair_prob": 0.4707,
-     "fair_american": 112
-    },
-    {
-     "desc": "Kedrick Reescano Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 35.5,
-     "american": -130,
-     "fair_prob": 0.5343,
-     "fair_american": -115
-    },
-    {
-     "desc": "Kedrick Reescano Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 35.5,
-     "american": 103,
-     "fair_prob": 0.4657,
-     "fair_american": 115
-    },
-    {
-     "desc": "Creed Whittemore Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 25.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Creed Whittemore Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 25.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Noah Fifita Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 13.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Noah Fifita Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 13.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Braden Pegan Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 64.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Braden Pegan Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 64.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Brandon Phelps Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 23.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Brandon Phelps Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 23.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    }
-   ]
+   "props": []
   },
   {
-   "away": "North Dakota State",
-   "home": "Hawaii",
-   "start": "2026-11-15T04:00:00Z",
+   "away": "San Jose State",
+   "home": "Air Force",
+   "start": "2026-11-15T00:00:00Z",
    "lines": [
     {
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": 231,
-     "fair_prob": 0.2938,
-     "fair_american": 240
+     "american": -566,
+     "fair_prob": 0.8235,
+     "fair_american": -467
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": -265,
-     "fair_prob": 0.7062,
-     "fair_american": -240
+     "american": 449,
+     "fair_prob": 0.1765,
+     "fair_american": 467
     },
     {
      "type": "spread",
      "side": "home",
-     "points": 7.0,
-     "american": -110,
-     "fair_prob": 0.5092,
-     "fair_american": -104
+     "points": -14.0,
+     "american": -108,
+     "fair_prob": 0.5046,
+     "fair_american": -102
     },
     {
      "type": "spread",
      "side": "away",
-     "points": -7.0,
-     "american": -102,
-     "fair_prob": 0.4908,
-     "fair_american": 104
+     "points": 14.0,
+     "american": -104,
+     "fair_prob": 0.4954,
+     "fair_american": 102
     },
     {
      "type": "total",
      "side": "over",
-     "points": 39.5,
-     "american": -108,
-     "fair_prob": 0.5,
-     "fair_american": 100
+     "points": 50.5,
+     "american": -109,
+     "fair_prob": 0.5022,
+     "fair_american": -101
     },
     {
      "type": "total",
      "side": "under",
-     "points": 39.5,
-     "american": -108,
-     "fair_prob": 0.5,
-     "fair_american": 100
+     "points": 50.5,
+     "american": -107,
+     "fair_prob": 0.4978,
+     "fair_american": 101
     }
    ],
    "props": []
@@ -1688,7 +2295,56 @@
    "away": "South Carolina",
    "home": "Arkansas",
    "start": "2026-11-15T00:45:00Z",
-   "lines": [],
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 254,
+     "fair_prob": 0.2746,
+     "fair_american": 264
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -294,
+     "fair_prob": 0.7254,
+     "fair_american": -264
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 7.0,
+     "american": 101,
+     "fair_prob": 0.4829,
+     "fair_american": 107
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -7.0,
+     "american": -114,
+     "fair_prob": 0.5171,
+     "fair_american": -107
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 51.5,
+     "american": -116,
+     "fair_prob": 0.5179,
+     "fair_american": -107
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 51.5,
+     "american": -100,
+     "fair_prob": 0.4821,
+     "fair_american": 107
+    }
+   ],
    "props": [
     {
      "desc": "KJ Jackson Total Touchdown Passes",
@@ -1873,7 +2529,7 @@
     {
      "desc": "Nyck Harbor Total Receiving Yards",
      "units": "Receiving Yards",
-     "outcome": "Under",
+     "outcome": "Over",
      "points": 38.5,
      "american": -112,
      "fair_prob": 0.5,
@@ -1882,7 +2538,7 @@
     {
      "desc": "Nyck Harbor Total Receiving Yards",
      "units": "Receiving Yards",
-     "outcome": "Over",
+     "outcome": "Under",
      "points": 38.5,
      "american": -112,
      "fair_prob": 0.5,
@@ -1891,397 +2547,242 @@
    ]
   },
   {
-   "away": "Wyoming",
-   "home": "UTEP",
-   "start": "2026-11-15T03:00:00Z",
+   "away": "Texas",
+   "home": "LSU",
+   "start": "2026-11-15T00:30:00Z",
    "lines": [
     {
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": 231,
-     "fair_prob": 0.2938,
-     "fair_american": 240
+     "american": -193,
+     "fair_prob": 0.6418,
+     "fair_american": -179
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": -265,
-     "fair_prob": 0.7062,
-     "fair_american": -240
+     "american": 172,
+     "fair_prob": 0.3582,
+     "fair_american": 179
     },
     {
      "type": "spread",
      "side": "home",
-     "points": 7.0,
-     "american": -109,
-     "fair_prob": 0.5057,
+     "points": -4.5,
+     "american": -108,
+     "fair_prob": 0.5046,
      "fair_american": -102
     },
     {
      "type": "spread",
      "side": "away",
-     "points": -7.0,
+     "points": 4.5,
      "american": -104,
-     "fair_prob": 0.4943,
+     "fair_prob": 0.4954,
      "fair_american": 102
     },
     {
      "type": "total",
      "side": "over",
-     "points": 40.5,
-     "american": -108,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 40.5,
-     "american": -108,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Louisville",
-   "home": "North Carolina",
-   "start": "2026-11-15T00:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": 154,
-     "fair_prob": 0.3837,
-     "fair_american": 161
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": -172,
-     "fair_prob": 0.6163,
-     "fair_american": -161
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": 3.5,
-     "american": -107,
-     "fair_prob": 0.5023,
+     "points": 47.5,
+     "american": -109,
+     "fair_prob": 0.5022,
      "fair_american": -101
     },
     {
-     "type": "spread",
-     "side": "away",
-     "points": -3.5,
-     "american": -105,
-     "fair_prob": 0.4977,
-     "fair_american": 101
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 58.0,
-     "american": -101,
-     "fair_prob": 0.4834,
-     "fair_american": 107
-    },
-    {
      "type": "total",
      "side": "under",
-     "points": 58.0,
-     "american": -116,
-     "fair_prob": 0.5166,
-     "fair_american": -107
+     "points": 47.5,
+     "american": -107,
+     "fair_prob": 0.4978,
+     "fair_american": 101
     }
    ],
    "props": [
     {
-     "desc": "Jaleel Skinner Total Receiving Yards",
-     "units": "Receiving Yards",
+     "desc": "Arch Manning Total Rushing Yards",
+     "units": "Rushing Yards",
      "outcome": "Over",
-     "points": 21.5,
-     "american": -115,
-     "fair_prob": 0.5063,
-     "fair_american": -103
+     "points": 14.5,
+     "american": -102,
+     "fair_prob": 0.477,
+     "fair_american": 110
     },
     {
-     "desc": "Jaleel Skinner Total Receiving Yards",
-     "units": "Receiving Yards",
+     "desc": "Arch Manning Total Rushing Yards",
+     "units": "Rushing Yards",
      "outcome": "Under",
-     "points": 21.5,
+     "points": 14.5,
+     "american": -124,
+     "fair_prob": 0.523,
+     "fair_american": -110
+    },
+    {
+     "desc": "Emmett Mosley Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 42.5,
      "american": -109,
      "fair_prob": 0.4937,
      "fair_american": 103
     },
     {
-     "desc": "Jordan Shipp Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 76.5,
-     "american": -105,
-     "fair_prob": 0.4843,
-     "fair_american": 106
-    },
-    {
-     "desc": "Jordan Shipp Total Receiving Yards",
+     "desc": "Emmett Mosley Total Receiving Yards",
      "units": "Receiving Yards",
      "outcome": "Under",
-     "points": 76.5,
-     "american": -120,
-     "fair_prob": 0.5157,
-     "fair_american": -106
+     "points": 42.5,
+     "american": -115,
+     "fair_prob": 0.5063,
+     "fair_american": -103
     },
     {
-     "desc": "Isaac Brown Total Rushing Yards",
-     "units": "Rushing Yards",
+     "desc": "Dilin Jones Total Receiving Yards",
+     "units": "Receiving Yards",
      "outcome": "Over",
-     "points": 62.5,
+     "points": 21.5,
      "american": -112,
      "fair_prob": 0.5,
      "fair_american": 100
     },
     {
-     "desc": "Isaac Brown Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 62.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Demon June Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 49.5,
-     "american": -105,
-     "fair_prob": 0.4852,
-     "fair_american": 106
-    },
-    {
-     "desc": "Demon June Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 49.5,
-     "american": -119,
-     "fair_prob": 0.5148,
-     "fair_american": -106
-    },
-    {
-     "desc": "Jelani Thurman Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 62.5,
-     "american": 137,
-     "fair_prob": 0.3992,
-     "fair_american": 151
-    },
-    {
-     "desc": "Jelani Thurman Total Receiving Yards",
+     "desc": "Dilin Jones Total Receiving Yards",
      "units": "Receiving Yards",
      "outcome": "Under",
-     "points": 62.5,
-     "american": -174,
-     "fair_prob": 0.6008,
-     "fair_american": -151
-    },
-    {
-     "desc": "Benjamin Hall Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 26.5,
+     "points": 21.5,
      "american": -112,
      "fair_prob": 0.5,
      "fair_american": 100
     },
     {
-     "desc": "Benjamin Hall Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 26.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Keyjuan Brown Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 53.5,
-     "american": -105,
-     "fair_prob": 0.4852,
-     "fair_american": 106
-    },
-    {
-     "desc": "Keyjuan Brown Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 53.5,
-     "american": -119,
-     "fair_prob": 0.5148,
-     "fair_american": -106
-    },
-    {
-     "desc": "Billy Edwards Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Over",
-     "points": 255.5,
-     "american": -105,
-     "fair_prob": 0.4852,
-     "fair_american": 106
-    },
-    {
-     "desc": "Billy Edwards Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Under",
-     "points": 255.5,
-     "american": -119,
-     "fair_prob": 0.5148,
-     "fair_american": -106
-    },
-    {
-     "desc": "Isaac Brown Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 12.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Isaac Brown Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 12.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Lincoln Kienholz Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Over",
-     "points": 234.5,
-     "american": -130,
-     "fair_prob": 0.5355,
-     "fair_american": -115
-    },
-    {
-     "desc": "Lincoln Kienholz Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Under",
-     "points": 234.5,
-     "american": 104,
-     "fair_prob": 0.4645,
-     "fair_american": 115
-    },
-    {
-     "desc": "Lawayne McCoy Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 51.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Lawayne McCoy Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 51.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Billy Edwards Total Touchdown Passes",
+     "desc": "Sam Leavitt Total Touchdown Passes",
      "units": "Touchdown Passes",
      "outcome": "Over",
      "points": 1.5,
-     "american": -111,
-     "fair_prob": 0.4979,
-     "fair_american": 101
+     "american": 121,
+     "fair_prob": 0.4286,
+     "fair_american": 133
     },
     {
-     "desc": "Billy Edwards Total Touchdown Passes",
+     "desc": "Sam Leavitt Total Touchdown Passes",
      "units": "Touchdown Passes",
      "outcome": "Under",
      "points": 1.5,
+     "american": -152,
+     "fair_prob": 0.5714,
+     "fair_american": -133
+    },
+    {
+     "desc": "Jackson Harris Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 78.5,
+     "american": -109,
+     "fair_prob": 0.4937,
+     "fair_american": 103
+    },
+    {
+     "desc": "Jackson Harris Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 78.5,
+     "american": -115,
+     "fair_prob": 0.5063,
+     "fair_american": -103
+    },
+    {
+     "desc": "Cam Coleman Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 47.5,
+     "american": -114,
+     "fair_prob": 0.5042,
+     "fair_american": -102
+    },
+    {
+     "desc": "Cam Coleman Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 47.5,
+     "american": -110,
+     "fair_prob": 0.4958,
+     "fair_american": 102
+    },
+    {
+     "desc": "Ryan Wingo Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 48.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Ryan Wingo Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 48.5,
+     "american": -112,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Arch Manning Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Over",
+     "points": 217.5,
+     "american": 110,
+     "fair_prob": 0.4502,
+     "fair_american": 122
+    },
+    {
+     "desc": "Arch Manning Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Under",
+     "points": 217.5,
+     "american": -139,
+     "fair_prob": 0.5498,
+     "fair_american": -122
+    },
+    {
+     "desc": "Trey'Dez Green Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 57.5,
      "american": -113,
      "fair_prob": 0.5021,
      "fair_american": -101
     },
     {
-     "desc": "Lincoln Kienholz Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Over",
-     "points": 1.5,
-     "american": 111,
-     "fair_prob": 0.449,
-     "fair_american": 123
-    },
-    {
-     "desc": "Lincoln Kienholz Total Touchdown Passes",
-     "units": "Touchdown Passes",
+     "desc": "Trey'Dez Green Total Receiving Yards",
+     "units": "Receiving Yards",
      "outcome": "Under",
-     "points": 1.5,
-     "american": -139,
-     "fair_prob": 0.551,
-     "fair_american": -123
+     "points": 57.5,
+     "american": -111,
+     "fair_prob": 0.4979,
+     "fair_american": 101
     },
     {
-     "desc": "Lincoln Kienholz Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 31.5,
-     "american": -116,
-     "fair_prob": 0.5084,
-     "fair_american": -103
-    },
-    {
-     "desc": "Lincoln Kienholz Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 31.5,
-     "american": -108,
-     "fair_prob": 0.4916,
-     "fair_american": 103
-    },
-    {
-     "desc": "Tre Richardson Total Receiving Yards",
+     "desc": "Winston Watkins Total Receiving Yards",
      "units": "Receiving Yards",
      "outcome": "Over",
-     "points": 64.5,
+     "points": 35.5,
      "american": -112,
      "fair_prob": 0.5,
      "fair_american": 100
     },
     {
-     "desc": "Tre Richardson Total Receiving Yards",
+     "desc": "Winston Watkins Total Receiving Yards",
      "units": "Receiving Yards",
      "outcome": "Under",
-     "points": 64.5,
+     "points": 35.5,
      "american": -112,
      "fair_prob": 0.5,
      "fair_american": 100
     },
     {
-     "desc": "Trech Kekahuna Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 30.5,
-     "american": -115,
-     "fair_prob": 0.5063,
-     "fair_american": -103
-    },
-    {
-     "desc": "Trech Kekahuna Total Receiving Yards",
+     "desc": "Eugene Wilson Total Receiving Yards",
      "units": "Receiving Yards",
      "outcome": "Over",
      "points": 30.5,
@@ -2290,22 +2791,121 @@
      "fair_american": 103
     },
     {
-     "desc": "TreyShun Hurry Total Receiving Yards",
+     "desc": "Eugene Wilson Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 30.5,
+     "american": -115,
+     "fair_prob": 0.5063,
+     "fair_american": -103
+    },
+    {
+     "desc": "Sam Leavitt Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Over",
+     "points": 254.5,
+     "american": -107,
+     "fair_prob": 0.4895,
+     "fair_american": 104
+    },
+    {
+     "desc": "Sam Leavitt Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Under",
+     "points": 254.5,
+     "american": -117,
+     "fair_prob": 0.5105,
+     "fair_american": -104
+    },
+    {
+     "desc": "Sam Leavitt Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 27.5,
+     "american": -128,
+     "fair_prob": 0.5314,
+     "fair_american": -113
+    },
+    {
+     "desc": "Sam Leavitt Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 27.5,
+     "american": 102,
+     "fair_prob": 0.4686,
+     "fair_american": 113
+    },
+    {
+     "desc": "Raleek Brown Total Receiving Yards",
      "units": "Receiving Yards",
      "outcome": "Over",
-     "points": 38.5,
+     "points": 13.5,
+     "american": -102,
+     "fair_prob": 0.477,
+     "fair_american": 110
+    },
+    {
+     "desc": "Raleek Brown Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 13.5,
+     "american": -124,
+     "fair_prob": 0.523,
+     "fair_american": -110
+    },
+    {
+     "desc": "Dilin Jones Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 67.5,
      "american": -112,
      "fair_prob": 0.5,
      "fair_american": 100
     },
     {
-     "desc": "TreyShun Hurry Total Receiving Yards",
-     "units": "Receiving Yards",
+     "desc": "Dilin Jones Total Rushing Yards",
+     "units": "Rushing Yards",
      "outcome": "Under",
-     "points": 38.5,
+     "points": 67.5,
      "american": -112,
      "fair_prob": 0.5,
      "fair_american": 100
+    },
+    {
+     "desc": "Arch Manning Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Over",
+     "points": 1.5,
+     "american": 165,
+     "fair_prob": 0.3571,
+     "fair_american": 180
+    },
+    {
+     "desc": "Arch Manning Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Under",
+     "points": 1.5,
+     "american": -212,
+     "fair_prob": 0.6429,
+     "fair_american": -180
+    },
+    {
+     "desc": "Raleek Brown Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 61.5,
+     "american": -109,
+     "fair_prob": 0.4937,
+     "fair_american": 103
+    },
+    {
+     "desc": "Raleek Brown Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 61.5,
+     "american": -115,
+     "fair_prob": 0.5063,
+     "fair_american": -103
     }
    ]
   },
@@ -2350,568 +2950,17 @@
      "type": "total",
      "side": "over",
      "points": 73.0,
-     "american": -106,
-     "fair_prob": 0.4955,
-     "fair_american": 102
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
     },
     {
      "type": "total",
      "side": "under",
      "points": 73.0,
-     "american": -110,
-     "fair_prob": 0.5045,
-     "fair_american": -102
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "UNLV",
-   "home": "New Mexico",
-   "start": "2026-11-15T00:30:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -865,
-     "fair_prob": 0.8688,
-     "fair_american": -662
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 639,
-     "fair_prob": 0.1312,
-     "fair_american": 662
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -17.5,
-     "american": -106,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 17.5,
-     "american": -106,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 46.5,
      "american": -108,
      "fair_prob": 0.5,
      "fair_american": 100
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 46.5,
-     "american": -108,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Texas Tech",
-   "home": "Oklahoma State",
-   "start": "2026-11-15T02:30:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -175,
-     "fair_prob": 0.6206,
-     "fair_american": -164
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 157,
-     "fair_prob": 0.3794,
-     "fair_american": 164
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -3.5,
-     "american": -105,
-     "fair_prob": 0.4977,
-     "fair_american": 101
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 3.5,
-     "american": -107,
-     "fair_prob": 0.5023,
-     "fair_american": -101
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 73.5,
-     "american": -111,
-     "fair_prob": 0.5067,
-     "fair_american": -103
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 73.5,
-     "american": -105,
-     "fair_prob": 0.4933,
-     "fair_american": 103
-    }
-   ],
-   "props": [
-    {
-     "desc": "Caleb Hawkins Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 114.5,
-     "american": -106,
-     "fair_prob": 0.4873,
-     "fair_american": 105
-    },
-    {
-     "desc": "Caleb Hawkins Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 114.5,
-     "american": -118,
-     "fair_prob": 0.5127,
-     "fair_american": -105
-    },
-    {
-     "desc": "Thomas Castellanos Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Over",
-     "points": 227.5,
-     "american": -113,
-     "fair_prob": 0.5021,
-     "fair_american": -101
-    },
-    {
-     "desc": "Thomas Castellanos Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Under",
-     "points": 227.5,
-     "american": -111,
-     "fair_prob": 0.4979,
-     "fair_american": 101
-    },
-    {
-     "desc": "Kenny Johnson Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 65.5,
-     "american": -122,
-     "fair_prob": 0.5199,
-     "fair_american": -108
-    },
-    {
-     "desc": "Kenny Johnson Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 65.5,
-     "american": -103,
-     "fair_prob": 0.4801,
-     "fair_american": 108
-    },
-    {
-     "desc": "Drew Mestemaker Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Over",
-     "points": 327.5,
-     "american": -105,
-     "fair_prob": 0.4843,
-     "fair_american": 106
-    },
-    {
-     "desc": "Drew Mestemaker Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Under",
-     "points": 327.5,
-     "american": -120,
-     "fair_prob": 0.5157,
-     "fair_american": -106
-    },
-    {
-     "desc": "Wyatt Young Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 79.5,
-     "american": -105,
-     "fair_prob": 0.4843,
-     "fair_american": 106
-    },
-    {
-     "desc": "Wyatt Young Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 79.5,
-     "american": -120,
-     "fair_prob": 0.5157,
-     "fair_american": -106
-    },
-    {
-     "desc": "Micah Hudson Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 27.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Micah Hudson Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 27.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Thomas Castellanos Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 68.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Thomas Castellanos Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 68.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Drew Mestemaker Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Over",
-     "points": 2.5,
-     "american": -179,
-     "fair_prob": 0.6073,
-     "fair_american": -155
-    },
-    {
-     "desc": "Drew Mestemaker Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Under",
-     "points": 2.5,
-     "american": 141,
-     "fair_prob": 0.3927,
-     "fair_american": 155
-    },
-    {
-     "desc": "Caleb Hawkins Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 42.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Caleb Hawkins Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 42.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Miles Coleman Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 44.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Miles Coleman Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 44.5,
-     "american": -112,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "J'Koby Williams Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 107.5,
-     "american": 103,
-     "fair_prob": 0.4665,
-     "fair_american": 114
-    },
-    {
-     "desc": "J'Koby Williams Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 107.5,
-     "american": -129,
-     "fair_prob": 0.5335,
-     "fair_american": -114
-    },
-    {
-     "desc": "Thomas Castellanos Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Under",
-     "points": 1.5,
-     "american": 157,
-     "fair_prob": 0.3682,
-     "fair_american": 172
-    },
-    {
-     "desc": "Thomas Castellanos Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Over",
-     "points": 1.5,
-     "american": -201,
-     "fair_prob": 0.6318,
-     "fair_american": -172
-    },
-    {
-     "desc": "J'Koby Williams Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 19.5,
-     "american": -106,
-     "fair_prob": 0.4873,
-     "fair_american": 105
-    },
-    {
-     "desc": "J'Koby Williams Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 19.5,
-     "american": -118,
-     "fair_prob": 0.5127,
-     "fair_american": -105
-    },
-    {
-     "desc": "Terrance Carter Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 47.5,
-     "american": -115,
-     "fair_prob": 0.5063,
-     "fair_american": -103
-    },
-    {
-     "desc": "Terrance Carter Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 47.5,
-     "american": -109,
-     "fair_prob": 0.4937,
-     "fair_american": 103
-    },
-    {
-     "desc": "Justin Bowick Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 84.5,
-     "american": -105,
-     "fair_prob": 0.4843,
-     "fair_american": 106
-    },
-    {
-     "desc": "Justin Bowick Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 84.5,
-     "american": -120,
-     "fair_prob": 0.5157,
-     "fair_american": -106
-    }
-   ]
-  },
-  {
-   "away": "Troy",
-   "home": "South Alabama",
-   "start": "2026-11-15T00:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -146,
-     "fair_prob": 0.5782,
-     "fair_american": -137
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 131,
-     "fair_prob": 0.4218,
-     "fair_american": 137
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -3.0,
-     "american": -106,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 3.0,
-     "american": -106,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 56.0,
-     "american": -101,
-     "fair_prob": 0.4834,
-     "fair_american": 107
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 56.0,
-     "american": -116,
-     "fair_prob": 0.5166,
-     "fair_american": -107
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Baylor",
-   "home": "BYU",
-   "start": "2026-11-15T00:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -308,
-     "fair_prob": 0.7337,
-     "fair_american": -276
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 265,
-     "fair_prob": 0.2663,
-     "fair_american": 276
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -8.5,
-     "american": -107,
-     "fair_prob": 0.5023,
-     "fair_american": -101
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 8.5,
-     "american": -105,
-     "fair_prob": 0.4977,
-     "fair_american": 101
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 49.5,
-     "american": -105,
-     "fair_prob": 0.4933,
-     "fair_american": 103
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 49.5,
-     "american": -111,
-     "fair_prob": 0.5067,
-     "fair_american": -103
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Utah State",
-   "home": "San Diego State",
-   "start": "2026-11-15T02:30:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": 134,
-     "fair_prob": 0.4173,
-     "fair_american": 140
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": -148,
-     "fair_prob": 0.5827,
-     "fair_american": -140
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": 3.0,
-     "american": -109,
-     "fair_prob": 0.5057,
-     "fair_american": -102
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": -3.0,
-     "american": -104,
-     "fair_prob": 0.4943,
-     "fair_american": 102
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 44.0,
-     "american": 100,
-     "fair_prob": 0.4812,
-     "fair_american": 108
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 44.0,
-     "american": -117,
-     "fair_prob": 0.5188,
-     "fair_american": -108
     }
    ],
    "props": []

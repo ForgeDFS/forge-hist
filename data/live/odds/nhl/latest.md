@@ -1,4 +1,4 @@
-# NHL ([None]) Pinnacle no-vig, read 2026-11-14 23:32 UTC: 14 games, 1232 props
+# NHL ([None]) Pinnacle no-vig, read 2026-11-14 23:39 UTC: 14 games, 1264 props
 
 ## Away Goals (14 Games) @ Home Goals (14 Games)  2026-11-14T18:06:00Z
 - moneyline home : -212 (fair -190)
@@ -34,19 +34,19 @@
 - total over 6.0: -105 (fair 101)
 - total under 6.0: -107 (fair -101)
 ## Ottawa Senators @ Pittsburgh Penguins  2026-11-15T00:07:00Z
-- moneyline home : 120 (fair 125)
-- moneyline away : -132 (fair -125)
+- moneyline home : 120 (fair 126)
+- moneyline away : -133 (fair -126)
 - spread home 1.5: -217 (fair -197)
 - spread away -1.5: 188 (fair 197)
 - total over 6.0: -119 (fair -112)
 - total under 6.0: 106 (fair 112)
 ## Florida Panthers @ St. Louis Blues  2026-11-15T00:07:00Z
-- moneyline home : -112 (fair -107)
-- moneyline away : 102 (fair 107)
-- spread home -1.5: 228 (fair 239)
-- spread away 1.5: -267 (fair -239)
-- total over 6.0: -105 (fair 101)
-- total under 6.0: -107 (fair -101)
+- moneyline home : -110 (fair -104)
+- moneyline away : -101 (fair 104)
+- spread home -1.5: 235 (fair 246)
+- spread away 1.5: -276 (fair -246)
+- total over 5.5: -109 (fair -103)
+- total under 5.5: -103 (fair 103)
 ## Minnesota Wild @ Boston Bruins  2026-11-15T00:07:00Z
 - moneyline home : 114 (fair 119)
 - moneyline away : -126 (fair -119)
@@ -76,10 +76,10 @@
 - total over 6.5: 106 (fair 112)
 - total under 6.5: -119 (fair -112)
 ## Calgary Flames @ Los Angeles Kings  2026-11-15T03:07:00Z
-- moneyline home : -165 (fair -154)
-- moneyline away : 148 (fair 154)
-- spread home -1.5: 153 (fair 161)
-- spread away 1.5: -174 (fair -161)
+- moneyline home : -161 (fair -151)
+- moneyline away : 145 (fair 151)
+- spread home -1.5: 155 (fair 163)
+- spread away 1.5: -177 (fair -163)
 - total over 5.5: -108 (fair -102)
 - total under 5.5: -104 (fair 102)
 ## New York Islanders @ Anaheim Ducks  2026-11-15T03:07:00Z
@@ -90,9 +90,9 @@
 - total over 6.5: -133 (fair -125)
 - total under 6.5: 119 (fair 125)
 ## Vancouver Canucks @ Vegas Golden Knights  2026-11-16T02:07:00Z
-- moneyline home : -390 (fair -334)
-- moneyline away : 320 (fair 334)
-- spread home -2.5: 117 (fair 125)
-- spread away 2.5: -135 (fair -125)
+- moneyline home : -403 (fair -344)
+- moneyline away : 329 (fair 344)
+- spread home -2.5: 112 (fair 119)
+- spread away 2.5: -129 (fair -119)
 - total over 6.5: -106 (fair 101)
 - total under 6.5: -108 (fair -101)
