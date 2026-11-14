@@ -1,38 +1,24 @@
-# NHL ([None]) Pinnacle no-vig, read 2026-11-14 23:04 UTC: 14 games, 1232 props
+# NHL ([None]) Pinnacle no-vig, read 2026-11-14 23:32 UTC: 14 games, 1232 props
 
 ## Away Goals (14 Games) @ Home Goals (14 Games)  2026-11-14T18:06:00Z
 - moneyline home : -212 (fair -190)
 - moneyline away : 179 (fair 190)
 - total over 88.5: -109 (fair -101)
 - total under 88.5: -107 (fair 101)
+## Edmonton Oilers @ Toronto Maple Leafs  2026-11-15T00:00:00Z
+- moneyline home : 132 (fair 138)
+- moneyline away : -146 (fair -138)
+- spread home 1.5: -187 (fair -171)
+- spread away -1.5: 163 (fair 171)
+- total over 6.5: -113 (fair -107)
+- total under 6.5: 101 (fair 107)
 ## New Jersey Devils @ Washington Capitals  2026-11-15T00:00:00Z
-- moneyline home : 115 (fair 120)
-- moneyline away : -127 (fair -120)
-- spread home 1.5: -226 (fair -205)
-- spread away -1.5: 196 (fair 205)
+- moneyline home : 120 (fair 126)
+- moneyline away : -133 (fair -126)
+- spread home 1.5: -219 (fair -198)
+- spread away -1.5: 189 (fair 198)
 - total over 6.5: 101 (fair 107)
 - total under 6.5: -114 (fair -107)
-## Edmonton Oilers @ Toronto Maple Leafs  2026-11-15T00:00:00Z
-- moneyline home : 131 (fair 137)
-- moneyline away : -145 (fair -137)
-- spread home 1.5: -187 (fair -172)
-- spread away -1.5: 164 (fair 172)
-- total over 7.0: 121 (fair 127)
-- total under 7.0: -136 (fair -127)
-## Florida Panthers @ St. Louis Blues  2026-11-15T00:07:00Z
-- moneyline home : -112 (fair -107)
-- moneyline away : 102 (fair 107)
-- spread home -1.5: 228 (fair 239)
-- spread away 1.5: -268 (fair -239)
-- total over 6.0: -102 (fair 104)
-- total under 6.0: -110 (fair -104)
-## Detroit Red Wings @ Tampa Bay Lightning  2026-11-15T00:07:00Z
-- moneyline home : -202 (fair -187)
-- moneyline away : 180 (fair 187)
-- spread home -1.5: 127 (fair 134)
-- spread away 1.5: -143 (fair -134)
-- total over 6.0: -105 (fair 101)
-- total under 6.0: -107 (fair -101)
 ## Philadelphia Flyers @ Columbus Blue Jackets  2026-11-15T00:07:00Z
 - moneyline home : -130 (fair -123)
 - moneyline away : 118 (fair 123)
@@ -40,6 +26,27 @@
 - spread away 1.5: -224 (fair -203)
 - total over 5.5: -112 (fair -106)
 - total under 5.5: -100 (fair 106)
+## Detroit Red Wings @ Tampa Bay Lightning  2026-11-15T00:07:00Z
+- moneyline home : -202 (fair -187)
+- moneyline away : 180 (fair 187)
+- spread home -1.5: 127 (fair 134)
+- spread away 1.5: -143 (fair -134)
+- total over 6.0: -105 (fair 101)
+- total under 6.0: -107 (fair -101)
+## Ottawa Senators @ Pittsburgh Penguins  2026-11-15T00:07:00Z
+- moneyline home : 120 (fair 125)
+- moneyline away : -132 (fair -125)
+- spread home 1.5: -217 (fair -197)
+- spread away -1.5: 188 (fair 197)
+- total over 6.0: -119 (fair -112)
+- total under 6.0: 106 (fair 112)
+## Florida Panthers @ St. Louis Blues  2026-11-15T00:07:00Z
+- moneyline home : -112 (fair -107)
+- moneyline away : 102 (fair 107)
+- spread home -1.5: 228 (fair 239)
+- spread away 1.5: -267 (fair -239)
+- total over 6.0: -105 (fair 101)
+- total under 6.0: -107 (fair -101)
 ## Minnesota Wild @ Boston Bruins  2026-11-15T00:07:00Z
 - moneyline home : 114 (fair 119)
 - moneyline away : -126 (fair -119)
@@ -47,13 +54,6 @@
 - spread away -1.5: 203 (fair 213)
 - total over 6.0: -104 (fair 102)
 - total under 6.0: -108 (fair -102)
-## Ottawa Senators @ Pittsburgh Penguins  2026-11-15T00:07:00Z
-- moneyline home : 119 (fair 125)
-- moneyline away : -132 (fair -125)
-- spread home 1.5: -219 (fair -198)
-- spread away -1.5: 189 (fair 198)
-- total over 6.5: 105 (fair 111)
-- total under 6.5: -118 (fair -111)
 ## Colorado Avalanche @ Montreal Canadiens  2026-11-15T00:20:00Z
 - moneyline home : -135 (fair -128)
 - moneyline away : 122 (fair 128)
@@ -66,8 +66,8 @@
 - moneyline away : 121 (fair 127)
 - spread home -1.5: 187 (fair 196)
 - spread away 1.5: -215 (fair -196)
-- total over 6.0: -118 (fair -111)
-- total under 6.0: 105 (fair 111)
+- total over 6.5: 106 (fair 112)
+- total under 6.5: -119 (fair -112)
 ## San Jose Sharks @ Utah Mammoth  2026-11-15T02:07:00Z
 - moneyline home : -177 (fair -165)
 - moneyline away : 159 (fair 165)
