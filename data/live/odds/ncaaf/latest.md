@@ -1,4 +1,4 @@
-# NCAAF ([None]) Pinnacle no-vig, read 2026-11-15 05:18 UTC: 1 games, 0 props
+# NCAAF ([None]) Pinnacle no-vig, read 2026-11-15 09:35 UTC: 1 games, 0 props
 
 ## Mississippi @ Oklahoma  2026-11-15T18:00:00Z
 - moneyline home : -135 (fair -126)
