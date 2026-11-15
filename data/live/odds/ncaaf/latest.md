@@ -1,19 +1,5 @@
-# NCAAF ([None]) Pinnacle no-vig, read 2026-11-15 00:48 UTC: 11 games, 112 props
+# NCAAF ([None]) Pinnacle no-vig, read 2026-11-15 01:04 UTC: 9 games, 78 props
 
-## UNLV @ New Mexico  2026-11-15T00:30:00Z
-- moneyline home : -1000 (fair -744)
-- moneyline away : 718 (fair 744)
-- spread home -19.5: -108 (fair -102)
-- spread away 19.5: -104 (fair 102)
-- total over 46.5: -104 (fair 104)
-- total under 46.5: -112 (fair -104)
-## Texas @ LSU  2026-11-15T00:30:00Z
-- moneyline home : -200 (fair -185)
-- moneyline away : 177 (fair 185)
-- spread home -4.5: -115 (fair -108)
-- spread away 4.5: 102 (fair 108)
-- total over 47.5: -112 (fair -104)
-- total under 47.5: -104 (fair 104)
 ## South Carolina @ Arkansas  2026-11-15T00:45:00Z
 - moneyline home : 217 (fair 226)
 - moneyline away : -248 (fair -226)
@@ -28,6 +14,13 @@
 - spread away -3.0: 102 (fair 108)
 - total over 76.0: -106 (fair 102)
 - total under 76.0: -110 (fair -102)
+## Texas Tech @ Oklahoma State  2026-11-15T02:30:00Z
+- moneyline home : -183 (fair -171)
+- moneyline away : 164 (fair 171)
+- spread home -3.5: -111 (fair -105)
+- spread away 3.5: -101 (fair 105)
+- total over 73.5: -113 (fair -104)
+- total under 73.5: -104 (fair 104)
 ## Utah State @ San Diego State  2026-11-15T02:30:00Z
 - moneyline home : 132 (fair 138)
 - moneyline away : -147 (fair -138)
@@ -35,20 +28,13 @@
 - spread away -3.0: -103 (fair 103)
 - total over 44.0: 100 (fair 108)
 - total under 44.0: -117 (fair -108)
-## Texas Tech @ Oklahoma State  2026-11-15T02:30:00Z
-- moneyline home : -178 (fair -166)
-- moneyline away : 160 (fair 166)
-- spread home -3.5: -108 (fair -102)
-- spread away 3.5: -104 (fair 102)
-- total over 73.5: -112 (fair -104)
-- total under 73.5: -104 (fair 104)
 ## Wyoming @ UTEP  2026-11-15T03:00:00Z
-- moneyline home : 231 (fair 240)
-- moneyline away : -265 (fair -240)
-- spread home 7.0: -109 (fair -102)
-- spread away -7.0: -104 (fair 102)
-- total over 40.5: -108 (fair 100)
-- total under 40.5: -108 (fair 100)
+- moneyline home : 233 (fair 242)
+- moneyline away : -267 (fair -242)
+- spread home 7.0: -107 (fair -101)
+- spread away -7.0: -105 (fair 101)
+- total over 40.5: -109 (fair -101)
+- total under 40.5: -107 (fair 101)
 ## Utah @ Arizona  2026-11-15T03:30:00Z
 - moneyline home : 108 (fair 113)
 - moneyline away : -119 (fair -113)
