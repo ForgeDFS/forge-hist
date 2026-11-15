@@ -1,17 +1,10 @@
-# NHL ([None]) Pinnacle no-vig, read 2026-11-15 01:04 UTC: 6 games, 362 props
+# NHL ([None]) Pinnacle no-vig, read 2026-11-15 02:00 UTC: 5 games, 254 props
 
 ## Away Goals (14 Games) @ Home Goals (14 Games)  2026-11-14T18:06:00Z
 - moneyline home : -212 (fair -190)
 - moneyline away : 179 (fair 190)
 - total over 88.5: -109 (fair -101)
 - total under 88.5: -107 (fair 101)
-## Buffalo Sabres @ Dallas Stars  2026-11-15T01:07:00Z
-- moneyline home : -132 (fair -125)
-- moneyline away : 119 (fair 125)
-- spread home -1.5: 189 (fair 198)
-- spread away 1.5: -218 (fair -198)
-- total over 6.5: 105 (fair 111)
-- total under 6.5: -118 (fair -111)
 ## San Jose Sharks @ Utah Mammoth  2026-11-15T02:07:00Z
 - moneyline home : -176 (fair -165)
 - moneyline away : 158 (fair 165)
@@ -20,10 +13,10 @@
 - total over 6.0: -117 (fair -110)
 - total under 6.0: 104 (fair 110)
 ## Calgary Flames @ Los Angeles Kings  2026-11-15T03:07:00Z
-- moneyline home : -161 (fair -151)
-- moneyline away : 145 (fair 151)
-- spread home -1.5: 155 (fair 163)
-- spread away 1.5: -177 (fair -163)
+- moneyline home : -165 (fair -154)
+- moneyline away : 148 (fair 154)
+- spread home -1.5: 152 (fair 160)
+- spread away 1.5: -173 (fair -160)
 - total over 5.5: -108 (fair -102)
 - total under 5.5: -104 (fair 102)
 ## New York Islanders @ Anaheim Ducks  2026-11-15T03:07:00Z
