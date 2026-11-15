@@ -1,0 +1,34 @@
+name: relay
+# Runs the private site updater on free public-repo minutes. Nothing is printed: all output stays in the private repo.
+on:
+  schedule:
+    - cron: "5 14,17,20 * * *"              # full refresh
+    - cron: "5,20,35,50 15-23 * * *"        # lock checks (only due ones do work)
+    - cron: "5,20,35,50 0-4 * * *"
+    - cron: "35,50 11-13 * * 0"
+  workflow_dispatch:
+    inputs:
+      mode: { description: "drop or tick", default: "drop" }
+concurrency: { group: relay, cancel-in-progress: false }
+permissions: { contents: read }
+jobs:
+  relay:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - name: run
+        env:
+          GH_TOKEN: ${{ secrets.FORGE_OS_TOKEN }}
+          ODDSPAPI_KEY: ${{ secrets.ODDSPAPI_KEY }}
+          EV: ${{ github.event_name }}
+          SCHED: ${{ github.event.schedule }}
+          IN_MODE: ${{ github.event.inputs.mode }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then echo "secret FORGE_OS_TOKEN not set"; exit 0; fi
+          MODE=tick; [ "$EV" = "workflow_dispatch" ] && MODE="${IN_MODE:-drop}"; [ "$SCHED" = "5 14,17,20 * * *" ] && MODE=drop
+          {
+            git clone -q --depth 1 "https://x-access-token:${GH_TOKEN}@github.com/ForgeDFS/forge-os.git" fo
+            git clone -q --depth 1 --filter=blob:none --sparse https://github.com/ForgeDFS/forge-hist fh && git -C fh sparse-checkout set data/live
+            cd fo && FORGE_HIST_DIR="$GITHUB_WORKSPACE/fh" bash tools/pulse_run.sh "$MODE"
+          } > /dev/null 2>&1 || true
+          echo done
