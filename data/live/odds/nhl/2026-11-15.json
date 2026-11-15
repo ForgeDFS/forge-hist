@@ -1,61 +1,61 @@
 {
- "read_utc": "2026-11-15 12:34",
+ "read_utc": "2026-11-15 13:02",
  "league": [
   null
  ],
  "games": [
   {
-   "away": "Edmonton Oilers",
-   "home": "Philadelphia Flyers",
-   "start": "2026-11-16T00:37:00Z",
+   "away": "Florida Panthers",
+   "home": "Dallas Stars",
+   "start": "2026-11-16T01:07:00Z",
    "lines": [
     {
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": 127,
-     "fair_prob": 0.4281,
-     "fair_american": 134
+     "american": -135,
+     "fair_prob": 0.5583,
+     "fair_american": -126
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": -143,
-     "fair_prob": 0.5719,
-     "fair_american": -134
+     "american": 120,
+     "fair_prob": 0.4417,
+     "fair_american": 126
     },
     {
      "type": "spread",
      "side": "home",
-     "points": 1.5,
-     "american": -209,
-     "fair_prob": 0.6528,
-     "fair_american": -188
+     "points": -1.5,
+     "american": 186,
+     "fair_prob": 0.3371,
+     "fair_american": 197
     },
     {
      "type": "spread",
      "side": "away",
-     "points": -1.5,
-     "american": 178,
-     "fair_prob": 0.3472,
-     "fair_american": 188
+     "points": 1.5,
+     "american": -220,
+     "fair_prob": 0.6629,
+     "fair_american": -197
     },
     {
      "type": "total",
      "side": "over",
-     "points": 6.0,
-     "american": -106,
-     "fair_prob": 0.4977,
-     "fair_american": 101
+     "points": 5.5,
+     "american": -120,
+     "fair_prob": 0.5279,
+     "fair_american": -112
     },
     {
      "type": "total",
      "side": "under",
-     "points": 6.0,
-     "american": -108,
-     "fair_prob": 0.5023,
-     "fair_american": -101
+     "points": 5.5,
+     "american": 105,
+     "fair_prob": 0.4721,
+     "fair_american": 112
     }
    ],
    "props": []
@@ -125,49 +125,105 @@
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": 147,
-     "fair_prob": 0.3929,
+     "american": 146,
+     "fair_prob": 0.3944,
      "fair_american": 154
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": -167,
-     "fair_prob": 0.6071,
+     "american": -166,
+     "fair_prob": 0.6056,
      "fair_american": -154
     },
     {
      "type": "spread",
      "side": "home",
      "points": 1.5,
-     "american": -172,
-     "fair_prob": 0.6106,
-     "fair_american": -157
+     "american": -173,
+     "fair_prob": 0.6121,
+     "fair_american": -158
     },
     {
      "type": "spread",
      "side": "away",
      "points": -1.5,
-     "american": 148,
-     "fair_prob": 0.3894,
-     "fair_american": 157
+     "american": 149,
+     "fair_prob": 0.3879,
+     "fair_american": 158
     },
     {
      "type": "total",
      "side": "over",
      "points": 6.5,
-     "american": -107,
-     "fair_prob": 0.5,
-     "fair_american": 100
+     "american": -104,
+     "fair_prob": 0.4932,
+     "fair_american": 103
     },
     {
      "type": "total",
      "side": "under",
      "points": 6.5,
-     "american": -107,
-     "fair_prob": 0.5,
-     "fair_american": 100
+     "american": -110,
+     "fair_prob": 0.5068,
+     "fair_american": -103
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Edmonton Oilers",
+   "home": "Philadelphia Flyers",
+   "start": "2026-11-16T00:37:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 128,
+     "fair_prob": 0.4256,
+     "fair_american": 135
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -145,
+     "fair_prob": 0.5744,
+     "fair_american": -135
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 1.5,
+     "american": -207,
+     "fair_prob": 0.6505,
+     "fair_american": -186
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -1.5,
+     "american": 176,
+     "fair_prob": 0.3495,
+     "fair_american": 186
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 6.0,
+     "american": -105,
+     "fair_prob": 0.4955,
+     "fair_american": 102
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 6.0,
+     "american": -109,
+     "fair_prob": 0.5045,
+     "fair_american": -102
     }
    ],
    "props": []
@@ -181,105 +237,49 @@
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": -403,
-     "fair_prob": 0.7746,
-     "fair_american": -344
+     "american": -408,
+     "fair_prob": 0.7763,
+     "fair_american": -347
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": 329,
-     "fair_prob": 0.2254,
-     "fair_american": 344
+     "american": 332,
+     "fair_prob": 0.2237,
+     "fair_american": 347
     },
     {
      "type": "spread",
      "side": "home",
      "points": -2.5,
-     "american": 113,
-     "fair_prob": 0.4546,
-     "fair_american": 120
+     "american": 111,
+     "fair_prob": 0.4578,
+     "fair_american": 118
     },
     {
      "type": "spread",
      "side": "away",
      "points": 2.5,
-     "american": -129,
-     "fair_prob": 0.5454,
-     "fair_american": -120
+     "american": -128,
+     "fair_prob": 0.5422,
+     "fair_american": -118
     },
     {
      "type": "total",
      "side": "over",
      "points": 6.5,
-     "american": -106,
-     "fair_prob": 0.4977,
-     "fair_american": 101
+     "american": -109,
+     "fair_prob": 0.5045,
+     "fair_american": -102
     },
     {
      "type": "total",
      "side": "under",
      "points": 6.5,
-     "american": -108,
-     "fair_prob": 0.5023,
-     "fair_american": -101
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Florida Panthers",
-   "home": "Dallas Stars",
-   "start": "2026-11-16T01:07:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -135,
-     "fair_prob": 0.5583,
-     "fair_american": -126
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 120,
-     "fair_prob": 0.4417,
-     "fair_american": 126
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -1.5,
-     "american": 186,
-     "fair_prob": 0.3371,
-     "fair_american": 197
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 1.5,
-     "american": -220,
-     "fair_prob": 0.6629,
-     "fair_american": -197
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 5.5,
-     "american": -120,
-     "fair_prob": 0.5279,
-     "fair_american": -112
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 5.5,
-     "american": 105,
-     "fair_prob": 0.4721,
-     "fair_american": 112
+     "american": -105,
+     "fair_prob": 0.4955,
+     "fair_american": 102
     }
    ],
    "props": []
