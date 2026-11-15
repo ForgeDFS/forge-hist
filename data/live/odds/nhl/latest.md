@@ -1,8 +1,8 @@
-# NHL ([None]) Pinnacle no-vig, read 2026-11-15 17:17 UTC: 5 games, 570 props
+# NHL ([None]) Pinnacle no-vig, read 2026-11-15 17:34 UTC: 5 games, 570 props
 
 ## Edmonton Oilers @ Philadelphia Flyers  2026-11-16T00:37:00Z
-- moneyline home : 124 (fair 129)
-- moneyline away : -137 (fair -129)
+- moneyline home : 124 (fair 130)
+- moneyline away : -138 (fair -130)
 - spread home 1.5: -210 (fair -191)
 - spread away -1.5: 182 (fair 191)
 - total over 6.0: -105 (fair 101)
