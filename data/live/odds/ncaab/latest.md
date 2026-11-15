@@ -1,4 +1,4 @@
-# NCAAB ([None]) Pinnacle no-vig, read 2026-11-15 09:35 UTC: 17 games, 0 props
+# NCAAB ([None]) Pinnacle no-vig, read 2026-11-15 12:34 UTC: 17 games, 0 props
 
 ## Louisville @ Memphis  2026-11-15T18:00:00Z
 - moneyline home : 330 (fair 347)
@@ -7,11 +7,6 @@
 - spread away -8.5: -112 (fair -104)
 - total over 163.5: -105 (fair 105)
 - total under 163.5: -116 (fair -105)
-## Niagara @ Iowa State  2026-11-15T18:00:00Z
-- spread home -39.0: -112 (fair -104)
-- spread away 39.0: -104 (fair 104)
-- total over 142.5: -121 (fair -110)
-- total under 142.5: -100 (fair 110)
 ## Boise State @ Nebraska  2026-11-15T18:00:00Z
 - moneyline home : -495 (fair -403)
 - moneyline away : 384 (fair 403)
@@ -19,9 +14,14 @@
 - spread away 9.5: -107 (fair 101)
 - total over 159.0: -101 (fair 108)
 - total under 159.0: -119 (fair -108)
+## Niagara @ Iowa State  2026-11-15T18:00:00Z
+- spread home -39.0: -112 (fair -104)
+- spread away 39.0: -104 (fair 104)
+- total over 142.5: -121 (fair -110)
+- total under 142.5: -100 (fair 110)
 ## William & Mary @ Michigan  2026-11-15T19:00:00Z
-- spread home -28.5: -107 (fair 101)
-- spread away 28.5: -109 (fair -101)
+- spread home -28.5: -105 (fair 103)
+- spread away 28.5: -111 (fair -103)
 - total over 166.5: -114 (fair -104)
 - total under 166.5: -106 (fair 104)
 ## Cal State Bakersfield @ North Dakota State  2026-11-15T19:00:00Z
@@ -31,13 +31,6 @@
 - spread away 4.0: -101 (fair 106)
 - total over 153.5: -110 (fair 100)
 - total under 153.5: -110 (fair 100)
-## Temple @ La Salle  2026-11-15T19:00:00Z
-- moneyline home : -112 (fair -104)
-- moneyline away : -104 (fair 104)
-- spread home -1.5: -102 (fair 106)
-- spread away 1.5: -115 (fair -106)
-- total over 153.0: -104 (fair 105)
-- total under 153.0: -116 (fair -105)
 ## Princeton @ Rhode Island  2026-11-15T19:00:00Z
 - moneyline home : -342 (fair -292)
 - moneyline away : 278 (fair 292)
@@ -45,6 +38,13 @@
 - spread away 7.5: -110 (fair -102)
 - total over 137.5: -110 (fair 100)
 - total under 137.5: -110 (fair 100)
+## Temple @ La Salle  2026-11-15T19:00:00Z
+- moneyline home : -112 (fair -104)
+- moneyline away : -104 (fair 104)
+- spread home -1.5: -102 (fair 106)
+- spread away 1.5: -115 (fair -106)
+- total over 153.0: -104 (fair 105)
+- total under 153.0: -116 (fair -105)
 ## Missouri @ Marquette  2026-11-15T19:30:00Z
 - moneyline home : -112 (fair -104)
 - moneyline away : -104 (fair 104)
@@ -52,13 +52,6 @@
 - spread away 1.0: -109 (fair -101)
 - total over 154.0: -107 (fair 103)
 - total under 154.0: -113 (fair -103)
-## Creighton @ Iowa  2026-11-15T20:00:00Z
-- moneyline home : -194 (fair -174)
-- moneyline away : 164 (fair 174)
-- spread home -4.5: -106 (fair 102)
-- spread away 4.5: -110 (fair -102)
-- total over 146.5: -107 (fair 103)
-- total under 146.5: -113 (fair -103)
 ## IPFW @ Eastern Illinois  2026-11-15T20:00:00Z
 - moneyline home : 127 (fair 136)
 - moneyline away : -149 (fair -136)
@@ -66,6 +59,13 @@
 - spread away -3.0: -107 (fair 101)
 - total over 146.0: -112 (fair -102)
 - total under 146.0: -108 (fair 102)
+## Creighton @ Iowa  2026-11-15T20:00:00Z
+- moneyline home : -194 (fair -174)
+- moneyline away : 164 (fair 174)
+- spread home -4.5: -106 (fair 102)
+- spread away 4.5: -110 (fair -102)
+- total over 146.5: -107 (fair 103)
+- total under 146.5: -113 (fair -103)
 ## New Mexico State @ San Diego State  2026-11-15T21:00:00Z
 - moneyline home : -920 (fair -660)
 - moneyline away : 632 (fair 660)
