@@ -1,4 +1,4 @@
-# NCAAB ([None]) Pinnacle no-vig, read 2026-11-15 00:09 UTC: 22 games, 0 props
+# NCAAB ([None]) Pinnacle no-vig, read 2026-11-15 00:18 UTC: 22 games, 0 props
 
 ## South Alabama @ North Texas  2026-11-14T23:00:00Z
 - moneyline home : -455 (fair -375)
