@@ -1,4 +1,4 @@
-# NCAAB ([None]) Pinnacle no-vig, read 2026-11-15 19:32 UTC: 28 games, 0 props
+# NCAAB ([None]) Pinnacle no-vig, read 2026-11-15 19:38 UTC: 28 games, 0 props
 
 ## New Hampshire @ Boston College  2026-11-15T18:30:00Z
 - spread home -21.0: -104 (fair 104)
