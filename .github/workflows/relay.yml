@@ -10,7 +10,7 @@ on:
     inputs:
       mode: { description: "drop or tick", default: "drop" }
 concurrency: { group: relay, cancel-in-progress: false }
-permissions: { contents: read }
+permissions: { contents: read, actions: write }
 jobs:
   relay:
     runs-on: ubuntu-latest
@@ -32,3 +32,12 @@ jobs:
             cd fo && FORGE_HIST_DIR="$GITHUB_WORKSPACE/fh" bash tools/pulse_run.sh "$MODE"
           } > /dev/null 2>&1 || true
           echo done
+      - name: next
+        # GitHub's cron is unreliable for new workflows: each run starts the next one at the next :05/:20/:35/:50 (14:00-04:59 UTC)
+        if: always()
+        env: { GH_TOKEN: "${{ github.token }}" }
+        run: |
+          H=$(date -u +%H); if [ "$H" -ge 5 ] && [ "$H" -lt 14 ]; then echo "overnight"; exit 0; fi
+          M=$(date -u +%M); S=$(date -u +%S); for t in 5 20 35 50 65; do if [ $((10#$M)) -lt $t ]; then W=$(( (t - 10#$M) * 60 - 10#$S )); break; fi; done
+          [ "$W" -gt 0 ] && sleep "$W"
+          gh api -X POST "repos/${{ github.repository }}/actions/workflows/relay.yml/dispatches" -f ref=main -f "inputs[mode]=tick" > /dev/null && echo next
