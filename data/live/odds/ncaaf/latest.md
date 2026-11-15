@@ -1,58 +1,9 @@
-# NCAAF ([None]) Pinnacle no-vig, read 2026-11-15 02:00 UTC: 8 games, 62 props
+# NCAAF ([None]) Pinnacle no-vig, read 2026-11-15 05:18 UTC: 1 games, 0 props
 
-## North Texas @ UTSA  2026-11-15T02:00:00Z
-- moneyline home : 122 (fair 128)
-- moneyline away : -135 (fair -128)
-- spread home 3.0: -111 (fair -105)
-- spread away -3.0: -101 (fair 105)
-- total over 76.0: -108 (fair 100)
-- total under 76.0: -108 (fair 100)
-## Texas Tech @ Oklahoma State  2026-11-15T02:30:00Z
-- moneyline home : -185 (fair -172)
-- moneyline away : 165 (fair 172)
-- spread home -3.5: -113 (fair -106)
-- spread away 3.5: 100 (fair 106)
-- total over 73.5: -112 (fair -104)
-- total under 73.5: -104 (fair 104)
-## Utah State @ San Diego State  2026-11-15T02:30:00Z
-- moneyline home : 132 (fair 138)
-- moneyline away : -147 (fair -138)
-- spread home 3.0: -109 (fair -103)
-- spread away -3.0: -103 (fair 103)
-- total over 44.0: 100 (fair 108)
-- total under 44.0: -117 (fair -108)
-## Wyoming @ UTEP  2026-11-15T03:00:00Z
-- moneyline home : 233 (fair 243)
-- moneyline away : -269 (fair -243)
-- spread home 7.0: -106 (fair 100)
-- spread away -7.0: -106 (fair 100)
-- total over 40.5: -115 (fair -106)
-- total under 40.5: -102 (fair 106)
-## Utah @ Arizona  2026-11-15T03:30:00Z
-- moneyline home : 109 (fair 114)
-- moneyline away : -120 (fair -114)
-- spread home 1.0: 103 (fair 109)
-- spread away -1.0: -116 (fair -109)
-- total over 55.5: -112 (fair -104)
-- total under 55.5: -104 (fair 104)
-## Colorado State @ Washington State  2026-11-15T03:45:00Z
-- moneyline home : -321 (fair -285)
-- moneyline away : 274 (fair 285)
-- spread home -9.5: 102 (fair 108)
-- spread away 9.5: -115 (fair -108)
-- total over 65.0: -107 (fair 101)
-- total under 65.0: -109 (fair -101)
-## North Dakota State @ Hawaii  2026-11-15T04:00:00Z
-- moneyline home : 240 (fair 250)
-- moneyline away : -277 (fair -250)
-- spread home 7.0: -102 (fair 104)
-- spread away -7.0: -110 (fair -104)
-- total over 39.5: -109 (fair -101)
-- total under 39.5: -107 (fair 101)
 ## Mississippi @ Oklahoma  2026-11-15T18:00:00Z
-- moneyline home : -146 (fair -137)
-- moneyline away : 130 (fair 137)
-- spread home -3.0: -104 (fair 103)
-- spread away 3.0: -110 (fair -103)
+- moneyline home : -135 (fair -126)
+- moneyline away : 120 (fair 126)
+- spread home -2.5: -113 (fair -105)
+- spread away 2.5: -102 (fair 105)
 - total over 49.5: -101 (fair 107)
 - total under 49.5: -116 (fair -107)
