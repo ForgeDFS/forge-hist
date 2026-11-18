@@ -1,0 +1,27 @@
+name: research-matrix
+# (2026-11-18) one backtest split across N free runners in parallel (public repo minutes are free). Each shard runs
+#   tools/research_run.sh "<cmd>" in the private repo with SHARD/NSHARD set; outputs (bt2, research_runs) are committed there. Logs never public.
+on:
+  workflow_dispatch:
+    inputs:
+      cmd: { description: "command run from the forge-os root (SHARD/NSHARD are set)", required: true }
+      shards: { description: "number of shards (max 16)", required: false, default: "8" }
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs: { list: "${{ steps.p.outputs.list }}" }
+    steps:
+      - id: p
+        run: echo "list=$(python3 -c "import json;print(json.dumps(list(range(min(16,int('${{ github.event.inputs.shards }}'))))))")" >> "$GITHUB_OUTPUT"
+  run:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    strategy: { fail-fast: false, matrix: { shard: "${{ fromJSON(needs.plan.outputs.list) }}" } }
+    steps:
+      - name: run
+        env: { GH_TOKEN: "${{ secrets.FORGE_OS_TOKEN }}", CMD: "${{ github.event.inputs.cmd }}", SHARD: "${{ matrix.shard }}", NSHARD: "${{ github.event.inputs.shards }}" }
+        run: |
+          if [ -z "$GH_TOKEN" ]; then echo "secret missing"; exit 0; fi
+          { git clone -q --depth 1 "https://x-access-token:${GH_TOKEN}@github.com/ForgeDFS/forge-os.git" fo && cd fo && git config user.name "Claude" && git config user.email "noreply@anthropic.com" && SHARD=$SHARD NSHARD=$NSHARD bash tools/research_run.sh "$CMD"; } > /dev/null 2>&1 || true
+          echo "shard $SHARD done"
