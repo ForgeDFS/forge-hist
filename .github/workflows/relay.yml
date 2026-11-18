@@ -38,6 +38,9 @@ jobs:
         if: always()
         env: { GH_TOKEN: "${{ github.token }}" }
         run: |
+          # (2026-11-18) live.yml (DK + odds capture) also misses its cron: start it whenever its last run is 2+ h old
+          L=$(gh run list -R "${{ github.repository }}" -w live.yml -L 1 --json createdAt -q '.[0].createdAt' 2>/dev/null); A=$(( $(date -u +%s) - $(date -u -d "${L:-1970-01-01T00:00:00Z}" +%s) ))
+          if [ "$A" -ge 7000 ]; then gh api -X POST "repos/${{ github.repository }}/actions/workflows/live.yml/dispatches" -f ref=main > /dev/null && echo "live started (last ${A}s ago)"; fi
           H=$(date -u +%H); if [ $((10#$H)) -ge 5 ] && [ $((10#$H)) -lt 14 ]; then sleep 3000; gh api -X POST "repos/${{ github.repository }}/actions/workflows/relay.yml/dispatches" -f ref=main -f "inputs[mode]=tick" > /dev/null && echo next-overnight; exit 0; fi   # (2026-11-16) keep the chain alive overnight (hourly) -- cron alone left it dead 05:39-22:15 UTC
           M=$(date -u +%M); S=$(date -u +%S); for t in 5 20 35 50 65; do if [ $((10#$M)) -lt $t ]; then W=$(( (t - 10#$M) * 60 - 10#$S )); break; fi; done
           [ "$W" -gt 0 ] && sleep "$W"
