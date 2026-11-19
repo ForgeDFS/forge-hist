@@ -1,4 +1,4 @@
-# NCAAB ([None]) Pinnacle no-vig, read 2026-11-19 10:30 UTC: 13 games, 0 props
+# NCAAB ([None]) Pinnacle no-vig, read 2026-11-19 12:54 UTC: 13 games, 0 props
 
 ## Robert Morris @ Toledo  2026-11-20T00:00:00Z
 - moneyline home : -305 (fair -264)
@@ -21,13 +21,6 @@
 - spread away 15.5: -107 (fair 101)
 - total over 165.0: -107 (fair 103)
 - total under 165.0: -113 (fair -103)
-## Tulane @ Louisiana Tech  2026-11-20T00:30:00Z
-- moneyline home : 100 (fair 108)
-- moneyline away : -117 (fair -108)
-- spread home 1.5: -110 (fair -102)
-- spread away -1.5: -106 (fair 102)
-- total over 142.5: -118 (fair -107)
-- total under 142.5: -102 (fair 107)
 ## College of Charleston @ Drake  2026-11-20T00:30:00Z
 - moneyline home : -110 (fair -102)
 - moneyline away : -106 (fair 102)
@@ -35,6 +28,13 @@
 - spread away 1.0: -112 (fair -104)
 - total over 159.0: -111 (fair -101)
 - total under 159.0: -109 (fair 101)
+## Tulane @ Louisiana Tech  2026-11-20T00:30:00Z
+- moneyline home : 100 (fair 108)
+- moneyline away : -117 (fair -108)
+- spread home 1.5: -110 (fair -102)
+- spread away -1.5: -106 (fair 102)
+- total over 142.5: -118 (fair -107)
+- total under 142.5: -102 (fair 107)
 ## Southern Utah @ Texas  2026-11-20T01:00:00Z
 - spread home -38.5: -105 (fair 103)
 - spread away 38.5: -111 (fair -103)
@@ -54,6 +54,11 @@
 - spread away 7.0: -107 (fair 101)
 - total over 149.5: -114 (fair -104)
 - total under 149.5: -106 (fair 104)
+## Utah Tech @ Washington  2026-11-20T02:00:00Z
+- spread home -18.0: -107 (fair 101)
+- spread away 18.0: -109 (fair -101)
+- total over 158.5: -111 (fair -101)
+- total under 158.5: -109 (fair 101)
 ## UTEP @ New Mexico State  2026-11-20T02:00:00Z
 - moneyline home : -119 (fair -110)
 - moneyline away : 102 (fair 110)
@@ -62,24 +67,19 @@
 - total over 135.0: -108 (fair 102)
 - total under 135.0: -112 (fair -102)
 ## Oregon State @ Oregon  2026-11-20T02:00:00Z
-- moneyline home : -115 (fair -106)
-- moneyline away : -102 (fair 106)
-- spread home -1.5: -106 (fair 102)
-- spread away 1.5: -110 (fair -102)
+- moneyline home : -118 (fair -109)
+- moneyline away : 101 (fair 109)
+- spread home -1.5: -109 (fair -101)
+- spread away 1.5: -107 (fair 101)
 - total over 161.5: -105 (fair 105)
 - total under 161.5: -116 (fair -105)
-## Utah Tech @ Washington  2026-11-20T02:00:00Z
-- spread home -18.0: -107 (fair 101)
-- spread away 18.0: -109 (fair -101)
-- total over 158.5: -111 (fair -101)
-- total under 158.5: -109 (fair 101)
 ## Sacramento State @ Stanford  2026-11-20T03:00:00Z
 - spread home -17.0: -114 (fair -105)
 - spread away 17.0: -102 (fair 105)
 - total over 155.0: -111 (fair -101)
 - total under 155.0: -109 (fair 101)
 ## Tarleton St @ USC  2026-11-20T04:00:00Z
-- spread home -26.5: -105 (fair 103)
-- spread away 26.5: -111 (fair -103)
-- total over 160.0: -107 (fair 103)
-- total under 160.0: -113 (fair -103)
+- spread home -27.5: -104 (fair 104)
+- spread away 27.5: -113 (fair -104)
+- total over 160.0: -111 (fair -101)
+- total under 160.0: -109 (fair 101)
