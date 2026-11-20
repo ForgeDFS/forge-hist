@@ -1,0 +1,21 @@
+name: morning
+# (2026-11-20) FORGE morning report ("Last night" tab) on free public-repo minutes: clones the private repo and runs tools/morning_run.sh there.
+# ~2:17 AM ET + a late-morning backup; relay.yml also starts it overnight if it has not run in 18 h (GitHub's cron misses new workflows). Nothing printed.
+on:
+  schedule: [{ cron: "17 7,12 * * *" }]
+  workflow_dispatch: {}
+permissions: { contents: read }
+concurrency: { group: morning, cancel-in-progress: false }
+jobs:
+  morning:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: run
+        env: { GH_TOKEN: "${{ secrets.FORGE_OS_TOKEN }}" }
+        run: |
+          if [ -z "$GH_TOKEN" ]; then echo "secret missing"; exit 0; fi
+          { git clone -q --depth 1 "https://x-access-token:${GH_TOKEN}@github.com/ForgeDFS/forge-os.git" fo && cd fo && GH_TOKEN="$GH_TOKEN" bash tools/morning_run.sh; } > /dev/null 2>&1 || true
+          echo done
