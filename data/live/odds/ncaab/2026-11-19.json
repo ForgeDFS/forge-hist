@@ -1,65 +1,9 @@
 {
- "read_utc": "2026-11-20 03:11",
+ "read_utc": "2026-11-20 03:29",
  "league": [
   null
  ],
  "games": [
-  {
-   "away": "East Texas A&M",
-   "home": "California",
-   "start": "2026-11-20T03:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -1112,
-     "fair_prob": 0.8836,
-     "fair_american": -759
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 727,
-     "fair_prob": 0.1164,
-     "fair_american": 759
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -14.0,
-     "american": -107,
-     "fair_prob": 0.4978,
-     "fair_american": 101
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 14.0,
-     "american": -109,
-     "fair_prob": 0.5022,
-     "fair_american": -101
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 146.5,
-     "american": -116,
-     "fair_prob": 0.513,
-     "fair_american": -105
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 146.5,
-     "american": -104,
-     "fair_prob": 0.487,
-     "fair_american": 105
-    }
-   ],
-   "props": []
-  },
   {
    "away": "Houston",
    "home": "Kansas",
@@ -114,13 +58,6 @@
      "fair_american": 100
     }
    ],
-   "props": []
-  },
-  {
-   "away": "Sacramento State",
-   "home": "Stanford",
-   "start": "2026-11-20T03:00:00Z",
-   "lines": [],
    "props": []
   },
   {
@@ -215,6 +152,62 @@
      "american": -115,
      "fair_prob": 0.5108,
      "fair_american": -104
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "East Texas A&M",
+   "home": "California",
+   "start": "2026-11-20T03:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -1112,
+     "fair_prob": 0.8836,
+     "fair_american": -759
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 727,
+     "fair_prob": 0.1164,
+     "fair_american": 759
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -14.0,
+     "american": -107,
+     "fair_prob": 0.4978,
+     "fair_american": 101
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 14.0,
+     "american": -109,
+     "fair_prob": 0.5022,
+     "fair_american": -101
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 146.5,
+     "american": -116,
+     "fair_prob": 0.513,
+     "fair_american": -105
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 146.5,
+     "american": -104,
+     "fair_prob": 0.487,
+     "fair_american": 105
     }
    ],
    "props": []

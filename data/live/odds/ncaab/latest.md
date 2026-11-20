@@ -1,4 +1,4 @@
-# NCAAB ([None]) Pinnacle no-vig, read 2026-11-20 03:11 UTC: 5 games, 0 props
+# NCAAB ([None]) Pinnacle no-vig, read 2026-11-20 03:29 UTC: 4 games, 0 props
 
 ## East Texas A&M @ California  2026-11-20T03:00:00Z
 - moneyline home : -1112 (fair -759)
@@ -7,7 +7,6 @@
 - spread away 14.0: -109 (fair -101)
 - total over 146.5: -116 (fair -105)
 - total under 146.5: -104 (fair 105)
-## Sacramento State @ Stanford  2026-11-20T03:00:00Z
 ## VCU @ Santa Clara  2026-11-20T03:30:00Z
 - moneyline home : -125 (fair -115)
 - moneyline away : 107 (fair 115)
