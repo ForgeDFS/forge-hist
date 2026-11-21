@@ -1,4 +1,4 @@
-# NCAAB ([None]) Pinnacle no-vig, read 2026-11-21 11:14 UTC: 22 games, 0 props
+# NCAAB ([None]) Pinnacle no-vig, read 2026-11-21 12:47 UTC: 22 games, 0 props
 
 ## Detroit @ Michigan State  2026-11-21T17:00:00Z
 - spread home -41.5: -103 (fair 105)
@@ -19,13 +19,6 @@
 - spread away 7.5: -111 (fair -103)
 - total over 139.0: -111 (fair -101)
 - total under 139.0: -109 (fair 101)
-## Stony Brook @ St. Peter's  2026-11-21T19:00:00Z
-- moneyline home : 185 (fair 196)
-- moneyline away : -220 (fair -196)
-- spread home 5.5: -106 (fair 102)
-- spread away -5.5: -110 (fair -102)
-- total over 126.0: -110 (fair 100)
-- total under 126.0: -110 (fair 100)
 ## Fordham @ Portland  2026-11-21T19:00:00Z
 - moneyline home : 200 (fair 212)
 - moneyline away : -240 (fair -212)
@@ -33,6 +26,13 @@
 - spread away -5.5: -108 (fair 100)
 - total over 149.5: -104 (fair 105)
 - total under 149.5: -116 (fair -105)
+## Stony Brook @ St. Peter's  2026-11-21T19:00:00Z
+- moneyline home : 185 (fair 196)
+- moneyline away : -220 (fair -196)
+- spread home 5.5: -106 (fair 102)
+- spread away -5.5: -110 (fair -102)
+- total over 126.0: -110 (fair 100)
+- total under 126.0: -110 (fair 100)
 ## New Mexico @ Wichita State  2026-11-21T19:00:00Z
 - moneyline home : 125 (fair 134)
 - moneyline away : -146 (fair -134)
@@ -90,12 +90,6 @@
 - total over 146.0: -112 (fair -102)
 - total under 146.0: -108 (fair 102)
 ## Cal Irvine @ San Diego  2026-11-21T21:30:00Z
-- moneyline home : 177 (fair 187)
-- moneyline away : -209 (fair -187)
-- spread home 5.0: -107 (fair 101)
-- spread away -5.0: -109 (fair -101)
-- total over 140.5: -107 (fair 103)
-- total under 140.5: -113 (fair -103)
 ## Air Force @ Texas San Antonio  2026-11-21T22:00:00Z
 - moneyline home : -254 (fair -224)
 - moneyline away : 212 (fair 224)
@@ -103,13 +97,6 @@
 - spread away 6.0: -111 (fair -103)
 - total over 172.0: -112 (fair -102)
 - total under 172.0: -108 (fair 102)
-## Northern Arizona @ Cal Poly SLO  2026-11-22T00:00:00Z
-- moneyline home : -369 (fair -312)
-- moneyline away : 297 (fair 312)
-- spread home -8.0: -111 (fair -103)
-- spread away 8.0: -105 (fair 103)
-- total over 156.5: -111 (fair -101)
-- total under 156.5: -109 (fair 101)
 ## California Baptist @ Loyola Marymount  2026-11-22T00:00:00Z
 - moneyline home : -1136 (fair -770)
 - moneyline away : 738 (fair 770)
@@ -117,6 +104,7 @@
 - spread away 13.5: -107 (fair 101)
 - total over 136.5: -108 (fair 102)
 - total under 136.5: -113 (fair -102)
+## Michigan @ Villanova  2026-11-22T00:00:00Z
 ## Morehead State @ Elon  2026-11-22T00:00:00Z
 - moneyline home : -991 (fair -698)
 - moneyline away : 668 (fair 698)
@@ -124,7 +112,13 @@
 - spread away 13.0: -110 (fair -102)
 - total over 142.5: -110 (fair 100)
 - total under 142.5: -110 (fair 100)
-## Michigan @ Villanova  2026-11-22T00:00:00Z
+## Northern Arizona @ Cal Poly SLO  2026-11-22T00:00:00Z
+- moneyline home : -369 (fair -312)
+- moneyline away : 297 (fair 312)
+- spread home -8.0: -111 (fair -103)
+- spread away 8.0: -105 (fair 103)
+- total over 156.5: -111 (fair -101)
+- total under 156.5: -109 (fair 101)
 ## Valparaiso @ Troy  2026-11-22T01:00:00Z
 - moneyline home : 158 (fair 168)
 - moneyline away : -187 (fair -168)
@@ -133,14 +127,14 @@
 - total over 139.0: -112 (fair -102)
 - total under 139.0: -108 (fair 102)
 ## Bradley @ Pacific  2026-11-22T03:00:00Z
-- moneyline home : -420 (fair -350)
-- moneyline away : 333 (fair 350)
-- spread home -9.0: -106 (fair 102)
-- spread away 9.0: -110 (fair -102)
-- total over 126.0: -111 (fair -101)
-- total under 126.0: -109 (fair 101)
+- moneyline home : -421 (fair -351)
+- moneyline away : 334 (fair 351)
+- spread home -9.0: -107 (fair 101)
+- spread away 9.0: -109 (fair -101)
+- total over 127.0: -108 (fair 102)
+- total under 127.0: -113 (fair -102)
 ## Washington State @ Duke  2026-11-22T04:00:00Z
-- spread home -25.5: -107 (fair 101)
-- spread away 25.5: -109 (fair -101)
-- total over 149.0: -114 (fair -104)
-- total under 149.0: -106 (fair 104)
+- spread home -25.5: -105 (fair 103)
+- spread away 25.5: -111 (fair -103)
+- total over 149.0: -107 (fair 103)
+- total under 149.0: -113 (fair -103)
