@@ -1,0 +1,25 @@
+name: tipfinal
+# (2026-11-20, Drew) final pre-tip NBA site update, in its own queue so a long relay run can never hold it back.
+# Every 5 min: if an NBA tip is 15-42 min away and its final update has not run, wait for that tip's starters (Rotowire
+# 'confirmed', deadline 21 min before tip), rebuild NBA only, publish. Otherwise exits in seconds.
+on:
+  schedule:
+    - cron: "*/5 16-23,0-5 * * *"
+  workflow_dispatch:
+concurrency: { group: tipfinal, cancel-in-progress: false }
+permissions: { contents: read }
+jobs:
+  tipfinal:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: run
+        env:
+          GH_TOKEN: ${{ secrets.FORGE_OS_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then echo "secret FORGE_OS_TOKEN not set"; exit 0; fi
+          {
+            git clone -q --depth 1 "https://x-access-token:${GH_TOKEN}@github.com/ForgeDFS/forge-os.git" fo
+            cd fo && bash tools/pulse_run.sh tipfinal
+          } > /dev/null 2>&1 || true
+          echo done
