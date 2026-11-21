@@ -1,4 +1,4 @@
-# NHL ([None]) Pinnacle no-vig, read 2026-11-21 02:15 UTC: 14 games, 0 props
+# NHL ([None]) Pinnacle no-vig, read 2026-11-21 03:18 UTC: 14 games, 0 props
 
 ## Edmonton Oilers @ Carolina Hurricanes  2026-11-21T18:00:00Z
 - moneyline home : -182 (fair -167)
@@ -8,12 +8,12 @@
 - total over 6.0: -116 (fair -108)
 - total under 6.0: 102 (fair 108)
 ## Chicago Blackhawks @ Calgary Flames  2026-11-21T20:30:00Z
-- moneyline home : -147 (fair -137)
-- moneyline away : 130 (fair 137)
-- spread home -1.5: 173 (fair 183)
-- spread away 1.5: -203 (fair -183)
-- total over 6.0: -101 (fair 106)
-- total under 6.0: -114 (fair -106)
+- moneyline home : -148 (fair -138)
+- moneyline away : 131 (fair 138)
+- spread home -1.5: 172 (fair 182)
+- spread away 1.5: -202 (fair -182)
+- total over 6.0: 104 (fair 111)
+- total under 6.0: -119 (fair -111)
 ## Buffalo Sabres @ Florida Panthers  2026-11-21T23:00:00Z
 - moneyline home : -143 (fair -133)
 - moneyline away : 126 (fair 133)
