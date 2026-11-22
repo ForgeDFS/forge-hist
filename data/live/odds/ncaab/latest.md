@@ -1,4 +1,4 @@
-# NCAAB ([None]) Pinnacle no-vig, read 2026-11-22 09:30 UTC: 25 games, 0 props
+# NCAAB ([None]) Pinnacle no-vig, read 2026-11-22 12:05 UTC: 25 games, 0 props
 
 ## Miami Ohio @ Illinois Chicago  2026-11-22T17:00:00Z
 - moneyline home : -106 (fair 102)
@@ -7,13 +7,6 @@
 - spread away -1.0: -105 (fair 103)
 - total over 149.0: -108 (fair 102)
 - total under 149.0: -112 (fair -102)
-## Dayton @ Northwestern  2026-11-22T18:00:00Z
-- moneyline home : 142 (fair 151)
-- moneyline away : -167 (fair -151)
-- spread home 3.5: -107 (fair 101)
-- spread away -3.5: -109 (fair -101)
-- total over 136.0: -111 (fair -101)
-- total under 136.0: -109 (fair 101)
 ## Butler @ Nebraska  2026-11-22T18:00:00Z
 - moneyline home : -849 (fair -622)
 - moneyline away : 595 (fair 622)
@@ -28,32 +21,18 @@
 - spread away 4.5: -116 (fair -107)
 - total over 140.5: -108 (fair 102)
 - total under 140.5: -112 (fair -102)
-## William & Mary @ Youngstown State  2026-11-22T19:00:00Z
-- moneyline home : 123 (fair 132)
-- moneyline away : -144 (fair -132)
-- spread home 2.5: -106 (fair 102)
-- spread away -2.5: -110 (fair -102)
-- total over 164.5: -112 (fair -102)
-- total under 164.5: -108 (fair 102)
+## Dayton @ Northwestern  2026-11-22T18:00:00Z
+- moneyline home : 142 (fair 151)
+- moneyline away : -167 (fair -151)
+- spread home 3.5: -107 (fair 101)
+- spread away -3.5: -109 (fair -101)
+- total over 136.0: -111 (fair -101)
+- total under 136.0: -109 (fair 101)
 ## Evansville @ Memphis  2026-11-22T19:00:00Z
 - spread home -21.0: -112 (fair -104)
 - spread away 21.0: -104 (fair 104)
 - total over 158.0: -108 (fair 102)
 - total under 158.0: -112 (fair -102)
-## Utah Tech @ South Dakota  2026-11-22T19:00:00Z
-- moneyline home : -108 (fair 100)
-- moneyline away : -108 (fair 100)
-- spread home -1.0: -103 (fair 105)
-- spread away 1.0: -113 (fair -105)
-- total over 153.0: -114 (fair -104)
-- total under 153.0: -106 (fair 104)
-## San Diego @ Fordham  2026-11-22T19:00:00Z
-- moneyline home : -151 (fair -138)
-- moneyline away : 129 (fair 138)
-- spread home -3.0: -106 (fair 102)
-- spread away 3.0: -110 (fair -102)
-- total over 144.0: -111 (fair -101)
-- total under 144.0: -109 (fair 101)
 ## Western Kentucky @ George Washington  2026-11-22T19:00:00Z
 - moneyline home : -221 (fair -197)
 - moneyline away : 186 (fair 197)
@@ -61,6 +40,27 @@
 - spread away 5.0: -104 (fair 104)
 - total over 148.5: -109 (fair 101)
 - total under 148.5: -111 (fair -101)
+## Utah Tech @ South Dakota  2026-11-22T19:00:00Z
+- moneyline home : -107 (fair 101)
+- moneyline away : -109 (fair -101)
+- spread home -1.0: -102 (fair 105)
+- spread away 1.0: -114 (fair -105)
+- total over 153.0: -115 (fair -104)
+- total under 153.0: -105 (fair 104)
+## William & Mary @ Youngstown State  2026-11-22T19:00:00Z
+- moneyline home : 123 (fair 132)
+- moneyline away : -144 (fair -132)
+- spread home 2.5: -106 (fair 102)
+- spread away -2.5: -110 (fair -102)
+- total over 164.5: -112 (fair -102)
+- total under 164.5: -108 (fair 102)
+## San Diego @ Fordham  2026-11-22T19:00:00Z
+- moneyline home : -151 (fair -138)
+- moneyline away : 129 (fair 138)
+- spread home -3.0: -106 (fair 102)
+- spread away 3.0: -110 (fair -102)
+- total over 144.0: -111 (fair -101)
+- total under 144.0: -109 (fair 101)
 ## Robert Morris @ New Mexico State  2026-11-22T19:30:00Z
 - moneyline home : -124 (fair -114)
 - moneyline away : 106 (fair 114)
@@ -80,13 +80,6 @@
 - spread away -1.5: -108 (fair 100)
 - total over 160.0: -109 (fair 101)
 - total under 160.0: -111 (fair -101)
-## Cal Irvine @ Loyola Marymount  2026-11-22T21:30:00Z
-- moneyline home : 131 (fair 140)
-- moneyline away : -154 (fair -140)
-- spread home 3.0: -108 (fair 100)
-- spread away -3.0: -108 (fair 100)
-- total over 139.0: -108 (fair 102)
-- total under 139.0: -112 (fair -102)
 ## Liberty @ Richmond  2026-11-22T21:30:00Z
 - moneyline home : 100 (fair 108)
 - moneyline away : -117 (fair -108)
@@ -94,6 +87,13 @@
 - spread away -1.5: -106 (fair 102)
 - total over 143.0: -113 (fair -103)
 - total under 143.0: -107 (fair 103)
+## Cal Irvine @ Loyola Marymount  2026-11-22T21:30:00Z
+- moneyline home : 131 (fair 140)
+- moneyline away : -154 (fair -140)
+- spread home 3.0: -108 (fair 100)
+- spread away -3.0: -108 (fair 100)
+- total over 139.0: -105 (fair 105)
+- total under 139.0: -116 (fair -105)
 ## CS Fullerton @ Portland State  2026-11-22T22:00:00Z
 - moneyline home : -196 (fair -176)
 - moneyline away : 166 (fair 176)
