@@ -1,4 +1,4 @@
-# NCAAB ([None]) Pinnacle no-vig, read 2026-11-22 12:05 UTC: 25 games, 0 props
+# NCAAB ([None]) Pinnacle no-vig, read 2026-11-22 12:41 UTC: 25 games, 0 props
 
 ## Miami Ohio @ Illinois Chicago  2026-11-22T17:00:00Z
 - moneyline home : -106 (fair 102)
@@ -7,6 +7,13 @@
 - spread away -1.0: -105 (fair 103)
 - total over 149.0: -108 (fair 102)
 - total under 149.0: -112 (fair -102)
+## Dayton @ Northwestern  2026-11-22T18:00:00Z
+- moneyline home : 142 (fair 151)
+- moneyline away : -167 (fair -151)
+- spread home 3.5: -107 (fair 101)
+- spread away -3.5: -109 (fair -101)
+- total over 136.0: -111 (fair -101)
+- total under 136.0: -109 (fair 101)
 ## Butler @ Nebraska  2026-11-22T18:00:00Z
 - moneyline home : -849 (fair -622)
 - moneyline away : 595 (fair 622)
@@ -21,13 +28,6 @@
 - spread away 4.5: -116 (fair -107)
 - total over 140.5: -108 (fair 102)
 - total under 140.5: -112 (fair -102)
-## Dayton @ Northwestern  2026-11-22T18:00:00Z
-- moneyline home : 142 (fair 151)
-- moneyline away : -167 (fair -151)
-- spread home 3.5: -107 (fair 101)
-- spread away -3.5: -109 (fair -101)
-- total over 136.0: -111 (fair -101)
-- total under 136.0: -109 (fair 101)
 ## Evansville @ Memphis  2026-11-22T19:00:00Z
 - spread home -21.0: -112 (fair -104)
 - spread away 21.0: -104 (fair 104)
@@ -47,13 +47,6 @@
 - spread away 1.0: -114 (fair -105)
 - total over 153.0: -115 (fair -104)
 - total under 153.0: -105 (fair 104)
-## William & Mary @ Youngstown State  2026-11-22T19:00:00Z
-- moneyline home : 123 (fair 132)
-- moneyline away : -144 (fair -132)
-- spread home 2.5: -106 (fair 102)
-- spread away -2.5: -110 (fair -102)
-- total over 164.5: -112 (fair -102)
-- total under 164.5: -108 (fair 102)
 ## San Diego @ Fordham  2026-11-22T19:00:00Z
 - moneyline home : -151 (fair -138)
 - moneyline away : 129 (fair 138)
@@ -61,6 +54,13 @@
 - spread away 3.0: -110 (fair -102)
 - total over 144.0: -111 (fair -101)
 - total under 144.0: -109 (fair 101)
+## William & Mary @ Youngstown State  2026-11-22T19:00:00Z
+- moneyline home : 123 (fair 132)
+- moneyline away : -144 (fair -132)
+- spread home 2.5: -106 (fair 102)
+- spread away -2.5: -110 (fair -102)
+- total over 164.5: -112 (fair -102)
+- total under 164.5: -108 (fair 102)
 ## Robert Morris @ New Mexico State  2026-11-22T19:30:00Z
 - moneyline home : -124 (fair -114)
 - moneyline away : 106 (fair 114)
@@ -122,6 +122,13 @@
 - spread away -8.0: -110 (fair -102)
 - total over 145.0: -111 (fair -101)
 - total under 145.0: -109 (fair 101)
+## California Baptist @ Portland  2026-11-23T00:00:00Z
+- moneyline home : -479 (fair -391)
+- moneyline away : 373 (fair 391)
+- spread home -9.5: -103 (fair 105)
+- spread away 9.5: -113 (fair -105)
+- total over 147.0: -110 (fair 100)
+- total under 147.0: -110 (fair 100)
 ## Delaware @ UCLA  2026-11-23T00:00:00Z
 - spread home -29.5: -104 (fair 104)
 - spread away 29.5: -113 (fair -104)
@@ -134,18 +141,6 @@
 - spread away 2.0: -108 (fair 100)
 - total over 149.5: -120 (fair -109)
 - total under 149.5: -101 (fair 109)
-## California Baptist @ Portland  2026-11-23T00:00:00Z
-- moneyline home : -479 (fair -391)
-- moneyline away : 373 (fair 391)
-- spread home -9.5: -103 (fair 105)
-- spread away 9.5: -113 (fair -105)
-- total over 147.0: -110 (fair 100)
-- total under 147.0: -110 (fair 100)
-## UL - Lafayette @ USC  2026-11-23T01:00:00Z
-- spread home -33.0: -112 (fair -104)
-- spread away 33.0: -104 (fair 104)
-- total over 147.5: -109 (fair 101)
-- total under 147.5: -111 (fair -101)
 ## Tennessee Martin @ Utah Valley  2026-11-23T01:00:00Z
 - moneyline home : -371 (fair -314)
 - moneyline away : 299 (fair 314)
@@ -153,6 +148,11 @@
 - spread away 8.0: -107 (fair 101)
 - total over 146.5: -110 (fair 100)
 - total under 146.5: -110 (fair 100)
+## UL - Lafayette @ USC  2026-11-23T01:00:00Z
+- spread home -33.0: -112 (fair -104)
+- spread away 33.0: -104 (fair 104)
+- total over 147.5: -109 (fair 101)
+- total under 147.5: -111 (fair -101)
 ## Seattle U @ UC San Diego  2026-11-23T02:30:00Z
 - moneyline home : -114 (fair -105)
 - moneyline away : -102 (fair 105)
