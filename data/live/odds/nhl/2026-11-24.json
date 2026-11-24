@@ -1,5 +1,5 @@
 {
- "read_utc": "2026-11-24 12:08",
+ "read_utc": "2026-11-24 14:59",
  "league": [
   null
  ],
@@ -13,52 +13,70 @@
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": 102,
-     "fair_prob": 0.4807,
-     "fair_american": 108
+     "american": 104,
+     "fair_prob": 0.4782,
+     "fair_american": 109
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
      "american": -115,
-     "fair_prob": 0.5193,
-     "fair_american": -108
+     "fair_prob": 0.5218,
+     "fair_american": -109
     },
     {
      "type": "spread",
      "side": "home",
      "points": 1.5,
-     "american": -258,
-     "fair_prob": 0.6942,
-     "fair_american": -227
+     "american": -251,
+     "fair_prob": 0.6926,
+     "fair_american": -225
     },
     {
      "type": "spread",
      "side": "away",
      "points": -1.5,
      "american": 215,
-     "fair_prob": 0.3058,
-     "fair_american": 227
+     "fair_prob": 0.3074,
+     "fair_american": 225
     },
     {
      "type": "total",
      "side": "over",
      "points": 6.0,
-     "american": -116,
-     "fair_prob": 0.5191,
-     "fair_american": -108
+     "american": -118,
+     "fair_prob": 0.526,
+     "fair_american": -111
     },
     {
      "type": "total",
      "side": "under",
      "points": 6.0,
-     "american": 101,
-     "fair_prob": 0.4809,
-     "fair_american": 108
+     "american": 105,
+     "fair_prob": 0.474,
+     "fair_american": 111
     }
    ],
    "props": [
+    {
+     "desc": "Connor McDavid Total Goals",
+     "units": "Goals",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": 128,
+     "fair_prob": 0.408,
+     "fair_american": 145
+    },
+    {
+     "desc": "Connor McDavid Total Goals",
+     "units": "Goals",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": -175,
+     "fair_prob": 0.592,
+     "fair_american": -145
+    },
     {
      "desc": "Evan Bouchard Total Goals",
      "units": "Goals",
@@ -76,24 +94,6 @@
      "american": -450,
      "fair_prob": 0.7566,
      "fair_american": -311
-    },
-    {
-     "desc": "Connor McDavid Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 123,
-     "fair_prob": 0.4187,
-     "fair_american": 139
-    },
-    {
-     "desc": "Connor McDavid Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -165,
-     "fair_prob": 0.5813,
-     "fair_american": -139
     },
     {
      "desc": "Jack Eichel Total Assists",
@@ -136,18 +136,18 @@
      "units": "Shots On Goal",
      "outcome": "Over",
      "points": 2.5,
-     "american": -118,
-     "fair_prob": 0.5082,
-     "fair_american": -103
+     "american": -111,
+     "fair_prob": 0.4919,
+     "fair_american": 103
     },
     {
      "desc": "Jack Eichel Total Shots On Goal",
      "units": "Shots On Goal",
      "outcome": "Under",
      "points": 2.5,
-     "american": -110,
-     "fair_prob": 0.4918,
-     "fair_american": 103
+     "american": -119,
+     "fair_prob": 0.5081,
+     "fair_american": -103
     },
     {
      "desc": "Victor Olofsson Total Assists",
@@ -172,18 +172,18 @@
      "units": "Assists",
      "outcome": "Over",
      "points": 0.5,
-     "american": -290,
-     "fair_prob": 0.6954,
-     "fair_american": -228
+     "american": -282,
+     "fair_prob": 0.6896,
+     "fair_american": -222
     },
     {
      "desc": "Connor McDavid Total Assists",
      "units": "Assists",
      "outcome": "Under",
      "points": 0.5,
-     "american": 207,
-     "fair_prob": 0.3046,
-     "fair_american": 228
+     "american": 201,
+     "fair_prob": 0.3104,
+     "fair_american": 222
     },
     {
      "desc": "Leon Draisaitl Total Goals",
@@ -208,8 +208,8 @@
      "units": "Shots On Goal",
      "outcome": "Over",
      "points": 1.5,
-     "american": -149,
-     "fair_prob": 0.5592,
+     "american": -148,
+     "fair_prob": 0.5585,
      "fair_american": -127
     },
     {
@@ -218,7 +218,7 @@
      "outcome": "Under",
      "points": 1.5,
      "american": 112,
-     "fair_prob": 0.4408,
+     "fair_prob": 0.4415,
      "fair_american": 127
     },
     {
@@ -334,8 +334,8 @@
      "units": "Shots On Goal",
      "outcome": "Over",
      "points": 1.5,
-     "american": -178,
-     "fair_prob": 0.6018,
+     "american": -181,
+     "fair_prob": 0.6022,
      "fair_american": -151
     },
     {
@@ -343,8 +343,8 @@
      "units": "Shots On Goal",
      "outcome": "Under",
      "points": 1.5,
-     "american": 136,
-     "fair_prob": 0.3982,
+     "american": 135,
+     "fair_prob": 0.3978,
      "fair_american": 151
     },
     {
@@ -352,18 +352,18 @@
      "units": "Assists",
      "outcome": "Over",
      "points": 0.5,
-     "american": -195,
-     "fair_prob": 0.6182,
-     "fair_american": -162
+     "american": -194,
+     "fair_prob": 0.6169,
+     "fair_american": -161
     },
     {
      "desc": "Evan Bouchard Total Assists",
      "units": "Assists",
      "outcome": "Under",
      "points": 0.5,
-     "american": 145,
-     "fair_prob": 0.3818,
-     "fair_american": 162
+     "american": 144,
+     "fair_prob": 0.3831,
+     "fair_american": 161
     },
     {
      "desc": "Trevor Connelly Total Goals",
@@ -406,18 +406,18 @@
      "units": "Assists",
      "outcome": "Over",
      "points": 0.5,
-     "american": -190,
-     "fair_prob": 0.6122,
-     "fair_american": -158
+     "american": -178,
+     "fair_prob": 0.5987,
+     "fair_american": -149
     },
     {
      "desc": "Leon Draisaitl Total Assists",
      "units": "Assists",
      "outcome": "Under",
      "points": 0.5,
-     "american": 141,
-     "fair_prob": 0.3878,
-     "fair_american": 158
+     "american": 133,
+     "fair_prob": 0.4013,
+     "fair_american": 149
     },
     {
      "desc": "Tomas Hertl Total Shots On Goal",
@@ -425,17 +425,17 @@
      "outcome": "Over",
      "points": 2.5,
      "american": 140,
-     "fair_prob": 0.3914,
-     "fair_american": 155
+     "fair_prob": 0.3896,
+     "fair_american": 157
     },
     {
      "desc": "Tomas Hertl Total Shots On Goal",
      "units": "Shots On Goal",
      "outcome": "Under",
      "points": 2.5,
-     "american": -184,
-     "fair_prob": 0.6086,
-     "fair_american": -155
+     "american": -188,
+     "fair_prob": 0.6104,
+     "fair_american": -157
     },
     {
      "desc": "Victor Olofsson Total Goals",
