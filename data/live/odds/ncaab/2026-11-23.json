@@ -1,9 +1,177 @@
 {
- "read_utc": "2026-11-24 02:59",
+ "read_utc": "2026-11-24 04:55",
  "league": [
   null
  ],
  "games": [
+  {
+   "away": "Illinois Chicago",
+   "home": "Rice",
+   "start": "2026-11-24T18:30:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 247,
+     "fair_prob": 0.2776,
+     "fair_american": 260
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -300,
+     "fair_prob": 0.7224,
+     "fair_american": -260
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 7.0,
+     "american": -107,
+     "fair_prob": 0.4978,
+     "fair_american": 101
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -7.0,
+     "american": -109,
+     "fair_prob": 0.5022,
+     "fair_american": -101
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 143.5,
+     "american": -105,
+     "fair_prob": 0.4892,
+     "fair_american": 104
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 143.5,
+     "american": -115,
+     "fair_prob": 0.5108,
+     "fair_american": -104
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Nevada",
+   "home": "Santa Clara",
+   "start": "2026-11-25T00:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -102,
+     "fair_prob": 0.4856,
+     "fair_american": 106
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -115,
+     "fair_prob": 0.5144,
+     "fair_american": -106
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 1.5,
+     "american": -111,
+     "fair_prob": 0.5067,
+     "fair_american": -103
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -1.5,
+     "american": -105,
+     "fair_prob": 0.4933,
+     "fair_american": 103
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 156.5,
+     "american": -112,
+     "fair_prob": 0.5043,
+     "fair_american": -102
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 156.5,
+     "american": -108,
+     "fair_prob": 0.4957,
+     "fair_american": 102
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Hampton",
+   "home": "Old Dominion",
+   "start": "2026-11-25T00:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -403,
+     "fair_prob": 0.7717,
+     "fair_american": -338
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 322,
+     "fair_prob": 0.2283,
+     "fair_american": 338
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -8.5,
+     "american": -111,
+     "fair_prob": 0.5067,
+     "fair_american": -103
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 8.5,
+     "american": -105,
+     "fair_prob": 0.4933,
+     "fair_american": 103
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 133.5,
+     "american": -110,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 133.5,
+     "american": -110,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    }
+   ],
+   "props": []
+  },
   {
    "away": "San Jose State",
    "home": "UC San Diego",
@@ -13,22 +181,174 @@
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": -127,
-     "fair_prob": 0.5378,
-     "fair_american": -116
+     "american": -130,
+     "fair_prob": 0.5439,
+     "fair_american": -119
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": 108,
-     "fair_prob": 0.4622,
-     "fair_american": 116
+     "american": 111,
+     "fair_prob": 0.4561,
+     "fair_american": 119
     },
     {
      "type": "spread",
      "side": "home",
      "points": -2.0,
+     "american": -107,
+     "fair_prob": 0.4978,
+     "fair_american": 101
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 2.0,
+     "american": -109,
+     "fair_prob": 0.5022,
+     "fair_american": -101
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 155.0,
+     "american": -108,
+     "fair_prob": 0.4957,
+     "fair_american": 102
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 155.0,
+     "american": -112,
+     "fair_prob": 0.5043,
+     "fair_american": -102
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Tarleton St",
+   "home": "Weber State",
+   "start": "2026-11-25T00:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -103,
+     "fair_prob": 0.4878,
+     "fair_american": 105
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -114,
+     "fair_prob": 0.5122,
+     "fair_american": -105
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 1.0,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -1.0,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 158.5,
+     "american": -112,
+     "fair_prob": 0.5043,
+     "fair_american": -102
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 158.5,
+     "american": -108,
+     "fair_prob": 0.4957,
+     "fair_american": 102
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Wisc Milwaukee",
+   "home": "Florida",
+   "start": "2026-11-25T00:00:00Z",
+   "lines": [
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -36.0,
+     "american": -106,
+     "fair_prob": 0.4955,
+     "fair_american": 102
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 36.0,
+     "american": -110,
+     "fair_prob": 0.5045,
+     "fair_american": -102
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 157.5,
+     "american": -103,
+     "fair_prob": 0.4848,
+     "fair_american": 106
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 157.5,
+     "american": -117,
+     "fair_prob": 0.5152,
+     "fair_american": -106
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Belmont",
+   "home": "Akron",
+   "start": "2026-11-24T17:30:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -148,
+     "fair_prob": 0.5742,
+     "fair_american": -135
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 126,
+     "fair_prob": 0.4258,
+     "fair_american": 135
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -3.0,
      "american": -104,
      "fair_prob": 0.4911,
      "fair_american": 104
@@ -36,7 +356,7 @@
     {
      "type": "spread",
      "side": "away",
-     "points": 2.0,
+     "points": 3.0,
      "american": -112,
      "fair_prob": 0.5089,
      "fair_american": -104
@@ -44,63 +364,647 @@
     {
      "type": "total",
      "side": "over",
-     "points": 155.0,
-     "american": -110,
-     "fair_prob": 0.5,
-     "fair_american": 100
+     "points": 143.0,
+     "american": -104,
+     "fair_prob": 0.486,
+     "fair_american": 106
     },
     {
      "type": "total",
      "side": "under",
-     "points": 155.0,
-     "american": -110,
-     "fair_prob": 0.5,
-     "fair_american": 100
+     "points": 143.0,
+     "american": -117,
+     "fair_prob": 0.514,
+     "fair_american": -106
     }
    ],
    "props": []
   },
   {
-   "away": "Colorado State",
-   "home": "Arizona",
-   "start": "2026-11-24T04:30:00Z",
+   "away": "Southern Indiana",
+   "home": "VMI",
+   "start": "2026-11-24T23:00:00Z",
    "lines": [
     {
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": -1966,
-     "fair_prob": 0.9163,
-     "fair_american": -1095
+     "american": -217,
+     "fair_prob": 0.6588,
+     "fair_american": -193
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": 1051,
-     "fair_prob": 0.0837,
-     "fair_american": 1095
+     "american": 182,
+     "fair_prob": 0.3412,
+     "fair_american": 193
     },
     {
      "type": "spread",
      "side": "home",
-     "points": -16.0,
-     "american": -116,
-     "fair_prob": 0.5179,
-     "fair_american": -107
+     "points": -5.0,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
     },
     {
      "type": "spread",
      "side": "away",
-     "points": 16.0,
-     "american": -100,
-     "fair_prob": 0.4821,
-     "fair_american": 107
+     "points": 5.0,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
     },
     {
      "type": "total",
      "side": "over",
-     "points": 158.5,
+     "points": 145.5,
+     "american": -101,
+     "fair_prob": 0.4795,
+     "fair_american": 109
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 145.5,
+     "american": -120,
+     "fair_prob": 0.5205,
+     "fair_american": -109
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Evansville",
+   "home": "Missouri",
+   "start": "2026-11-25T02:00:00Z",
+   "lines": [
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -32.0,
+     "american": -112,
+     "fair_prob": 0.5089,
+     "fair_american": -104
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 32.0,
+     "american": -104,
+     "fair_prob": 0.4911,
+     "fair_american": 104
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 149.5,
+     "american": -116,
+     "fair_prob": 0.5118,
+     "fair_american": -105
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 149.5,
+     "american": -105,
+     "fair_prob": 0.4882,
+     "fair_american": 105
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "UTEP",
+   "home": "College of Charleston",
+   "start": "2026-11-25T01:30:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -119,
+     "fair_prob": 0.5233,
+     "fair_american": -110
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 102,
+     "fair_prob": 0.4767,
+     "fair_american": 110
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -1.5,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 1.5,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 149.0,
+     "american": -107,
+     "fair_prob": 0.4935,
+     "fair_american": 103
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 149.0,
+     "american": -113,
+     "fair_prob": 0.5065,
+     "fair_american": -103
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Eastern Michigan",
+   "home": "Kennesaw St",
+   "start": "2026-11-24T23:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -177,
+     "fair_prob": 0.615,
+     "fair_american": -160
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 150,
+     "fair_prob": 0.385,
+     "fair_american": 160
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -4.0,
+     "american": -107,
+     "fair_prob": 0.4978,
+     "fair_american": 101
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 4.0,
+     "american": -109,
+     "fair_prob": 0.5022,
+     "fair_american": -101
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 147.5,
+     "american": -113,
+     "fair_prob": 0.5054,
+     "fair_american": -102
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 147.5,
+     "american": -108,
+     "fair_prob": 0.4946,
+     "fair_american": 102
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Vanderbilt",
+   "home": "Ohio State",
+   "start": "2026-11-25T00:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 110,
+     "fair_prob": 0.4589,
+     "fair_american": 118
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -128,
+     "fair_prob": 0.5411,
+     "fair_american": -118
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 2.0,
+     "american": -110,
+     "fair_prob": 0.5045,
+     "fair_american": -102
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -2.0,
+     "american": -106,
+     "fair_prob": 0.4955,
+     "fair_american": 102
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 156.0,
+     "american": -114,
+     "fair_prob": 0.5087,
+     "fair_american": -104
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 156.0,
+     "american": -106,
+     "fair_prob": 0.4913,
+     "fair_american": 104
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "IPFW",
+   "home": "SE Missouri State",
+   "start": "2026-11-25T00:30:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -142,
+     "fair_prob": 0.5657,
+     "fair_american": -130
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 122,
+     "fair_prob": 0.4343,
+     "fair_american": 130
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -3.0,
+     "american": -100,
+     "fair_prob": 0.4812,
+     "fair_american": 108
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 3.0,
+     "american": -117,
+     "fair_prob": 0.5188,
+     "fair_american": -108
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 150.5,
+     "american": -107,
+     "fair_prob": 0.4935,
+     "fair_american": 103
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 150.5,
+     "american": -113,
+     "fair_prob": 0.5065,
+     "fair_american": -103
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "North Dakota",
+   "home": "Detroit",
+   "start": "2026-11-24T20:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 152,
+     "fair_prob": 0.3821,
+     "fair_american": 162
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -179,
+     "fair_prob": 0.6179,
+     "fair_american": -162
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 4.5,
+     "american": -114,
+     "fair_prob": 0.5134,
+     "fair_american": -105
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -4.5,
+     "american": -102,
+     "fair_prob": 0.4866,
+     "fair_american": 105
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 153.0,
+     "american": -112,
+     "fair_prob": 0.5043,
+     "fair_american": -102
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 153.0,
+     "american": -108,
+     "fair_prob": 0.4957,
+     "fair_american": 102
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "New Mexico State",
+   "home": "Ohio",
+   "start": "2026-11-24T16:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -214,
+     "fair_prob": 0.6562,
+     "fair_american": -191
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 180,
+     "fair_prob": 0.3438,
+     "fair_american": 191
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -5.0,
+     "american": -107,
+     "fair_prob": 0.4978,
+     "fair_american": 101
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 5.0,
+     "american": -109,
+     "fair_prob": 0.5022,
+     "fair_american": -101
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 151.0,
+     "american": -106,
+     "fair_prob": 0.4913,
+     "fair_american": 104
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 151.0,
+     "american": -114,
+     "fair_prob": 0.5087,
+     "fair_american": -104
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Samford",
+   "home": "Georgia Tech",
+   "start": "2026-11-25T00:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -601,
+     "fair_prob": 0.8256,
+     "fair_american": -473
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 452,
+     "fair_prob": 0.1744,
+     "fair_american": 473
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -10.5,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 10.5,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 161.0,
+     "american": -101,
+     "fair_prob": 0.4795,
+     "fair_american": 109
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 161.0,
+     "american": -120,
+     "fair_prob": 0.5205,
+     "fair_american": -109
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "DePaul",
+   "home": "Purdue",
+   "start": "2026-11-24T23:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -181,
+     "fair_prob": 0.6206,
+     "fair_american": -164
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 154,
+     "fair_prob": 0.3794,
+     "fair_american": 164
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -4.0,
+     "american": -111,
+     "fair_prob": 0.5067,
+     "fair_american": -103
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 4.0,
+     "american": -105,
+     "fair_prob": 0.4933,
+     "fair_american": 103
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 136.0,
+     "american": -107,
+     "fair_prob": 0.4935,
+     "fair_american": 103
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 136.0,
+     "american": -113,
+     "fair_prob": 0.5065,
+     "fair_american": -103
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Idaho State",
+   "home": "Boise State",
+   "start": "2026-11-25T02:00:00Z",
+   "lines": [
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -20.5,
+     "american": -101,
+     "fair_prob": 0.4834,
+     "fair_american": 107
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 20.5,
+     "american": -116,
+     "fair_prob": 0.5166,
+     "fair_american": -107
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 164.0,
+     "american": -117,
+     "fair_prob": 0.5152,
+     "fair_american": -106
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 164.0,
+     "american": -103,
+     "fair_prob": 0.4848,
+     "fair_american": 106
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Oral Roberts",
+   "home": "UT Arlington",
+   "start": "2026-11-25T01:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -190,
+     "fair_prob": 0.631,
+     "fair_american": -171
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 161,
+     "fair_prob": 0.369,
+     "fair_american": 171
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -4.0,
+     "american": -111,
+     "fair_prob": 0.5067,
+     "fair_american": -103
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 4.0,
+     "american": -105,
+     "fair_prob": 0.4933,
+     "fair_american": 103
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 149.0,
      "american": -104,
      "fair_prob": 0.487,
      "fair_american": 105
@@ -108,7 +1012,7 @@
     {
      "type": "total",
      "side": "under",
-     "points": 158.5,
+     "points": 149.0,
      "american": -116,
      "fair_prob": 0.513,
      "fair_american": -105
@@ -117,106 +1021,755 @@
    "props": []
   },
   {
-   "away": "Alabama State",
-   "home": "California",
-   "start": "2026-11-24T03:00:00Z",
+   "away": "Central Michigan",
+   "home": "Notre Dame",
+   "start": "2026-11-25T01:00:00Z",
    "lines": [
     {
      "type": "spread",
      "side": "home",
-     "points": -18.0,
-     "american": -103,
-     "fair_prob": 0.4889,
-     "fair_american": 105
+     "points": -21.0,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
     },
     {
      "type": "spread",
      "side": "away",
-     "points": 18.0,
-     "american": -113,
-     "fair_prob": 0.5111,
-     "fair_american": -105
+     "points": 21.0,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
     },
     {
      "type": "total",
      "side": "over",
-     "points": 143.0,
-     "american": -102,
-     "fair_prob": 0.4826,
+     "points": 152.0,
+     "american": -118,
+     "fair_prob": 0.5162,
+     "fair_american": -107
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 152.0,
+     "american": -103,
+     "fair_prob": 0.4838,
+     "fair_american": 107
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Sacred Heart",
+   "home": "Rutgers",
+   "start": "2026-11-24T23:00:00Z",
+   "lines": [
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -24.0,
+     "american": 101,
+     "fair_prob": 0.4789,
+     "fair_american": 109
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 24.0,
+     "american": -118,
+     "fair_prob": 0.5211,
+     "fair_american": -109
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 158.0,
+     "american": -103,
+     "fair_prob": 0.4838,
      "fair_american": 107
     },
     {
      "type": "total",
      "side": "under",
-     "points": 143.0,
+     "points": 158.0,
      "american": -118,
-     "fair_prob": 0.5174,
+     "fair_prob": 0.5162,
      "fair_american": -107
     }
    ],
    "props": []
   },
   {
-   "away": "Eastern Washington",
-   "home": "UNLV",
-   "start": "2026-11-24T03:00:00Z",
+   "away": "Wisc Green Bay",
+   "home": "UMKC",
+   "start": "2026-11-25T01:00:00Z",
    "lines": [
     {
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": -353,
-     "fair_prob": 0.7505,
-     "fair_american": -301
+     "american": -112,
+     "fair_prob": 0.5077,
+     "fair_american": -103
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": 286,
-     "fair_prob": 0.2495,
-     "fair_american": 301
+     "american": -105,
+     "fair_prob": 0.4923,
+     "fair_american": 103
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -1.0,
+     "american": -106,
+     "fair_prob": 0.4955,
+     "fair_american": 102
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 1.0,
+     "american": -110,
+     "fair_prob": 0.5045,
+     "fair_american": -102
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 142.5,
+     "american": -109,
+     "fair_prob": 0.4978,
+     "fair_american": 101
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 142.5,
+     "american": -111,
+     "fair_prob": 0.5022,
+     "fair_american": -101
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Kent State",
+   "home": "Wyoming",
+   "start": "2026-11-24T22:30:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -501,
+     "fair_prob": 0.8027,
+     "fair_american": -407
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 388,
+     "fair_prob": 0.1973,
+     "fair_american": 407
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -9.5,
+     "american": -109,
+     "fair_prob": 0.5022,
+     "fair_american": -101
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 9.5,
+     "american": -107,
+     "fair_prob": 0.4978,
+     "fair_american": 101
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 144.5,
+     "american": -119,
+     "fair_prob": 0.5183,
+     "fair_american": -108
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 144.5,
+     "american": -102,
+     "fair_prob": 0.4817,
+     "fair_american": 108
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Oregon State",
+   "home": "San Francisco",
+   "start": "2026-11-24T19:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 392,
+     "fair_prob": 0.1958,
+     "fair_american": 411
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -506,
+     "fair_prob": 0.8042,
+     "fair_american": -411
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 10.0,
+     "american": -118,
+     "fair_prob": 0.5211,
+     "fair_american": -109
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -10.0,
+     "american": 101,
+     "fair_prob": 0.4789,
+     "fair_american": 109
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 151.0,
+     "american": -109,
+     "fair_prob": 0.4978,
+     "fair_american": 101
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 151.0,
+     "american": -111,
+     "fair_prob": 0.5022,
+     "fair_american": -101
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Elon",
+   "home": "Furman",
+   "start": "2026-11-24T23:30:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -355,
+     "fair_prob": 0.7512,
+     "fair_american": -302
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 287,
+     "fair_prob": 0.2488,
+     "fair_american": 302
     },
     {
      "type": "spread",
      "side": "home",
      "points": -8.0,
+     "american": -104,
+     "fair_prob": 0.4911,
+     "fair_american": 104
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 8.0,
+     "american": -112,
+     "fair_prob": 0.5089,
+     "fair_american": -104
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 149.0,
+     "american": -105,
+     "fair_prob": 0.4892,
+     "fair_american": 104
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 149.0,
+     "american": -115,
+     "fair_prob": 0.5108,
+     "fair_american": -104
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Southern Utah",
+   "home": "Florida International",
+   "start": "2026-11-24T18:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -364,
+     "fair_prob": 0.7551,
+     "fair_american": -308
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 293,
+     "fair_prob": 0.2449,
+     "fair_american": 308
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -8.0,
+     "american": -110,
+     "fair_prob": 0.5045,
+     "fair_american": -102
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 8.0,
+     "american": -106,
+     "fair_prob": 0.4955,
+     "fair_american": 102
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 167.5,
+     "american": -109,
+     "fair_prob": 0.4978,
+     "fair_american": 101
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 167.5,
+     "american": -111,
+     "fair_prob": 0.5022,
+     "fair_american": -101
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Mercer",
+   "home": "Florida Atlantic",
+   "start": "2026-11-24T23:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -300,
+     "fair_prob": 0.7224,
+     "fair_american": -260
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 247,
+     "fair_prob": 0.2776,
+     "fair_american": 260
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -7.0,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 7.0,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 160.5,
+     "american": -114,
+     "fair_prob": 0.5087,
+     "fair_american": -104
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 160.5,
+     "american": -106,
+     "fair_prob": 0.4913,
+     "fair_american": 104
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Appalachian State",
+   "home": "Yale",
+   "start": "2026-11-24T20:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -105,
+     "fair_prob": 0.4933,
+     "fair_american": 103
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
      "american": -111,
      "fair_prob": 0.5067,
      "fair_american": -103
     },
     {
      "type": "spread",
+     "side": "home",
+     "points": 1.5,
+     "american": -116,
+     "fair_prob": 0.5179,
+     "fair_american": -107
+    },
+    {
+     "type": "spread",
      "side": "away",
-     "points": 8.0,
-     "american": -105,
-     "fair_prob": 0.4933,
-     "fair_american": 103
+     "points": -1.5,
+     "american": -100,
+     "fair_prob": 0.4821,
+     "fair_american": 107
     },
     {
      "type": "total",
      "side": "over",
-     "points": 160.0,
-     "american": -121,
-     "fair_prob": 0.5227,
-     "fair_american": -110
+     "points": 135.5,
+     "american": -109,
+     "fair_prob": 0.4978,
+     "fair_american": 101
     },
     {
      "type": "total",
      "side": "under",
-     "points": 160.0,
-     "american": -100,
-     "fair_prob": 0.4773,
-     "fair_american": 110
+     "points": 135.5,
+     "american": -111,
+     "fair_prob": 0.5022,
+     "fair_american": -101
     }
    ],
    "props": []
   },
   {
-   "away": "NC Greensboro",
-   "home": "Pepperdine",
-   "start": "2026-11-24T02:30:00Z",
-   "lines": [],
+   "away": "Wright State",
+   "home": "St. Bonaventure",
+   "start": "2026-11-24T15:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -110,
+     "fair_prob": 0.5045,
+     "fair_american": -102
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -106,
+     "fair_prob": 0.4955,
+     "fair_american": 102
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -1.0,
+     "american": -105,
+     "fair_prob": 0.4933,
+     "fair_american": 103
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 1.0,
+     "american": -111,
+     "fair_prob": 0.5067,
+     "fair_american": -103
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 147.0,
+     "american": -115,
+     "fair_prob": 0.5108,
+     "fair_american": -104
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 147.0,
+     "american": -105,
+     "fair_prob": 0.4892,
+     "fair_american": 104
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Campbell",
+   "home": "Coastal Carolina",
+   "start": "2026-11-25T00:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -131,
+     "fair_prob": 0.5459,
+     "fair_american": -120
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 112,
+     "fair_prob": 0.4541,
+     "fair_american": 120
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -2.0,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 2.0,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 149.0,
+     "american": -113,
+     "fair_prob": 0.5065,
+     "fair_american": -103
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 149.0,
+     "american": -107,
+     "fair_prob": 0.4935,
+     "fair_american": 103
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Pittsburgh",
+   "home": "Oklahoma",
+   "start": "2026-11-24T18:30:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 125,
+     "fair_prob": 0.4282,
+     "fair_american": 134
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -146,
+     "fair_prob": 0.5718,
+     "fair_american": -134
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 2.5,
+     "american": -104,
+     "fair_prob": 0.49,
+     "fair_american": 104
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -2.5,
+     "american": -113,
+     "fair_prob": 0.51,
+     "fair_american": -104
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 148.5,
+     "american": -108,
+     "fair_prob": 0.4957,
+     "fair_american": 102
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 148.5,
+     "american": -112,
+     "fair_prob": 0.5043,
+     "fair_american": -102
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "West Georgia",
+   "home": "Tennessee Tech",
+   "start": "2026-11-25T00:30:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -1599,
+     "fair_prob": 0.9062,
+     "fair_american": -967
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 927,
+     "fair_prob": 0.0938,
+     "fair_american": 967
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -15.5,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 15.5,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 164.0,
+     "american": -104,
+     "fair_prob": 0.487,
+     "fair_american": 105
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 164.0,
+     "american": -116,
+     "fair_prob": 0.513,
+     "fair_american": -105
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Drexel",
+   "home": "Pennsylvania",
+   "start": "2026-11-25T01:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -279,
+     "fair_prob": 0.709,
+     "fair_american": -244
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 231,
+     "fair_prob": 0.291,
+     "fair_american": 244
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -6.5,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 6.5,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 143.5,
+     "american": -111,
+     "fair_prob": 0.5022,
+     "fair_american": -101
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 143.5,
+     "american": -109,
+     "fair_prob": 0.4978,
+     "fair_american": 101
+    }
+   ],
    "props": []
   }
  ]
