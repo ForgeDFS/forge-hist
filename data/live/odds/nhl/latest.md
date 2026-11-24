@@ -1,4 +1,4 @@
-# NHL ([None]) Pinnacle no-vig, read 2026-11-24 14:59 UTC: 1 games, 54 props
+# NHL ([None]) Pinnacle no-vig, read 2026-11-24 17:25 UTC: 1 games, 112 props
 
 ## Vegas Golden Knights @ Edmonton Oilers  2026-11-25T01:07:00Z
 - moneyline home : 104 (fair 109)
