@@ -1,509 +1,61 @@
 {
- "read_utc": "2026-11-25 00:53",
+ "read_utc": "2026-11-25 02:55",
  "league": [
   null
  ],
  "games": [
   {
-   "away": "San Jose Sharks",
-   "home": "Anaheim Ducks",
-   "start": "2026-11-26T03:07:00Z",
+   "away": "Vancouver Canucks",
+   "home": "Detroit Red Wings",
+   "start": "2026-11-26T00:37:00Z",
    "lines": [
     {
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": -143,
-     "fair_prob": 0.574,
-     "fair_american": -135
+     "american": -218,
+     "fair_prob": 0.6676,
+     "fair_american": -201
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": 129,
-     "fair_prob": 0.426,
-     "fair_american": 135
+     "american": 193,
+     "fair_prob": 0.3324,
+     "fair_american": 201
     },
     {
      "type": "spread",
      "side": "home",
      "points": -1.5,
-     "american": 167,
-     "fair_prob": 0.3617,
-     "fair_american": 176
+     "american": 123,
+     "fair_prob": 0.4332,
+     "fair_american": 131
     },
     {
      "type": "spread",
      "side": "away",
      "points": 1.5,
-     "american": -195,
-     "fair_prob": 0.6383,
-     "fair_american": -176
+     "american": -142,
+     "fair_prob": 0.5668,
+     "fair_american": -131
     },
     {
      "type": "total",
      "side": "over",
      "points": 6.5,
-     "american": -115,
-     "fair_prob": 0.5206,
-     "fair_american": -109
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 6.5,
-     "american": 103,
-     "fair_prob": 0.4794,
-     "fair_american": 109
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Utah Mammoth",
-   "home": "Minnesota Wild",
-   "start": "2026-11-26T01:07:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -141,
-     "fair_prob": 0.5715,
-     "fair_american": -133
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 128,
-     "fair_prob": 0.4285,
-     "fair_american": 133
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -1.5,
-     "american": 175,
-     "fair_prob": 0.3511,
-     "fair_american": 185
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 1.5,
-     "american": -205,
-     "fair_prob": 0.6489,
-     "fair_american": -185
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 6.0,
-     "american": -115,
-     "fair_prob": 0.5206,
-     "fair_american": -109
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 6.0,
-     "american": 103,
-     "fair_prob": 0.4794,
-     "fair_american": 109
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Carolina Hurricanes",
-   "home": "Tampa Bay Lightning",
-   "start": "2026-11-26T00:07:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": 115,
-     "fair_prob": 0.454,
-     "fair_american": 120
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": -127,
-     "fair_prob": 0.546,
-     "fair_american": -120
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": 1.5,
-     "american": -232,
-     "fair_prob": 0.6734,
-     "fair_american": -206
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": -1.5,
-     "american": 195,
-     "fair_prob": 0.3266,
-     "fair_american": 206
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 6.0,
-     "american": -117,
-     "fair_prob": 0.5238,
-     "fair_american": -110
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 6.0,
-     "american": 104,
-     "fair_prob": 0.4762,
-     "fair_american": 110
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Nashville Predators",
-   "home": "Dallas Stars",
-   "start": "2026-11-26T01:07:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -167,
-     "fair_prob": 0.6071,
-     "fair_american": -154
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 147,
-     "fair_prob": 0.3929,
-     "fair_american": 154
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -1.5,
-     "american": 158,
-     "fair_prob": 0.3739,
-     "fair_american": 167
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 1.5,
-     "american": -185,
-     "fair_prob": 0.6261,
-     "fair_american": -167
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 5.5,
-     "american": -118,
-     "fair_prob": 0.5235,
-     "fair_american": -110
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 5.5,
-     "american": 103,
-     "fair_prob": 0.4765,
-     "fair_american": 110
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Ottawa Senators",
-   "home": "Florida Panthers",
-   "start": "2026-11-26T00:07:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -130,
-     "fair_prob": 0.552,
-     "fair_american": -123
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 118,
-     "fair_prob": 0.448,
-     "fair_american": 123
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -1.5,
-     "american": 197,
-     "fair_prob": 0.3246,
-     "fair_american": 208
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 1.5,
-     "american": -234,
-     "fair_prob": 0.6754,
-     "fair_american": -208
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 5.5,
-     "american": -116,
-     "fair_prob": 0.5216,
-     "fair_american": -109
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 5.5,
-     "american": 103,
-     "fair_prob": 0.4784,
-     "fair_american": 109
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Calgary Flames",
-   "home": "Pittsburgh Penguins",
-   "start": "2026-11-26T00:07:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -161,
-     "fair_prob": 0.6018,
-     "fair_american": -151
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 145,
-     "fair_prob": 0.3982,
-     "fair_american": 151
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -1.5,
-     "american": 159,
-     "fair_prob": 0.373,
-     "fair_american": 168
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 1.5,
-     "american": -185,
-     "fair_prob": 0.627,
-     "fair_american": -168
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 6.0,
-     "american": -110,
-     "fair_prob": 0.5092,
-     "fair_american": -104
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 6.0,
-     "american": -102,
-     "fair_prob": 0.4908,
-     "fair_american": 104
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "New Jersey Devils",
-   "home": "Columbus Blue Jackets",
-   "start": "2026-11-26T00:07:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": 137,
-     "fair_prob": 0.4116,
-     "fair_american": 143
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": -152,
-     "fair_prob": 0.5884,
-     "fair_american": -143
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": 1.5,
-     "american": -197,
-     "fair_prob": 0.64,
-     "fair_american": -178
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": -1.5,
-     "american": 168,
-     "fair_prob": 0.36,
-     "fair_american": 178
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 6.0,
-     "american": -114,
-     "fair_prob": 0.5183,
-     "fair_american": -108
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 6.0,
-     "american": 102,
-     "fair_prob": 0.4817,
-     "fair_american": 108
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Montreal Canadiens",
-   "home": "Colorado Avalanche",
-   "start": "2026-11-26T02:37:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -121,
-     "fair_prob": 0.5336,
-     "fair_american": -114
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 109,
-     "fair_prob": 0.4664,
+     "american": 108,
+     "fair_prob": 0.4666,
      "fair_american": 114
     },
     {
-     "type": "spread",
-     "side": "home",
-     "points": -1.5,
-     "american": 197,
-     "fair_prob": 0.3249,
-     "fair_american": 208
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 1.5,
-     "american": -233,
-     "fair_prob": 0.6751,
-     "fair_american": -208
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 6.5,
-     "american": -101,
-     "fair_prob": 0.4875,
-     "fair_american": 105
-    },
-    {
      "type": "total",
      "side": "under",
      "points": 6.5,
-     "american": -112,
-     "fair_prob": 0.5125,
-     "fair_american": -105
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Philadelphia Flyers",
-   "home": "Washington Capitals",
-   "start": "2026-11-26T00:07:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -153,
-     "fair_prob": 0.59,
-     "fair_american": -144
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 138,
-     "fair_prob": 0.41,
-     "fair_american": 144
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -1.5,
-     "american": 161,
-     "fair_prob": 0.3699,
-     "fair_american": 170
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 1.5,
-     "american": -188,
-     "fair_prob": 0.6301,
-     "fair_american": -170
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 6.5,
-     "american": 105,
-     "fair_prob": 0.475,
-     "fair_american": 111
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 6.5,
-     "american": -117,
-     "fair_prob": 0.525,
-     "fair_american": -111
+     "american": -122,
+     "fair_prob": 0.5334,
+     "fair_american": -114
     }
    ],
    "props": []
@@ -565,62 +117,6 @@
    "props": []
   },
   {
-   "away": "New York Rangers",
-   "home": "Buffalo Sabres",
-   "start": "2026-11-26T00:07:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -132,
-     "fair_prob": 0.5548,
-     "fair_american": -125
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 119,
-     "fair_prob": 0.4452,
-     "fair_american": 125
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -1.5,
-     "american": 187,
-     "fair_prob": 0.336,
-     "fair_american": 198
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 1.5,
-     "american": -221,
-     "fair_prob": 0.664,
-     "fair_american": -198
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 6.5,
-     "american": 104,
-     "fair_prob": 0.4772,
-     "fair_american": 110
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 6.5,
-     "american": -116,
-     "fair_prob": 0.5228,
-     "fair_american": -110
-    }
-   ],
-   "props": []
-  },
-  {
    "away": "Chicago Blackhawks",
    "home": "Seattle Kraken",
    "start": "2026-11-26T02:47:00Z",
@@ -677,57 +173,561 @@
    "props": []
   },
   {
-   "away": "Vancouver Canucks",
-   "home": "Detroit Red Wings",
-   "start": "2026-11-26T00:37:00Z",
+   "away": "San Jose Sharks",
+   "home": "Anaheim Ducks",
+   "start": "2026-11-26T03:07:00Z",
    "lines": [
     {
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": -218,
-     "fair_prob": 0.6676,
-     "fair_american": -201
+     "american": -143,
+     "fair_prob": 0.574,
+     "fair_american": -135
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": 193,
-     "fair_prob": 0.3324,
-     "fair_american": 201
+     "american": 129,
+     "fair_prob": 0.426,
+     "fair_american": 135
     },
     {
      "type": "spread",
      "side": "home",
      "points": -1.5,
-     "american": 123,
-     "fair_prob": 0.4332,
-     "fair_american": 131
+     "american": 167,
+     "fair_prob": 0.3617,
+     "fair_american": 176
     },
     {
      "type": "spread",
      "side": "away",
      "points": 1.5,
-     "american": -142,
-     "fair_prob": 0.5668,
-     "fair_american": -131
+     "american": -195,
+     "fair_prob": 0.6383,
+     "fair_american": -176
     },
     {
      "type": "total",
      "side": "over",
      "points": 6.5,
-     "american": 108,
-     "fair_prob": 0.4666,
-     "fair_american": 114
+     "american": -115,
+     "fair_prob": 0.5206,
+     "fair_american": -109
     },
     {
      "type": "total",
      "side": "under",
      "points": 6.5,
-     "american": -122,
-     "fair_prob": 0.5334,
+     "american": 103,
+     "fair_prob": 0.4794,
+     "fair_american": 109
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Philadelphia Flyers",
+   "home": "Washington Capitals",
+   "start": "2026-11-26T00:07:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -153,
+     "fair_prob": 0.59,
+     "fair_american": -144
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 138,
+     "fair_prob": 0.41,
+     "fair_american": 144
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -1.5,
+     "american": 161,
+     "fair_prob": 0.3699,
+     "fair_american": 170
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 1.5,
+     "american": -188,
+     "fair_prob": 0.6301,
+     "fair_american": -170
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 6.5,
+     "american": 105,
+     "fair_prob": 0.475,
+     "fair_american": 111
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 6.5,
+     "american": -117,
+     "fair_prob": 0.525,
+     "fair_american": -111
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Utah Mammoth",
+   "home": "Minnesota Wild",
+   "start": "2026-11-26T01:07:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -142,
+     "fair_prob": 0.5723,
+     "fair_american": -134
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 128,
+     "fair_prob": 0.4277,
+     "fair_american": 134
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -1.5,
+     "american": 174,
+     "fair_prob": 0.3519,
+     "fair_american": 184
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 1.5,
+     "american": -205,
+     "fair_prob": 0.6481,
+     "fair_american": -184
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 6.0,
+     "american": -114,
+     "fair_prob": 0.5171,
+     "fair_american": -107
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 6.0,
+     "american": 101,
+     "fair_prob": 0.4829,
+     "fair_american": 107
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Nashville Predators",
+   "home": "Dallas Stars",
+   "start": "2026-11-26T01:07:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -167,
+     "fair_prob": 0.6071,
+     "fair_american": -154
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 147,
+     "fair_prob": 0.3929,
+     "fair_american": 154
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -1.5,
+     "american": 158,
+     "fair_prob": 0.3739,
+     "fair_american": 167
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 1.5,
+     "american": -185,
+     "fair_prob": 0.6261,
+     "fair_american": -167
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 5.5,
+     "american": -118,
+     "fair_prob": 0.5235,
+     "fair_american": -110
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 5.5,
+     "american": 103,
+     "fair_prob": 0.4765,
+     "fair_american": 110
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Calgary Flames",
+   "home": "Pittsburgh Penguins",
+   "start": "2026-11-26T00:07:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -161,
+     "fair_prob": 0.6018,
+     "fair_american": -151
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 145,
+     "fair_prob": 0.3982,
+     "fair_american": 151
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -1.5,
+     "american": 159,
+     "fair_prob": 0.373,
+     "fair_american": 168
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 1.5,
+     "american": -185,
+     "fair_prob": 0.627,
+     "fair_american": -168
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 6.0,
+     "american": -110,
+     "fair_prob": 0.5092,
+     "fair_american": -104
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 6.0,
+     "american": -102,
+     "fair_prob": 0.4908,
+     "fair_american": 104
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "New York Rangers",
+   "home": "Buffalo Sabres",
+   "start": "2026-11-26T00:07:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -132,
+     "fair_prob": 0.5548,
+     "fair_american": -125
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 119,
+     "fair_prob": 0.4452,
+     "fair_american": 125
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -1.5,
+     "american": 187,
+     "fair_prob": 0.336,
+     "fair_american": 198
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 1.5,
+     "american": -221,
+     "fair_prob": 0.664,
+     "fair_american": -198
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 6.5,
+     "american": 104,
+     "fair_prob": 0.4772,
+     "fair_american": 110
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 6.5,
+     "american": -116,
+     "fair_prob": 0.5228,
+     "fair_american": -110
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Ottawa Senators",
+   "home": "Florida Panthers",
+   "start": "2026-11-26T00:07:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -130,
+     "fair_prob": 0.552,
+     "fair_american": -123
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 118,
+     "fair_prob": 0.448,
+     "fair_american": 123
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -1.5,
+     "american": 197,
+     "fair_prob": 0.3246,
+     "fair_american": 208
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 1.5,
+     "american": -234,
+     "fair_prob": 0.6754,
+     "fair_american": -208
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 5.5,
+     "american": -116,
+     "fair_prob": 0.5216,
+     "fair_american": -109
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 5.5,
+     "american": 103,
+     "fair_prob": 0.4784,
+     "fair_american": 109
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Montreal Canadiens",
+   "home": "Colorado Avalanche",
+   "start": "2026-11-26T02:37:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -121,
+     "fair_prob": 0.5336,
      "fair_american": -114
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 109,
+     "fair_prob": 0.4664,
+     "fair_american": 114
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -1.5,
+     "american": 197,
+     "fair_prob": 0.3249,
+     "fair_american": 208
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 1.5,
+     "american": -233,
+     "fair_prob": 0.6751,
+     "fair_american": -208
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 6.5,
+     "american": -101,
+     "fair_prob": 0.4875,
+     "fair_american": 105
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 6.5,
+     "american": -112,
+     "fair_prob": 0.5125,
+     "fair_american": -105
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "New Jersey Devils",
+   "home": "Columbus Blue Jackets",
+   "start": "2026-11-26T00:07:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 137,
+     "fair_prob": 0.4116,
+     "fair_american": 143
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -152,
+     "fair_prob": 0.5884,
+     "fair_american": -143
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 1.5,
+     "american": -197,
+     "fair_prob": 0.64,
+     "fair_american": -178
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -1.5,
+     "american": 168,
+     "fair_prob": 0.36,
+     "fair_american": 178
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 6.0,
+     "american": -114,
+     "fair_prob": 0.5183,
+     "fair_american": -108
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 6.0,
+     "american": 102,
+     "fair_prob": 0.4817,
+     "fair_american": 108
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Carolina Hurricanes",
+   "home": "Tampa Bay Lightning",
+   "start": "2026-11-26T00:07:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 115,
+     "fair_prob": 0.454,
+     "fair_american": 120
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -127,
+     "fair_prob": 0.546,
+     "fair_american": -120
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 1.5,
+     "american": -232,
+     "fair_prob": 0.6734,
+     "fair_american": -206
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -1.5,
+     "american": 195,
+     "fair_prob": 0.3266,
+     "fair_american": 206
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 6.0,
+     "american": -117,
+     "fair_prob": 0.5238,
+     "fair_american": -110
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 6.0,
+     "american": 104,
+     "fair_prob": 0.4762,
+     "fair_american": 110
     }
    ],
    "props": []
@@ -787,1089 +787,6 @@
     }
    ],
    "props": []
-  },
-  {
-   "away": "Vegas Golden Knights",
-   "home": "Edmonton Oilers",
-   "start": "2026-11-25T01:07:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": 108,
-     "fair_prob": 0.4694,
-     "fair_american": 113
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": -119,
-     "fair_prob": 0.5306,
-     "fair_american": -113
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": 1.5,
-     "american": -244,
-     "fair_prob": 0.6874,
-     "fair_american": -220
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": -1.5,
-     "american": 210,
-     "fair_prob": 0.3126,
-     "fair_american": 220
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 6.5,
-     "american": -113,
-     "fair_prob": 0.5148,
-     "fair_american": -106
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 6.5,
-     "american": 100,
-     "fair_prob": 0.4852,
-     "fair_american": 106
-    }
-   ],
-   "props": [
-    {
-     "desc": "Trevor Connelly Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 220,
-     "fair_prob": 0.2921,
-     "fair_american": 242
-    },
-    {
-     "desc": "Trevor Connelly Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -312,
-     "fair_prob": 0.7079,
-     "fair_american": -242
-    },
-    {
-     "desc": "Tomas Hertl Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 240,
-     "fair_prob": 0.2749,
-     "fair_american": 264
-    },
-    {
-     "desc": "Tomas Hertl Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -346,
-     "fair_prob": 0.7251,
-     "fair_american": -264
-    },
-    {
-     "desc": "Leon Draisaitl Total Points",
-     "units": "Points",
-     "outcome": "Over",
-     "points": 1.5,
-     "american": 106,
-     "fair_prob": 0.4542,
-     "fair_american": 120
-    },
-    {
-     "desc": "Leon Draisaitl Total Points",
-     "units": "Points",
-     "outcome": "Under",
-     "points": 1.5,
-     "american": -140,
-     "fair_prob": 0.5458,
-     "fair_american": -120
-    },
-    {
-     "desc": "Shea Theodore Total Points",
-     "units": "Points",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 150,
-     "fair_prob": 0.3731,
-     "fair_american": 168
-    },
-    {
-     "desc": "Shea Theodore Total Points",
-     "units": "Points",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -205,
-     "fair_prob": 0.6269,
-     "fair_american": -168
-    },
-    {
-     "desc": "Trevor Connelly Total Points",
-     "units": "Points",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 125,
-     "fair_prob": 0.4154,
-     "fair_american": 141
-    },
-    {
-     "desc": "Trevor Connelly Total Points",
-     "units": "Points",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -167,
-     "fair_prob": 0.5846,
-     "fair_american": -141
-    },
-    {
-     "desc": "Leon Draisaitl Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": -148,
-     "fair_prob": 0.5574,
-     "fair_american": -126
-    },
-    {
-     "desc": "Leon Draisaitl Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": 111,
-     "fair_prob": 0.4426,
-     "fair_american": 126
-    },
-    {
-     "desc": "Kasperi Kapanen Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 233,
-     "fair_prob": 0.2807,
-     "fair_american": 256
-    },
-    {
-     "desc": "Kasperi Kapanen Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -334,
-     "fair_prob": 0.7193,
-     "fair_american": -256
-    },
-    {
-     "desc": "Jack Eichel Total Points",
-     "units": "Points",
-     "outcome": "Over",
-     "points": 1.5,
-     "american": 165,
-     "fair_prob": 0.3525,
-     "fair_american": 184
-    },
-    {
-     "desc": "Jack Eichel Total Points",
-     "units": "Points",
-     "outcome": "Under",
-     "points": 1.5,
-     "american": -226,
-     "fair_prob": 0.6475,
-     "fair_american": -184
-    },
-    {
-     "desc": "Mitchell Marner Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 250,
-     "fair_prob": 0.2652,
-     "fair_american": 277
-    },
-    {
-     "desc": "Mitchell Marner Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -380,
-     "fair_prob": 0.7348,
-     "fair_american": -277
-    },
-    {
-     "desc": "Victor Olofsson Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 200,
-     "fair_prob": 0.3117,
-     "fair_american": 221
-    },
-    {
-     "desc": "Victor Olofsson Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -279,
-     "fair_prob": 0.6883,
-     "fair_american": -221
-    },
-    {
-     "desc": "Leon Draisaitl Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Over",
-     "points": 3.5,
-     "american": 133,
-     "fair_prob": 0.4008,
-     "fair_american": 149
-    },
-    {
-     "desc": "Leon Draisaitl Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Under",
-     "points": 3.5,
-     "american": -179,
-     "fair_prob": 0.5992,
-     "fair_american": -149
-    },
-    {
-     "desc": "Connor McDavid Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Over",
-     "points": 2.5,
-     "american": -126,
-     "fair_prob": 0.5212,
-     "fair_american": -109
-    },
-    {
-     "desc": "Connor McDavid Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Under",
-     "points": 2.5,
-     "american": -105,
-     "fair_prob": 0.4788,
-     "fair_american": 109
-    },
-    {
-     "desc": "Vasily Podkolzin Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Over",
-     "points": 1.5,
-     "american": -129,
-     "fair_prob": 0.5273,
-     "fair_american": -112
-    },
-    {
-     "desc": "Vasily Podkolzin Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Under",
-     "points": 1.5,
-     "american": -102,
-     "fair_prob": 0.4727,
-     "fair_american": 112
-    },
-    {
-     "desc": "William Karlsson Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 270,
-     "fair_prob": 0.2526,
-     "fair_american": 296
-    },
-    {
-     "desc": "William Karlsson Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -399,
-     "fair_prob": 0.7474,
-     "fair_american": -296
-    },
-    {
-     "desc": "Vasily Podkolzin Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 220,
-     "fair_prob": 0.2894,
-     "fair_american": 246
-    },
-    {
-     "desc": "Vasily Podkolzin Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -330,
-     "fair_prob": 0.7106,
-     "fair_american": -246
-    },
-    {
-     "desc": "Victor Olofsson Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 235,
-     "fair_prob": 0.2791,
-     "fair_american": 258
-    },
-    {
-     "desc": "Victor Olofsson Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -337,
-     "fair_prob": 0.7209,
-     "fair_american": -258
-    },
-    {
-     "desc": "Ivan Barbashev Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 268,
-     "fair_prob": 0.254,
-     "fair_american": 294
-    },
-    {
-     "desc": "Ivan Barbashev Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -395,
-     "fair_prob": 0.746,
-     "fair_american": -294
-    },
-    {
-     "desc": "Mitchell Marner Total Points",
-     "units": "Points",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": -215,
-     "fair_prob": 0.6378,
-     "fair_american": -176
-    },
-    {
-     "desc": "Mitchell Marner Total Points",
-     "units": "Points",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": 158,
-     "fair_prob": 0.3622,
-     "fair_american": 176
-    },
-    {
-     "desc": "Mattias Ekholm Total Points",
-     "units": "Points",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 175,
-     "fair_prob": 0.3414,
-     "fair_american": 193
-    },
-    {
-     "desc": "Mattias Ekholm Total Points",
-     "units": "Points",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -235,
-     "fair_prob": 0.6586,
-     "fair_american": -193
-    },
-    {
-     "desc": "Ivan Barbashev Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": -230,
-     "fair_prob": 0.653,
-     "fair_american": -188
-    },
-    {
-     "desc": "Ivan Barbashev Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": 170,
-     "fair_prob": 0.347,
-     "fair_american": 188
-    },
-    {
-     "desc": "Mattias Ekholm Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 225,
-     "fair_prob": 0.2875,
-     "fair_american": 248
-    },
-    {
-     "desc": "Mattias Ekholm Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -321,
-     "fair_prob": 0.7125,
-     "fair_american": -248
-    },
-    {
-     "desc": "Mark Stone Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Over",
-     "points": 1.5,
-     "american": -149,
-     "fair_prob": 0.5592,
-     "fair_american": -127
-    },
-    {
-     "desc": "Mark Stone Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Under",
-     "points": 1.5,
-     "american": 112,
-     "fair_prob": 0.4408,
-     "fair_american": 127
-    },
-    {
-     "desc": "Victor Olofsson Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Under",
-     "points": 1.5,
-     "american": 125,
-     "fair_prob": 0.4138,
-     "fair_american": 142
-    },
-    {
-     "desc": "Victor Olofsson Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Over",
-     "points": 1.5,
-     "american": -170,
-     "fair_prob": 0.5862,
-     "fair_american": -142
-    },
-    {
-     "desc": "Jack Eichel Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 175,
-     "fair_prob": 0.3373,
-     "fair_american": 196
-    },
-    {
-     "desc": "Jack Eichel Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -250,
-     "fair_prob": 0.6627,
-     "fair_american": -196
-    },
-    {
-     "desc": "Vasily Podkolzin Total Points",
-     "units": "Points",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": -106,
-     "fair_prob": 0.4808,
-     "fair_american": 108
-    },
-    {
-     "desc": "Vasily Podkolzin Total Points",
-     "units": "Points",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -125,
-     "fair_prob": 0.5192,
-     "fair_american": -108
-    },
-    {
-     "desc": "Connor McDavid Total Points",
-     "units": "Points",
-     "outcome": "Over",
-     "points": 1.5,
-     "american": -111,
-     "fair_prob": 0.4919,
-     "fair_american": 103
-    },
-    {
-     "desc": "Connor McDavid Total Points",
-     "units": "Points",
-     "outcome": "Under",
-     "points": 1.5,
-     "american": -119,
-     "fair_prob": 0.5081,
-     "fair_american": -103
-    },
-    {
-     "desc": "Ryan Nugent-Hopkins Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 240,
-     "fair_prob": 0.2732,
-     "fair_american": 266
-    },
-    {
-     "desc": "Ryan Nugent-Hopkins Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -360,
-     "fair_prob": 0.7268,
-     "fair_american": -266
-    },
-    {
-     "desc": "Brett Howden Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 330,
-     "fair_prob": 0.2174,
-     "fair_american": 360
-    },
-    {
-     "desc": "Brett Howden Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -514,
-     "fair_prob": 0.7826,
-     "fair_american": -360
-    },
-    {
-     "desc": "Connor McDavid Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 123,
-     "fair_prob": 0.4187,
-     "fair_american": 139
-    },
-    {
-     "desc": "Connor McDavid Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -165,
-     "fair_prob": 0.5813,
-     "fair_american": -139
-    },
-    {
-     "desc": "Mark Stone Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 124,
-     "fair_prob": 0.4176,
-     "fair_american": 139
-    },
-    {
-     "desc": "Mark Stone Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -165,
-     "fair_prob": 0.5824,
-     "fair_american": -139
-    },
-    {
-     "desc": "Ivan Barbashev Total Points",
-     "units": "Points",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 149,
-     "fair_prob": 0.3756,
-     "fair_american": 166
-    },
-    {
-     "desc": "Ivan Barbashev Total Points",
-     "units": "Points",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -201,
-     "fair_prob": 0.6244,
-     "fair_american": -166
-    },
-    {
-     "desc": "Tomas Hertl Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Over",
-     "points": 2.5,
-     "american": 146,
-     "fair_prob": 0.38,
-     "fair_american": 163
-    },
-    {
-     "desc": "Tomas Hertl Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Under",
-     "points": 2.5,
-     "american": -197,
-     "fair_prob": 0.62,
-     "fair_american": -163
-    },
-    {
-     "desc": "Evan Bouchard Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Over",
-     "points": 2.5,
-     "american": 105,
-     "fair_prob": 0.4562,
-     "fair_american": 119
-    },
-    {
-     "desc": "Evan Bouchard Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Under",
-     "points": 2.5,
-     "american": -139,
-     "fair_prob": 0.5438,
-     "fair_american": -119
-    },
-    {
-     "desc": "William Karlsson Total Points",
-     "units": "Points",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 134,
-     "fair_prob": 0.3993,
-     "fair_american": 150
-    },
-    {
-     "desc": "William Karlsson Total Points",
-     "units": "Points",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -180,
-     "fair_prob": 0.6007,
-     "fair_american": -150
-    },
-    {
-     "desc": "Mitchell Marner Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": -136,
-     "fair_prob": 0.5391,
-     "fair_american": -117
-    },
-    {
-     "desc": "Mitchell Marner Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": 103,
-     "fair_prob": 0.4609,
-     "fair_american": 117
-    },
-    {
-     "desc": "Vasily Podkolzin Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 194,
-     "fair_prob": 0.3179,
-     "fair_american": 215
-    },
-    {
-     "desc": "Vasily Podkolzin Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -270,
-     "fair_prob": 0.6821,
-     "fair_american": -215
-    },
-    {
-     "desc": "Kasperi Kapanen Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Over",
-     "points": 1.5,
-     "american": -107,
-     "fair_prob": 0.4829,
-     "fair_american": 107
-    },
-    {
-     "desc": "Kasperi Kapanen Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Under",
-     "points": 1.5,
-     "american": -124,
-     "fair_prob": 0.5171,
-     "fair_american": -107
-    },
-    {
-     "desc": "Evan Bouchard Total Points",
-     "units": "Points",
-     "outcome": "Over",
-     "points": 1.5,
-     "american": 181,
-     "fair_prob": 0.3328,
-     "fair_american": 200
-    },
-    {
-     "desc": "Evan Bouchard Total Points",
-     "units": "Points",
-     "outcome": "Under",
-     "points": 1.5,
-     "american": -249,
-     "fair_prob": 0.6672,
-     "fair_american": -200
-    },
-    {
-     "desc": "Shea Theodore Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 196,
-     "fair_prob": 0.3158,
-     "fair_american": 217
-    },
-    {
-     "desc": "Shea Theodore Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -273,
-     "fair_prob": 0.6842,
-     "fair_american": -217
-    },
-    {
-     "desc": "Evan Bouchard Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": -168,
-     "fair_prob": 0.5862,
-     "fair_american": -142
-    },
-    {
-     "desc": "Evan Bouchard Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": 126,
-     "fair_prob": 0.4138,
-     "fair_american": 142
-    },
-    {
-     "desc": "Leon Draisaitl Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 107,
-     "fair_prob": 0.4508,
-     "fair_american": 122
-    },
-    {
-     "desc": "Leon Draisaitl Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -143,
-     "fair_prob": 0.5492,
-     "fair_american": -122
-    },
-    {
-     "desc": "Trevor Connelly Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 320,
-     "fair_prob": 0.2226,
-     "fair_american": 349
-    },
-    {
-     "desc": "Trevor Connelly Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -494,
-     "fair_prob": 0.7774,
-     "fair_american": -349
-    },
-    {
-     "desc": "Trevor Connelly Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Over",
-     "points": 2.5,
-     "american": 154,
-     "fair_prob": 0.3679,
-     "fair_american": 172
-    },
-    {
-     "desc": "Trevor Connelly Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Under",
-     "points": 2.5,
-     "american": -209,
-     "fair_prob": 0.6321,
-     "fair_american": -172
-    },
-    {
-     "desc": "Tomas Hertl Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 158,
-     "fair_prob": 0.3622,
-     "fair_american": 176
-    },
-    {
-     "desc": "Tomas Hertl Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -215,
-     "fair_prob": 0.6378,
-     "fair_american": -176
-    },
-    {
-     "desc": "William Karlsson Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Over",
-     "points": 1.5,
-     "american": -150,
-     "fair_prob": 0.5575,
-     "fair_american": -126
-    },
-    {
-     "desc": "William Karlsson Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Under",
-     "points": 1.5,
-     "american": 110,
-     "fair_prob": 0.4425,
-     "fair_american": 126
-    },
-    {
-     "desc": "Kasperi Kapanen Total Points",
-     "units": "Points",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 111,
-     "fair_prob": 0.4426,
-     "fair_american": 126
-    },
-    {
-     "desc": "Kasperi Kapanen Total Points",
-     "units": "Points",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -148,
-     "fair_prob": 0.5574,
-     "fair_american": -126
-    },
-    {
-     "desc": "Evan Bouchard Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 270,
-     "fair_prob": 0.2503,
-     "fair_american": 300
-    },
-    {
-     "desc": "Evan Bouchard Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -425,
-     "fair_prob": 0.7497,
-     "fair_american": -300
-    },
-    {
-     "desc": "Shea Theodore Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Over",
-     "points": 1.5,
-     "american": 104,
-     "fair_prob": 0.4581,
-     "fair_american": 118
-    },
-    {
-     "desc": "Shea Theodore Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Under",
-     "points": 1.5,
-     "american": -138,
-     "fair_prob": 0.5419,
-     "fair_american": -118
-    },
-    {
-     "desc": "Mark Stone Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 190,
-     "fair_prob": 0.3222,
-     "fair_american": 210
-    },
-    {
-     "desc": "Mark Stone Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -264,
-     "fair_prob": 0.6778,
-     "fair_american": -210
-    },
-    {
-     "desc": "Mitchell Marner Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Over",
-     "points": 2.5,
-     "american": 114,
-     "fair_prob": 0.4365,
-     "fair_american": 129
-    },
-    {
-     "desc": "Mitchell Marner Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Under",
-     "points": 2.5,
-     "american": -152,
-     "fair_prob": 0.5635,
-     "fair_american": -129
-    },
-    {
-     "desc": "Jack Eichel Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Over",
-     "points": 2.5,
-     "american": -135,
-     "fair_prob": 0.5371,
-     "fair_american": -116
-    },
-    {
-     "desc": "Jack Eichel Total Shots On Goal",
-     "units": "Shots On Goal",
-     "outcome": "Under",
-     "points": 2.5,
-     "american": 102,
-     "fair_prob": 0.4629,
-     "fair_american": 116
-    },
-    {
-     "desc": "William Karlsson Total Goals",
-     "units": "Goals",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": 320,
-     "fair_prob": 0.2208,
-     "fair_american": 353
-    },
-    {
-     "desc": "William Karlsson Total Goals",
-     "units": "Goals",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -525,
-     "fair_prob": 0.7792,
-     "fair_american": -353
-    },
-    {
-     "desc": "Mark Stone Total Points",
-     "units": "Points",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": -188,
-     "fair_prob": 0.6104,
-     "fair_american": -157
-    },
-    {
-     "desc": "Mark Stone Total Points",
-     "units": "Points",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": 140,
-     "fair_prob": 0.3896,
-     "fair_american": 157
-    },
-    {
-     "desc": "Victor Olofsson Total Points",
-     "units": "Points",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": -110,
-     "fair_prob": 0.4853,
-     "fair_american": 106
-    },
-    {
-     "desc": "Victor Olofsson Total Points",
-     "units": "Points",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -125,
-     "fair_prob": 0.5147,
-     "fair_american": -106
-    },
-    {
-     "desc": "Jack Eichel Total Assists",
-     "units": "Assists",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": -122,
-     "fair_prob": 0.5142,
-     "fair_american": -106
-    },
-    {
-     "desc": "Jack Eichel Total Assists",
-     "units": "Assists",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -108,
-     "fair_prob": 0.4858,
-     "fair_american": 106
-    },
-    {
-     "desc": "Tomas Hertl Total Points",
-     "units": "Points",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": -126,
-     "fair_prob": 0.5212,
-     "fair_american": -109
-    },
-    {
-     "desc": "Tomas Hertl Total Points",
-     "units": "Points",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": -105,
-     "fair_prob": 0.4788,
-     "fair_american": 109
-    },
-    {
-     "desc": "Devon Levi Total Saves",
-     "units": "Saves",
-     "outcome": "Over",
-     "points": 23.5,
-     "american": -105,
-     "fair_prob": 0.4788,
-     "fair_american": 109
-    },
-    {
-     "desc": "Devon Levi Total Saves",
-     "units": "Saves",
-     "outcome": "Under",
-     "points": 23.5,
-     "american": -126,
-     "fair_prob": 0.5212,
-     "fair_american": -109
-    }
-   ]
   }
  ]
 }
