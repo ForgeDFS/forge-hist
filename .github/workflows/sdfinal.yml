@@ -1,0 +1,39 @@
+name: sdfinal
+# (2026-11-25) NFL Showdown FINAL for Drew's exact contests on free public-repo minutes (forge-os Actions are blocked by billing).
+# Claude (or the watcher) writes forge-os requests/final_now.json, then commits .github/sdfinal_now here. tools/final_job.py waits for
+# not_before_utc, pulls fresh DK salaries + odds, runs the production build with Drew's contest counts, fills + independently verifies his
+# DKEntries file and commits the result to forge-os. Nothing is printed: all output stays in the private repo.
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/sdfinal_now"]
+concurrency: { group: sdfinal, cancel-in-progress: false }
+permissions: { contents: read }
+jobs:
+  final:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: run
+        env:
+          GH_TOKEN: ${{ secrets.FORGE_OS_TOKEN }}
+          ODDSPAPI_KEY: ${{ secrets.ODDSPAPI_KEY }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then echo "secret FORGE_OS_TOKEN not set"; exit 0; fi
+          {
+            git clone -q --depth 1 "https://x-access-token:${GH_TOKEN}@github.com/ForgeDFS/forge-os.git" fo && cd fo
+            pip install -q -r .github/requirements-pulse.txt
+            sudo mkdir -p /home/claude && sudo chown "$USER" /home/claude && ln -sfn "$PWD" /home/claude/forge
+            python tools/nflverse_refresh.py roster_weekly_2026 injuries_2026 || true
+            python tools/final_job.py > /tmp/final.log 2>&1 || true
+            mkdir -p requests && tail -c 20000 /tmp/final.log > requests/final_now_log.txt
+            git config user.name "Claude"; git config user.email "noreply@anthropic.com"
+            for d in requests slates site dk/salaries pulls nflv/auto odds_free; do [ -e "$d" ] && git add -A "$d" || true; done
+            git diff --cached --quiet || git commit -qm "sdfinal $(date -u +%Y-%m-%dT%H:%MZ)"
+            git stash -u -q || true
+            for i in 1 2 3 4 5; do git pull -q --rebase -X theirs origin main && git push -q origin HEAD:main && break; git rebase --abort 2>/dev/null || true; sleep 9; done
+          } > /dev/null 2>&1 || true
+          echo done
