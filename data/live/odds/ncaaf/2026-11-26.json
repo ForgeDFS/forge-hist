@@ -1,9 +1,65 @@
 {
- "read_utc": "2026-11-26 18:40",
+ "read_utc": "2026-11-26 20:59",
  "league": [
   null
  ],
  "games": [
+  {
+   "away": "San Diego State",
+   "home": "Washington State",
+   "start": "2026-11-28T23:30:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -137,
+     "fair_prob": 0.562,
+     "fair_american": -128
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 122,
+     "fair_prob": 0.438,
+     "fair_american": 128
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -3.0,
+     "american": 100,
+     "fair_prob": 0.4831,
+     "fair_american": 107
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 3.0,
+     "american": -115,
+     "fair_prob": 0.5169,
+     "fair_american": -107
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 46.0,
+     "american": -118,
+     "fair_prob": 0.5211,
+     "fair_american": -109
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 46.0,
+     "american": 101,
+     "fair_prob": 0.4789,
+     "fair_american": 109
+    }
+   ],
+   "props": []
+  },
   {
    "away": "LSU",
    "home": "Arkansas",
@@ -56,6 +112,174 @@
      "american": -102,
      "fair_prob": 0.4856,
      "fair_american": 106
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "NC State",
+   "home": "North Carolina",
+   "start": "2026-11-28T17:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -227,
+     "fair_prob": 0.6726,
+     "fair_american": -205
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 196,
+     "fair_prob": 0.3274,
+     "fair_american": 205
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -6.0,
+     "american": -109,
+     "fair_prob": 0.5045,
+     "fair_american": -102
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 6.0,
+     "american": -105,
+     "fair_prob": 0.4955,
+     "fair_american": 102
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 54.5,
+     "american": -103,
+     "fair_prob": 0.4889,
+     "fair_american": 105
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 54.5,
+     "american": -113,
+     "fair_prob": 0.5111,
+     "fair_american": -105
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Baylor",
+   "home": "Houston",
+   "start": "2026-11-29T02:30:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -190,
+     "fair_prob": 0.6354,
+     "fair_american": -174
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 166,
+     "fair_prob": 0.3646,
+     "fair_american": 174
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -5.0,
+     "american": -103,
+     "fair_prob": 0.491,
+     "fair_american": 104
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 5.0,
+     "american": -111,
+     "fair_prob": 0.509,
+     "fair_american": -104
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 55.5,
+     "american": -107,
+     "fair_prob": 0.4978,
+     "fair_american": 101
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 55.5,
+     "american": -109,
+     "fair_prob": 0.5022,
+     "fair_american": -101
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "North Dakota State",
+   "home": "San Jose State",
+   "start": "2026-11-27T20:30:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 275,
+     "fair_prob": 0.2575,
+     "fair_american": 288
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -333,
+     "fair_prob": 0.7425,
+     "fair_american": -288
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 7.5,
+     "american": -107,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -7.5,
+     "american": -107,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 40.0,
+     "american": -104,
+     "fair_prob": 0.4911,
+     "fair_american": 104
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 40.0,
+     "american": -112,
+     "fair_prob": 0.5089,
+     "fair_american": -104
     }
    ],
    "props": []
@@ -117,6 +341,727 @@
    "props": []
   },
   {
+   "away": "Georgia Tech",
+   "home": "Georgia",
+   "start": "2026-11-28T20:30:00Z",
+   "lines": [
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -35.5,
+     "american": -101,
+     "fair_prob": 0.4864,
+     "fair_american": 106
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 35.5,
+     "american": -113,
+     "fair_prob": 0.5136,
+     "fair_american": -106
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 55.0,
+     "american": -110,
+     "fair_prob": 0.5045,
+     "fair_american": -102
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 55.0,
+     "american": -106,
+     "fair_prob": 0.4955,
+     "fair_american": 102
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Southern Miss",
+   "home": "Old Dominion",
+   "start": "2026-11-28T18:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -227,
+     "fair_prob": 0.6719,
+     "fair_american": -205
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 195,
+     "fair_prob": 0.3281,
+     "fair_american": 205
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -6.0,
+     "american": -108,
+     "fair_prob": 0.5023,
+     "fair_american": -101
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 6.0,
+     "american": -106,
+     "fair_prob": 0.4977,
+     "fair_american": 101
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 51.0,
+     "american": -105,
+     "fair_prob": 0.4933,
+     "fair_american": 103
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 51.0,
+     "american": -111,
+     "fair_prob": 0.5067,
+     "fair_american": -103
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Tulane",
+   "home": "South Florida",
+   "start": "2026-11-28T20:30:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -246,
+     "fair_prob": 0.6879,
+     "fair_american": -220
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 210,
+     "fair_prob": 0.3121,
+     "fair_american": 220
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -6.5,
+     "american": -106,
+     "fair_prob": 0.4977,
+     "fair_american": 101
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 6.5,
+     "american": -108,
+     "fair_prob": 0.5023,
+     "fair_american": -101
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 43.0,
+     "american": -112,
+     "fair_prob": 0.5089,
+     "fair_american": -104
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 43.0,
+     "american": -104,
+     "fair_prob": 0.4911,
+     "fair_american": 104
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "TCU",
+   "home": "Texas Tech",
+   "start": "2026-11-27T01:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -592,
+     "fair_prob": 0.8291,
+     "fair_american": -485
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 467,
+     "fair_prob": 0.1709,
+     "fair_american": 485
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -14.0,
+     "american": -104,
+     "fair_prob": 0.4954,
+     "fair_american": 102
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 14.0,
+     "american": -108,
+     "fair_prob": 0.5046,
+     "fair_american": -102
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 46.5,
+     "american": -112,
+     "fair_prob": 0.5089,
+     "fair_american": -104
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 46.5,
+     "american": -104,
+     "fair_prob": 0.4911,
+     "fair_american": 104
+    }
+   ],
+   "props": [
+    {
+     "desc": "Kari Ashley Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 40.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Kari Ashley Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 40.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Jaden Craig Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Over",
+     "points": 195.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Jaden Craig Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Under",
+     "points": 195.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Thomas Castellanos Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 54.5,
+     "american": -114,
+     "fair_prob": 0.496,
+     "fair_american": 102
+    },
+    {
+     "desc": "Thomas Castellanos Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 54.5,
+     "american": -118,
+     "fair_prob": 0.504,
+     "fair_american": -102
+    },
+    {
+     "desc": "Kenny Johnson Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 60.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Kenny Johnson Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 60.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "J'Koby Williams Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 98.5,
+     "american": -114,
+     "fair_prob": 0.498,
+     "fair_american": 101
+    },
+    {
+     "desc": "J'Koby Williams Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 98.5,
+     "american": -116,
+     "fair_prob": 0.502,
+     "fair_american": -101
+    },
+    {
+     "desc": "Micah Hudson Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 28.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Micah Hudson Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 28.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Jeremy Scott Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 10.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Jeremy Scott Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 10.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Ed Small Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 31.5,
+     "american": -118,
+     "fair_prob": 0.504,
+     "fair_american": -102
+    },
+    {
+     "desc": "Ed Small Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 31.5,
+     "american": -114,
+     "fair_prob": 0.496,
+     "fair_american": 102
+    },
+    {
+     "desc": "Cameron Dickey Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 30.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Cameron Dickey Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 30.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Jordan Dwyer Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 59.5,
+     "american": -118,
+     "fair_prob": 0.5061,
+     "fair_american": -102
+    },
+    {
+     "desc": "Jordan Dwyer Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 59.5,
+     "american": -112,
+     "fair_prob": 0.4939,
+     "fair_american": 102
+    },
+    {
+     "desc": "J'Koby Williams Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 14.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "J'Koby Williams Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 14.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Thomas Castellanos Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Over",
+     "points": 1.5,
+     "american": -138,
+     "fair_prob": 0.5419,
+     "fair_american": -118
+    },
+    {
+     "desc": "Thomas Castellanos Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Under",
+     "points": 1.5,
+     "american": 104,
+     "fair_prob": 0.4581,
+     "fair_american": 118
+    },
+    {
+     "desc": "Jaden Craig Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": -144,
+     "fair_prob": 0.5523,
+     "fair_american": -123
+    },
+    {
+     "desc": "Jaden Craig Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": 109,
+     "fair_prob": 0.4477,
+     "fair_american": 123
+    },
+    {
+     "desc": "Jeremy Payne Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 54.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Jeremy Payne Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 54.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Thomas Castellanos Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Over",
+     "points": 212.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Thomas Castellanos Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Under",
+     "points": 212.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Terrance Carter Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 39.5,
+     "american": -118,
+     "fair_prob": 0.5061,
+     "fair_american": -102
+    },
+    {
+     "desc": "Terrance Carter Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 39.5,
+     "american": -112,
+     "fair_prob": 0.4939,
+     "fair_american": 102
+    }
+   ]
+  },
+  {
+   "away": "Purdue",
+   "home": "Indiana",
+   "start": "2026-11-29T00:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -1969,
+     "fair_prob": 0.9205,
+     "fair_american": -1157
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 1116,
+     "fair_prob": 0.0795,
+     "fair_american": 1157
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -23.5,
+     "american": -105,
+     "fair_prob": 0.4955,
+     "fair_american": 102
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 23.5,
+     "american": -109,
+     "fair_prob": 0.5045,
+     "fair_american": -102
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 52.5,
+     "american": -114,
+     "fair_prob": 0.5122,
+     "fair_american": -105
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 52.5,
+     "american": -103,
+     "fair_prob": 0.4878,
+     "fair_american": 105
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Florida Atlantic",
+   "home": "East Carolina",
+   "start": "2026-11-28T18:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -114,
+     "fair_prob": 0.5183,
+     "fair_american": -108
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 102,
+     "fair_prob": 0.4817,
+     "fair_american": 108
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -1.0,
+     "american": -109,
+     "fair_prob": 0.5045,
+     "fair_american": -102
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 1.0,
+     "american": -105,
+     "fair_prob": 0.4955,
+     "fair_american": 102
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 57.5,
+     "american": -114,
+     "fair_prob": 0.5134,
+     "fair_american": -105
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 57.5,
+     "american": -102,
+     "fair_prob": 0.4866,
+     "fair_american": 105
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Auburn",
+   "home": "Alabama",
+   "start": "2026-11-29T00:30:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -749,
+     "fair_prob": 0.8495,
+     "fair_american": -565
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 540,
+     "fair_prob": 0.1505,
+     "fair_american": 565
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -15.0,
+     "american": -107,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 15.0,
+     "american": -107,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 49.5,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 49.5,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "UAB",
+   "home": "North Texas",
+   "start": "2026-11-28T21:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -149,
+     "fair_prob": 0.5813,
+     "fair_american": -139
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 132,
+     "fair_prob": 0.4187,
+     "fair_american": 139
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -3.0,
+     "american": -108,
+     "fair_prob": 0.5023,
+     "fair_american": -101
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 3.0,
+     "american": -106,
+     "fair_prob": 0.4977,
+     "fair_american": 101
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 45.0,
+     "american": -111,
+     "fair_prob": 0.5067,
+     "fair_american": -103
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 45.0,
+     "american": -105,
+     "fair_prob": 0.4933,
+     "fair_american": 103
+    }
+   ],
+   "props": []
+  },
+  {
    "away": "Boise State",
    "home": "Colorado State",
    "start": "2026-11-28T23:00:00Z",
@@ -173,225 +1118,57 @@
    "props": []
   },
   {
-   "away": "Central Michigan",
-   "home": "Ball State",
-   "start": "2026-11-28T17:00:00Z",
+   "away": "Kansas",
+   "home": "Oklahoma State",
+   "start": "2026-11-28T23:15:00Z",
    "lines": [
     {
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": 160,
-     "fair_prob": 0.373,
-     "fair_american": 168
+     "american": -219,
+     "fair_prob": 0.6649,
+     "fair_american": -198
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": -183,
-     "fair_prob": 0.627,
-     "fair_american": -168
+     "american": 189,
+     "fair_prob": 0.3351,
+     "fair_american": 198
     },
     {
      "type": "spread",
      "side": "home",
-     "points": 3.5,
-     "american": -102,
-     "fair_prob": 0.4887,
-     "fair_american": 105
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": -3.5,
-     "american": -112,
-     "fair_prob": 0.5113,
-     "fair_american": -105
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 50.5,
-     "american": -111,
-     "fair_prob": 0.5067,
-     "fair_american": -103
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 50.5,
-     "american": -105,
-     "fair_prob": 0.4933,
-     "fair_american": 103
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Kennesaw State",
-   "home": "Western Kentucky",
-   "start": "2026-11-28T18:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": 141,
-     "fair_prob": 0.4027,
-     "fair_american": 148
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": -160,
-     "fair_prob": 0.5973,
-     "fair_american": -148
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": 3.0,
-     "american": -100,
-     "fair_prob": 0.4842,
-     "fair_american": 107
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": -3.0,
-     "american": -114,
-     "fair_prob": 0.5158,
-     "fair_american": -107
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 54.0,
-     "american": -106,
-     "fair_prob": 0.4955,
-     "fair_american": 102
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 54.0,
-     "american": -110,
-     "fair_prob": 0.5045,
-     "fair_american": -102
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "South Carolina",
-   "home": "Clemson",
-   "start": "2026-11-28T20:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": 194,
-     "fair_prob": 0.3291,
-     "fair_american": 204
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": -226,
-     "fair_prob": 0.6709,
-     "fair_american": -204
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": 6.5,
-     "american": -114,
-     "fair_prob": 0.5158,
-     "fair_american": -107
-    },
-    {
-     "type": "spread",
-     "side": "away",
      "points": -6.5,
-     "american": -100,
-     "fair_prob": 0.4842,
-     "fair_american": 107
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 42.0,
-     "american": -106,
-     "fair_prob": 0.4955,
-     "fair_american": 102
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 42.0,
-     "american": -110,
-     "fair_prob": 0.5045,
-     "fair_american": -102
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "UL Lafayette",
-   "home": "Georgia State",
-   "start": "2026-11-28T19:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": 176,
-     "fair_prob": 0.351,
-     "fair_american": 185
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": -203,
-     "fair_prob": 0.649,
-     "fair_american": -185
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": 5.5,
-     "american": -111,
-     "fair_prob": 0.509,
-     "fair_american": -104
+     "american": 101,
+     "fair_prob": 0.4819,
+     "fair_american": 108
     },
     {
      "type": "spread",
      "side": "away",
-     "points": -5.5,
-     "american": -103,
-     "fair_prob": 0.491,
-     "fair_american": 104
+     "points": 6.5,
+     "american": -115,
+     "fair_prob": 0.5181,
+     "fair_american": -108
     },
     {
      "type": "total",
      "side": "over",
-     "points": 56.0,
-     "american": -105,
-     "fair_prob": 0.4923,
-     "fair_american": 103
+     "points": 65.0,
+     "american": -109,
+     "fair_prob": 0.5022,
+     "fair_american": -101
     },
     {
      "type": "total",
      "side": "under",
-     "points": 56.0,
-     "american": -112,
-     "fair_prob": 0.5077,
-     "fair_american": -103
+     "points": 65.0,
+     "american": -107,
+     "fair_prob": 0.4978,
+     "fair_american": 101
     }
    ],
    "props": []
@@ -445,6 +1222,230 @@
      "type": "total",
      "side": "under",
      "points": 48.5,
+     "american": -106,
+     "fair_prob": 0.4955,
+     "fair_american": 102
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Navy",
+   "home": "Charlotte",
+   "start": "2026-11-28T17:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 575,
+     "fair_prob": 0.1427,
+     "fair_american": 601
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -810,
+     "fair_prob": 0.8573,
+     "fair_american": -601
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 16.5,
+     "american": -104,
+     "fair_prob": 0.4932,
+     "fair_american": 103
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -16.5,
+     "american": -110,
+     "fair_prob": 0.5068,
+     "fair_american": -103
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 54.5,
+     "american": -113,
+     "fair_prob": 0.5111,
+     "fair_american": -105
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 54.5,
+     "american": -103,
+     "fair_prob": 0.4889,
+     "fair_american": 105
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Arizona State",
+   "home": "Arizona",
+   "start": "2026-11-29T02:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -310,
+     "fair_prob": 0.7308,
+     "fair_american": -271
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 259,
+     "fair_prob": 0.2692,
+     "fair_american": 271
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -7.5,
+     "american": -112,
+     "fair_prob": 0.5113,
+     "fair_american": -105
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 7.5,
+     "american": -102,
+     "fair_prob": 0.4887,
+     "fair_american": 105
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 54.0,
+     "american": -104,
+     "fair_prob": 0.4911,
+     "fair_american": 104
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 54.0,
+     "american": -112,
+     "fair_prob": 0.5089,
+     "fair_american": -104
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Air Force",
+   "home": "New Mexico",
+   "start": "2026-11-27T21:30:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -249,
+     "fair_prob": 0.69,
+     "fair_american": -223
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 212,
+     "fair_prob": 0.31,
+     "fair_american": 223
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -6.5,
+     "american": -113,
+     "fair_prob": 0.5136,
+     "fair_american": -106
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 6.5,
+     "american": -101,
+     "fair_prob": 0.4864,
+     "fair_american": 106
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 42.5,
+     "american": -106,
+     "fair_prob": 0.4955,
+     "fair_american": 102
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 42.5,
+     "american": -110,
+     "fair_prob": 0.5045,
+     "fair_american": -102
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Liberty",
+   "home": "Missouri State",
+   "start": "2026-11-28T19:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 617,
+     "fair_prob": 0.1344,
+     "fair_american": 644
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -886,
+     "fair_prob": 0.8656,
+     "fair_american": -644
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 17.5,
+     "american": -103,
+     "fair_prob": 0.491,
+     "fair_american": 104
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -17.5,
+     "american": -111,
+     "fair_prob": 0.509,
+     "fair_american": -104
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 53.0,
+     "american": -110,
+     "fair_prob": 0.5045,
+     "fair_american": -102
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 53.0,
      "american": -106,
      "fair_prob": 0.4955,
      "fair_american": 102
@@ -509,245 +1510,189 @@
    "props": []
   },
   {
-   "away": "Navy",
-   "home": "Charlotte",
-   "start": "2026-11-28T17:00:00Z",
+   "away": "Texas",
+   "home": "Texas A&M",
+   "start": "2026-11-28T00:30:00Z",
    "lines": [
     {
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": 575,
-     "fair_prob": 0.1427,
-     "fair_american": 601
+     "american": 351,
+     "fair_prob": 0.2138,
+     "fair_american": 368
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": -810,
-     "fair_prob": 0.8573,
-     "fair_american": -601
+     "american": -442,
+     "fair_prob": 0.7862,
+     "fair_american": -368
     },
     {
      "type": "spread",
      "side": "home",
-     "points": 16.5,
-     "american": -104,
-     "fair_prob": 0.4932,
-     "fair_american": 103
+     "points": 10.5,
+     "american": -106,
+     "fair_prob": 0.4977,
+     "fair_american": 101
     },
     {
      "type": "spread",
      "side": "away",
-     "points": -16.5,
-     "american": -110,
-     "fair_prob": 0.5068,
+     "points": -10.5,
+     "american": -108,
+     "fair_prob": 0.5023,
+     "fair_american": -101
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 40.5,
+     "american": -111,
+     "fair_prob": 0.5067,
      "fair_american": -103
     },
     {
      "type": "total",
-     "side": "over",
-     "points": 54.5,
-     "american": -113,
-     "fair_prob": 0.5111,
-     "fair_american": -105
-    },
-    {
-     "type": "total",
      "side": "under",
-     "points": 54.5,
-     "american": -103,
-     "fair_prob": 0.4889,
-     "fair_american": 105
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "TCU",
-   "home": "Texas Tech",
-   "start": "2026-11-27T01:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -592,
-     "fair_prob": 0.8291,
-     "fair_american": -485
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 467,
-     "fair_prob": 0.1709,
-     "fair_american": 485
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -14.0,
-     "american": -104,
-     "fair_prob": 0.4954,
-     "fair_american": 102
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 14.0,
-     "american": -108,
-     "fair_prob": 0.5046,
-     "fair_american": -102
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 46.5,
-     "american": -112,
-     "fair_prob": 0.5089,
-     "fair_american": -104
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 46.5,
-     "american": -104,
-     "fair_prob": 0.4911,
-     "fair_american": 104
+     "points": 40.5,
+     "american": -105,
+     "fair_prob": 0.4933,
+     "fair_american": 103
     }
    ],
    "props": [
     {
-     "desc": "Thomas Castellanos Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 54.5,
-     "american": -114,
-     "fair_prob": 0.496,
-     "fair_american": 102
-    },
-    {
-     "desc": "Thomas Castellanos Total Rushing Yards",
-     "units": "Rushing Yards",
+     "desc": "Ryan Wingo Total Receiving Yards",
+     "units": "Receiving Yards",
      "outcome": "Under",
-     "points": 54.5,
-     "american": -118,
-     "fair_prob": 0.504,
-     "fair_american": -102
-    },
-    {
-     "desc": "Cameron Dickey Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 30.5,
+     "points": 48.5,
      "american": -114,
      "fair_prob": 0.5,
      "fair_american": 100
     },
     {
-     "desc": "Cameron Dickey Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 30.5,
+     "desc": "Ryan Wingo Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 48.5,
      "american": -114,
      "fair_prob": 0.5,
      "fair_american": 100
     },
     {
-     "desc": "Terrance Carter Total Receiving Yards",
+     "desc": "Arch Manning Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Over",
+     "points": 1.5,
+     "american": 118,
+     "fair_prob": 0.4283,
+     "fair_american": 134
+    },
+    {
+     "desc": "Arch Manning Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Under",
+     "points": 1.5,
+     "american": -158,
+     "fair_prob": 0.5717,
+     "fair_american": -134
+    },
+    {
+     "desc": "Isaiah Horton Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 33.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Isaiah Horton Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 33.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Arch Manning Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Over",
+     "points": 226.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Arch Manning Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Under",
+     "points": 226.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Raleek Brown Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 19.5,
+     "american": -115,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Raleek Brown Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 19.5,
+     "american": -115,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Mario Craver Total Receiving Yards",
      "units": "Receiving Yards",
      "outcome": "Over",
      "points": 39.5,
-     "american": -118,
-     "fair_prob": 0.5061,
-     "fair_american": -102
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
     },
     {
-     "desc": "Terrance Carter Total Receiving Yards",
+     "desc": "Mario Craver Total Receiving Yards",
      "units": "Receiving Yards",
      "outcome": "Under",
      "points": 39.5,
-     "american": -112,
-     "fair_prob": 0.4939,
-     "fair_american": 102
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
     },
     {
-     "desc": "J'Koby Williams Total Rushing Yards",
+     "desc": "Arch Manning Total Rushing Yards",
      "units": "Rushing Yards",
      "outcome": "Over",
-     "points": 98.5,
+     "points": 22.5,
      "american": -114,
      "fair_prob": 0.5,
      "fair_american": 100
     },
     {
-     "desc": "J'Koby Williams Total Rushing Yards",
+     "desc": "Arch Manning Total Rushing Yards",
      "units": "Rushing Yards",
      "outcome": "Under",
-     "points": 98.5,
+     "points": 22.5,
      "american": -114,
      "fair_prob": 0.5,
      "fair_american": 100
     },
     {
-     "desc": "Jaden Craig Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Over",
-     "points": 195.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Jaden Craig Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Under",
-     "points": 195.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Ed Small Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 31.5,
-     "american": -118,
-     "fair_prob": 0.504,
-     "fair_american": -102
-    },
-    {
-     "desc": "Ed Small Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 31.5,
-     "american": -114,
-     "fair_prob": 0.496,
-     "fair_american": 102
-    },
-    {
-     "desc": "J'Koby Williams Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 14.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "J'Koby Williams Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 14.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Kari Ashley Total Receiving Yards",
-     "units": "Receiving Yards",
+     "desc": "KJ Edwards Total Rushing Yards",
+     "units": "Rushing Yards",
      "outcome": "Over",
      "points": 40.5,
      "american": -114,
@@ -755,8 +1700,8 @@
      "fair_american": 100
     },
     {
-     "desc": "Kari Ashley Total Receiving Yards",
-     "units": "Receiving Yards",
+     "desc": "KJ Edwards Total Rushing Yards",
+     "units": "Rushing Yards",
      "outcome": "Under",
      "points": 40.5,
      "american": -114,
@@ -764,262 +1709,78 @@
      "fair_american": 100
     },
     {
-     "desc": "Thomas Castellanos Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Over",
-     "points": 212.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Thomas Castellanos Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Under",
-     "points": 212.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Kenny Johnson Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 60.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Kenny Johnson Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 60.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Jeremy Scott Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 10.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Jeremy Scott Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 10.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Jeremy Payne Total Rushing Yards",
+     "desc": "Raleek Brown Total Rushing Yards",
      "units": "Rushing Yards",
      "outcome": "Over",
-     "points": 54.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
+     "points": 68.5,
+     "american": -116,
+     "fair_prob": 0.502,
+     "fair_american": -101
     },
     {
-     "desc": "Jeremy Payne Total Rushing Yards",
+     "desc": "Raleek Brown Total Rushing Yards",
      "units": "Rushing Yards",
      "outcome": "Under",
-     "points": 54.5,
+     "points": 68.5,
+     "american": -114,
+     "fair_prob": 0.498,
+     "fair_american": 101
+    },
+    {
+     "desc": "Rueben Owens Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 19.5,
      "american": -114,
      "fair_prob": 0.5,
      "fair_american": 100
     },
     {
-     "desc": "Micah Hudson Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 28.5,
+     "desc": "Rueben Owens Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 19.5,
      "american": -114,
      "fair_prob": 0.5,
      "fair_american": 100
     },
     {
-     "desc": "Micah Hudson Total Receiving Yards",
+     "desc": "Cam Coleman Total Receiving Yards",
      "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 28.5,
+     "outcome": "Over",
+     "points": 29.5,
      "american": -114,
      "fair_prob": 0.5,
      "fair_american": 100
     },
     {
-     "desc": "Jordan Dwyer Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 59.5,
-     "american": -118,
-     "fair_prob": 0.5061,
-     "fair_american": -102
-    },
-    {
-     "desc": "Jordan Dwyer Total Receiving Yards",
+     "desc": "Cam Coleman Total Receiving Yards",
      "units": "Receiving Yards",
      "outcome": "Under",
-     "points": 59.5,
-     "american": -112,
-     "fair_prob": 0.4939,
-     "fair_american": 102
+     "points": 29.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
     },
     {
-     "desc": "Thomas Castellanos Total Touchdown Passes",
-     "units": "Touchdown Passes",
+     "desc": "Emmett Mosley Total Receiving Yards",
+     "units": "Receiving Yards",
      "outcome": "Over",
-     "points": 1.5,
-     "american": -138,
-     "fair_prob": 0.5419,
-     "fair_american": -118
+     "points": 46.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
     },
     {
-     "desc": "Thomas Castellanos Total Touchdown Passes",
-     "units": "Touchdown Passes",
+     "desc": "Emmett Mosley Total Receiving Yards",
+     "units": "Receiving Yards",
      "outcome": "Under",
-     "points": 1.5,
-     "american": 104,
-     "fair_prob": 0.4581,
-     "fair_american": 118
-    },
-    {
-     "desc": "Jaden Craig Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": -144,
-     "fair_prob": 0.5511,
-     "fair_american": -123
-    },
-    {
-     "desc": "Jaden Craig Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": 108,
-     "fair_prob": 0.4489,
-     "fair_american": 123
+     "points": 46.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
     }
    ]
-  },
-  {
-   "away": "Sam Houston State",
-   "home": "Florida International",
-   "start": "2026-11-28T19:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -450,
-     "fair_prob": 0.7886,
-     "fair_american": -373
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 356,
-     "fair_prob": 0.2114,
-     "fair_american": 373
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -11.0,
-     "american": -111,
-     "fair_prob": 0.509,
-     "fair_american": -104
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 11.0,
-     "american": -103,
-     "fair_prob": 0.491,
-     "fair_american": 104
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 41.5,
-     "american": -104,
-     "fair_prob": 0.4911,
-     "fair_american": 104
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 41.5,
-     "american": -112,
-     "fair_prob": 0.5089,
-     "fair_american": -104
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Florida Atlantic",
-   "home": "East Carolina",
-   "start": "2026-11-28T18:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -114,
-     "fair_prob": 0.5183,
-     "fair_american": -108
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 102,
-     "fair_prob": 0.4817,
-     "fair_american": 108
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -1.0,
-     "american": -109,
-     "fair_prob": 0.5045,
-     "fair_american": -102
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 1.0,
-     "american": -105,
-     "fair_prob": 0.4955,
-     "fair_american": 102
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 57.5,
-     "american": -114,
-     "fair_prob": 0.5134,
-     "fair_american": -105
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 57.5,
-     "american": -102,
-     "fair_prob": 0.4866,
-     "fair_american": 105
-    }
-   ],
-   "props": []
   },
   {
    "away": "Cincinnati",
@@ -1078,158 +1839,102 @@
    "props": []
   },
   {
-   "away": "Air Force",
-   "home": "New Mexico",
-   "start": "2026-11-27T21:30:00Z",
+   "away": "Toledo",
+   "home": "Ohio",
+   "start": "2026-11-27T17:00:00Z",
    "lines": [
     {
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": -249,
-     "fair_prob": 0.69,
-     "fair_american": -223
+     "american": 136,
+     "fair_prob": 0.4114,
+     "fair_american": 143
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": 212,
-     "fair_prob": 0.31,
-     "fair_american": 223
+     "american": -154,
+     "fair_prob": 0.5886,
+     "fair_american": -143
     },
     {
      "type": "spread",
      "side": "home",
-     "points": -6.5,
-     "american": -113,
-     "fair_prob": 0.5136,
-     "fair_american": -106
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 6.5,
-     "american": -101,
-     "fair_prob": 0.4864,
-     "fair_american": 106
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 42.5,
-     "american": -106,
+     "points": 3.0,
+     "american": -105,
      "fair_prob": 0.4955,
      "fair_american": 102
     },
     {
-     "type": "total",
-     "side": "under",
-     "points": 42.5,
-     "american": -110,
+     "type": "spread",
+     "side": "away",
+     "points": -3.0,
+     "american": -109,
      "fair_prob": 0.5045,
      "fair_american": -102
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Boston College",
-   "home": "Miami Florida",
-   "start": "2026-11-28T17:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -2861,
-     "fair_prob": 0.9373,
-     "fair_american": -1494
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 1446,
-     "fair_prob": 0.0627,
-     "fair_american": 1494
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -25.5,
-     "american": -101,
-     "fair_prob": 0.4864,
-     "fair_american": 106
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 25.5,
-     "american": -113,
-     "fair_prob": 0.5136,
-     "fair_american": -106
     },
     {
      "type": "total",
      "side": "over",
-     "points": 53.5,
-     "american": -117,
-     "fair_prob": 0.5188,
-     "fair_american": -108
+     "points": 45.5,
+     "american": -102,
+     "fair_prob": 0.4866,
+     "fair_american": 105
     },
     {
      "type": "total",
      "side": "under",
-     "points": 53.5,
-     "american": 100,
-     "fair_prob": 0.4812,
-     "fair_american": 108
+     "points": 45.5,
+     "american": -114,
+     "fair_prob": 0.5134,
+     "fair_american": -105
     }
    ],
    "props": []
   },
   {
-   "away": "USC",
-   "home": "UCLA",
+   "away": "SMU",
+   "home": "Stanford",
    "start": "2026-11-28T20:30:00Z",
    "lines": [
     {
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": 203,
-     "fair_prob": 0.3194,
-     "fair_american": 213
+     "american": 249,
+     "fair_prob": 0.2769,
+     "fair_american": 261
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": -237,
-     "fair_prob": 0.6806,
-     "fair_american": -213
+     "american": -297,
+     "fair_prob": 0.7231,
+     "fair_american": -261
     },
     {
      "type": "spread",
      "side": "home",
-     "points": 6.5,
-     "american": -102,
-     "fair_prob": 0.4877,
-     "fair_american": 105
+     "points": 7.5,
+     "american": -114,
+     "fair_prob": 0.5146,
+     "fair_american": -106
     },
     {
      "type": "spread",
      "side": "away",
-     "points": -6.5,
-     "american": -113,
-     "fair_prob": 0.5123,
-     "fair_american": -105
+     "points": -7.5,
+     "american": -101,
+     "fair_prob": 0.4854,
+     "fair_american": 106
     },
     {
      "type": "total",
      "side": "over",
-     "points": 45.5,
+     "points": 61.0,
      "american": -108,
      "fair_prob": 0.5,
      "fair_american": 100
@@ -1237,7 +1942,7 @@
     {
      "type": "total",
      "side": "under",
-     "points": 45.5,
+     "points": 61.0,
      "american": -108,
      "fair_prob": 0.5,
      "fair_american": 100
@@ -1254,17 +1959,17 @@
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": 182,
-     "fair_prob": 0.3436,
-     "fair_american": 191
+     "american": 181,
+     "fair_prob": 0.3448,
+     "fair_american": 190
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": -210,
-     "fair_prob": 0.6564,
-     "fair_american": -191
+     "american": -209,
+     "fair_prob": 0.6552,
+     "fair_american": -190
     },
     {
      "type": "spread",
@@ -1286,726 +1991,46 @@
      "type": "total",
      "side": "over",
      "points": 47.5,
-     "american": -105,
-     "fair_prob": 0.4933,
-     "fair_american": 103
+     "american": -102,
+     "fair_prob": 0.4856,
+     "fair_american": 106
     },
     {
      "type": "total",
      "side": "under",
      "points": 47.5,
-     "american": -111,
-     "fair_prob": 0.5067,
-     "fair_american": -103
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Oklahoma",
-   "home": "Missouri",
-   "start": "2026-11-28T21:15:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -125,
-     "fair_prob": 0.5396,
-     "fair_american": -117
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 111,
-     "fair_prob": 0.4604,
-     "fair_american": 117
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -1.5,
      "american": -115,
-     "fair_prob": 0.5169,
-     "fair_american": -107
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 1.5,
-     "american": 100,
-     "fair_prob": 0.4831,
-     "fair_american": 107
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 41.5,
-     "american": -105,
-     "fair_prob": 0.4933,
-     "fair_american": 103
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 41.5,
-     "american": -111,
-     "fair_prob": 0.5067,
-     "fair_american": -103
+     "fair_prob": 0.5144,
+     "fair_american": -106
     }
    ],
    "props": []
   },
   {
-   "away": "Texas State",
-   "home": "Utah State",
-   "start": "2026-11-29T02:30:00Z",
+   "away": "Illinois",
+   "home": "Northwestern",
+   "start": "2026-11-28T17:30:00Z",
    "lines": [
     {
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": 229,
-     "fair_prob": 0.294,
-     "fair_american": 240
+     "american": -137,
+     "fair_prob": 0.5609,
+     "fair_american": -128
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": -270,
-     "fair_prob": 0.706,
-     "fair_american": -240
+     "american": 121,
+     "fair_prob": 0.4391,
+     "fair_american": 128
     },
     {
      "type": "spread",
      "side": "home",
-     "points": 7.0,
-     "american": -109,
-     "fair_prob": 0.5045,
-     "fair_american": -102
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": -7.0,
-     "american": -105,
-     "fair_prob": 0.4955,
-     "fair_american": 102
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 52.5,
-     "american": -105,
-     "fair_prob": 0.4933,
-     "fair_american": 103
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 52.5,
-     "american": -111,
-     "fair_prob": 0.5067,
-     "fair_american": -103
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Temple",
-   "home": "Memphis",
-   "start": "2026-11-27T20:30:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -892,
-     "fair_prob": 0.8662,
-     "fair_american": -647
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 620,
-     "fair_prob": 0.1338,
-     "fair_american": 647
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -18.0,
-     "american": -107,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 18.0,
-     "american": -107,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 66.5,
-     "american": -104,
-     "fair_prob": 0.4911,
-     "fair_american": 104
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 66.5,
-     "american": -112,
-     "fair_prob": 0.5089,
-     "fair_american": -104
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "West Virginia",
-   "home": "Utah",
-   "start": "2026-11-28T02:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -2200,
-     "fair_prob": 0.9259,
-     "fair_american": -1250
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 1207,
-     "fair_prob": 0.0741,
-     "fair_american": 1250
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -26.0,
-     "american": -108,
-     "fair_prob": 0.5023,
-     "fair_american": -101
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 26.0,
-     "american": -106,
-     "fair_prob": 0.4977,
-     "fair_american": 101
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 67.0,
-     "american": -109,
-     "fair_prob": 0.5022,
-     "fair_american": -101
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 67.0,
-     "american": -107,
-     "fair_prob": 0.4978,
-     "fair_american": 101
-    }
-   ],
-   "props": [
-    {
-     "desc": "Creed Whittemore Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 43.5,
-     "american": -112,
-     "fair_prob": 0.4939,
-     "fair_american": 102
-    },
-    {
-     "desc": "Creed Whittemore Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 43.5,
-     "american": -118,
-     "fair_prob": 0.5061,
-     "fair_american": -102
-    },
-    {
-     "desc": "Larry Simmons Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 28.5,
-     "american": -118,
-     "fair_prob": 0.5061,
-     "fair_american": -102
-    },
-    {
-     "desc": "Larry Simmons Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 28.5,
-     "american": -112,
-     "fair_prob": 0.4939,
-     "fair_american": 102
-    },
-    {
-     "desc": "Braden Pegan Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 70.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Braden Pegan Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 70.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Cam Cook Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 89.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Cam Cook Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 89.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Devon Dampier Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Over",
-     "points": 275.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Devon Dampier Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Under",
-     "points": 275.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Noah Bennee Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 28.5,
-     "american": -118,
-     "fair_prob": 0.5061,
-     "fair_american": -102
-    },
-    {
-     "desc": "Noah Bennee Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 28.5,
-     "american": -112,
-     "fair_prob": 0.4939,
-     "fair_american": 102
-    },
-    {
-     "desc": "Cam Cook Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 13.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Cam Cook Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 13.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Ricky Johnson Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 28.5,
-     "american": -112,
-     "fair_prob": 0.4939,
-     "fair_american": 102
-    },
-    {
-     "desc": "Ricky Johnson Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 28.5,
-     "american": -118,
-     "fair_prob": 0.5061,
-     "fair_american": -102
-    },
-    {
-     "desc": "Devon Dampier Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 73.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Devon Dampier Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 73.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Devon Dampier Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Over",
-     "points": 2.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Devon Dampier Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Under",
-     "points": 2.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "DJ Epps Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 43.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "DJ Epps Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 43.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    }
-   ]
-  },
-  {
-   "away": "Mississippi State",
-   "home": "Mississippi",
-   "start": "2026-11-27T17:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -978,
-     "fair_prob": 0.8742,
-     "fair_american": -695
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 666,
-     "fair_prob": 0.1258,
-     "fair_american": 695
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -19.0,
-     "american": -106,
-     "fair_prob": 0.4977,
-     "fair_american": 101
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 19.0,
-     "american": -108,
-     "fair_prob": 0.5023,
-     "fair_american": -101
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 56.0,
-     "american": -110,
-     "fair_prob": 0.5045,
-     "fair_american": -102
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 56.0,
-     "american": -106,
-     "fair_prob": 0.4955,
-     "fair_american": 102
-    }
-   ],
-   "props": [
-    {
-     "desc": "Fluff Bothwell Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 65.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Fluff Bothwell Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 65.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Trinidad Chambliss Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Over",
-     "points": 283.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Trinidad Chambliss Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Under",
-     "points": 283.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Anthony Evans Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 61.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Anthony Evans Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 61.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Parker Puckett Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 16.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Parker Puckett Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 16.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Trinidad Chambliss Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Over",
-     "points": 1.5,
-     "american": -188,
-     "fair_prob": 0.6104,
-     "fair_american": -157
-    },
-    {
-     "desc": "Trinidad Chambliss Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Under",
-     "points": 1.5,
-     "american": 140,
-     "fair_prob": 0.3896,
-     "fair_american": 157
-    },
-    {
-     "desc": "Caleb Odom Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 40.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Caleb Odom Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 40.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Deuce Alexander Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 66.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Deuce Alexander Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 66.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Horatio Fields Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 45.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Horatio Fields Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 45.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    }
-   ]
-  },
-  {
-   "away": "Nevada",
-   "home": "UNLV",
-   "start": "2026-11-29T02:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -216,
-     "fair_prob": 0.6624,
-     "fair_american": -196
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 187,
-     "fair_prob": 0.3376,
-     "fair_american": 196
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -5.5,
-     "american": -106,
-     "fair_prob": 0.4977,
-     "fair_american": 101
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 5.5,
-     "american": -108,
-     "fair_prob": 0.5023,
-     "fair_american": -101
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 44.5,
-     "american": -106,
-     "fair_prob": 0.4945,
-     "fair_american": 102
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 44.5,
-     "american": -111,
-     "fair_prob": 0.5055,
-     "fair_american": -102
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Massachusetts",
-   "home": "Bowling Green",
-   "start": "2026-11-28T20:30:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -157,
-     "fair_prob": 0.5925,
-     "fair_american": -145
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 138,
-     "fair_prob": 0.4075,
-     "fair_american": 145
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -3.0,
+     "points": -2.5,
      "american": -113,
      "fair_prob": 0.5136,
      "fair_american": -106
@@ -2013,7 +2038,7 @@
     {
      "type": "spread",
      "side": "away",
-     "points": 3.0,
+     "points": 2.5,
      "american": -101,
      "fair_prob": 0.4864,
      "fair_american": 106
@@ -2021,287 +2046,7 @@
     {
      "type": "total",
      "side": "over",
-     "points": 43.0,
-     "american": -102,
-     "fair_prob": 0.4866,
-     "fair_american": 105
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 43.0,
-     "american": -114,
-     "fair_prob": 0.5134,
-     "fair_american": -105
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Arizona State",
-   "home": "Arizona",
-   "start": "2026-11-29T02:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -310,
-     "fair_prob": 0.7308,
-     "fair_american": -271
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 259,
-     "fair_prob": 0.2692,
-     "fair_american": 271
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -7.5,
-     "american": -112,
-     "fair_prob": 0.5113,
-     "fair_american": -105
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 7.5,
-     "american": -102,
-     "fair_prob": 0.4887,
-     "fair_american": 105
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 54.0,
-     "american": -104,
-     "fair_prob": 0.4911,
-     "fair_american": 104
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 54.0,
-     "american": -112,
-     "fair_prob": 0.5089,
-     "fair_american": -104
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Purdue",
-   "home": "Indiana",
-   "start": "2026-11-29T00:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -1969,
-     "fair_prob": 0.9205,
-     "fair_american": -1157
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 1116,
-     "fair_prob": 0.0795,
-     "fair_american": 1157
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -23.5,
-     "american": -105,
-     "fair_prob": 0.4955,
-     "fair_american": 102
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 23.5,
-     "american": -109,
-     "fair_prob": 0.5045,
-     "fair_american": -102
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 52.5,
-     "american": -114,
-     "fair_prob": 0.5122,
-     "fair_american": -105
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 52.5,
-     "american": -103,
-     "fair_prob": 0.4878,
-     "fair_american": 105
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Notre Dame",
-   "home": "Syracuse",
-   "start": "2026-11-28T17:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": 1425,
-     "fair_prob": 0.0636,
-     "fair_american": 1472
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": -2798,
-     "fair_prob": 0.9364,
-     "fair_american": -1472
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": 25.0,
-     "american": -103,
-     "fair_prob": 0.4899,
-     "fair_american": 104
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": -25.0,
-     "american": -112,
-     "fair_prob": 0.5101,
-     "fair_american": -104
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 53.0,
-     "american": -109,
-     "fair_prob": 0.5022,
-     "fair_american": -101
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 53.0,
-     "american": -107,
-     "fair_prob": 0.4978,
-     "fair_american": 101
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Liberty",
-   "home": "Missouri State",
-   "start": "2026-11-28T19:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": 617,
-     "fair_prob": 0.1344,
-     "fair_american": 644
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": -886,
-     "fair_prob": 0.8656,
-     "fair_american": -644
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": 17.5,
-     "american": -103,
-     "fair_prob": 0.491,
-     "fair_american": 104
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": -17.5,
-     "american": -111,
-     "fair_prob": 0.509,
-     "fair_american": -104
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 53.0,
-     "american": -110,
-     "fair_prob": 0.5045,
-     "fair_american": -102
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 53.0,
-     "american": -106,
-     "fair_prob": 0.4955,
-     "fair_american": 102
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Tennessee",
-   "home": "Vanderbilt",
-   "start": "2026-11-29T00:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": 414,
-     "fair_prob": 0.1875,
-     "fair_american": 433
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": -538,
-     "fair_prob": 0.8125,
-     "fair_american": -433
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": 13.5,
-     "american": -104,
-     "fair_prob": 0.4932,
-     "fair_american": 103
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": -13.5,
-     "american": -110,
-     "fair_prob": 0.5068,
-     "fair_american": -103
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 43.0,
+     "points": 50.0,
      "american": -108,
      "fair_prob": 0.5,
      "fair_american": 100
@@ -2309,175 +2054,7 @@
     {
      "type": "total",
      "side": "under",
-     "points": 43.0,
-     "american": -108,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Buffalo",
-   "home": "Akron",
-   "start": "2026-11-27T17:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": 255,
-     "fair_prob": 0.2722,
-     "fair_american": 267
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": -305,
-     "fair_prob": 0.7278,
-     "fair_american": -267
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": 7.5,
-     "american": -109,
-     "fair_prob": 0.5045,
-     "fair_american": -102
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": -7.5,
-     "american": -105,
-     "fair_prob": 0.4955,
-     "fair_american": 102
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 48.0,
-     "american": -109,
-     "fair_prob": 0.5022,
-     "fair_american": -101
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 48.0,
-     "american": -107,
-     "fair_prob": 0.4978,
-     "fair_american": 101
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Jacksonville State",
-   "home": "Delaware",
-   "start": "2026-11-28T20:30:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -134,
-     "fair_prob": 0.5564,
-     "fair_american": -125
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 119,
-     "fair_prob": 0.4436,
-     "fair_american": 125
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -2.5,
-     "american": -112,
-     "fair_prob": 0.5113,
-     "fair_american": -105
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 2.5,
-     "american": -102,
-     "fair_prob": 0.4887,
-     "fair_american": 105
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 58.0,
-     "american": -108,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 58.0,
-     "american": -108,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Virginia",
-   "home": "Virginia Tech",
-   "start": "2026-11-28T20:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -152,
-     "fair_prob": 0.5853,
-     "fair_american": -141
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 134,
-     "fair_prob": 0.4147,
-     "fair_american": 141
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -3.0,
-     "american": -109,
-     "fair_prob": 0.5045,
-     "fair_american": -102
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 3.0,
-     "american": -105,
-     "fair_prob": 0.4955,
-     "fair_american": 102
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 51.0,
-     "american": -108,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 51.0,
+     "points": 50.0,
      "american": -108,
      "fair_prob": 0.5,
      "fair_american": 100
@@ -2542,559 +2119,6 @@
    "props": []
   },
   {
-   "away": "Kansas",
-   "home": "Oklahoma State",
-   "start": "2026-11-28T23:15:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -219,
-     "fair_prob": 0.6649,
-     "fair_american": -198
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 189,
-     "fair_prob": 0.3351,
-     "fair_american": 198
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -6.5,
-     "american": 101,
-     "fair_prob": 0.4819,
-     "fair_american": 108
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 6.5,
-     "american": -115,
-     "fair_prob": 0.5181,
-     "fair_american": -108
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 65.0,
-     "american": -109,
-     "fair_prob": 0.5022,
-     "fair_american": -101
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 65.0,
-     "american": -107,
-     "fair_prob": 0.4978,
-     "fair_american": 101
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Connecticut",
-   "home": "Wyoming",
-   "start": "2026-11-28T17:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": 134,
-     "fair_prob": 0.4147,
-     "fair_american": 141
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": -152,
-     "fair_prob": 0.5853,
-     "fair_american": -141
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": 3.0,
-     "american": -104,
-     "fair_prob": 0.4932,
-     "fair_american": 103
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": -3.0,
-     "american": -110,
-     "fair_prob": 0.5068,
-     "fair_american": -103
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 45.0,
-     "american": -118,
-     "fair_prob": 0.5211,
-     "fair_american": -109
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 45.0,
-     "american": 101,
-     "fair_prob": 0.4789,
-     "fair_american": 109
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Southern Miss",
-   "home": "Old Dominion",
-   "start": "2026-11-28T18:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -227,
-     "fair_prob": 0.6719,
-     "fair_american": -205
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 195,
-     "fair_prob": 0.3281,
-     "fair_american": 205
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -6.0,
-     "american": -108,
-     "fair_prob": 0.5023,
-     "fair_american": -101
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 6.0,
-     "american": -106,
-     "fair_prob": 0.4977,
-     "fair_american": 101
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 51.0,
-     "american": -105,
-     "fair_prob": 0.4933,
-     "fair_american": 103
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 51.0,
-     "american": -111,
-     "fair_prob": 0.5067,
-     "fair_american": -103
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Louisiana Tech",
-   "home": "Georgia Southern",
-   "start": "2026-11-28T17:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -132,
-     "fair_prob": 0.5525,
-     "fair_american": -123
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 117,
-     "fair_prob": 0.4475,
-     "fair_american": 123
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -2.5,
-     "american": -109,
-     "fair_prob": 0.5045,
-     "fair_american": -102
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 2.5,
-     "american": -105,
-     "fair_prob": 0.4955,
-     "fair_american": 102
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 53.5,
-     "american": -110,
-     "fair_prob": 0.5045,
-     "fair_american": -102
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 53.5,
-     "american": -106,
-     "fair_prob": 0.4955,
-     "fair_american": 102
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Texas",
-   "home": "Texas A&M",
-   "start": "2026-11-28T00:30:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": 351,
-     "fair_prob": 0.2138,
-     "fair_american": 368
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": -442,
-     "fair_prob": 0.7862,
-     "fair_american": -368
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": 10.5,
-     "american": -106,
-     "fair_prob": 0.4977,
-     "fair_american": 101
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": -10.5,
-     "american": -108,
-     "fair_prob": 0.5023,
-     "fair_american": -101
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 40.5,
-     "american": -111,
-     "fair_prob": 0.5067,
-     "fair_american": -103
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 40.5,
-     "american": -105,
-     "fair_prob": 0.4933,
-     "fair_american": 103
-    }
-   ],
-   "props": [
-    {
-     "desc": "Arch Manning Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 22.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Arch Manning Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 22.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Raleek Brown Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 19.5,
-     "american": -115,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Raleek Brown Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 19.5,
-     "american": -115,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Arch Manning Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Over",
-     "points": 1.5,
-     "american": 118,
-     "fair_prob": 0.4283,
-     "fair_american": 134
-    },
-    {
-     "desc": "Arch Manning Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Under",
-     "points": 1.5,
-     "american": -158,
-     "fair_prob": 0.5717,
-     "fair_american": -134
-    },
-    {
-     "desc": "Ryan Wingo Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 48.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Ryan Wingo Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 48.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Arch Manning Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Over",
-     "points": 226.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Arch Manning Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Under",
-     "points": 226.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Isaiah Horton Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 33.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Isaiah Horton Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 33.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Rueben Owens Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 19.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Rueben Owens Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 19.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Raleek Brown Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 68.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Raleek Brown Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 68.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "KJ Edwards Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 40.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "KJ Edwards Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 40.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Cam Coleman Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 29.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Cam Coleman Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 29.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Emmett Mosley Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 46.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Emmett Mosley Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 46.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Mario Craver Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 39.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Mario Craver Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 39.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    }
-   ]
-  },
-  {
-   "away": "NC State",
-   "home": "North Carolina",
-   "start": "2026-11-28T17:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -227,
-     "fair_prob": 0.6726,
-     "fair_american": -205
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 196,
-     "fair_prob": 0.3274,
-     "fair_american": 205
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -6.0,
-     "american": -109,
-     "fair_prob": 0.5045,
-     "fair_american": -102
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 6.0,
-     "american": -105,
-     "fair_prob": 0.4955,
-     "fair_american": 102
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 54.5,
-     "american": -103,
-     "fair_prob": 0.4889,
-     "fair_american": 105
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 54.5,
-     "american": -113,
-     "fair_prob": 0.5111,
-     "fair_american": -105
-    }
-   ],
-   "props": []
-  },
-  {
    "away": "UTEP",
    "home": "Northern Illinois",
    "start": "2026-11-28T20:30:00Z",
@@ -3146,342 +2170,6 @@
      "american": 101,
      "fair_prob": 0.4789,
      "fair_american": 109
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Tulsa",
-   "home": "UTSA",
-   "start": "2026-11-27T17:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -104,
-     "fair_prob": 0.4954,
-     "fair_american": 102
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": -108,
-     "fair_prob": 0.5046,
-     "fair_american": -102
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": 1.0,
-     "american": -111,
-     "fair_prob": 0.509,
-     "fair_american": -104
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": -1.0,
-     "american": -103,
-     "fair_prob": 0.491,
-     "fair_american": 104
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 57.5,
-     "american": -107,
-     "fair_prob": 0.4978,
-     "fair_american": 101
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 57.5,
-     "american": -109,
-     "fair_prob": 0.5022,
-     "fair_american": -101
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Illinois",
-   "home": "Northwestern",
-   "start": "2026-11-28T17:30:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -137,
-     "fair_prob": 0.5609,
-     "fair_american": -128
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 121,
-     "fair_prob": 0.4391,
-     "fair_american": 128
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -2.5,
-     "american": -113,
-     "fair_prob": 0.5136,
-     "fair_american": -106
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 2.5,
-     "american": -101,
-     "fair_prob": 0.4864,
-     "fair_american": 106
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 50.0,
-     "american": -108,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 50.0,
-     "american": -108,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Baylor",
-   "home": "Houston",
-   "start": "2026-11-29T02:30:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -190,
-     "fair_prob": 0.6354,
-     "fair_american": -174
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 166,
-     "fair_prob": 0.3646,
-     "fair_american": 174
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -5.0,
-     "american": -103,
-     "fair_prob": 0.491,
-     "fair_american": 104
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 5.0,
-     "american": -111,
-     "fair_prob": 0.509,
-     "fair_american": -104
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 55.5,
-     "american": -107,
-     "fair_prob": 0.4978,
-     "fair_american": 101
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 55.5,
-     "american": -109,
-     "fair_prob": 0.5022,
-     "fair_american": -101
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Oregon State",
-   "home": "Fresno State",
-   "start": "2026-11-29T03:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -155,
-     "fair_prob": 0.5903,
-     "fair_american": -144
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 137,
-     "fair_prob": 0.4097,
-     "fair_american": 144
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -3.0,
-     "american": -113,
-     "fair_prob": 0.5136,
-     "fair_american": -106
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 3.0,
-     "american": -101,
-     "fair_prob": 0.4864,
-     "fair_american": 106
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 58.0,
-     "american": -111,
-     "fair_prob": 0.5067,
-     "fair_american": -103
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 58.0,
-     "american": -105,
-     "fair_prob": 0.4933,
-     "fair_american": 103
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Tulane",
-   "home": "South Florida",
-   "start": "2026-11-28T20:30:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -246,
-     "fair_prob": 0.6879,
-     "fair_american": -220
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 210,
-     "fair_prob": 0.3121,
-     "fair_american": 220
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -6.5,
-     "american": -106,
-     "fair_prob": 0.4977,
-     "fair_american": 101
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 6.5,
-     "american": -108,
-     "fair_prob": 0.5023,
-     "fair_american": -101
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 43.0,
-     "american": -112,
-     "fair_prob": 0.5089,
-     "fair_american": -104
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 43.0,
-     "american": -104,
-     "fair_prob": 0.4911,
-     "fair_american": 104
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "New Mexico State",
-   "home": "Middle Tennessee State",
-   "start": "2026-11-28T19:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -154,
-     "fair_prob": 0.5886,
-     "fair_american": -143
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 136,
-     "fair_prob": 0.4114,
-     "fair_american": 143
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -3.0,
-     "american": -111,
-     "fair_prob": 0.509,
-     "fair_american": -104
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 3.0,
-     "american": -103,
-     "fair_prob": 0.491,
-     "fair_american": 104
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 51.5,
-     "american": -106,
-     "fair_prob": 0.4945,
-     "fair_american": 102
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 51.5,
-     "american": -111,
-     "fair_prob": 0.5055,
-     "fair_american": -102
     }
    ],
    "props": []
@@ -3543,612 +2231,30 @@
    "props": []
   },
   {
-   "away": "Minnesota",
-   "home": "Wisconsin",
-   "start": "2026-11-28T00:30:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -316,
-     "fair_prob": 0.7339,
-     "fair_american": -276
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 263,
-     "fair_prob": 0.2661,
-     "fair_american": 276
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -7.5,
-     "american": -113,
-     "fair_prob": 0.5123,
-     "fair_american": -105
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 7.5,
-     "american": -102,
-     "fair_prob": 0.4877,
-     "fair_american": 105
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 37.5,
-     "american": -109,
-     "fair_prob": 0.5022,
-     "fair_american": -101
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 37.5,
-     "american": -107,
-     "fair_prob": 0.4978,
-     "fair_american": 101
-    }
-   ],
-   "props": [
-    {
-     "desc": "Javon Tracy Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 42.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Javon Tracy Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 42.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Colton Joseph Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Over",
-     "points": 176.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Colton Joseph Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Under",
-     "points": 176.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Colton Joseph Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 47.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Colton Joseph Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 47.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Jalen Smith Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 34.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Jalen Smith Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 34.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Drake Lindsey Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": -148,
-     "fair_prob": 0.5585,
-     "fair_american": -127
-    },
-    {
-     "desc": "Drake Lindsey Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": 112,
-     "fair_prob": 0.4415,
-     "fair_american": 127
-    },
-    {
-     "desc": "Jaylon Domingeaux Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 35.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Jaylon Domingeaux Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 35.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Tyrell Henry Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 27.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Tyrell Henry Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 27.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Darrion Dupree Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 47.5,
-     "american": -118,
-     "fair_prob": 0.5061,
-     "fair_american": -102
-    },
-    {
-     "desc": "Darrion Dupree Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 47.5,
-     "american": -112,
-     "fair_prob": 0.4939,
-     "fair_american": 102
-    },
-    {
-     "desc": "Drake Lindsey Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Over",
-     "points": 189.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Drake Lindsey Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Under",
-     "points": 189.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Jacob Harris Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 29.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Jacob Harris Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 29.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Darius Taylor Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 45.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Darius Taylor Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 45.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Colton Joseph Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Over",
-     "points": 1.5,
-     "american": 164,
-     "fair_prob": 0.3536,
-     "fair_american": 183
-    },
-    {
-     "desc": "Colton Joseph Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Under",
-     "points": 1.5,
-     "american": -225,
-     "fair_prob": 0.6464,
-     "fair_american": -183
-    },
-    {
-     "desc": "Noah Jennings Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 40.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Noah Jennings Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 40.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    }
-   ]
-  },
-  {
-   "away": "Florida",
-   "home": "Florida State",
+   "away": "Temple",
+   "home": "Memphis",
    "start": "2026-11-27T20:30:00Z",
    "lines": [
     {
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": 201,
-     "fair_prob": 0.3214,
-     "fair_american": 211
+     "american": -892,
+     "fair_prob": 0.8662,
+     "fair_american": -647
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": -235,
-     "fair_prob": 0.6786,
-     "fair_american": -211
+     "american": 620,
+     "fair_prob": 0.1338,
+     "fair_american": 647
     },
     {
      "type": "spread",
      "side": "home",
-     "points": 6.5,
-     "american": -111,
-     "fair_prob": 0.509,
-     "fair_american": -104
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": -6.5,
-     "american": -103,
-     "fair_prob": 0.491,
-     "fair_american": 104
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 53.5,
-     "american": -110,
-     "fair_prob": 0.5045,
-     "fair_american": -102
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 53.5,
-     "american": -106,
-     "fair_prob": 0.4955,
-     "fair_american": 102
-    }
-   ],
-   "props": [
-    {
-     "desc": "Eric Singleton Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 32.5,
-     "american": -112,
-     "fair_prob": 0.4939,
-     "fair_american": 102
-    },
-    {
-     "desc": "Eric Singleton Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 32.5,
-     "american": -118,
-     "fair_prob": 0.5061,
-     "fair_american": -102
-    },
-    {
-     "desc": "Jayvan Boggs Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 34.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Jayvan Boggs Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 34.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Ashton Daniels Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Over",
-     "points": 1.5,
-     "american": 154,
-     "fair_prob": 0.3676,
-     "fair_american": 172
-    },
-    {
-     "desc": "Ashton Daniels Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Under",
-     "points": 1.5,
-     "american": -210,
-     "fair_prob": 0.6324,
-     "fair_american": -172
-    },
-    {
-     "desc": "Dallas Wilson Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 45.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Dallas Wilson Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 45.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Ashton Daniels Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 31.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Ashton Daniels Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 31.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Ashton Daniels Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Over",
-     "points": 224.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Ashton Daniels Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Under",
-     "points": 224.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Aaron Philo Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Over",
-     "points": 198.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Aaron Philo Total Passing Yards",
-     "units": "Passing Yards",
-     "outcome": "Under",
-     "points": 198.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Micahi Danzy Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 50.5,
-     "american": -118,
-     "fair_prob": 0.5061,
-     "fair_american": -102
-    },
-    {
-     "desc": "Micahi Danzy Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 50.5,
-     "american": -112,
-     "fair_prob": 0.4939,
-     "fair_american": 102
-    },
-    {
-     "desc": "Aaron Philo Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Over",
-     "points": 1.5,
-     "american": 122,
-     "fair_prob": 0.4215,
-     "fair_american": 137
-    },
-    {
-     "desc": "Aaron Philo Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Under",
-     "points": 1.5,
-     "american": -162,
-     "fair_prob": 0.5785,
-     "fair_american": -137
-    },
-    {
-     "desc": "Aaron Philo Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 42.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Aaron Philo Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 42.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Duke Clark Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 30.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Duke Clark Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 30.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Jasen Lopez Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 62.5,
-     "american": -112,
-     "fair_prob": 0.4939,
-     "fair_american": 102
-    },
-    {
-     "desc": "Jasen Lopez Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 62.5,
-     "american": -118,
-     "fair_prob": 0.5061,
-     "fair_american": -102
-    },
-    {
-     "desc": "Jadan Baugh Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 93.5,
-     "american": -112,
-     "fair_prob": 0.4939,
-     "fair_american": 102
-    },
-    {
-     "desc": "Jadan Baugh Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 93.5,
-     "american": -118,
-     "fair_prob": 0.5061,
-     "fair_american": -102
-    }
-   ]
-  },
-  {
-   "away": "North Dakota State",
-   "home": "San Jose State",
-   "start": "2026-11-27T20:30:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": 275,
-     "fair_prob": 0.2575,
-     "fair_american": 288
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": -333,
-     "fair_prob": 0.7425,
-     "fair_american": -288
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": 7.5,
+     "points": -18.0,
      "american": -107,
      "fair_prob": 0.5,
      "fair_american": 100
@@ -4156,7 +2262,7 @@
     {
      "type": "spread",
      "side": "away",
-     "points": -7.5,
+     "points": 18.0,
      "american": -107,
      "fair_prob": 0.5,
      "fair_american": 100
@@ -4164,7 +2270,7 @@
     {
      "type": "total",
      "side": "over",
-     "points": 40.0,
+     "points": 66.5,
      "american": -104,
      "fair_prob": 0.4911,
      "fair_american": 104
@@ -4172,7 +2278,7 @@
     {
      "type": "total",
      "side": "under",
-     "points": 40.0,
+     "points": 66.5,
      "american": -112,
      "fair_prob": 0.5089,
      "fair_american": -104
@@ -4181,46 +2287,46 @@
    "props": []
   },
   {
-   "away": "Pittsburgh",
-   "home": "California",
-   "start": "2026-11-29T00:30:00Z",
+   "away": "Texas State",
+   "home": "Utah State",
+   "start": "2026-11-29T02:30:00Z",
    "lines": [
     {
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": 293,
-     "fair_prob": 0.2455,
-     "fair_american": 307
+     "american": 229,
+     "fair_prob": 0.294,
+     "fair_american": 240
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": -359,
-     "fair_prob": 0.7545,
-     "fair_american": -307
+     "american": -270,
+     "fair_prob": 0.706,
+     "fair_american": -240
     },
     {
      "type": "spread",
      "side": "home",
-     "points": 9.5,
-     "american": -107,
-     "fair_prob": 0.5,
-     "fair_american": 100
+     "points": 7.0,
+     "american": -109,
+     "fair_prob": 0.5045,
+     "fair_american": -102
     },
     {
      "type": "spread",
      "side": "away",
-     "points": -9.5,
-     "american": -107,
-     "fair_prob": 0.5,
-     "fair_american": 100
+     "points": -7.0,
+     "american": -105,
+     "fair_prob": 0.4955,
+     "fair_american": 102
     },
     {
      "type": "total",
      "side": "over",
-     "points": 47.5,
+     "points": 52.5,
      "american": -105,
      "fair_prob": 0.4933,
      "fair_american": 103
@@ -4228,442 +2334,10 @@
     {
      "type": "total",
      "side": "under",
-     "points": 47.5,
+     "points": 52.5,
      "american": -111,
      "fair_prob": 0.5067,
      "fair_american": -103
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "UAB",
-   "home": "North Texas",
-   "start": "2026-11-28T21:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -149,
-     "fair_prob": 0.5813,
-     "fair_american": -139
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 132,
-     "fair_prob": 0.4187,
-     "fair_american": 139
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -3.0,
-     "american": -108,
-     "fair_prob": 0.5023,
-     "fair_american": -101
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 3.0,
-     "american": -106,
-     "fair_prob": 0.4977,
-     "fair_american": 101
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 45.0,
-     "american": -111,
-     "fair_prob": 0.5067,
-     "fair_american": -103
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 45.0,
-     "american": -105,
-     "fair_prob": 0.4933,
-     "fair_american": 103
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Michigan State",
-   "home": "Rutgers",
-   "start": "2026-11-28T21:15:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": 137,
-     "fair_prob": 0.4091,
-     "fair_american": 144
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": -156,
-     "fair_prob": 0.5909,
-     "fair_american": -144
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": 3.0,
-     "american": -100,
-     "fair_prob": 0.4842,
-     "fair_american": 107
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": -3.0,
-     "american": -114,
-     "fair_prob": 0.5158,
-     "fair_american": -107
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 47.0,
-     "american": 100,
-     "fair_prob": 0.4812,
-     "fair_american": 108
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 47.0,
-     "american": -117,
-     "fair_prob": 0.5188,
-     "fair_american": -108
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "SMU",
-   "home": "Stanford",
-   "start": "2026-11-28T20:30:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": 249,
-     "fair_prob": 0.2769,
-     "fair_american": 261
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": -297,
-     "fair_prob": 0.7231,
-     "fair_american": -261
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": 7.5,
-     "american": -114,
-     "fair_prob": 0.5146,
-     "fair_american": -106
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": -7.5,
-     "american": -101,
-     "fair_prob": 0.4854,
-     "fair_american": 106
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 61.0,
-     "american": -108,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 61.0,
-     "american": -108,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Auburn",
-   "home": "Alabama",
-   "start": "2026-11-29T00:30:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -749,
-     "fair_prob": 0.8495,
-     "fair_american": -565
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 540,
-     "fair_prob": 0.1505,
-     "fair_american": 565
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -15.0,
-     "american": -107,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 15.0,
-     "american": -107,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 49.5,
-     "american": -108,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 49.5,
-     "american": -108,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "San Diego State",
-   "home": "Washington State",
-   "start": "2026-11-28T23:30:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -137,
-     "fair_prob": 0.562,
-     "fair_american": -128
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 122,
-     "fair_prob": 0.438,
-     "fair_american": 128
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -3.0,
-     "american": 100,
-     "fair_prob": 0.4831,
-     "fair_american": 107
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 3.0,
-     "american": -115,
-     "fair_prob": 0.5169,
-     "fair_american": -107
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 46.0,
-     "american": -118,
-     "fair_prob": 0.5211,
-     "fair_american": -109
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 46.0,
-     "american": 101,
-     "fair_prob": 0.4789,
-     "fair_american": 109
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Georgia Tech",
-   "home": "Georgia",
-   "start": "2026-11-28T20:30:00Z",
-   "lines": [
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -35.5,
-     "american": -101,
-     "fair_prob": 0.4864,
-     "fair_american": 106
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 35.5,
-     "american": -113,
-     "fair_prob": 0.5136,
-     "fair_american": -106
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 55.0,
-     "american": -110,
-     "fair_prob": 0.5045,
-     "fair_american": -102
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 55.0,
-     "american": -106,
-     "fair_prob": 0.4955,
-     "fair_american": 102
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Central Florida",
-   "home": "Colorado",
-   "start": "2026-11-28T19:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -122,
-     "fair_prob": 0.5334,
-     "fair_american": -114
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 108,
-     "fair_prob": 0.4666,
-     "fair_american": 114
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -2.5,
-     "american": -103,
-     "fair_prob": 0.491,
-     "fair_american": 104
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 2.5,
-     "american": -111,
-     "fair_prob": 0.509,
-     "fair_american": -104
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 49.5,
-     "american": -110,
-     "fair_prob": 0.5045,
-     "fair_american": -102
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 49.5,
-     "american": -106,
-     "fair_prob": 0.4955,
-     "fair_american": 102
-    }
-   ],
-   "props": []
-  },
-  {
-   "away": "Coastal Carolina",
-   "home": "James Madison",
-   "start": "2026-11-28T19:00:00Z",
-   "lines": [
-    {
-     "type": "moneyline",
-     "side": "home",
-     "points": null,
-     "american": -837,
-     "fair_prob": 0.8604,
-     "fair_american": -616
-    },
-    {
-     "type": "moneyline",
-     "side": "away",
-     "points": null,
-     "american": 590,
-     "fair_prob": 0.1396,
-     "fair_american": 616
-    },
-    {
-     "type": "spread",
-     "side": "home",
-     "points": -17.0,
-     "american": -110,
-     "fair_prob": 0.5068,
-     "fair_american": -103
-    },
-    {
-     "type": "spread",
-     "side": "away",
-     "points": 17.0,
-     "american": -104,
-     "fair_prob": 0.4932,
-     "fair_american": 103
-    },
-    {
-     "type": "total",
-     "side": "over",
-     "points": 54.5,
-     "american": -110,
-     "fair_prob": 0.5045,
-     "fair_american": -102
-    },
-    {
-     "type": "total",
-     "side": "under",
-     "points": 54.5,
-     "american": -106,
-     "fair_prob": 0.4955,
-     "fair_american": 102
     }
    ],
    "props": []
@@ -4725,113 +2399,113 @@
    "props": []
   },
   {
-   "away": "Toledo",
-   "home": "Ohio",
-   "start": "2026-11-27T17:00:00Z",
+   "away": "Virginia",
+   "home": "Virginia Tech",
+   "start": "2026-11-28T20:00:00Z",
    "lines": [
     {
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": 136,
-     "fair_prob": 0.4114,
-     "fair_american": 143
+     "american": -152,
+     "fair_prob": 0.5853,
+     "fair_american": -141
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": -154,
-     "fair_prob": 0.5886,
-     "fair_american": -143
+     "american": 134,
+     "fair_prob": 0.4147,
+     "fair_american": 141
     },
     {
      "type": "spread",
      "side": "home",
-     "points": 3.0,
-     "american": -105,
-     "fair_prob": 0.4955,
-     "fair_american": 102
-    },
-    {
-     "type": "spread",
-     "side": "away",
      "points": -3.0,
      "american": -109,
      "fair_prob": 0.5045,
      "fair_american": -102
     },
     {
+     "type": "spread",
+     "side": "away",
+     "points": 3.0,
+     "american": -105,
+     "fair_prob": 0.4955,
+     "fair_american": 102
+    },
+    {
      "type": "total",
      "side": "over",
-     "points": 45.5,
-     "american": -102,
-     "fair_prob": 0.4866,
-     "fair_american": 105
+     "points": 51.0,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
     },
     {
      "type": "total",
      "side": "under",
-     "points": 45.5,
-     "american": -114,
-     "fair_prob": 0.5134,
-     "fair_american": -105
+     "points": 51.0,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
     }
    ],
    "props": []
   },
   {
-   "away": "Washington",
-   "home": "Oregon",
-   "start": "2026-11-29T00:30:00Z",
+   "away": "Michigan State",
+   "home": "Rutgers",
+   "start": "2026-11-28T21:15:00Z",
    "lines": [
     {
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": -581,
-     "fair_prob": 0.8217,
-     "fair_american": -461
+     "american": 121,
+     "fair_prob": 0.4391,
+     "fair_american": 128
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": 440,
-     "fair_prob": 0.1783,
-     "fair_american": 461
+     "american": -137,
+     "fair_prob": 0.5609,
+     "fair_american": -128
     },
     {
      "type": "spread",
      "side": "home",
-     "points": -14.0,
-     "american": 101,
-     "fair_prob": 0.4809,
-     "fair_american": 108
+     "points": 3.0,
+     "american": -117,
+     "fair_prob": 0.5213,
+     "fair_american": -109
     },
     {
      "type": "spread",
      "side": "away",
-     "points": 14.0,
-     "american": -116,
-     "fair_prob": 0.5191,
-     "fair_american": -108
+     "points": -3.0,
+     "american": 102,
+     "fair_prob": 0.4787,
+     "fair_american": 109
     },
     {
      "type": "total",
      "side": "over",
-     "points": 50.5,
-     "american": -114,
-     "fair_prob": 0.5134,
-     "fair_american": -105
+     "points": 47.0,
+     "american": 101,
+     "fair_prob": 0.4789,
+     "fair_american": 109
     },
     {
      "type": "total",
      "side": "under",
-     "points": 50.5,
-     "american": -102,
-     "fair_prob": 0.4866,
-     "fair_american": 105
+     "points": 47.0,
+     "american": -118,
+     "fair_prob": 0.5211,
+     "fair_american": -109
     }
    ],
    "props": []
@@ -4892,60 +2566,6 @@
    ],
    "props": [
     {
-     "desc": "L.J. Phillips Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 86.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "L.J. Phillips Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 86.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Jamal Rule Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Over",
-     "points": 54.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Jamal Rule Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 54.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Reece Vander Zee Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 38.5,
-     "american": -118,
-     "fair_prob": 0.5061,
-     "fair_american": -102
-    },
-    {
-     "desc": "Reece Vander Zee Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 38.5,
-     "american": -112,
-     "fair_prob": 0.4939,
-     "fair_american": 102
-    },
-    {
      "desc": "Hank Brown Total Passing Yards",
      "units": "Passing Yards",
      "outcome": "Over",
@@ -4964,19 +2584,73 @@
      "fair_american": 100
     },
     {
-     "desc": "Jacory Barney Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 31.5,
+     "desc": "Anthony Colandrea Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 22.5,
      "american": -114,
      "fair_prob": 0.5,
      "fair_american": 100
     },
     {
-     "desc": "Jacory Barney Total Receiving Yards",
+     "desc": "Anthony Colandrea Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 22.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Hank Brown Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 16.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Hank Brown Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 16.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Anthony Colandrea Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Over",
+     "points": 190.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Anthony Colandrea Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Under",
+     "points": 190.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Luke Lindenmeyer Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 32.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Luke Lindenmeyer Total Receiving Yards",
      "units": "Receiving Yards",
      "outcome": "Under",
-     "points": 31.5,
+     "points": 32.5,
      "american": -114,
      "fair_prob": 0.5,
      "fair_american": 100
@@ -5000,37 +2674,91 @@
      "fair_american": 187
     },
     {
-     "desc": "Anthony Colandrea Total Passing Yards",
-     "units": "Passing Yards",
+     "desc": "Reece Vander Zee Total Receiving Yards",
+     "units": "Receiving Yards",
      "outcome": "Over",
-     "points": 190.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
+     "points": 38.5,
+     "american": -118,
+     "fair_prob": 0.5061,
+     "fair_american": -102
     },
     {
-     "desc": "Anthony Colandrea Total Passing Yards",
-     "units": "Passing Yards",
+     "desc": "Reece Vander Zee Total Receiving Yards",
+     "units": "Receiving Yards",
      "outcome": "Under",
-     "points": 190.5,
+     "points": 38.5,
+     "american": -112,
+     "fair_prob": 0.4939,
+     "fair_american": 102
+    },
+    {
+     "desc": "Jacory Barney Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 31.5,
      "american": -114,
      "fair_prob": 0.5,
      "fair_american": 100
     },
     {
-     "desc": "Hank Brown Total Rushing Yards",
+     "desc": "Jacory Barney Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 31.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Anthony Colandrea Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": -215,
+     "fair_prob": 0.6378,
+     "fair_american": -176
+    },
+    {
+     "desc": "Anthony Colandrea Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": 158,
+     "fair_prob": 0.3622,
+     "fair_american": 176
+    },
+    {
+     "desc": "Xavier Williams Total Rushing Yards",
      "units": "Rushing Yards",
      "outcome": "Over",
-     "points": 16.5,
+     "points": 26.5,
      "american": -114,
      "fair_prob": 0.5,
      "fair_american": 100
     },
     {
-     "desc": "Hank Brown Total Rushing Yards",
+     "desc": "Xavier Williams Total Rushing Yards",
      "units": "Rushing Yards",
      "outcome": "Under",
-     "points": 16.5,
+     "points": 26.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Tony Diaz Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 46.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Tony Diaz Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 46.5,
      "american": -114,
      "fair_prob": 0.5,
      "fair_american": 100
@@ -5054,37 +2782,19 @@
      "fair_american": 100
     },
     {
-     "desc": "Anthony Colandrea Total Rushing Yards",
-     "units": "Rushing Yards",
-     "outcome": "Under",
-     "points": 22.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Anthony Colandrea Total Rushing Yards",
+     "desc": "L.J. Phillips Total Rushing Yards",
      "units": "Rushing Yards",
      "outcome": "Over",
-     "points": 22.5,
+     "points": 86.5,
      "american": -114,
      "fair_prob": 0.5,
      "fair_american": 100
     },
     {
-     "desc": "Luke Lindenmeyer Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 32.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Luke Lindenmeyer Total Receiving Yards",
-     "units": "Receiving Yards",
+     "desc": "L.J. Phillips Total Rushing Yards",
+     "units": "Rushing Yards",
      "outcome": "Under",
-     "points": 32.5,
+     "points": 86.5,
      "american": -114,
      "fair_prob": 0.5,
      "fair_american": 100
@@ -5108,86 +2818,106 @@
      "fair_american": -102
     },
     {
-     "desc": "Xavier Williams Total Rushing Yards",
+     "desc": "Jamal Rule Total Rushing Yards",
      "units": "Rushing Yards",
      "outcome": "Over",
-     "points": 26.5,
+     "points": 54.5,
      "american": -114,
      "fair_prob": 0.5,
      "fair_american": 100
     },
     {
-     "desc": "Xavier Williams Total Rushing Yards",
+     "desc": "Jamal Rule Total Rushing Yards",
      "units": "Rushing Yards",
      "outcome": "Under",
-     "points": 26.5,
+     "points": 54.5,
      "american": -114,
      "fair_prob": 0.5,
      "fair_american": 100
-    },
-    {
-     "desc": "Tony Diaz Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Over",
-     "points": 46.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Tony Diaz Total Receiving Yards",
-     "units": "Receiving Yards",
-     "outcome": "Under",
-     "points": 46.5,
-     "american": -114,
-     "fair_prob": 0.5,
-     "fair_american": 100
-    },
-    {
-     "desc": "Anthony Colandrea Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Over",
-     "points": 0.5,
-     "american": -215,
-     "fair_prob": 0.6378,
-     "fair_american": -176
-    },
-    {
-     "desc": "Anthony Colandrea Total Touchdown Passes",
-     "units": "Touchdown Passes",
-     "outcome": "Under",
-     "points": 0.5,
-     "american": 158,
-     "fair_prob": 0.3622,
-     "fair_american": 176
     }
    ]
   },
   {
-   "away": "Sacramento State",
-   "home": "Hawaii",
-   "start": "2026-11-29T04:00:00Z",
+   "away": "Pittsburgh",
+   "home": "California",
+   "start": "2026-11-29T00:30:00Z",
    "lines": [
     {
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": -559,
-     "fair_prob": 0.8169,
-     "fair_american": -446
+     "american": 293,
+     "fair_prob": 0.2455,
+     "fair_american": 307
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": 426,
-     "fair_prob": 0.1831,
-     "fair_american": 446
+     "american": -359,
+     "fair_prob": 0.7545,
+     "fair_american": -307
     },
     {
      "type": "spread",
      "side": "home",
-     "points": -13.5,
+     "points": 9.5,
+     "american": -107,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -9.5,
+     "american": -107,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 47.5,
+     "american": -105,
+     "fair_prob": 0.4933,
+     "fair_american": 103
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 47.5,
+     "american": -111,
+     "fair_prob": 0.5067,
+     "fair_american": -103
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "UL Lafayette",
+   "home": "Georgia State",
+   "start": "2026-11-28T19:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 176,
+     "fair_prob": 0.351,
+     "fair_american": 185
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -203,
+     "fair_prob": 0.649,
+     "fair_american": -185
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 5.5,
      "american": -111,
      "fair_prob": 0.509,
      "fair_american": -104
@@ -5195,7 +2925,7 @@
     {
      "type": "spread",
      "side": "away",
-     "points": 13.5,
+     "points": -5.5,
      "american": -103,
      "fair_prob": 0.491,
      "fair_american": 104
@@ -5203,18 +2933,186 @@
     {
      "type": "total",
      "side": "over",
-     "points": 39.0,
-     "american": -116,
-     "fair_prob": 0.5179,
-     "fair_american": -107
+     "points": 56.0,
+     "american": -105,
+     "fair_prob": 0.4923,
+     "fair_american": 103
     },
     {
      "type": "total",
      "side": "under",
-     "points": 39.0,
+     "points": 56.0,
+     "american": -112,
+     "fair_prob": 0.5077,
+     "fair_american": -103
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "New Mexico State",
+   "home": "Middle Tennessee State",
+   "start": "2026-11-28T19:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -154,
+     "fair_prob": 0.5886,
+     "fair_american": -143
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 136,
+     "fair_prob": 0.4114,
+     "fair_american": 143
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -3.0,
+     "american": -111,
+     "fair_prob": 0.509,
+     "fair_american": -104
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 3.0,
+     "american": -103,
+     "fair_prob": 0.491,
+     "fair_american": 104
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 51.5,
+     "american": -106,
+     "fair_prob": 0.4945,
+     "fair_american": 102
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 51.5,
+     "american": -111,
+     "fair_prob": 0.5055,
+     "fair_american": -102
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Kennesaw State",
+   "home": "Western Kentucky",
+   "start": "2026-11-28T18:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 141,
+     "fair_prob": 0.4027,
+     "fair_american": 148
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -160,
+     "fair_prob": 0.5973,
+     "fair_american": -148
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 3.0,
      "american": -100,
-     "fair_prob": 0.4821,
+     "fair_prob": 0.4842,
      "fair_american": 107
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -3.0,
+     "american": -114,
+     "fair_prob": 0.5158,
+     "fair_american": -107
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 54.0,
+     "american": -106,
+     "fair_prob": 0.4955,
+     "fair_american": 102
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 54.0,
+     "american": -110,
+     "fair_prob": 0.5045,
+     "fair_american": -102
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Notre Dame",
+   "home": "Syracuse",
+   "start": "2026-11-28T17:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 1432,
+     "fair_prob": 0.0633,
+     "fair_american": 1479
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -2818,
+     "fair_prob": 0.9367,
+     "fair_american": -1479
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 25.0,
+     "american": -101,
+     "fair_prob": 0.4864,
+     "fair_american": 106
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -25.0,
+     "american": -113,
+     "fair_prob": 0.5136,
+     "fair_american": -106
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 53.0,
+     "american": -114,
+     "fair_prob": 0.5134,
+     "fair_american": -105
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 53.0,
+     "american": -102,
+     "fair_prob": 0.4866,
+     "fair_american": 105
     }
    ],
    "props": []
@@ -5276,6 +3174,1025 @@
    "props": []
   },
   {
+   "away": "Coastal Carolina",
+   "home": "James Madison",
+   "start": "2026-11-28T19:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -837,
+     "fair_prob": 0.8604,
+     "fair_american": -616
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 590,
+     "fair_prob": 0.1396,
+     "fair_american": 616
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -17.0,
+     "american": -110,
+     "fair_prob": 0.5068,
+     "fair_american": -103
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 17.0,
+     "american": -104,
+     "fair_prob": 0.4932,
+     "fair_american": 103
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 54.5,
+     "american": -110,
+     "fair_prob": 0.5045,
+     "fair_american": -102
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 54.5,
+     "american": -106,
+     "fair_prob": 0.4955,
+     "fair_american": 102
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Sacramento State",
+   "home": "Hawaii",
+   "start": "2026-11-29T04:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -559,
+     "fair_prob": 0.8169,
+     "fair_american": -446
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 426,
+     "fair_prob": 0.1831,
+     "fair_american": 446
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -13.5,
+     "american": -111,
+     "fair_prob": 0.509,
+     "fair_american": -104
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 13.5,
+     "american": -103,
+     "fair_prob": 0.491,
+     "fair_american": 104
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 39.0,
+     "american": -116,
+     "fair_prob": 0.5179,
+     "fair_american": -107
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 39.0,
+     "american": -100,
+     "fair_prob": 0.4821,
+     "fair_american": 107
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Tennessee",
+   "home": "Vanderbilt",
+   "start": "2026-11-29T00:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 414,
+     "fair_prob": 0.1875,
+     "fair_american": 433
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -538,
+     "fair_prob": 0.8125,
+     "fair_american": -433
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 13.5,
+     "american": -104,
+     "fair_prob": 0.4932,
+     "fair_american": 103
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -13.5,
+     "american": -110,
+     "fair_prob": 0.5068,
+     "fair_american": -103
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 43.0,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 43.0,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Boston College",
+   "home": "Miami Florida",
+   "start": "2026-11-28T17:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -2861,
+     "fair_prob": 0.9373,
+     "fair_american": -1494
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 1446,
+     "fair_prob": 0.0627,
+     "fair_american": 1494
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -25.5,
+     "american": -101,
+     "fair_prob": 0.4864,
+     "fair_american": 106
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 25.5,
+     "american": -113,
+     "fair_prob": 0.5136,
+     "fair_american": -106
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 53.5,
+     "american": -117,
+     "fair_prob": 0.5188,
+     "fair_american": -108
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 53.5,
+     "american": 100,
+     "fair_prob": 0.4812,
+     "fair_american": 108
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Massachusetts",
+   "home": "Bowling Green",
+   "start": "2026-11-28T20:30:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -157,
+     "fair_prob": 0.5925,
+     "fair_american": -145
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 138,
+     "fair_prob": 0.4075,
+     "fair_american": 145
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -3.0,
+     "american": -113,
+     "fair_prob": 0.5136,
+     "fair_american": -106
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 3.0,
+     "american": -101,
+     "fair_prob": 0.4864,
+     "fair_american": 106
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 43.0,
+     "american": -102,
+     "fair_prob": 0.4866,
+     "fair_american": 105
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 43.0,
+     "american": -114,
+     "fair_prob": 0.5134,
+     "fair_american": -105
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Nevada",
+   "home": "UNLV",
+   "start": "2026-11-29T02:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -216,
+     "fair_prob": 0.6624,
+     "fair_american": -196
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 187,
+     "fair_prob": 0.3376,
+     "fair_american": 196
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -5.5,
+     "american": -106,
+     "fair_prob": 0.4977,
+     "fair_american": 101
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 5.5,
+     "american": -108,
+     "fair_prob": 0.5023,
+     "fair_american": -101
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 44.5,
+     "american": -106,
+     "fair_prob": 0.4945,
+     "fair_american": 102
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 44.5,
+     "american": -111,
+     "fair_prob": 0.5055,
+     "fair_american": -102
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "USC",
+   "home": "UCLA",
+   "start": "2026-11-28T20:30:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 203,
+     "fair_prob": 0.3194,
+     "fair_american": 213
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -237,
+     "fair_prob": 0.6806,
+     "fair_american": -213
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 6.5,
+     "american": -102,
+     "fair_prob": 0.4877,
+     "fair_american": 105
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -6.5,
+     "american": -113,
+     "fair_prob": 0.5123,
+     "fair_american": -105
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 45.5,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 45.5,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Central Michigan",
+   "home": "Ball State",
+   "start": "2026-11-28T17:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 160,
+     "fair_prob": 0.373,
+     "fair_american": 168
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -183,
+     "fair_prob": 0.627,
+     "fair_american": -168
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 3.5,
+     "american": -102,
+     "fair_prob": 0.4887,
+     "fair_american": 105
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -3.5,
+     "american": -112,
+     "fair_prob": 0.5113,
+     "fair_american": -105
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 50.5,
+     "american": -111,
+     "fair_prob": 0.5067,
+     "fair_american": -103
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 50.5,
+     "american": -105,
+     "fair_prob": 0.4933,
+     "fair_american": 103
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Jacksonville State",
+   "home": "Delaware",
+   "start": "2026-11-28T20:30:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -134,
+     "fair_prob": 0.5564,
+     "fair_american": -125
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 119,
+     "fair_prob": 0.4436,
+     "fair_american": 125
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -2.5,
+     "american": -112,
+     "fair_prob": 0.5113,
+     "fair_american": -105
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 2.5,
+     "american": -102,
+     "fair_prob": 0.4887,
+     "fair_american": 105
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 58.0,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 58.0,
+     "american": -108,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Minnesota",
+   "home": "Wisconsin",
+   "start": "2026-11-28T00:30:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -316,
+     "fair_prob": 0.7339,
+     "fair_american": -276
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 263,
+     "fair_prob": 0.2661,
+     "fair_american": 276
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -7.5,
+     "american": -113,
+     "fair_prob": 0.5123,
+     "fair_american": -105
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 7.5,
+     "american": -102,
+     "fair_prob": 0.4877,
+     "fair_american": 105
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 37.5,
+     "american": -109,
+     "fair_prob": 0.5022,
+     "fair_american": -101
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 37.5,
+     "american": -107,
+     "fair_prob": 0.4978,
+     "fair_american": 101
+    }
+   ],
+   "props": [
+    {
+     "desc": "Colton Joseph Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Over",
+     "points": 1.5,
+     "american": 164,
+     "fair_prob": 0.3536,
+     "fair_american": 183
+    },
+    {
+     "desc": "Colton Joseph Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Under",
+     "points": 1.5,
+     "american": -225,
+     "fair_prob": 0.6464,
+     "fair_american": -183
+    },
+    {
+     "desc": "Jalen Smith Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 34.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Jalen Smith Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 34.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Darrion Dupree Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 47.5,
+     "american": -118,
+     "fair_prob": 0.5061,
+     "fair_american": -102
+    },
+    {
+     "desc": "Darrion Dupree Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 47.5,
+     "american": -112,
+     "fair_prob": 0.4939,
+     "fair_american": 102
+    },
+    {
+     "desc": "Tyrell Henry Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 27.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Tyrell Henry Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 27.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Jaylon Domingeaux Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 35.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Jaylon Domingeaux Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 35.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Darius Taylor Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 45.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Darius Taylor Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 45.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Drake Lindsey Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Over",
+     "points": 0.5,
+     "american": -148,
+     "fair_prob": 0.5585,
+     "fair_american": -127
+    },
+    {
+     "desc": "Drake Lindsey Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Under",
+     "points": 0.5,
+     "american": 112,
+     "fair_prob": 0.4415,
+     "fair_american": 127
+    },
+    {
+     "desc": "Javon Tracy Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 42.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Javon Tracy Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 42.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Drake Lindsey Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Over",
+     "points": 189.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Drake Lindsey Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Under",
+     "points": 189.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Colton Joseph Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 47.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Colton Joseph Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 47.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Noah Jennings Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 40.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Noah Jennings Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 40.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Colton Joseph Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Over",
+     "points": 176.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Colton Joseph Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Under",
+     "points": 176.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Jacob Harris Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 29.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Jacob Harris Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 29.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    }
+   ]
+  },
+  {
+   "away": "Sam Houston State",
+   "home": "Florida International",
+   "start": "2026-11-28T19:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -450,
+     "fair_prob": 0.7886,
+     "fair_american": -373
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 356,
+     "fair_prob": 0.2114,
+     "fair_american": 373
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -11.0,
+     "american": -111,
+     "fair_prob": 0.509,
+     "fair_american": -104
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 11.0,
+     "american": -103,
+     "fair_prob": 0.491,
+     "fair_american": 104
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 41.5,
+     "american": -104,
+     "fair_prob": 0.4911,
+     "fair_american": 104
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 41.5,
+     "american": -112,
+     "fair_prob": 0.5089,
+     "fair_american": -104
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Oregon State",
+   "home": "Fresno State",
+   "start": "2026-11-29T03:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -155,
+     "fair_prob": 0.5903,
+     "fair_american": -144
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 137,
+     "fair_prob": 0.4097,
+     "fair_american": 144
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -3.0,
+     "american": -113,
+     "fair_prob": 0.5136,
+     "fair_american": -106
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 3.0,
+     "american": -101,
+     "fair_prob": 0.4864,
+     "fair_american": 106
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 58.0,
+     "american": -111,
+     "fair_prob": 0.5067,
+     "fair_american": -103
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 58.0,
+     "american": -105,
+     "fair_prob": 0.4933,
+     "fair_american": 103
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Tulsa",
+   "home": "UTSA",
+   "start": "2026-11-27T17:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -104,
+     "fair_prob": 0.4954,
+     "fair_american": 102
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -108,
+     "fair_prob": 0.5046,
+     "fair_american": -102
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 1.0,
+     "american": -111,
+     "fair_prob": 0.509,
+     "fair_american": -104
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -1.0,
+     "american": -103,
+     "fair_prob": 0.491,
+     "fair_american": 104
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 57.5,
+     "american": -107,
+     "fair_prob": 0.4978,
+     "fair_american": 101
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 57.5,
+     "american": -109,
+     "fair_prob": 0.5022,
+     "fair_american": -101
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Central Florida",
+   "home": "Colorado",
+   "start": "2026-11-28T19:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -126,
+     "fair_prob": 0.5417,
+     "fair_american": -118
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 112,
+     "fair_prob": 0.4583,
+     "fair_american": 118
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -2.5,
+     "american": -107,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 2.5,
+     "american": -107,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 49.5,
+     "american": -110,
+     "fair_prob": 0.5045,
+     "fair_american": -102
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 49.5,
+     "american": -106,
+     "fair_prob": 0.4955,
+     "fair_american": 102
+    }
+   ],
+   "props": []
+  },
+  {
    "away": "Troy",
    "home": "Arkansas State",
    "start": "2026-11-28T20:00:00Z",
@@ -5324,6 +4241,1089 @@
      "type": "total",
      "side": "under",
      "points": 46.5,
+     "american": -106,
+     "fair_prob": 0.4955,
+     "fair_american": 102
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Florida",
+   "home": "Florida State",
+   "start": "2026-11-27T20:30:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 201,
+     "fair_prob": 0.3214,
+     "fair_american": 211
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -235,
+     "fair_prob": 0.6786,
+     "fair_american": -211
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 6.5,
+     "american": -111,
+     "fair_prob": 0.509,
+     "fair_american": -104
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -6.5,
+     "american": -103,
+     "fair_prob": 0.491,
+     "fair_american": 104
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 53.5,
+     "american": -110,
+     "fair_prob": 0.5045,
+     "fair_american": -102
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 53.5,
+     "american": -106,
+     "fair_prob": 0.4955,
+     "fair_american": 102
+    }
+   ],
+   "props": [
+    {
+     "desc": "Aaron Philo Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 42.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Aaron Philo Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 42.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Ashton Daniels Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Over",
+     "points": 1.5,
+     "american": 154,
+     "fair_prob": 0.3676,
+     "fair_american": 172
+    },
+    {
+     "desc": "Ashton Daniels Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Under",
+     "points": 1.5,
+     "american": -210,
+     "fair_prob": 0.6324,
+     "fair_american": -172
+    },
+    {
+     "desc": "Dallas Wilson Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 45.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Dallas Wilson Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 45.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Jasen Lopez Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 62.5,
+     "american": -112,
+     "fair_prob": 0.4939,
+     "fair_american": 102
+    },
+    {
+     "desc": "Jasen Lopez Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 62.5,
+     "american": -118,
+     "fair_prob": 0.5061,
+     "fair_american": -102
+    },
+    {
+     "desc": "Aaron Philo Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Over",
+     "points": 198.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Aaron Philo Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Under",
+     "points": 198.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Ashton Daniels Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 31.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Ashton Daniels Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 31.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Jayvan Boggs Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 34.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Jayvan Boggs Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 34.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Micahi Danzy Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 50.5,
+     "american": -118,
+     "fair_prob": 0.5061,
+     "fair_american": -102
+    },
+    {
+     "desc": "Micahi Danzy Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 50.5,
+     "american": -112,
+     "fair_prob": 0.4939,
+     "fair_american": 102
+    },
+    {
+     "desc": "Duke Clark Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 30.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Duke Clark Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 30.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Jadan Baugh Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 93.5,
+     "american": -112,
+     "fair_prob": 0.4939,
+     "fair_american": 102
+    },
+    {
+     "desc": "Jadan Baugh Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 93.5,
+     "american": -118,
+     "fair_prob": 0.5061,
+     "fair_american": -102
+    },
+    {
+     "desc": "Eric Singleton Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 36.5,
+     "american": -115,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Eric Singleton Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 36.5,
+     "american": -115,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Aaron Philo Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Over",
+     "points": 1.5,
+     "american": 122,
+     "fair_prob": 0.4215,
+     "fair_american": 137
+    },
+    {
+     "desc": "Aaron Philo Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Under",
+     "points": 1.5,
+     "american": -162,
+     "fair_prob": 0.5785,
+     "fair_american": -137
+    },
+    {
+     "desc": "Ashton Daniels Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Over",
+     "points": 224.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Ashton Daniels Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Under",
+     "points": 224.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    }
+   ]
+  },
+  {
+   "away": "South Carolina",
+   "home": "Clemson",
+   "start": "2026-11-28T20:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 194,
+     "fair_prob": 0.3291,
+     "fair_american": 204
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -226,
+     "fair_prob": 0.6709,
+     "fair_american": -204
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 6.5,
+     "american": -114,
+     "fair_prob": 0.5158,
+     "fair_american": -107
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -6.5,
+     "american": -100,
+     "fair_prob": 0.4842,
+     "fair_american": 107
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 42.0,
+     "american": -106,
+     "fair_prob": 0.4955,
+     "fair_american": 102
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 42.0,
+     "american": -110,
+     "fair_prob": 0.5045,
+     "fair_american": -102
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Oklahoma",
+   "home": "Missouri",
+   "start": "2026-11-28T21:15:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -125,
+     "fair_prob": 0.5396,
+     "fair_american": -117
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 111,
+     "fair_prob": 0.4604,
+     "fair_american": 117
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -1.5,
+     "american": -115,
+     "fair_prob": 0.5169,
+     "fair_american": -107
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 1.5,
+     "american": 100,
+     "fair_prob": 0.4831,
+     "fair_american": 107
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 41.5,
+     "american": -105,
+     "fair_prob": 0.4933,
+     "fair_american": 103
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 41.5,
+     "american": -111,
+     "fair_prob": 0.5067,
+     "fair_american": -103
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "West Virginia",
+   "home": "Utah",
+   "start": "2026-11-28T02:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -2200,
+     "fair_prob": 0.9259,
+     "fair_american": -1250
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 1207,
+     "fair_prob": 0.0741,
+     "fair_american": 1250
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -26.0,
+     "american": -108,
+     "fair_prob": 0.5023,
+     "fair_american": -101
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 26.0,
+     "american": -106,
+     "fair_prob": 0.4977,
+     "fair_american": 101
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 67.0,
+     "american": -109,
+     "fair_prob": 0.5022,
+     "fair_american": -101
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 67.0,
+     "american": -107,
+     "fair_prob": 0.4978,
+     "fair_american": 101
+    }
+   ],
+   "props": [
+    {
+     "desc": "Braden Pegan Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 70.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Braden Pegan Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 70.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Devon Dampier Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 73.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Devon Dampier Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 73.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Devon Dampier Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Over",
+     "points": 2.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Devon Dampier Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Under",
+     "points": 2.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Noah Bennee Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 28.5,
+     "american": -118,
+     "fair_prob": 0.5061,
+     "fair_american": -102
+    },
+    {
+     "desc": "Noah Bennee Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 28.5,
+     "american": -112,
+     "fair_prob": 0.4939,
+     "fair_american": 102
+    },
+    {
+     "desc": "Ricky Johnson Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 28.5,
+     "american": -112,
+     "fair_prob": 0.4939,
+     "fair_american": 102
+    },
+    {
+     "desc": "Ricky Johnson Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 28.5,
+     "american": -118,
+     "fair_prob": 0.5061,
+     "fair_american": -102
+    },
+    {
+     "desc": "Devon Dampier Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Over",
+     "points": 275.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Devon Dampier Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Under",
+     "points": 275.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Larry Simmons Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 28.5,
+     "american": -118,
+     "fair_prob": 0.5061,
+     "fair_american": -102
+    },
+    {
+     "desc": "Larry Simmons Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 28.5,
+     "american": -112,
+     "fair_prob": 0.4939,
+     "fair_american": 102
+    },
+    {
+     "desc": "Cam Cook Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 89.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Cam Cook Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 89.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Creed Whittemore Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 43.5,
+     "american": -112,
+     "fair_prob": 0.4939,
+     "fair_american": 102
+    },
+    {
+     "desc": "Creed Whittemore Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 43.5,
+     "american": -118,
+     "fair_prob": 0.5061,
+     "fair_american": -102
+    },
+    {
+     "desc": "DJ Epps Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 43.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "DJ Epps Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 43.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Cam Cook Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 13.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Cam Cook Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 13.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    }
+   ]
+  },
+  {
+   "away": "Mississippi State",
+   "home": "Mississippi",
+   "start": "2026-11-27T17:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -978,
+     "fair_prob": 0.8742,
+     "fair_american": -695
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 666,
+     "fair_prob": 0.1258,
+     "fair_american": 695
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -19.0,
+     "american": -106,
+     "fair_prob": 0.4977,
+     "fair_american": 101
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 19.0,
+     "american": -108,
+     "fair_prob": 0.5023,
+     "fair_american": -101
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 56.0,
+     "american": -110,
+     "fair_prob": 0.5045,
+     "fair_american": -102
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 56.0,
+     "american": -106,
+     "fair_prob": 0.4955,
+     "fair_american": 102
+    }
+   ],
+   "props": [
+    {
+     "desc": "Trinidad Chambliss Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Over",
+     "points": 283.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Trinidad Chambliss Total Passing Yards",
+     "units": "Passing Yards",
+     "outcome": "Under",
+     "points": 283.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Horatio Fields Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 45.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Horatio Fields Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 45.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Deuce Alexander Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 66.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Deuce Alexander Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 66.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Anthony Evans Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 61.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Anthony Evans Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 61.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Trinidad Chambliss Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Over",
+     "points": 1.5,
+     "american": -188,
+     "fair_prob": 0.6104,
+     "fair_american": -157
+    },
+    {
+     "desc": "Trinidad Chambliss Total Touchdown Passes",
+     "units": "Touchdown Passes",
+     "outcome": "Under",
+     "points": 1.5,
+     "american": 140,
+     "fair_prob": 0.3896,
+     "fair_american": 157
+    },
+    {
+     "desc": "Caleb Odom Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Over",
+     "points": 40.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Caleb Odom Total Receiving Yards",
+     "units": "Receiving Yards",
+     "outcome": "Under",
+     "points": 40.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Parker Puckett Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 16.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Parker Puckett Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 16.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Fluff Bothwell Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Over",
+     "points": 65.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    },
+    {
+     "desc": "Fluff Bothwell Total Rushing Yards",
+     "units": "Rushing Yards",
+     "outcome": "Under",
+     "points": 65.5,
+     "american": -114,
+     "fair_prob": 0.5,
+     "fair_american": 100
+    }
+   ]
+  },
+  {
+   "away": "Connecticut",
+   "home": "Wyoming",
+   "start": "2026-11-28T17:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 134,
+     "fair_prob": 0.4147,
+     "fair_american": 141
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -152,
+     "fair_prob": 0.5853,
+     "fair_american": -141
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 3.0,
+     "american": -104,
+     "fair_prob": 0.4932,
+     "fair_american": 103
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -3.0,
+     "american": -110,
+     "fair_prob": 0.5068,
+     "fair_american": -103
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 45.0,
+     "american": -118,
+     "fair_prob": 0.5211,
+     "fair_american": -109
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 45.0,
+     "american": 101,
+     "fair_prob": 0.4789,
+     "fair_american": 109
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Buffalo",
+   "home": "Akron",
+   "start": "2026-11-27T17:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 255,
+     "fair_prob": 0.2722,
+     "fair_american": 267
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -305,
+     "fair_prob": 0.7278,
+     "fair_american": -267
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 7.5,
+     "american": -109,
+     "fair_prob": 0.5045,
+     "fair_american": -102
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -7.5,
+     "american": -105,
+     "fair_prob": 0.4955,
+     "fair_american": 102
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 48.0,
+     "american": -115,
+     "fair_prob": 0.5144,
+     "fair_american": -106
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 48.0,
+     "american": -102,
+     "fair_prob": 0.4856,
+     "fair_american": 106
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Washington",
+   "home": "Oregon",
+   "start": "2026-11-29T00:30:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -581,
+     "fair_prob": 0.8217,
+     "fair_american": -461
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 440,
+     "fair_prob": 0.1783,
+     "fair_american": 461
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -14.0,
+     "american": 101,
+     "fair_prob": 0.4809,
+     "fair_american": 108
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 14.0,
+     "american": -116,
+     "fair_prob": 0.5191,
+     "fair_american": -108
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 50.5,
+     "american": -114,
+     "fair_prob": 0.5134,
+     "fair_american": -105
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 50.5,
+     "american": -102,
+     "fair_prob": 0.4866,
+     "fair_american": 105
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Louisiana Tech",
+   "home": "Georgia Southern",
+   "start": "2026-11-28T17:00:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -132,
+     "fair_prob": 0.5525,
+     "fair_american": -123
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 117,
+     "fair_prob": 0.4475,
+     "fair_american": 123
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -2.5,
+     "american": -109,
+     "fair_prob": 0.5045,
+     "fair_american": -102
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 2.5,
+     "american": -105,
+     "fair_prob": 0.4955,
+     "fair_american": 102
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 53.5,
+     "american": -110,
+     "fair_prob": 0.5045,
+     "fair_american": -102
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 53.5,
      "american": -106,
      "fair_prob": 0.4955,
      "fair_american": 102
