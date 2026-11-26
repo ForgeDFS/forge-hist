@@ -1,31 +1,12 @@
-# NCAAB ([None]) Pinnacle no-vig, read 2026-11-26 04:14 UTC: 14 games, 0 props
+# NCAAB ([None]) Pinnacle no-vig, read 2026-11-26 06:55 UTC: 11 games, 0 props
 
-## Incarnate Word @ Hawaii  2026-11-26T04:59:00Z
-- spread home -17.0: -113 (fair -104)
-- spread away 17.0: -104 (fair 104)
-- total over 139.5: -113 (fair -103)
-- total under 139.5: -107 (fair 103)
-## Stanford @ Saint Louis  2026-11-26T05:00:00Z
-- moneyline home : -171 (fair -155)
-- moneyline away : 145 (fair 155)
-- spread home -4.0: -101 (fair 107)
-- spread away 4.0: -116 (fair -107)
-- total over 152.0: -110 (fair 100)
-- total under 152.0: -110 (fair 100)
-## Clemson @ Colorado State  2026-11-26T05:30:00Z
-- moneyline home : 157 (fair 167)
-- moneyline away : -185 (fair -167)
-- spread home 4.0: -105 (fair 103)
-- spread away -4.0: -111 (fair -103)
-- total over 148.0: -107 (fair 103)
-- total under 148.0: -113 (fair -103)
 ## Georgia @ Cincinnati  2026-11-26T16:00:00Z
 - moneyline home : -136 (fair -124)
 - moneyline away : 116 (fair 124)
 - spread home -2.0: -112 (fair -104)
 - spread away 2.0: -104 (fair 104)
-- total over 155.0: -108 (fair 102)
-- total under 155.0: -112 (fair -102)
+- total over 155.0: -105 (fair 104)
+- total under 155.0: -115 (fair -104)
 ## Oklahoma @ Purdue  2026-11-26T17:00:00Z
 - moneyline home : -194 (fair -174)
 - moneyline away : 164 (fair 174)
@@ -34,12 +15,12 @@
 - total over 142.5: -101 (fair 109)
 - total under 142.5: -120 (fair -109)
 ## Boston College @ Central Florida  2026-11-26T18:30:00Z
-- moneyline home : -139 (fair -127)
-- moneyline away : 119 (fair 127)
-- spread home -2.5: -105 (fair 103)
-- spread away 2.5: -111 (fair -103)
-- total over 146.5: -111 (fair -101)
-- total under 146.5: -109 (fair 101)
+- moneyline home : -127 (fair -117)
+- moneyline away : 109 (fair 117)
+- spread home -2.0: -105 (fair 103)
+- spread away 2.0: -111 (fair -103)
+- total over 146.5: -110 (fair 100)
+- total under 146.5: -110 (fair 100)
 ## South Carolina @ Arizona State  2026-11-26T19:00:00Z
 - moneyline home : -165 (fair -150)
 - moneyline away : 141 (fair 150)
@@ -54,13 +35,6 @@
 - spread away 8.5: -103 (fair 105)
 - total over 154.0: -110 (fair 100)
 - total under 154.0: -110 (fair 100)
-## Utah State @ USC  2026-11-26T21:30:00Z
-- moneyline home : -156 (fair -142)
-- moneyline away : 133 (fair 142)
-- spread home -3.0: -111 (fair -103)
-- spread away 3.0: -105 (fair 103)
-- total over 165.5: -106 (fair 104)
-- total under 165.5: -114 (fair -104)
 ## Arkansas @ Michigan State  2026-11-26T21:30:00Z
 - moneyline home : -221 (fair -197)
 - moneyline away : 186 (fair 197)
@@ -68,6 +42,13 @@
 - spread away 5.0: -103 (fair 105)
 - total over 150.0: -110 (fair 100)
 - total under 150.0: -110 (fair 100)
+## Utah State @ USC  2026-11-26T21:30:00Z
+- moneyline home : -156 (fair -142)
+- moneyline away : 133 (fair 142)
+- spread home -3.0: -111 (fair -103)
+- spread away 3.0: -105 (fair 103)
+- total over 165.5: -106 (fair 104)
+- total under 165.5: -114 (fair -104)
 ## Saint Marys CA @ UCLA  2026-11-26T22:00:00Z
 - moneyline home : -331 (fair -284)
 - moneyline away : 270 (fair 284)
@@ -75,13 +56,6 @@
 - spread away 7.5: -108 (fair 100)
 - total over 152.5: -114 (fair -104)
 - total under 152.5: -106 (fair 104)
-## DePaul @ Pittsburgh  2026-11-27T00:00:00Z
-- moneyline home : -114 (fair -105)
-- moneyline away : -103 (fair 105)
-- spread home -1.0: -108 (fair 100)
-- spread away 1.0: -108 (fair 100)
-- total over 139.5: -102 (fair 107)
-- total under 139.5: -118 (fair -107)
 ## SMU @ LSU  2026-11-27T00:00:00Z
 - moneyline home : -220 (fair -196)
 - moneyline away : 185 (fair 196)
@@ -89,10 +63,17 @@
 - spread away 5.0: -104 (fair 104)
 - total over 160.5: -110 (fair 100)
 - total under 160.5: -110 (fair 100)
+## DePaul @ Pittsburgh  2026-11-27T00:00:00Z
+- moneyline home : -104 (fair 104)
+- moneyline away : -112 (fair -104)
+- spread home -1.0: 101 (fair 108)
+- spread away 1.0: -117 (fair -108)
+- total over 139.5: -102 (fair 107)
+- total under 139.5: -118 (fair -107)
 ## Jacksonville State @ UC Davis  2026-11-27T01:00:00Z
-- moneyline home : 108 (fair 117)
-- moneyline away : -129 (fair -117)
-- spread home 2.0: -113 (fair -103)
-- spread away -2.0: -106 (fair 103)
-- total over 140.0: -110 (fair 101)
-- total under 140.0: -112 (fair -101)
+- moneyline home : 109 (fair 117)
+- moneyline away : -127 (fair -117)
+- spread home 2.0: -111 (fair -103)
+- spread away -2.0: -105 (fair 103)
+- total over 140.0: -116 (fair -105)
+- total under 140.0: -105 (fair 105)
