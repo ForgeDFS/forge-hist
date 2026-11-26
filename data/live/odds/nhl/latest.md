@@ -1,12 +1,5 @@
-# NHL ([None]) Pinnacle no-vig, read 2026-11-26 20:59 UTC: 15 games, 0 props
+# NHL ([None]) Pinnacle no-vig, read 2026-11-26 23:05 UTC: 15 games, 0 props
 
-## Calgary Flames @ New Jersey Devils  2026-11-27T18:00:00Z
-- moneyline home : -268 (fair -243)
-- moneyline away : 234 (fair 243)
-- spread home -1.5: 100 (fair 106)
-- spread away 1.5: -113 (fair -106)
-- total over 6.0: -120 (fair -112)
-- total under 6.0: 105 (fair 112)
 ## Toronto Maple Leafs @ Boston Bruins  2026-11-27T18:00:00Z
 - moneyline home : -163 (fair -152)
 - moneyline away : 146 (fair 152)
@@ -21,6 +14,13 @@
 - spread away -1.5: 219 (fair 229)
 - total over 6.5: -109 (fair -102)
 - total under 6.5: -105 (fair 102)
+## Calgary Flames @ New Jersey Devils  2026-11-27T18:00:00Z
+- moneyline home : -268 (fair -243)
+- moneyline away : 234 (fair 243)
+- spread home -1.5: 100 (fair 106)
+- spread away 1.5: -113 (fair -106)
+- total over 6.0: -120 (fair -112)
+- total under 6.0: 105 (fair 112)
 ## Dallas Stars @ St. Louis Blues  2026-11-27T19:00:00Z
 - moneyline home : 122 (fair 128)
 - moneyline away : -135 (fair -128)
@@ -31,10 +31,10 @@
 ## Florida Panthers @ Washington Capitals  2026-11-27T20:00:00Z
 - moneyline home : -103 (fair 102)
 - moneyline away : -107 (fair -102)
-- spread home 1.5: -259 (fair -232)
-- spread away -1.5: 221 (fair 232)
-- total over 6.5: -114 (fair -106)
-- total under 6.5: -101 (fair 106)
+- spread home 1.5: -258 (fair -231)
+- spread away -1.5: 220 (fair 231)
+- total over 6.5: -111 (fair -104)
+- total under 6.5: -103 (fair 104)
 ## Detroit Red Wings @ Columbus Blue Jackets  2026-11-27T20:00:00Z
 - moneyline home : -125 (fair -118)
 - moneyline away : 113 (fair 118)
@@ -42,13 +42,6 @@
 - spread away 1.5: -233 (fair -211)
 - total over 5.5: -119 (fair -111)
 - total under 5.5: 104 (fair 111)
-## Vancouver Canucks @ Philadelphia Flyers  2026-11-27T20:00:00Z
-- moneyline home : -236 (fair -216)
-- moneyline away : 208 (fair 216)
-- spread home -1.5: 110 (fair 116)
-- spread away 1.5: -123 (fair -116)
-- total over 6.0: -118 (fair -110)
-- total under 6.0: 103 (fair 110)
 ## Ottawa Senators @ Tampa Bay Lightning  2026-11-27T20:00:00Z
 - moneyline home : -134 (fair -127)
 - moneyline away : 121 (fair 127)
@@ -56,6 +49,13 @@
 - spread away 1.5: -217 (fair -197)
 - total over 6.0: -108 (fair -101)
 - total under 6.0: -106 (fair 101)
+## Vancouver Canucks @ Philadelphia Flyers  2026-11-27T20:00:00Z
+- moneyline home : -236 (fair -216)
+- moneyline away : 208 (fair 216)
+- spread home -1.5: 110 (fair 116)
+- spread away 1.5: -123 (fair -116)
+- total over 6.0: -118 (fair -110)
+- total under 6.0: 103 (fair 110)
 ## Colorado Avalanche @ Minnesota Wild  2026-11-27T21:00:00Z
 - moneyline home : -122 (fair -116)
 - moneyline away : 111 (fair 116)
@@ -78,12 +78,12 @@
 - total over 6.5: -113 (fair -106)
 - total under 6.5: -101 (fair 106)
 ## New York Rangers @ Chicago Blackhawks  2026-11-27T22:30:00Z
-- moneyline home : 152 (fair 159)
-- moneyline away : -170 (fair -159)
-- spread home 1.5: -171 (fair -158)
-- spread away -1.5: 151 (fair 158)
-- total over 6.0: -115 (fair -107)
-- total under 6.0: 100 (fair 107)
+- moneyline home : 154 (fair 161)
+- moneyline away : -172 (fair -161)
+- spread home 1.5: -170 (fair -157)
+- spread away -1.5: 149 (fair 157)
+- total over 6.0: -115 (fair -108)
+- total under 6.0: 101 (fair 108)
 ## Winnipeg Jets @ New York Islanders  2026-11-28T00:30:00Z
 - moneyline home : -132 (fair -125)
 - moneyline away : 119 (fair 125)
@@ -99,9 +99,9 @@
 - total over 6.5: -112 (fair -105)
 - total under 6.5: -102 (fair 105)
 ## Seattle Kraken @ Edmonton Oilers  2026-11-28T01:00:00Z
-- moneyline home : -209 (fair -193)
-- moneyline away : 186 (fair 193)
-- spread home -1.5: 121 (fair 127)
-- spread away 1.5: -136 (fair -127)
-- total over 6.5: 100 (fair 107)
-- total under 6.5: -114 (fair -107)
+- moneyline home : -212 (fair -196)
+- moneyline away : 188 (fair 196)
+- spread home -1.5: 119 (fair 125)
+- spread away 1.5: -134 (fair -125)
+- total over 6.5: -101 (fair 106)
+- total under 6.5: -113 (fair -106)
