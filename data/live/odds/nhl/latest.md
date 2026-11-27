@@ -1,81 +1,32 @@
-# NHL ([None]) Pinnacle no-vig, read 2026-11-27 19:34 UTC: 12 games, 1230 props
+# NHL ([None]) Pinnacle no-vig, read 2026-11-27 21:41 UTC: 5 games, 424 props
 
 ## Away Goals (15 Games) @ Home Goals (15 Games)  2026-11-27T17:59:00Z
 - moneyline home : -183 (fair -165)
 - moneyline away : 155 (fair 165)
 - total over 95.5: -110 (fair -102)
 - total under 95.5: -106 (fair 102)
-## Vancouver Canucks @ Philadelphia Flyers  2026-11-27T20:00:00Z
-- moneyline home : -225 (fair -207)
-- moneyline away : 199 (fair 207)
-- spread home -1.5: 111 (fair 117)
-- spread away 1.5: -125 (fair -117)
-- total over 6.0: -112 (fair -106)
-- total under 6.0: -100 (fair 106)
-## Detroit Red Wings @ Columbus Blue Jackets  2026-11-27T20:00:00Z
-- moneyline home : -127 (fair -120)
-- moneyline away : 115 (fair 120)
-- spread home -1.5: 198 (fair 208)
-- spread away 1.5: -230 (fair -208)
-- total over 5.5: -115 (fair -109)
-- total under 5.5: 103 (fair 109)
-## Florida Panthers @ Washington Capitals  2026-11-27T20:00:00Z
-- moneyline home : 102 (fair 107)
-- moneyline away : -113 (fair -107)
-- spread home 1.5: -246 (fair -221)
-- spread away -1.5: 211 (fair 221)
-- total over 6.5: -113 (fair -107)
-- total under 6.5: 101 (fair 107)
-## Ottawa Senators @ Tampa Bay Lightning  2026-11-27T20:00:00Z
-- moneyline home : -132 (fair -125)
-- moneyline away : 119 (fair 125)
-- spread home -1.5: 191 (fair 200)
-- spread away 1.5: -221 (fair -200)
-- total over 6.0: -101 (fair 105)
-- total under 6.0: -111 (fair -105)
-## Vegas Golden Knights @ San Jose Sharks  2026-11-27T21:00:00Z
-- moneyline home : 183 (fair 191)
-- moneyline away : -206 (fair -191)
-- spread home 1.5: -137 (fair -128)
-- spread away -1.5: 121 (fair 128)
-- total over 6.5: -116 (fair -109)
-- total under 6.5: 103 (fair 109)
-## Los Angeles Kings @ Anaheim Ducks  2026-11-27T21:00:00Z
-- moneyline home : 105 (fair 110)
-- moneyline away : -116 (fair -110)
-- spread home 1.5: -247 (fair -222)
-- spread away -1.5: 212 (fair 222)
-- total over 6.5: -100 (fair 106)
-- total under 6.5: -112 (fair -106)
-## Colorado Avalanche @ Minnesota Wild  2026-11-27T21:00:00Z
-- moneyline home : -113 (fair -108)
-- moneyline away : 103 (fair 108)
-- spread home -1.5: 209 (fair 219)
-- spread away 1.5: -243 (fair -219)
-- total over 6.0: -115 (fair -108)
-- total under 6.0: 102 (fair 108)
-## New York Rangers @ Chicago Blackhawks  2026-11-27T22:30:00Z
-- moneyline home : 158 (fair 165)
-- moneyline away : -176 (fair -165)
-- spread home 1.5: -165 (fair -153)
-- spread away -1.5: 146 (fair 153)
-- total over 6.0: -105 (fair 101)
-- total under 6.0: -107 (fair -101)
-## Winnipeg Jets @ New York Islanders  2026-11-28T00:30:00Z
-- moneyline home : -118 (fair -112)
-- moneyline away : 107 (fair 112)
-- spread home -1.5: 201 (fair 211)
-- spread away 1.5: -233 (fair -211)
+## New York Rangers @ Chicago Blackhawks  2026-11-27T22:37:00Z
+- moneyline home : 153 (fair 160)
+- moneyline away : -171 (fair -160)
+- spread home 1.5: -168 (fair -155)
+- spread away -1.5: 148 (fair 155)
+- total over 6.0: 101 (fair 107)
+- total under 6.0: -113 (fair -107)
+## Winnipeg Jets @ New York Islanders  2026-11-28T00:37:00Z
+- moneyline home : -116 (fair -110)
+- moneyline away : 105 (fair 110)
+- spread home -1.5: 203 (fair 213)
+- spread away 1.5: -235 (fair -213)
 - total over 6.5: 101 (fair 107)
-- total under 6.5: -113 (fair -107)
-## Seattle Kraken @ Edmonton Oilers  2026-11-28T01:00:00Z
-- moneyline home : -200 (fair -185)
-- moneyline away : 178 (fair 185)
-- spread home -1.5: 121 (fair 128)
-- spread away 1.5: -137 (fair -128)
+- total under 6.5: -114 (fair -107)
+## Seattle Kraken @ Edmonton Oilers  2026-11-28T01:07:00Z
+- moneyline home : -201 (fair -186)
+- moneyline away : 179 (fair 186)
+- spread home -1.5: 120 (fair 127)
+- spread away 1.5: -136 (fair -127)
 - total over 6.5: -102 (fair 104)
-- total under 6.5: -110 (fair -104)
-## Pittsburgh Penguins @ Buffalo Sabres  2026-11-28T01:00:00Z
+- total under 6.5: -111 (fair -104)
+## Pittsburgh Penguins @ Buffalo Sabres  2026-11-28T01:07:00Z
 - moneyline home : -127 (fair -120)
 - moneyline away : 115 (fair 120)
 - spread home -1.5: 163 (fair 171)
