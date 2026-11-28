@@ -1,4 +1,4 @@
-# NCAAF ([None]) Pinnacle no-vig, read 2026-11-28 21:44 UTC: 14 games, 148 props
+# NCAAF ([None]) Pinnacle no-vig, read 2026-11-28 21:49 UTC: 14 games, 148 props
 
 ## Boise State @ Colorado State  2026-11-28T23:00:00Z
 - moneyline home : 989 (fair 1021)
@@ -36,12 +36,12 @@
 - total over 52.5: -114 (fair -105)
 - total under 52.5: -103 (fair 105)
 ## Auburn @ Alabama  2026-11-29T00:30:00Z
-- moneyline home : -590 (fair -483)
-- moneyline away : 465 (fair 483)
-- spread home -14.0: -108 (fair -102)
-- spread away 14.0: -104 (fair 102)
-- total over 52.0: -104 (fair 104)
-- total under 52.0: -112 (fair -104)
+- moneyline home : -591 (fair -484)
+- moneyline away : 466 (fair 484)
+- spread home -14.0: -109 (fair -103)
+- spread away 14.0: -103 (fair 103)
+- total over 52.0: -110 (fair -102)
+- total under 52.0: -106 (fair 102)
 ## Pittsburgh @ California  2026-11-29T00:30:00Z
 - moneyline home : 294 (fair 306)
 - moneyline away : -347 (fair -306)
@@ -50,12 +50,12 @@
 - total over 47.5: -105 (fair 103)
 - total under 47.5: -111 (fair -103)
 ## Washington @ Oregon  2026-11-29T00:30:00Z
-- moneyline home : -549 (fair -455)
-- moneyline away : 438 (fair 455)
-- spread home -13.5: -107 (fair -101)
-- spread away 13.5: -105 (fair 101)
+- moneyline home : -554 (fair -459)
+- moneyline away : 442 (fair 459)
+- spread home -13.5: -109 (fair -103)
+- spread away 13.5: -103 (fair 103)
 - total over 51.5: -103 (fair 105)
-- total under 51.5: -114 (fair -105)
+- total under 51.5: -113 (fair -105)
 ## Nevada @ UNLV  2026-11-29T02:00:00Z
 - moneyline home : -180 (fair -168)
 - moneyline away : 161 (fair 168)
@@ -64,12 +64,12 @@
 - total over 44.5: -105 (fair 103)
 - total under 44.5: -111 (fair -103)
 ## Arizona State @ Arizona  2026-11-29T02:00:00Z
-- moneyline home : -314 (fair -280)
-- moneyline away : 269 (fair 280)
-- spread home -9.5: -111 (fair -105)
-- spread away 9.5: -101 (fair 105)
-- total over 53.0: -109 (fair -101)
-- total under 53.0: -107 (fair 101)
+- moneyline home : -312 (fair -279)
+- moneyline away : 268 (fair 279)
+- spread home -9.5: -111 (fair -104)
+- spread away 9.5: -102 (fair 104)
+- total over 53.0: -103 (fair 105)
+- total under 53.0: -113 (fair -105)
 ## Baylor @ Houston  2026-11-29T02:30:00Z
 - moneyline home : -156 (fair -146)
 - moneyline away : 140 (fair 146)
@@ -78,10 +78,10 @@
 - total over 56.5: -107 (fair 101)
 - total under 56.5: -109 (fair -101)
 ## Texas State @ Utah State  2026-11-29T02:30:00Z
-- moneyline home : 229 (fair 238)
-- moneyline away : -263 (fair -238)
-- spread home 7.0: -108 (fair -102)
-- spread away -7.0: -104 (fair 102)
+- moneyline home : 231 (fair 241)
+- moneyline away : -266 (fair -241)
+- spread home 7.0: -107 (fair -101)
+- spread away -7.0: -105 (fair 101)
 - total over 53.0: -111 (fair -103)
 - total under 53.0: -105 (fair 103)
 ## Oregon State @ Fresno State  2026-11-29T03:00:00Z

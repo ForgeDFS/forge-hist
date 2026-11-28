@@ -1,4 +1,4 @@
-# NHL ([None]) Pinnacle no-vig, read 2026-11-28 21:44 UTC: 13 games, 1434 props
+# NHL ([None]) Pinnacle no-vig, read 2026-11-28 21:49 UTC: 13 games, 1434 props
 
 ## Away Goals (13 Games) @ Home Goals (13 Games)  2026-11-28T21:06:00Z
 - moneyline home : -218 (fair -194)

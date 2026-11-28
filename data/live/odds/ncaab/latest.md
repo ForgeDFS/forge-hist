@@ -1,4 +1,4 @@
-# NCAAB ([None]) Pinnacle no-vig, read 2026-11-28 21:44 UTC: 22 games, 0 props
+# NCAAB ([None]) Pinnacle no-vig, read 2026-11-28 21:49 UTC: 22 games, 0 props
 
 ## Northern Colorado @ San Diego  2026-11-28T21:00:00Z
 - moneyline home : -1139 (fair -771)
