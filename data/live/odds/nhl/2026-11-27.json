@@ -1,45 +1,397 @@
 {
- "read_utc": "2026-11-28 02:48",
+ "read_utc": "2026-11-28 04:55",
  "league": [
   null
  ],
  "games": [
   {
-   "away": "Away Goals (15 Games)",
-   "home": "Home Goals (15 Games)",
-   "start": "2026-11-27T17:59:00Z",
+   "away": "New York Islanders",
+   "home": "Philadelphia Flyers",
+   "start": "2026-11-29T00:37:00Z",
    "lines": [
     {
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": -183,
-     "fair_prob": 0.6225,
-     "fair_american": -165
+     "american": -102,
+     "fair_prob": 0.493,
+     "fair_american": 103
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": 155,
-     "fair_prob": 0.3775,
-     "fair_american": 165
+     "american": -108,
+     "fair_prob": 0.507,
+     "fair_american": -103
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 1.5,
+     "american": -269,
+     "fair_prob": 0.7057,
+     "fair_american": -240
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -1.5,
+     "american": 229,
+     "fair_prob": 0.2943,
+     "fair_american": 240
     },
     {
      "type": "total",
      "side": "over",
-     "points": 95.5,
-     "american": -110,
-     "fair_prob": 0.5045,
-     "fair_american": -102
+     "points": 6.0,
+     "american": -102,
+     "fair_prob": 0.4887,
+     "fair_american": 105
     },
     {
      "type": "total",
      "side": "under",
-     "points": 95.5,
-     "american": -106,
-     "fair_prob": 0.4955,
-     "fair_american": 102
+     "points": 6.0,
+     "american": -112,
+     "fair_prob": 0.5113,
+     "fair_american": -105
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Anaheim Ducks",
+   "home": "Los Angeles Kings",
+   "start": "2026-11-29T02:07:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -141,
+     "fair_prob": 0.5705,
+     "fair_american": -133
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 127,
+     "fair_prob": 0.4295,
+     "fair_american": 133
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -1.5,
+     "american": 176,
+     "fair_prob": 0.3514,
+     "fair_american": 185
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 1.5,
+     "american": -202,
+     "fair_prob": 0.6486,
+     "fair_american": -185
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 6.5,
+     "american": -101,
+     "fair_prob": 0.4854,
+     "fair_american": 106
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 6.5,
+     "american": -114,
+     "fair_prob": 0.5146,
+     "fair_american": -106
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Edmonton Oilers",
+   "home": "Seattle Kraken",
+   "start": "2026-11-29T03:07:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": 148,
+     "fair_prob": 0.3931,
+     "fair_american": 154
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -165,
+     "fair_prob": 0.6069,
+     "fair_american": -154
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": 1.5,
+     "american": -169,
+     "fair_prob": 0.6091,
+     "fair_american": -156
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": -1.5,
+     "american": 148,
+     "fair_prob": 0.3909,
+     "fair_american": 156
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 6.5,
+     "american": -113,
+     "fair_prob": 0.5136,
+     "fair_american": -106
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 6.5,
+     "american": -101,
+     "fair_prob": 0.4864,
+     "fair_american": 106
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Toronto Maple Leafs",
+   "home": "Pittsburgh Penguins",
+   "start": "2026-11-29T00:07:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -116,
+     "fair_prob": 0.524,
+     "fair_american": -110
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 105,
+     "fair_prob": 0.476,
+     "fair_american": 110
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -1.5,
+     "american": 199,
+     "fair_prob": 0.3243,
+     "fair_american": 208
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 1.5,
+     "american": -230,
+     "fair_prob": 0.6757,
+     "fair_american": -208
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 6.5,
+     "american": -135,
+     "fair_prob": 0.556,
+     "fair_american": -125
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 6.5,
+     "american": 118,
+     "fair_prob": 0.444,
+     "fair_american": 125
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Tampa Bay Lightning",
+   "home": "Florida Panthers",
+   "start": "2026-11-28T23:07:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -110,
+     "fair_prob": 0.5092,
+     "fair_american": -104
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -102,
+     "fair_prob": 0.4908,
+     "fair_american": 104
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -1.5,
+     "american": 224,
+     "fair_prob": 0.2974,
+     "fair_american": 236
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 1.5,
+     "american": -269,
+     "fair_prob": 0.7026,
+     "fair_american": -236
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 6.0,
+     "american": -119,
+     "fair_prob": 0.5257,
+     "fair_american": -111
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 6.0,
+     "american": 104,
+     "fair_prob": 0.4743,
+     "fair_american": 111
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Ottawa Senators",
+   "home": "Carolina Hurricanes",
+   "start": "2026-11-29T00:07:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -252,
+     "fair_prob": 0.6968,
+     "fair_american": -230
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 221,
+     "fair_prob": 0.3032,
+     "fair_american": 230
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -1.5,
+     "american": 104,
+     "fair_prob": 0.4762,
+     "fair_american": 110
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 1.5,
+     "american": -117,
+     "fair_prob": 0.5238,
+     "fair_american": -110
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 6.0,
+     "american": -121,
+     "fair_prob": 0.5288,
+     "fair_american": -112
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 6.0,
+     "american": 105,
+     "fair_prob": 0.4712,
+     "fair_american": 112
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Winnipeg Jets",
+   "home": "New Jersey Devils",
+   "start": "2026-11-29T00:07:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -201,
+     "fair_prob": 0.6507,
+     "fair_american": -186
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": 179,
+     "fair_prob": 0.3493,
+     "fair_american": 186
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -1.5,
+     "american": 128,
+     "fair_prob": 0.4256,
+     "fair_american": 135
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 1.5,
+     "american": -145,
+     "fair_prob": 0.5744,
+     "fair_american": -135
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 6.5,
+     "american": 103,
+     "fair_prob": 0.4765,
+     "fair_american": 110
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 6.5,
+     "american": -118,
+     "fair_prob": 0.5235,
+     "fair_american": -110
     }
    ],
    "props": []
@@ -53,8 +405,8 @@
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": -114,
-     "fair_prob": 0.5196,
+     "american": -113,
+     "fair_prob": 0.5185,
      "fair_american": -108
     },
     {
@@ -62,24 +414,24 @@
      "side": "away",
      "points": null,
      "american": 103,
-     "fair_prob": 0.4804,
+     "fair_prob": 0.4815,
      "fair_american": 108
     },
     {
      "type": "spread",
      "side": "home",
      "points": -1.5,
-     "american": 211,
-     "fair_prob": 0.3114,
-     "fair_american": 221
+     "american": 212,
+     "fair_prob": 0.3105,
+     "fair_american": 222
     },
     {
      "type": "spread",
      "side": "away",
      "points": 1.5,
-     "american": -246,
-     "fair_prob": 0.6886,
-     "fair_american": -221
+     "american": -247,
+     "fair_prob": 0.6895,
+     "fair_american": -222
     },
     {
      "type": "total",
@@ -157,57 +509,57 @@
    "props": []
   },
   {
-   "away": "Ottawa Senators",
-   "home": "Carolina Hurricanes",
+   "away": "Washington Capitals",
+   "home": "St. Louis Blues",
    "start": "2026-11-29T00:07:00Z",
    "lines": [
     {
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": -260,
-     "fair_prob": 0.7025,
-     "fair_american": -236
+     "american": -106,
+     "fair_prob": 0.5,
+     "fair_american": 100
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": 227,
-     "fair_prob": 0.2975,
-     "fair_american": 236
+     "american": -106,
+     "fair_prob": 0.5,
+     "fair_american": 100
     },
     {
      "type": "spread",
      "side": "home",
-     "points": -1.5,
-     "american": 102,
-     "fair_prob": 0.4807,
-     "fair_american": 108
+     "points": 1.5,
+     "american": -262,
+     "fair_prob": 0.6971,
+     "fair_american": -230
     },
     {
      "type": "spread",
      "side": "away",
-     "points": 1.5,
-     "american": -115,
-     "fair_prob": 0.5193,
-     "fair_american": -108
+     "points": -1.5,
+     "american": 218,
+     "fair_prob": 0.3029,
+     "fair_american": 230
     },
     {
      "type": "total",
      "side": "over",
-     "points": 6.0,
-     "american": -121,
-     "fair_prob": 0.53,
-     "fair_american": -113
+     "points": 7.0,
+     "american": 116,
+     "fair_prob": 0.4478,
+     "fair_american": 123
     },
     {
      "type": "total",
      "side": "under",
-     "points": 6.0,
-     "american": 106,
-     "fair_prob": 0.47,
-     "fair_american": 113
+     "points": 7.0,
+     "american": -133,
+     "fair_prob": 0.5522,
+     "fair_american": -123
     }
    ],
    "props": []
@@ -269,57 +621,113 @@
    "props": []
   },
   {
-   "away": "Anaheim Ducks",
-   "home": "Los Angeles Kings",
-   "start": "2026-11-29T02:07:00Z",
+   "away": "Calgary Flames",
+   "home": "New York Rangers",
+   "start": "2026-11-29T00:07:00Z",
    "lines": [
     {
      "type": "moneyline",
      "side": "home",
      "points": null,
-     "american": -141,
-     "fair_prob": 0.5705,
-     "fair_american": -133
+     "american": -173,
+     "fair_prob": 0.6177,
+     "fair_american": -162
     },
     {
      "type": "moneyline",
      "side": "away",
      "points": null,
-     "american": 127,
-     "fair_prob": 0.4295,
-     "fair_american": 133
+     "american": 155,
+     "fair_prob": 0.3823,
+     "fair_american": 162
     },
     {
      "type": "spread",
      "side": "home",
      "points": -1.5,
-     "american": 176,
-     "fair_prob": 0.3514,
-     "fair_american": 185
+     "american": 151,
+     "fair_prob": 0.3865,
+     "fair_american": 159
     },
     {
      "type": "spread",
      "side": "away",
      "points": 1.5,
-     "american": -202,
-     "fair_prob": 0.6486,
-     "fair_american": -185
+     "american": -172,
+     "fair_prob": 0.6135,
+     "fair_american": -159
     },
     {
      "type": "total",
      "side": "over",
-     "points": 6.5,
-     "american": -101,
-     "fair_prob": 0.4854,
-     "fair_american": 106
+     "points": 6.0,
+     "american": 103,
+     "fair_prob": 0.4765,
+     "fair_american": 110
     },
     {
      "type": "total",
      "side": "under",
-     "points": 6.5,
-     "american": -114,
-     "fair_prob": 0.5146,
-     "fair_american": -106
+     "points": 6.0,
+     "american": -118,
+     "fair_prob": 0.5235,
+     "fair_american": -110
+    }
+   ],
+   "props": []
+  },
+  {
+   "away": "Nashville Predators",
+   "home": "Detroit Red Wings",
+   "start": "2026-11-29T00:07:00Z",
+   "lines": [
+    {
+     "type": "moneyline",
+     "side": "home",
+     "points": null,
+     "american": -107,
+     "fair_prob": 0.5023,
+     "fair_american": -101
+    },
+    {
+     "type": "moneyline",
+     "side": "away",
+     "points": null,
+     "american": -105,
+     "fair_prob": 0.4977,
+     "fair_american": 101
+    },
+    {
+     "type": "spread",
+     "side": "home",
+     "points": -1.5,
+     "american": 233,
+     "fair_prob": 0.2894,
+     "fair_american": 246
+    },
+    {
+     "type": "spread",
+     "side": "away",
+     "points": 1.5,
+     "american": -281,
+     "fair_prob": 0.7106,
+     "fair_american": -246
+    },
+    {
+     "type": "total",
+     "side": "over",
+     "points": 6.0,
+     "american": 100,
+     "fair_prob": 0.4831,
+     "fair_american": 107
+    },
+    {
+     "type": "total",
+     "side": "under",
+     "points": 6.0,
+     "american": -115,
+     "fair_prob": 0.5169,
+     "fair_american": -107
     }
    ],
    "props": []
